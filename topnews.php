@@ -1,0 +1,1 @@
+<div id=msg><strong>YayStar is LIVE!  =><a href="/yaystar/" style="color:white"> Visit it!</a></strong></div>
