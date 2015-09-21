@@ -1217,6 +1217,7 @@
 
 
 
+
 				<fileName><![CDATA[YP-7R-05x10.mkv.torrent]]></fileName>
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:3E59C9319319B3F0E5E488C1317E752161ECACDB]]></magnetURI>
 			</torrent>
@@ -1267,6 +1268,18 @@
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
 				<fileName><![CDATA[YP-7R-05x14.mkv.torrent]]></fileName>
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:F26D2252EB90A05554F4DE554FACC7FAD75CF9CB]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x21 - Scare Master [720P.WEB-DL TEMP | YP-7T-05x21.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7T-05x21.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P iTunes Raw]]></category>
+			<pubDate>Mon, 21 Sep 2015 09:00:04 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Scare Master; Season: 5; Episode: 21]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7T-05x21.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7T-05x21.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:8ED3FA4FA00922CE9FF3C0A62F27310825D1AD4B]]></magnetURI>
 			</torrent>
 		</item>
 	</channel>
