@@ -1266,6 +1266,30 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:326FC06508CE4781D7432B045B5216A54614D3A6]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x15 - Rarity Investigate [720P.WEB-DL CC | YP-7Z-05x15.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7Z-05x15.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P CC by ZR]]></category>
+			<pubDate>Tue, 22 Sep 2015 09:00:04 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Rarity Investigate; Season: 5; Episode: 15]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7Z-05x15.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7Z-05x15.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:AD56DCB2085D6BC5230117B987D48870124E8D3C]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x21 - Scare Master [720P.WEB-DL CC | YP-7Z-05x21-FIX.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7Z-05x21-FIX.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P CC by ZR]]></category>
+			<pubDate>Tue, 22 Sep 2015 09:00:04 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Scare Master; Season: 5; Episode: 21]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7Z-05x21-FIX.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7Z-05x21-FIX.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:ED906AE26FE47D93863A060D1FC29CC645D45305]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->

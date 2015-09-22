@@ -340,6 +340,7 @@
 
 
 
+
 		<item>
 			<title><![CDATA[My Little Pony Friendship is Magic - 2x02 - The Return of Harmony (2) [1080P.WEB-DL CC | YP-1ZA-02x02.mkv | YayPonies]]]></title>
 			<link>http://yp1.yayponies.no/torrents/YP-1ZA-02x02.mkv.torrent</link>
@@ -1274,6 +1275,30 @@
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
 				<fileName><![CDATA[YP-1Z-05x14.mkv.torrent]]></fileName>
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:99A5AE0F8D9EA659C5961DCBCF60EFF3C08C9A33]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x15 - Rarity Investigate [1080P.WEB-DL CC | YP-1Z-05x15.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-1Z-05x15.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 1080P CC by ZR]]></category>
+			<pubDate>Tue, 22 Sep 2015 09:00:04 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Rarity Investigate; Season: 5; Episode: 15]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-1Z-05x15.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-1Z-05x15.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:F215142D7918F0ACCB82B11431C1E4C2F084E675]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x21 - Scare Master [1080P.WEB-DL CC | YP-1Z-05x21-FIX.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-1Z-05x21-FIX.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 1080P CC by ZR]]></category>
+			<pubDate>Tue, 22 Sep 2015 09:00:04 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Scare Master; Season: 5; Episode: 21]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-1Z-05x21-FIX.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-1Z-05x21-FIX.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:4EDB2CF3F576BECE7EA483E4BA04FE98417B539A]]></magnetURI>
 			</torrent>
 		</item>
 	</channel>
