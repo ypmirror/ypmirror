@@ -1215,6 +1215,7 @@
 			<enclosure url="http://yp1.yayponies.no/torrents/YP-7R-05x10.mkv.torrent" type="application/x-bittorrent" />
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
 
+
 				<fileName><![CDATA[YP-7R-05x10.mkv.torrent]]></fileName>
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:3E59C9319319B3F0E5E488C1317E752161ECACDB]]></magnetURI>
 			</torrent>
@@ -1268,15 +1269,15 @@
 			</torrent>
 		</item>
 		<item>
-			<title><![CDATA[My Little Pony Friendship is Magic - 5x15 - Rarity Investigate [720P.WEB-DL TEMP | YP-7T-05x15.mkv | YayPonies]]]></title>
-			<link>http://yp1.yayponies.no/torrents/YP-7T-05x15.mkv.torrent</link>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x15 - Rarity Investigate [720P.WEB-DL | YP-7R-05x15.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7R-05x15.mkv.torrent</link>
 			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P iTunes Raw]]></category>
-			<pubDate>Mon, 21 Sep 2015 09:00:05 -0200</pubDate>
+			<pubDate>Tue, 22 Sep 2015 09:00:05 -0200</pubDate>
 			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Rarity Investigate; Season: 5; Episode: 15]]></description>
-			<enclosure url="http://yp1.yayponies.no/torrents/YP-7T-05x15.mkv.torrent" type="application/x-bittorrent" />
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7R-05x15.mkv.torrent" type="application/x-bittorrent" />
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
-				<fileName><![CDATA[YP-7T-05x15.mkv.torrent]]></fileName>
-				<magnetURI><![CDATA[magnet:?xt=urn:btih:CE8AD4915358C0200B0FCD9255C1069E38795771]]></magnetURI>
+				<fileName><![CDATA[YP-7R-05x15.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:DB6A9DD6D2FB6F11CC704752B258DA7E8923CD21]]></magnetURI>
 			</torrent>
 		</item>
 		<item>
