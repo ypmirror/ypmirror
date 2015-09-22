@@ -116,7 +116,7 @@
         <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5313321&amp;lid=7">Episode 24 (Storm the Castle)</a></td>
         <td><a href="https://mega.nz/#!2M1yzBzL!hsboTsAA_crYF7acX3NS8Ex-08UUez87Ft0CnxQr8Do">1</a> <a href="http://ezfile.ch/9gyt2rp81">2</a> 3</td>
         <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-01x24.mkv">1</a></td>
-        <td><a href="/torrents/YP-SV-1R-01x24.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/02691A4871BD087954F96F125177034DADE0E2A9.torrent">4</a> <a href="http://torcache.net/torrent/02691A4871BD087954F96F125177034DADE0E2A9.torrent">5</a> <a href="magnet:?xt=urn:btih:02691A4871BD087954F96F125177034DADE0E2A9">6</a></td>
+        <td><a href="torrents/YP-SV-1R-01x24.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/02691A4871BD087954F96F125177034DADE0E2A9.torrent">4</a> <a href="http://torcache.net/torrent/02691A4871BD087954F96F125177034DADE0E2A9.torrent">5</a> <a href="magnet:?xt=urn:btih:02691A4871BD087954F96F125177034DADE0E2A9">6</a></td>
         <td>YP iTunes 1080P</td>
         <td><a href="subtitles/YP-SV-1R-01x24.srt">Get</a></td>
       </tr>
