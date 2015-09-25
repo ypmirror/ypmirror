@@ -1099,15 +1099,15 @@
 			</torrent>
 		</item>
 		<item>
-			<title><![CDATA[My Little Pony Friendship is Magic - 5x01 - The Cutie Map (1) [720P.WEB-DL | YP-7R-05x01.mkv | YayPonies]]]></title>
-			<link>http://yp1.yayponies.no/torrents/YP-7R-05x01.mkv.torrent</link>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x01 - The Cutie Map (1) [720P.WEB-DL V2 | YP-7R-05x01-V2.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7R-05x01-V2.mkv.torrent</link>
 			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P iTunes Raw]]></category>
-			<pubDate>Fri, 10 Apr 2015 09:00:01 -0200</pubDate>
+			<pubDate>Fri, 25 Sep 2015 09:00:01 -0200</pubDate>
 			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Cutie Map (1); Season: 5; Episode: 01]]></description>
-			<enclosure url="http://yp1.yayponies.no/torrents/YP-7R-05x01.mkv.torrent" type="application/x-bittorrent" />
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7R-05x01-V2.mkv.torrent" type="application/x-bittorrent" />
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
-				<fileName><![CDATA[YP-7R-05x01.mkv.torrent]]></fileName>
-				<magnetURI><![CDATA[magnet:?xt=urn:btih:7767F69DFF2BA33167EDA09621364C652F4ADDB6]]></magnetURI>
+				<fileName><![CDATA[YP-7R-05x01-V2.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:2AB6A8604399A9D2EBE76AC1783A8D14B49F1541]]></magnetURI>
 			</torrent>
 		</item>
 		<item>
@@ -1214,6 +1214,7 @@
 			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Princess Spike; Season: 5; Episode: 10]]></description>
 			<enclosure url="http://yp1.yayponies.no/torrents/YP-7R-05x10.mkv.torrent" type="application/x-bittorrent" />
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+
 
 
 				<fileName><![CDATA[YP-7R-05x10.mkv.torrent]]></fileName>
