@@ -1099,15 +1099,15 @@
 			</torrent>
 		</item>
 		<item>
-			<title><![CDATA[My Little Pony Friendship is Magic - 5x01 - The Cutie Map (1) [720P.WEB-DL LQ | YP-7LQ-05x01.mp4 | YayPonies]]]></title>
-			<link>http://yp1.yayponies.no/torrents/YP-7LQ-05x01.mp4.torrent</link>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x01 - The Cutie Map (1) [720P.WEB-DL LQ V2 | YP-7LQ-05x01-V2 .mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQ-05x01-V2.mp4.torrent</link>
 			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality]]></category>
-			<pubDate>Fri, 10 Apr 2015 09:00:01 -0200</pubDate>
+			<pubDate>Sat, 26 Sep 2015 09:00:01 -0200</pubDate>
 			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Cutie Map (1); Season: 5; Episode: 01]]></description>
-			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQ-05x01.mp4.torrent" type="application/x-bittorrent" />
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQ-05x01-V2.mp4.torrent" type="application/x-bittorrent" />
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
-				<fileName><![CDATA[YP-7LQ-05x01.mp4.torrent]]></fileName>
-				<magnetURI><![CDATA[magnet:?xt=urn:btih:2BE5DED36BA6994560A8554F5E9D01BCF80895DA]]></magnetURI>
+				<fileName><![CDATA[YP-7LQ-05x01-V2.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:F861290A5EFB144E43ACCB4F80054B14E4031BAF]]></magnetURI>
 			</torrent>
 		</item>
 		<item>
@@ -1258,12 +1258,36 @@
 			<title><![CDATA[My Little Pony Friendship is Magic - 5x14 - Canterlot Boutique [720P.WEB-DL LQ | YP-7LQ-05x14.mp4 | YayPonies]]]></title>
 			<link>http://yp1.yayponies.no/torrents/YP-7LQ-05x14.mp4.torrent</link>
 			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality]]></category>
-			<pubDate>Tue, 15 Sept 2015 09:00:02 -0200</pubDate>
+			<pubDate>Tue, 15 Sep 2015 09:00:02 -0200</pubDate>
 			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Canterlot Boutique; Season: 5; Episode: 14]]></description>
 			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQ-05x14.mp4.torrent" type="application/x-bittorrent" />
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
 				<fileName><![CDATA[YP-7LQ-05x14.mp4.torrent]]></fileName>
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:02EE11D5E21E1F919FD6620B7C64C1298F7A1E42]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x15 - Rarity Investigates [720P.WEB-DL LQ | YP-7LQ-05x15.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQ-05x15.mp4.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality]]></category>
+			<pubDate>Sat, 26 Sep 2015 09:00:02 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Rarity Investigates; Season: 5; Episode: 15]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQ-05x15.mp4.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQ-05x15.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:AAE6102957845F201F796172953F942176B00C2E]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x21 - Scare-Master [720P.WEB-DL LQ FIX | YP-7LQ-05x21-FIX.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQ-05x21-FIX.mp4.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality]]></category>
+			<pubDate>Sat, 26 Sep 2015 09:00:02 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Scare-Master; Season: 5; Episode: 21]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQ-05x21-FIX.mp4.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQ-05x21.mp4-FIX.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:D9817A8F876EADA6C68D65C36B1281975E5B892E]]></magnetURI>
 			</torrent>
 		</item>
 	</channel>

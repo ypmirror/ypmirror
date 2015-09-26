@@ -1254,6 +1254,42 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:DD3CE4EB06A03B2E067745DC221D8DE0D0D11ED4]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x14 - Canterlot Boutique [720P.WEB-DL LQCC | YP-7LQCC-05x14.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQCC-05x14.mp4.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality CC]]></category>
+			<pubDate>Sun, 30 Aug 2015 09:00:02 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Canterlot Boutique; Season: 5; Episode: 14]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQCC-05x14.mp4.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQCC-05x14.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:E67450BCAE8CE5374DD8E3BE6A5794B9B736DE82]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x15 - Rarity Investigates [720P.WEB-DL LQCC | YP-7LQCC-05x15.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQCC-05x15.mp4.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality CC]]></category>
+			<pubDate>Sun, 30 Aug 2015 09:00:02 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Rarity Investigates; Season: 5; Episode: 15]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQCC-05x15.mp4.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQCC-05x15.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:2E57D93F1CCB74DB89619E9307A4B6770A25D8D7]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x21 - Scare-Master [720P.WEB-DL LQCC FIX | YP-7LQCC-05x21-FIX.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQCC-05x21-FIX.mp4.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality CC]]></category>
+			<pubDate>Sun, 30 Aug 2015 09:00:02 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Scare-Master; Season: 5; Episode: 21]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQCC-05x21-FIX.mp4.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQCC-05x21-FIX.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:1183E52AEA721C3F24D079A49834C796ADCD3329]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
