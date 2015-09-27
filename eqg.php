@@ -79,6 +79,7 @@
                                     <option value="eqg1">Equestria Girls (All versions)</option>
                                     <option value="eqg2720">Equestria Girls 2: Rainbow Rocks (720p)</option>
                                     <option value="eqg21080" selected>Equestria Girls 2: Rainbow Rocks (1080p)</option>
+                                    <option value="eqg31080" selected>Equestria Girls 3: Friendship Games (1080p)</option>
                                 </select>
                             </td>
                             <td>
@@ -115,6 +116,10 @@
                     <tr>
                         <td> <a href="permalink.php?link=eqg/eqg21080">eqg21080</a> </td>
                         <td> Equestria Girls 2: Rainbow Rocks (1080p) </td>
+                    </tr>
+                    <tr>
+                        <td> <a href="permalink.php?link=eqg/eqg31080">eqg31080</a> </td>
+                        <td> Equestria Girls 3: Friendship Games (1080p) </td>
                     </tr>
                 </table>
             </div>

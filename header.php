@@ -96,7 +96,7 @@ header("Pragma: no-cache");
                 <a href="fan.php">Fan Works</a> |
                 <a href="broniesii.php">Bronies II</a> |
                 <a href="other.php">Other Downloads</a> |
-                <a href="eqg.php">Equestria Girls 1&amp;2</a> 
+                <a href="eqg.php">Equestria Girls 1,2&amp;3</a> 
                 <br />
 				<a href="tutorial.php">Tutorials</a> |
                 <a href="rss.php">RSS</a> |

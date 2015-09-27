@@ -64,6 +64,7 @@ $titles = array(
     'eqg/eqg2720' => 'Equestria Girls 2: Rainbow Rocks (720p)',
     'eqg/eqg21080' => 'Equestria Girls 2: Rainbow Rocks (1080p)',
 	'eqg/eqg2lq' => 'Equestria Girls 2: Rainbow Rocks (720P LQ)',
+	'eqg/eqg31080' => 'Equestria Girls 3: Friendship Games (1080p)',
 
     'howto/tor' => 'How to use the Tor Mirror',
 
