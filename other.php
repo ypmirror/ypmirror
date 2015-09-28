@@ -1,6 +1,6 @@
 <?php include("header.php"); ?>
             <div id="links">
-                <table width="700" height="804" align="center">
+                <table width="700" height="848" align="center">
                     <tbody>
                         <tr>
                             <th width="350" height="20">Name</th>
@@ -214,6 +214,19 @@
                           <td height="20">My Little Pony Equestria Girls: The Friendship Games</td>
                           <td valign="top"><a href="https://yp.coco-pommel.org/ypother/YP-M4A-ALBUM_EQG3.zip">DIRECT</a> or <a href="https://mega.nz/#!r5xRgaiA!ofQXT1EeVzR7GExnTPyidXkj-pMY3jrudgOlP6jDnr4">1</a> <a href="http://ezfile.ch/aynv3m0op">2</a> 3</td>
                           <td><a href="/torrents/YP-M4A-ALBUM_EQG3.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/E886E5F8AD1482C4381E4BB88CEF84FBA31A269A.torrent">4</a> <a href="http://torcache.net/torrent/E886E5F8AD1482C4381E4BB88CEF84FBA31A269A.torrent">5</a> <a href="magnet:?xt=urn:btih:E886E5F8AD1482C4381E4BB88CEF84FBA31A269A">6</a> </td>
+                          <td>By YayPonies</td>
+                        </tr>
+                        <tr>
+                          <td height="20">DJ Pon-3 Presents- My Little Pony Friendship Is Magic Remixed / LOSSLESS WAV with CUE and LOG files + Scan</td>
+                          <td valign="top"><a href="https://yp.coco-pommel.org/ypother/YP-WAV-DJPON3.zip">DIRECT</a> or <a href="https://mega.nz/#!SBNFiDpD!66aHRR_r0XN1-5YSWNYsd3WxiUaxeSgFqafNpXlYKNY">1</a> <a href="http://ezfile.ch/960jrn8oh">2</a> 3</td>
+                          <td><a href="/torrents/YP-WAV-DJPON3.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/7A39F935C33E44CA76D33F087DFF8CE87F44283E.torrent">4</a> <a href="http://torcache.net/torrent/7A39F935C33E44CA76D33F087DFF8CE87F44283E.torrent">5</a> <a href="magnet:?xt=urn:btih:7A39F935C33E44CA76D33F087DFF8CE87F44283E">6</a></td>
+                          <td>By YayPonies<br />
+                            <a href="http://pastebin.com/JZitX5ac">LOG FILE</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20">DJ Pon-3 Presents- My Little Pony Friendship Is Magic Remixed / LOSSY MP3 + Scan</td>
+                          <td valign="top"><a href="https://yp.coco-pommel.org/ypother/YP-MP3-DJPON3.zip">DIRECT</a> or <a href="https://mega.nz/#!qBtCHKYI!fdgyw4YvV1yFkKINWUOXK5kHoRWEhsXep7gEAiBz_aA">1</a> <a href="http://ezfile.ch/5eug9rbn3">2</a> 3</td>
+                          <td><a href="/torrents/YP-MP3-DJPON3.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/A61A5C6A7613858D6C0FF0EF2BC9D2B8BB8A4C43.torrent">4</a> <a href="http://torcache.net/torrent/A61A5C6A7613858D6C0FF0EF2BC9D2B8BB8A4C43.torrent">5</a> <a href="magnet:?xt=urn:btih:A61A5C6A7613858D6C0FF0EF2BC9D2B8BB8A4C43">6</a></td>
                           <td>By YayPonies</td>
                         </tr>
                     </tbody>
