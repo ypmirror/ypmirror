@@ -4,7 +4,7 @@
 <center>
   <p>Welcome to the download page for Wander over Yonder. Direct links are hosted by <a href="http://www.derpyhoovesnews.com/">DHN</a> and <a href="http://coco-pommel.org/">Coco Pommel</a>, our sincerest thanks to you awesome people! If you have are facing difficulties in using the direct download with the direct link, right click on the link and click on &quot;Save link as...&quot; in the list, </p>
   <p>iTunes HD 1080P Season 2:</p>
-  <table width="735" height="121" align="center">
+  <table width="735" height="143" align="center">
     <tbody>
       <tr>
         <th width="292" height="27">Name </th>
@@ -50,6 +50,15 @@
         <td>YP iTunes 1080P</td>
         <td>&nbsp;</td>
         <td><a href="subtitles/YP-WOY-02x06_02x07-1R-The_Wanders-The_Axes.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5313324&amp;lid=7">Episode 8</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5313325&amp;lid=7">9</a> <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5313324&amp;lid=7">(The Loose Screw</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5313325&amp;lid=7">The It)</a></td>
+        <td><a href="https://mega.nz/#!zQsXXSKS!7mUBQcEkMyD4WvRH48HQa8ksP4xmTVG9NjzDDvafLfs">1</a> <a href="http://ezfile.ch/dje76bxt8">2</a> 3</td>
+        <td><a href="http://yp.coco-pommel.org/ypwoy/YP-WOY-02x08_02x09-1R-The_Loose_Screw-The_It.mkv">1</a></td>
+        <td><a href="torrents/YP-WOY-02x08_02x09-1R-The_Loose_Screw-The_It.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/05B9C0A14D6BBD72D80F7026129C75D9043CF27A.torrent">4</a> <a href="http://torcache.net/torrent/05B9C0A14D6BBD72D80F7026129C75D9043CF27A.torrent">5</a> <a href="magnet:?xt=urn:btih:05B9C0A14D6BBD72D80F7026129C75D9043CF27A">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td>&nbsp;</td>
+        <td><a href="subtitles/YP-WOY-02x08_02x09-1R-The_Loose_Screw-The_It.srt">Get</a></td>
       </tr>
     </tbody>
   </table>
