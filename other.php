@@ -3,10 +3,10 @@
                 <table width="700" height="848" align="center">
                     <tbody>
                         <tr>
-                            <th width="350" height="20">Name</th>
-                            <th width="150">Downloads</th>
-                            <th width="100">Torrents</th>
-                            <th width="100">Type &amp; Info</th>
+                            <th width="343" height="20">Name</th>
+                            <th width="147">Downloads</th>
+                            <th width="79">Torrents</th>
+                            <th width="111">Type &amp; Info</th>
                         </tr>
                         <tr>
                             <td height="20"><a href="https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftPOHM">Gameloft My Little Pony Android Game.</a></td>
@@ -206,9 +206,9 @@
                         </tr>
                         <tr>
                           <td height="20">My Little Pony: Friendship is Magic Songs of Harmony</td>
-                          <td valign="top"><a href="https://yp.coco-pommel.org/ypother/YP-MP3-ALBUM3.zip">DIRECT</a> or <a href="https://mega.co.nz/#!FsVDwTCb!rSBYXB-p5URnCjD7ua01tREWXhZK3DuUGbQIk46OuJU">1</a> <a href="http://filecloud.io/qav8f309">2</a> <a href="http://uploadhero.co/dl/6cde2a2d">3</a></td>
-                          <td><a href="/torrents/YP-MP3-ALBUM3.zip.torrent">1</a> 2 3 4 <a href="http://torcache.net/torrent/33917A2672CEA1E65167AC8CA71221469F837EC3.torrent">5</a> <a href="magnet:?xt=urn:btih:33917A2672CEA1E65167AC8CA71221469F837EC3">6</a></td>
-                          <td>By YayPonies</td>
+                          <td valign="top"><a href="https://yp.coco-pommel.org/ypother/YP-MP3-ALBUM3-V2.zip">DIRECT</a> or <a href="https://mega.nz/#!DYMgVASS!v3KghCssrrhABksfGtqTAUPjgN9BTJ-GBnsWL1kne64">1</a> <a href="http://ezfile.ch/bh8cnlts7">2</a> 3</td>
+                          <td><a href="/torrents/YP-MP3-ALBUM3-V2.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/80D42DB26C117C89E4B9A55AD350CC13D1511961.torrent">4</a> <a href="http://torcache.net/torrent/80D42DB26C117C89E4B9A55AD350CC13D1511961.torrent">5</a> <a href="magnet:?xt=urn:btih:80D42DB26C117C89E4B9A55AD350CC13D1511961">6</a></td>
+                          <td>By YayPonies V2</td>
                         </tr>
                         <tr>
                           <td height="20">My Little Pony Equestria Girls: The Friendship Games</td>
