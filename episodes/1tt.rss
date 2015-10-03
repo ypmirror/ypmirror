@@ -1270,7 +1270,7 @@
 			<title><![CDATA[My Little Pony Friendship is Magic - 5x15 - Rarity Investigates [1080P.HDTV (SPAZZ) | YP-1TV-05x15-Spazz.mkv | YayPonies]]]></title>
 			<link>http://yp1.yayponies.no/torrents/YP-1TV-05x15-Spazz.mkv.torrent</link>
 			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 1080P HDTV Rip]]></category>
-			<pubDate>Sun, 13 Sept 2015 13:37:02 -0500</pubDate>
+			<pubDate>Sat, 19 Sept 2015 13:37:02 -0500</pubDate>
 			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Rarity Investigates; Season: 5; Episode: 15]]></description>
 			<enclosure url="http://yp1.yayponies.no/torrents/YP-1TV-05x15-Spazz.mkv.torrent" type="application/x-bittorrent" />
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
@@ -1282,12 +1282,24 @@
 			<title><![CDATA[My Little Pony Friendship is Magic - 5x16 - Made in Manehattan [1080P.HDTV (SPAZZ) | YP-1TV-05x16-Spazz.mkv | YayPonies]]]></title>
 			<link>http://yp1.yayponies.no/torrents/YP-1TV-05x16-Spazz.mkv.torrent</link>
 			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 1080P HDTV Rip]]></category>
-			<pubDate>Sun, 13 Sept 2015 13:37:02 -0500</pubDate>
+			<pubDate>Sat, 26 Sept 2015 13:37:02 -0500</pubDate>
 			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Made in Manehattan; Season: 5; Episode: 16]]></description>
 			<enclosure url="http://yp1.yayponies.no/torrents/YP-1TV-05x16-Spazz.mkv.torrent" type="application/x-bittorrent" />
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
 				<fileName><![CDATA[YP-1TV-05x16-Spazz.mkv.torrent]]></fileName>
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:82550CF51F5D4987176063FDF1DCE127FD4944D9]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x17 - Brotherhooves Social [1080P.HDTV (SPAZZ) | YP-1TV-05x17-Spazz.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-1TV-05x17-Spazz.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 1080P HDTV Rip]]></category>
+			<pubDate>Sat, 03 Oct 2015 13:37:02 -0500</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Brotherhooves Social; Season: 5; Episode: 17]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-1TV-05x17-Spazz.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-1TV-05x17-Spazz.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:4BBC469F0C2E4D9F15788232F178C7AF436C6724]]></magnetURI>
 			</torrent>
 		</item>
 	</channel>
