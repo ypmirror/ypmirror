@@ -1099,15 +1099,15 @@
 			</torrent>
 		</item>
 		<item>
-			<title><![CDATA[My Little Pony Friendship is Magic - 5x01 - The Cutie Map (1) [720P.WEB-DL LQCC | YP-7LQCC-05x01.mp4 | YayPonies]]]></title>
-			<link>http://yp1.yayponies.no/torrents/YP-7LQCC-05x01.mp4.torrent</link>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x01 - The Cutie Map (1) [720P.WEB-DL LQCC V2 | YP-7LQCC-05x01-V2.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQCC-05x01-V2.mp4.torrent</link>
 			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality CC]]></category>
-			<pubDate>Wed, 15 Apr 11:00:02 -0100</pubDate>
+			<pubDate>Sun, 04 Oct 11:00:02 -0100</pubDate>
 			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Cutie Map (1); Season: 5; Episode: 01]]></description>
-			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQCC-05x01.mp4.torrent" type="application/x-bittorrent" />
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQCC-05x01-V2.mp4.torrent" type="application/x-bittorrent" />
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
-				<fileName><![CDATA[YP-7LQCC-05x01.mp4.torrent]]></fileName>
-				<magnetURI><![CDATA[magnet:?xt=urn:btih:80E0CE85A8A0BB8722075FF6882DA153E94E20E7]]></magnetURI>
+				<fileName><![CDATA[YP-7LQCC-05x01-V2.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:BF29D3D8160C28DEA1DE7A2DB5F631AD189C0724]]></magnetURI>
 			</torrent>
 		</item>
 		<item>
@@ -1276,6 +1276,18 @@
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
 				<fileName><![CDATA[YP-7LQCC-05x15.mp4.torrent]]></fileName>
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:2E57D93F1CCB74DB89619E9307A4B6770A25D8D7]]></magnetURI>
+			</torrent>
+		</item>		
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x16 - Made in Manehattan [720P.WEB-DL LQCC | YP-7LQCC-05x16.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQCC-05x16.mp4.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality CC]]></category>
+			<pubDate>Sun, 04 Oct 2015 09:00:02 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Made in Manehattan; Season: 5; Episode: 16]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQCC-05x16.mp4.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQCC-05x16.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:09F46ABAC58066B81B874A758D7AE655E5641B4C]]></magnetURI>
 			</torrent>
 		</item>
 		<item>
