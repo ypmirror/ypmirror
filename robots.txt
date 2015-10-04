@@ -8,6 +8,16 @@ Disallow: /yaywoy/
 Disallow: /yaystar/
 Disallow: /yaysu/
 
+User-agent: Adsbot-Google
+Disallow: /yaywoy/
+Disallow: /yaystar/
+Disallow: /yaysu/
+
+User-agent: Mediapartners-Google
+Disallow: /yaywoy/
+Disallow: /yaystar/
+Disallow: /yaysu/
+
 User-Agent: bingbot
 Disallow: /yaywoy/
 Disallow: /yaystar/
