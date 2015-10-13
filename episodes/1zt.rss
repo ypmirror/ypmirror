@@ -330,6 +330,7 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:099F0D982FD8DC2693B583741503ECFB8E3203A6]]></magnetURI>
 			</torrent>
 		</item>
+
 		<item>
 			<title><![CDATA[My Little Pony Friendship is Magic - 2x02 - The Return of Harmony (2) [1080P.WEB-DL CC | YP-1ZA-02x02.mkv | YayPonies]]]></title>
 			<link>http://yp1.yayponies.no/torrents/YP-1ZA-02x02.mkv.torrent</link>
@@ -1302,6 +1303,18 @@
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
 				<fileName><![CDATA[YP-1Z-05x17-FIX.mkv.torrent]]></fileName>
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:E856CB82FCBE70FFBCF5E700AD8F2F268FAB3D25]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x18 - Crusaders of the Lost Mark [1080P.WEB-DL CC | YP-1Z-05x18.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-1Z-05x18.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 1080P CC by ZR]]></category>
+			<pubDate>Tue, 13 Oct 2015 09:00:04 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Crusaders of the Lost Mark; Season: 5; Episode: 18]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-1Z-05x18.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-1Z-05x18.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:9AF444496D5902673F1E83979E5879804F11847C]]></magnetURI>
 			</torrent>
 		</item>
 		<item>
