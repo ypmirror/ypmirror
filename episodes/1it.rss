@@ -1314,7 +1314,18 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:33A92661591565E850FC18EBBC5AD4C2AECE332B]]></magnetURI>
 			</torrent>
 		</item>
-
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x19 - The One Where Pinkie Pie Knows [1080P.WEB-DL | YP-1T-05x19.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-1T-05x19.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 1080P iTunes Raw]]></category>
+			<pubDate>Mon, 19 Oct 2015 09:00:05 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The One Where Pinkie Pie Knows; Season: 5; Episode: 19]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-1T-05x19.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-1T-05x19.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:0A1D9594C6C2785E0017B4FDE08E740400298F54]]></magnetURI>
+			</torrent>
+		</item>
 		<item>
 			<title><![CDATA[My Little Pony Friendship is Magic - 5x21 - Scare Master [1080P.WEB-DL FIX | YP-1R-05x21-FIX.mkv | YayPonies]]]></title>
 			<link>http://yp1.yayponies.no/torrents/YP-1R-05x21-FIX.mkv.torrent</link>
