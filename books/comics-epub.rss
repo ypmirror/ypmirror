@@ -358,6 +358,7 @@
 
 
 
+
 			<title><![CDATA[My Little Pony, Friendship is Magic Comic #30 [iBook EPUB | YP-EPUB-COMIC30.epub | YayPonies]]]></title>
 			<link>http://yp1.yayponies.no/torrents/YP-EPUB-COMIC30.epub.torrent</link>
 			<category domain="http://yp1.yayponies.no/book.php"><![CDATA[Main Series / EPUB]]></category>
@@ -415,6 +416,18 @@
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
 				<fileName><![CDATA[YP-EPUB-COMIC34.epub.torrent]]></fileName>
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:62724F8A5AAD1F90C1C6BBD41B6050F260F999D0]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony, Friendship is Magic Comic #35 [iBook EPUB | YP-EPUB-COMIC35.epub | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-EPUB-COMIC35.epub.torrent</link>
+			<category domain="http://yp1.yayponies.no/book.php"><![CDATA[Main Series / EPUB]]></category>
+			<pubDate>Sat, 24 Oct 2015 00:00:01 -0500</pubDate>
+			<description><![CDATA[Comic Name: My Little Pony, Friendship is Magic; #35]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-EPUB-COMIC35.epub.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-EPUB-COMIC35.epub.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:3AE6BDD91C07809DC3ED3B5A0D07555B7B352DE2]]></magnetURI>
 			</torrent>
 		</item>
 	</channel>
