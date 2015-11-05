@@ -258,6 +258,18 @@
                 <magnetURI><![CDATA[magnet:?xt=urn:btih:6EE0CEEA799885D8A1B92C6E3F9843841A4E1ECD]]></magnetURI>
             </torrent>
         </item>
+        <item>
+            <title><![CDATA[My Little Pony, Friends Forever Comic #22 [CBZ | YP-CBZ-FFCOMIC22.cbz | YayPonies]]]></title>
+            <link>http://yp1.yayponies.no/torrents/YP-CBZ-FFCOMIC22.cbz.torrent</link>
+            <category domain="http://yp1.yayponies.no/book.php"><![CDATA[Friends Forever / CBZ]]></category>
+            <pubDate>Thu, 05 Nov 2015 00:00:01 -0500</pubDate>
+            <description><![CDATA[Comic Name: My Little Pony, Friends Forever; #22]]></description>
+            <enclosure url="http://yp1.yayponies.no/torrents/YP-CBZ-FFCOMIC22.cbz.torrent" type="application/x-bittorrent" />
+            <torrent xmlns="http://xmlns.ezrss.it/0.1/">
+                <fileName><![CDATA[YP-CBZ-FFCOMIC22.cbz.torrent]]></fileName>
+                <magnetURI><![CDATA[magnet:?xt=urn:btih:C47E10D42A1F24FA78D62621F1BBAACF060AA322]]></magnetURI>
+            </torrent>
+        </item>
 	</channel>
 </rss>
 <!-- live  -->
