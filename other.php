@@ -1,6 +1,6 @@
 <?php include("header.php"); ?>
             <div id="links">
-                <table width="700" height="848" align="center">
+                <table width="700" height="870" align="center">
                     <tbody>
                         <tr>
                             <th width="343" height="20">Name</th>
@@ -227,6 +227,12 @@
                           <td height="20">DJ Pon-3 Presents- My Little Pony Friendship Is Magic Remixed / LOSSY MP3 + Scan</td>
                           <td valign="top"><a href="https://yp.coco-pommel.org/ypother/YP-MP3-DJPON3.zip">DIRECT</a> or <a href="https://mega.nz/#!qBtCHKYI!fdgyw4YvV1yFkKINWUOXK5kHoRWEhsXep7gEAiBz_aA">1</a> <a href="http://ezfile.ch/5eug9rbn3">2</a> 3</td>
                           <td><a href="/torrents/YP-MP3-DJPON3.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/A61A5C6A7613858D6C0FF0EF2BC9D2B8BB8A4C43.torrent">4</a> <a href="http://torcache.net/torrent/A61A5C6A7613858D6C0FF0EF2BC9D2B8BB8A4C43.torrent">5</a> <a href="magnet:?xt=urn:btih:A61A5C6A7613858D6C0FF0EF2BC9D2B8BB8A4C43">6</a></td>
+                          <td>By YayPonies</td>
+                        </tr>
+                        <tr>
+                          <td height="20">My Little Pony - A Pony Kind of Christmas Album (MP3 320k VBR from amazon)</td>
+                          <td valign="top"><a href="https://yp.coco-pommel.org/ypother/YP-MP3-XMAS.zip">DIRECT</a> or <a href="https://mega.nz/#!M14mABLT!8KSRAtsFxWWdeuxnXLvVAy3UJSSvGLzKxUf9Ic6XN74">1</a> 2 3</td>
+                          <td><a href="/torrents/YP-MP3-XMAS.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/1E76BFB246F1934BE8394727ACA0DD9F902AE9A4.torrent">4</a> <a href="http://torcache.net/torrent/1E76BFB246F1934BE8394727ACA0DD9F902AE9A4.torrent">5</a> <a href="magnet:?xt=urn:btih:1E76BFB246F1934BE8394727ACA0DD9F902AE9A4">6</a></td>
                           <td>By YayPonies</td>
                         </tr>
                     </tbody>
