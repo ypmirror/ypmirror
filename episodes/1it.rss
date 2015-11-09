@@ -1350,6 +1350,18 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:B9A076DD7E7815292EE2FF86E16E289749D5F875]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x22 - What About Discord [1080P.WEB-DL TEMP | YP-1T-05x22.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-1T-05x22.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 1080P iTunes Raw]]></category>
+			<pubDate>Mon, 09 Nov 2015 09:00:05 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: What About Discord; Season: 5; Episode: 22]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-1T-05x22.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-1T-05x22.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:330CF77F646432A2AC022B3B6A5EB479AE506E73]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
