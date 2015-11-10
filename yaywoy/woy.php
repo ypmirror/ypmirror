@@ -4,7 +4,7 @@
 <center>
   <p>Welcome to the download page for Wander over Yonder. Direct links are hosted by <a href="http://www.derpyhoovesnews.com/">DHN</a> and <a href="http://coco-pommel.org/">Coco Pommel</a>, our sincerest thanks to you awesome people! If you have are facing difficulties in using the direct download with the direct link, right click on the link and click on &quot;Save link as...&quot; in the list, </p>
   <p>iTunes HD 1080P Season 2:</p>
-  <table width="735" height="187" align="center">
+  <table width="735" height="231" align="center">
     <tbody>
       <tr>
         <th width="292" height="27">Name </th>
@@ -77,6 +77,24 @@
         <td>YP iTunes 1080P</td>
         <td>&nbsp;</td>
         <td><a href="subtitles/YP-WOY-02x12_02x13-1R-The_Rager-The_Good_Bad_Guy.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5360188&amp;lid=7">Episode 14 (The Battle Royale)</a></td>
+        <td><a href="https://mega.nz/#!d0QjlCIY!fFTJUA0ftRNWqKtNCZ9_6uTwVO30flPxG6FwGseGlQg">1</a> 2 3</td>
+        <td><a href="http://yp.coco-pommel.org/ypwoy/YP-WOY-02x14-1R-The_Battle_Royale.mkv">1</a></td>
+        <td><a href="torrents/YP-WOY-02x14-1R-The_Battle_Royale.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/4DFBD0E9F7F4E29141D9DFD05AB328329651EC0A.torrent">4</a> <a href="http://torcache.net/torrent/4DFBD0E9F7F4E29141D9DFD05AB328329651EC0A.torrent">5</a> <a href="magnet:?xt=urn:btih:4DFBD0E9F7F4E29141D9DFD05AB328329651EC0A">6</a> </td>
+        <td>YP iTunes 1080P</td>
+        <td>&nbsp;</td>
+        <td><a href="subtitles/YP-WOY-02x14-1R-The_Battle_Royale.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5390878&amp;lid=7">Episode 15</a> &amp; 16 <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5390878&amp;lid=7">(The Matchmaker</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5390879&amp;lid=7">The New Toy)</a></td>
+        <td><a href="https://mega.nz/#!cxoTULYQ!02HwM_faiZWpRFKsAdOTTK05BMFjE-ffAPzezZt56pY">1</a> 2 3</td>
+        <td><a href="http://yp.coco-pommel.org/ypwoy/YP-WOY-02x15_16-1R-The_Matchmaker-The_New_Toy.mkv">1</a></td>
+        <td><a href="torrents/YP-WOY-02x15_16-1R-The_Matchmaker-The_New_Toy.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/F685C9BC9D1A631C3A983676AFB05105BE8D9E5D.torrent">4</a> <a href="http://torcache.net/torrent/F685C9BC9D1A631C3A983676AFB05105BE8D9E5D.torrent">5</a> <a href="magnet:?xt=urn:btih:F685C9BC9D1A631C3A983676AFB05105BE8D9E5D">6</a> </td>
+        <td>YP iTunes 1080P</td>
+        <td>&nbsp;</td>
+        <td><a href="subtitles/YP-WOY-02x15_16-1R-The_Matchmaker-The_New_Toy.srt">Get</a></td>
       </tr>
     </tbody>
   </table>
