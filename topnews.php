@@ -1,0 +1,1 @@
+<div id=msg><strong>Yay Steven Universe is LIVE!  =><a href="/yaysu/" style="color:white"> Visit it!</a></strong></div>

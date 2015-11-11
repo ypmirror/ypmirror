@@ -88,9 +88,10 @@ header("Pragma: no-cache");
                 <a href="https://twitter.com/#!/YayPonies_eu">Twitter</a> |
                 <a href="episodes.php">Episodes</a> |
                 <a href="prevgen.php">G1/G2/G3 Episodes</a> |
-                <a href="DVD.php">DVDs/Blurays</a>
+                <a href="DVD.php">DVDs/Blurays</a> |
+                <a href="book.php">Books/Comics</a>
                 <br />
-                <a href="book.php">Books/Comics</a> |
+				<a href="/yaysu/">YaySteven</a> |
                 <a href="/yaywoy/">YayWander</a> |
 				<a href="/yaystar/">YayStar</a> |
                 <a href="fan.php">Fan Works</a> |
