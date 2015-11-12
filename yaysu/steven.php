@@ -175,6 +175,14 @@
 	<td><a href="subtitles/YP-SU-1R-01x39_40.srt">Get</a></td>
       </tr>
       <tr>
+	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5121578&lid=7">Episode 41</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5121579&lid=7">42</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5121578&lid=7">Horror Club</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5121579&lid=7">Winter Forecast</a>)</td>
+	<td><a href="https://mega.nz/#!wtwEXRzY!V83Fpc0enmmPkbvaHBt9gycQ1Vbj5DMFPc4ADqmWHKI">1</a> 2 3</td>
+	<td>none</td>
+	<td><a href="/torrents/YP-SU-1R-01x41_42.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/E31275940742F29F457E0FCCEB28C98E85937E99.torrent">4</a> <a href="http://torcache.net/torrent/E31275940742F29F457E0FCCEB28C98E85937E99.torrent">5</a> <a href="magnet:?xt=urn:btih:E31275940742F29F457E0FCCEB28C98E85937E99">6</a></td>
+	<td>YP iTunes 1080P</td>
+	<td><a href="subtitles/YP-SU-1R-01x41_42.srt">Get</a></td>
+      </tr>
+      <tr>
 	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5121580&lid=7">Episode 43</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5141188&lid=7">44</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5121580&lid=7">Maximum Capacity</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5141188&lid=7">Marble Madness</a>)</td>
 	<td><a href="https://mega.nz/#!455CECCY!mraM-d6KP3bE5zPIFz7iVv9SCrDmRBoo7ujm6j7YdJQ">1</a> 2 3</td>
 	<td>none</td>
@@ -322,9 +330,9 @@
 	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276634&lid=7">Episode 22</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5295278&lid=7">23</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276634&lid=7">When It Rains</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5295278&lid=7">Back to the Barn</a>)</td>
 	<td><a href="https://mega.nz/#!4kBkBBaA!uNUIJe0Lq37FNnHIAZSOxoabnKDWMmQwNWZBLnzn1ak">1</a> 2 3</td>
 	<td>none</td>
-	<td><a href="torrents/YP-SU-1R-02x20_21.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/A3E1F6AB6F0973FEDA0B95880A034CEAE5C5CD7F.torrent">4</a> <a href="http://torcache.net/torrent/A3E1F6AB6F0973FEDA0B95880A034CEAE5C5CD7F.torrent">5</a> <a href="magnet:?xt=urn:btih:A3E1F6AB6F0973FEDA0B95880A034CEAE5C5CD7F">6</a></td>
+	<td><a href="/torrents/YP-SU-1R-02x22_23.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/7961E501F92D77F8BCC633D960E7456FABAF5411.torrent">4</a> <a href="http://torcache.net/torrent/7961E501F92D77F8BCC633D960E7456FABAF5411.torrent">5</a> <a href="magnet:?xt=urn:btih:7961E501F92D77F8BCC633D960E7456FABAF5411">6</a></td>
 	<td>YP iTunes 1080P</td>
-	<td><a href="subtitles/YP-SU-1R-02x20_21.srt">Get</a></td>
+	<td><a href="subtitles/YP-SU-1R-02x22_23.srt">Get</a></td>
       </tr>
     </tbody>
   </table>
@@ -348,6 +356,6 @@
 	<td>none</td>
 	<td><a href="torrents/YP-SU-1TV-02x24-DerpyHooves.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/14265206BF0F3C520883B1B71E2F77C6A21750FD.torrent">4</a> <a href="http://torcache.net/torrent/14265206BF0F3C520883B1B71E2F77C6A21750FD.torrent">5</a> <a href="magnet:?xt=urn:btih:14265206BF0F3C520883B1B71E2F77C6A21750FD">6</a></td>
 	<td>TV DH 1080P</td>
-	<td><a href="subtitles/YP-SU-1R-02x13.srt">Get</a></td>
+	<td>embedded</td>
       </tr>
 
