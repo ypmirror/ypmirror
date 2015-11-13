@@ -178,7 +178,7 @@
 	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5121578&lid=7">Episode 41</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5121579&lid=7">42</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5121578&lid=7">Horror Club</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5121579&lid=7">Winter Forecast</a>)</td>
 	<td><a href="https://mega.nz/#!wtwEXRzY!V83Fpc0enmmPkbvaHBt9gycQ1Vbj5DMFPc4ADqmWHKI">1</a> 2 3</td>
 	<td>none</td>
-	<td><a href="/torrents/YP-SU-1R-01x41_42.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/E31275940742F29F457E0FCCEB28C98E85937E99.torrent">4</a> <a href="http://torcache.net/torrent/E31275940742F29F457E0FCCEB28C98E85937E99.torrent">5</a> <a href="magnet:?xt=urn:btih:E31275940742F29F457E0FCCEB28C98E85937E99">6</a></td>
+	<td><a href="torrents/YP-SU-1R-01x41_42.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/E31275940742F29F457E0FCCEB28C98E85937E99.torrent">4</a> <a href="http://torcache.net/torrent/E31275940742F29F457E0FCCEB28C98E85937E99.torrent">5</a> <a href="magnet:?xt=urn:btih:E31275940742F29F457E0FCCEB28C98E85937E99">6</a></td>
 	<td>YP iTunes 1080P</td>
 	<td><a href="subtitles/YP-SU-1R-01x41_42.srt">Get</a></td>
       </tr>
@@ -207,8 +207,8 @@
 	<td><a href="subtitles/YP-SU-1R-01x47.srt">Get</a></td>
       </tr>
       <tr>
-	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5152478&lid=7">Episode 48</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5152479&lid=7">49</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5152478&lid=7">Jailbreak</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5152479&lid=7">The Return</a>)</td>
-	<td><a href="https://mega.nz/#!4hgi1IgY!1xHUgCdI0K0f8oJUAybFfdRy8QeyPLOixjtchYSwkd4">1</a> 2 3</td>
+	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5152478&lid=7">Episode 48</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5152479&lid=7">49</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5152478&lid=7">The Return</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5152479&lid=7">Jailbreak</a>)</td>
+	<td><a href="https://mega.nz/#!Z8B3HbYL!oVf_YFXhodhcvKJxew5NMa8ohxCXApR3uYf6DeUyhI0">1</a> 2 3</td>
 	<td>none</td>
 	<td><a href="torrents/YP-SU-1R-01x48_49.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/229D54D838F6BACFB53E7C472B8C8033621FA9A3.torrent">4</a> <a href="http://torcache.net/torrent/229D54D838F6BACFB53E7C472B8C8033621FA9A3.torrent">5</a> <a href="magnet:?xt=urn:btih:229D54D838F6BACFB53E7C472B8C8033621FA9A3">6</a></td>
 	<td>YP iTunes 1080P</td>
