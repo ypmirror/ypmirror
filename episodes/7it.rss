@@ -1362,6 +1362,18 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:EDF0B8FE0607116D19FDEC4854A7232819AC779F]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x23 - The Hooffields and Mccolts [720P.WEB-DL | YP-7T-05x23.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7T-05x23.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P iTunes Raw]]></category>
+			<pubDate>Mon, 16 Nov 2015 09:00:05 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Hooffields and Mccolts; Season: 5; Episode: 23]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7T-05x23.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7T-05x23.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:9D0EC55F0A2806B87F56E817E4703C0383EF147A]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
