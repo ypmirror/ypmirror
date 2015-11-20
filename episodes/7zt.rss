@@ -1350,6 +1350,30 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:ED906AE26FE47D93863A060D1FC29CC645D45305]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x22 - What About Discord? [720P.WEB-DL CC | YP-7Z-05x22.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7Z-05x22.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P CC by ZR]]></category>
+			<pubDate>Wed, 18 Nov 2015 09:00:05 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: What About Discord?; Season: 5; Episode: 22]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7Z-05x22.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7Z-05x22.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:FC51A2E531025E68DCC1CCDD3AC436E2ACA5C399]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x23 - The Hooffields and Mccolts [720P.WEB-DL CC | YP-7Z-05x23.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7Z-05x23.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P CC by ZR]]></category>
+			<pubDate>Wed, 18 Nov 2015 09:00:05 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Hooffields and Mccolts; Season: 5; Episode: 23]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7Z-05x23.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7Z-05x23.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:4AF7272338968A8610A4723FF2CD113FE411717B]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
