@@ -1350,6 +1350,42 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:D9817A8F876EADA6C68D65C36B1281975E5B892E]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x22 - What About Discord? [720P.WEB-DL LQ | YP-7LQ-05x22.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQ-05x22.mp4.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality]]></category>
+			<pubDate>Sat, 28 Nov 2015 09:00:02 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: What About Discord?; Season: 5; Episode: 22]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQ-05x22.mp4.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQ-05x22.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:4D6A15CE7C411DE45A07C4953C3BC16E1631B8F3]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x23 - The Hooffields and Mccolts [720P.WEB-DL LQ | YP-7LQ-05x23.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQ-05x23.mp4.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality]]></category>
+			<pubDate>Sat, 28 Nov 2015 09:00:02 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Hooffields and Mccolts; Season: 5; Episode: 23]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQ-05x23.mp4.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQ-05x23.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:264059D9655016C5D52DC7D9F4A227845D21B566]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x24 - The Mane Attraction [720P.WEB-DL LQ | YP-7LQ-05x24.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQ-05x24.mp4.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality]]></category>
+			<pubDate>Sat, 28 Nov 2015 09:00:02 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Mane Attraction; Season: 5; Episode: 24]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQ-05x24.mp4.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQ-05x24.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:5B050C7E4750D5EF449FAE4A654EF09006B2D0EF]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->

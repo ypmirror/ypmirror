@@ -1374,6 +1374,18 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:4AF7272338968A8610A4723FF2CD113FE411717B]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x24 - The Mane Attraction [720P.WEB-DL CC | YP-7Z-05x24.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7Z-05x24.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P CC by ZR]]></category>
+			<pubDate>Sat, 28 Nov 2015 09:00:05 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Mane Attraction; Season: 5; Episode: 24]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7Z-05x24.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7Z-05x24.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:5543E5A401033D25A5755F7139B598B5CB4275C6]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
