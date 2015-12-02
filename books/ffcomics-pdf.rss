@@ -270,6 +270,18 @@
                 <magnetURI><![CDATA[magnet:?xt=urn:btih:4C4C77442CCB1E54F5C252BAEF16697EED4A5C14]]></magnetURI>
             </torrent>
         </item>
+        <item>
+            <title><![CDATA[My Little Pony, Friends Forever Comic #23 [PDF | YP-PDF-FFCOMIC23.pdf | YayPonies]]]></title>
+            <link>http://yp1.yayponies.no/torrents/YP-PDF-FFCOMIC23.pdf.torrent</link>
+            <category domain="http://yp1.yayponies.no/book.php"><![CDATA[Friends Forever / PDF]]></category>
+            <pubDate>Wed, 02 Dec 2015 00:00:01 -0500</pubDate>
+            <description><![CDATA[Comic Name: My Little Pony, Friends Forever; #23]]></description>
+            <enclosure url="http://yp1.yayponies.no/torrents/YP-PDF-FFCOMIC23.pdf.torrent" type="application/x-bittorrent" />
+            <torrent xmlns="http://xmlns.ezrss.it/0.1/">
+                <fileName><![CDATA[YP-PDF-FFCOMIC23.pdf.torrent]]></fileName>
+                <magnetURI><![CDATA[magnet:?xt=urn:btih:B1E75712A678FA12FD99FCB3A536B4DAB2A861F6]]></magnetURI>
+            </torrent>
+        </item>
 	</channel>
 </rss>
 <!-- live  -->
