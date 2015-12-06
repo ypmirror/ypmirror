@@ -151,7 +151,7 @@
 	<td><a href="subtitles/YP-SU-1R-01x33_34.srt">Get</a></td>
       </tr>
       <tr>
-	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5055362&lid=7">Episode 35</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5078572&lid=7">36</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5055362&lid=7">Garnet's Universe</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5078572&lid=7">Warp Tour</a>)</td>
+	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5055362&lid=7">Episode 35</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5078572&lid=7">36</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5055362&lid=7">Lion 3: Straight to Video</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=522548&id=5078572&lid=7">Warp Tour</a>)</td>
 	<td><a href="https://mega.nz/#!ItRwACwT!JNrSPiKzKyG07YUbwSFsqkQP3pSCljUA2a2_o_MPvz4">1</a> 2 3</td>
 	<td>none</td>
 	<td><a href="torrents/YP-SU-1R-01x35_36.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/F796DDC55FBE6A6BC4C834A043C4A91E76AC3C4C.torrent">4</a> <a href="http://torcache.net/torrent/F796DDC55FBE6A6BC4C834A043C4A91E76AC3C4C.torrent">5</a> <a href="magnet:?xt=urn:btih:F796DDC55FBE6A6BC4C834A043C4A91E76AC3C4C">6</a></td>
