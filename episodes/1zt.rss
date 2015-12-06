@@ -1391,6 +1391,30 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:B25E63024063EAC7857F1368985B12D3C4259E6B]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x25 - The Cutie Remark, Part 1 [1080P.WEB-DL CC | YP-1Z-05x25.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-1Z-05x25.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 1080P CC by ZR]]></category>
+			<pubDate>Sun, 06 Dec 2015 09:00:05 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Cutie Remark, Part 1; Season: 5; Episode: 25]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-1Z-05x25.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-1Z-05x25.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:EE993D61B82E2933F58317DCD8F49B94431D278B]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x26 - The Cutie Remark, Part 2 [1080P.WEB-DL CC | YP-1Z-05x26.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-1Z-05x26.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 1080P CC by ZR]]></category>
+			<pubDate>Sun, 06 Dec 2015 09:00:05 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Cutie Remark, Part 2; Season: 5; Episode: 26]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-1Z-05x26.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-1Z-05x26.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:D0D7FE5FE2BC9D490A1B34E59FC1DB6AFFB5873C]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
