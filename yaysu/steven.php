@@ -330,7 +330,7 @@
 	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276634&lid=7">Episode 22</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5295278&lid=7">23</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276634&lid=7">When It Rains</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5295278&lid=7">Back to the Barn</a>)</td>
 	<td><a href="https://mega.nz/#!4kBkBBaA!uNUIJe0Lq37FNnHIAZSOxoabnKDWMmQwNWZBLnzn1ak">1</a> 2 3</td>
 	<td>none</td>
-	<td><a href="/torrents/YP-SU-1R-02x22_23.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/7961E501F92D77F8BCC633D960E7456FABAF5411.torrent">4</a> <a href="http://torcache.net/torrent/7961E501F92D77F8BCC633D960E7456FABAF5411.torrent">5</a> <a href="magnet:?xt=urn:btih:7961E501F92D77F8BCC633D960E7456FABAF5411">6</a></td>
+	<td><a href="torrents/YP-SU-1R-02x22_23.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/7961E501F92D77F8BCC633D960E7456FABAF5411.torrent">4</a> <a href="http://torcache.net/torrent/7961E501F92D77F8BCC633D960E7456FABAF5411.torrent">5</a> <a href="magnet:?xt=urn:btih:7961E501F92D77F8BCC633D960E7456FABAF5411">6</a></td>
 	<td>YP iTunes 1080P</td>
 	<td><a href="subtitles/YP-SU-1R-02x22_23.srt">Get</a></td>
       </tr>
