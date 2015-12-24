@@ -438,6 +438,18 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:87BCE45BAA6A68D5C57588D792727EFF3236B2FB]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony, Friendship is Magic Comic #37 [PDF | YP-PDF-COMIC37.pdf | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-PDF-COMIC37.pdf.torrent</link>
+			<category domain="http://yp1.yayponies.no/book.php"><![CDATA[Main Series / PDF]]></category>
+			<pubDate>Thu, 24 Dec 2015 00:00:01 -0500</pubDate>
+			<description><![CDATA[Comic Name: My Little Pony, Friendship is Magic; #37]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-PDF-COMIC37.pdf.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-PDF-COMIC37.pdf.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:25C9E94713FCD45C5F5F3877300C6E17DF408592]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
