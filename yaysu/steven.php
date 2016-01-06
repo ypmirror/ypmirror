@@ -334,6 +334,14 @@
 	<td>YP iTunes 1080P</td>
 	<td><a href="subtitles/YP-SU-1R-02x22_23.srt">Get</a></td>
       </tr>
+	  <tr>
+	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363784&lid=7">Episode 24</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363792&lid=7">25</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363784&lid=7">Too Far</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363792&lid=7">The Answer</a>)</td>
+	<td><a href="https://mega.nz/#!hoJhhKRJ!JjTRwAVRskbhu_nLdvliaVod7Z5d6Ejz57zNRofjS2w">1</a> 2 3</td>
+	<td>none</td>
+	<td><a href="/torrents/YP-SU-1R-02x24_25.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/71E39601CB75DBC04DBED2F12202F0F95A90B581.torrent">4</a> <a href="http://torcache.net/torrent/71E39601CB75DBC04DBED2F12202F0F95A90B581.torrent">5</a> <a href="magnet:?xt=urn:btih:71E39601CB75DBC04DBED2F12202F0F95A90B581">6</a></td>
+	<td>YP iTunes 1080P</td>
+	<td><a href="subtitles/YP-SU-1R-02x24_25.srt">Get</a></td>
+      </tr>
     </tbody>
   </table>
 </center>
