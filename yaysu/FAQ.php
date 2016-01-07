@@ -20,6 +20,8 @@
 <p>We follow TheTVDB numbering of the show, <a href="http://thetvdb.com/?tab=series&id=270701&lid=7">http://thetvdb.com/?tab=series&id=270701&lid=7</a> , This should make the episode easy to intergate in a media center solution (Like <a href="http://kodi.tv/">Kodi</a> or <a href="https://plex.tv/">Plex</a>) </p>
 <p><strong>The metadata of the iTunes files only cover the first episode in the dual episodes file : </strong></p>
 <p>Because our UNDRM process wasnt designed for multiple episode in one, we're unable to add the second episode metadata into the MKV in a way that would worth it.</p>
+<p><strong>I've seen a derp, what can I do ?</strong></p>
+<p>Oops, it happens sometimes. You are always welcome to signal each error (wrong link, missing episode...) by contacting <a href="mailto:yaysteven@yayponies.eu">the Steven Universe team</a>. Please be as precise as possible, specifying the concerned episode and the nature of the derp.</p>
 <p>&nbsp;</p>
 <p><center><em>FAQ</em> - Similar to YayPonies : </center>
 <p><strong> Please read this page before asking us your question! </strong>
