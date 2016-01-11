@@ -74,10 +74,10 @@ header("Pragma: no-cache");
 
     <body>
 	<?php include("topnews.php"); ?>
-        <div id="header"><img src="yay3yr.png" alt="YayPonies header" /></div>
+        <div id="header"><img src="yay4yr.png" alt="YayPonies header" /></div>
         <div id="container">
             <p style="font-size: 80%; text-align: center">
-                <a href="http://floppychiptunes.deviantart.com/">YayPonies 3rd anniversary by FloppyChiptunes</a>
+                <a href="http://floppychiptunes.deviantart.com/">YayPonies 4th anniversary by FloppyChiptunes</a>
             </p>
             <br />
             <br />
