@@ -4,7 +4,7 @@
 <center>
   <p>Welcome to the download page for Wander over Yonder. Direct links are hosted by <a href="http://www.derpyhoovesnews.com/">DHN</a> and <a href="http://coco-pommel.org/">Coco Pommel</a>, our sincerest thanks to you awesome people! If you have are facing difficulties in using the direct download with the direct link, right click on the link and click on &quot;Save link as...&quot; in the list, </p>
   <p>iTunes HD 1080P Season 2:</p>
-  <table width="735" height="253" align="center">
+  <table width="735" height="275" align="center">
     <tbody>
       <tr>
         <th width="292" height="27">Name </th>
@@ -104,6 +104,15 @@
         <td>YP iTunes 1080P</td>
         <td>&nbsp;</td>
         <td><a href="subtitles/YP-WOY-02x17_18-1R-The_Black_Cube-The_Eye_on_the_Skullship.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5453828&amp;lid=7">Episode 19</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5453829&amp;lid=7">20</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5453828&amp;lid=7">The Secret Planet</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5453829&amp;lid=7">The Bad Hatter</a>) </td>
+        <td><a href="https://mega.nz/#!AQxwBZ6L!Y8PoQfv05Ncsaqdw8qRlp4-5TbBLKgskr1y_WRStpxo">1</a> 2 3</td>
+        <td><a href="http://yp.coco-pommel.org/ypwoy/YP-WOY-02x19_20-1R-The_Secret_Planet-The_Bad_Hatter.mkv">1</a></td>
+        <td><a href="/torrents/YP-WOY-02x19_20-1R-The_Secret_Planet-The_Bad_Hatter.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/654B33D9E3E4DF93095BA8AC030AAA06A55C370E.torrent">4</a> <a href="http://torcache.net/torrent/654B33D9E3E4DF93095BA8AC030AAA06A55C370E.torrent">5</a> <a href="magnet:?xt=urn:btih:654B33D9E3E4DF93095BA8AC030AAA06A55C370E">6</a> </td>
+        <td>YP iTunes 1080P</td>
+        <td>&nbsp;</td>
+        <td><a href="subtitles/YP-WOY-02x19_20-1R-The_Secret_Planet-The_Bad_Hatter.srt">Get</a></td>
       </tr>
     </tbody>
   </table>

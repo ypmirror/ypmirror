@@ -450,6 +450,18 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:25C9E94713FCD45C5F5F3877300C6E17DF408592]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony, Friendship is Magic Comic #38 [PDF | YP-PDF-COMIC38.pdf | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-PDF-COMIC38.pdf.torrent</link>
+			<category domain="http://yp1.yayponies.no/book.php"><![CDATA[Main Series / PDF]]></category>
+			<pubDate>Fri, 29 Jan 2016 00:00:01 -0500</pubDate>
+			<description><![CDATA[Comic Name: My Little Pony, Friendship is Magic; #38]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-PDF-COMIC38.pdf.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-PDF-COMIC38.pdf.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:D85C4FDA7BB8CA5478EFC5B09318F31D652E8F55]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
