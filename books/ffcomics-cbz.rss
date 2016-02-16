@@ -294,6 +294,18 @@
                 <magnetURI><![CDATA[magnet:?xt=urn:btih:7DFDC83CEC5C12B81EE1F5B65F5F8E72EB6611B3]]></magnetURI>
             </torrent>
         </item>
+				<item>
+						<title><![CDATA[My Little Pony, Friends Forever Comic #25 [ CBZ | YP-CBZ-FFCOMIC25.cbz | YayPonies]]]></title>
+						<link>http://yp1.yayponies.no/torrents/YP-CBZ-FFCOMIC25.cbz.torrent</link>
+						<category domain="http://yp1.yayponies.no/book.php"><![CDATA[Friends Forever / CBZ]]></category>
+						<pubDate>Tue, 16 Feb 2016 00:00:01 -0500</pubDate>
+						<description><![CDATA[Comic Name: My Little Pony, Friends Forever; #25]]></description>
+						<enclosure url="http://yp1.yayponies.no/torrents/YP-CBZ-FFCOMIC25.cbz.torrent" type="application/x-bittorrent" />
+						<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+								<fileName><![CDATA[YP-CBZ-FFCOMIC25.cbz.torrent]]></fileName>
+								<magnetURI><![CDATA[magnet:?xt=urn:btih:E95054EB92BF8DB3AF187FB96E8F5FBD80EAB8E1]]></magnetURI>
+						</torrent>
+				</item>
 	</channel>
 </rss>
 <!-- live  -->

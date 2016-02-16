@@ -381,7 +381,7 @@
 				<fileName><![CDATA[YP-EPUB-COMIC31.epub.torrent]]></fileName>
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:9FD0D5312603991A6F3525F6F4556D671FE2CA2C]]></magnetURI>
 			</torrent>
-		</item>	
+		</item>
 		<item>
 			<title><![CDATA[My Little Pony, Friendship is Magic Comic #32 [iBook EPUB | YP-EPUB-COMIC32.epub | YayPonies]]]></title>
 			<link>http://yp1.yayponies.no/torrents/YP-EPUB-COMIC32.epub.torrent</link>
@@ -464,6 +464,18 @@
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
 				<fileName><![CDATA[YP-EPUB-COMIC38.epub.torrent]]></fileName>
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:D533D8410ACD1A6279E0D6FA3484810AFFD83326]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony, Friendship is Magic Comic #39 [iBook EPUB | YP-EPUB-COMIC39.epub | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-EPUB-COMIC39.epub.torrent</link>
+			<category domain="http://yp1.yayponies.no/book.php"><![CDATA[Main Series / EPUB]]></category>
+			<pubDate>Tue, 16 Feb 2016 00:00:01 -0500</pubDate>
+			<description><![CDATA[Comic Name: My Little Pony, Friendship is Magic; #39]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-EPUB-COMIC39.epub.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-EPUB-COMIC39.epub.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:B081FC0386D52F349CE702E26CC003BA798BEB5B]]></magnetURI>
 			</torrent>
 		</item>
 	</channel>
