@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 Season 2 songs :
 <ul>
   <li>May The Best Pet Win</li>

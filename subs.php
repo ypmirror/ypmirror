@@ -1,4 +1,4 @@
-<?php include("header.php"); ?>
+<!--#include file="header.php" -->
         <p style="font-weight: bold; text-align: center">
             Subtitles are not supported anymore because of time lack,
             however there the list of website/contact where you can get subtitles for ponies.

@@ -1,4 +1,4 @@
-<?php include("header.php"); ?>
+<!--#include file="header.php" -->
             <div id="links">
                 <p>
                     Welcome to the SEASON 1 TVRip Archive of the Japanese-dubbed <strong>My Little Pony: Friendship is Magic</strong> episodes.

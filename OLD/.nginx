@@ -1,0 +1,4 @@
+error_page 404 /sorry/404.php;
+error_page 403 /sorry/403.php;
+autoindex off;
+

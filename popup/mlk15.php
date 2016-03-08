@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 <p>Community 7 songs :</p>
 <ul>
   <li>JanAnimations, ShadyVox: Don't Mine At Night</li>

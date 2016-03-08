@@ -1,4 +1,4 @@
-<?php include("header.php"); ?>
+<!--#include file="header.php" -->
             <p style="font-weight: bold">Welcome to Yay Ponies! Do navigate through the repository with the various links above!</p>
             <p>
                 Thanks to the break between episode 21 and episode 22, we was able to do a little cleanup on the site !

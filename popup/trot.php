@@ -1,4 +1,4 @@
-<?php include("header.php"); ?>
+<!--#include file="headerpopup.php" -->
    <script language="javascript" type="text/javascript">
 	<!--
 	function popitup(url) {

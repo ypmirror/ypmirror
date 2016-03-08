@@ -1,4 +1,4 @@
-<?php include("header.php"); ?>
+<!--#include file="header.php" -->
 
 <p><center><em>FAQ</em> - Specific to YayWander : </center>
 <p><strong>Please read this page before asking us your question! </strong>

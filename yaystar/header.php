@@ -14,7 +14,7 @@ content="Star vs The Force of Evil, episodes, download, Torrent, Direct Download
 
 <body>
 <!-- Start the Header!-->
-<?php include("../topnews.php"); ?>
+<!--#include virtual="/topnews.php" -->
 <center><img src="StarHeader.png" alt="YayStar header" />
   </center>
   <div id="container">

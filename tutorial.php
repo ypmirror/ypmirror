@@ -1,4 +1,4 @@
-<?php include("header.php"); ?>
+<!--#include file="header.php" -->
             <script language="JavaScript">
                 /*
                  * Loads the pony page according to the lists, prints NOT FOUND if not found based on @pageExists

@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 <p>Foreign songs and Extras :</p>
 <ul>
   <li>(German) Grinse Wenn's Dich Gruselt</li>

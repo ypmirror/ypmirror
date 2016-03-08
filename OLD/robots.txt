@@ -1,0 +1,42 @@
+User-agent: Googlebot
+Disallow: /yaywoy/
+Disallow: /yaystar/
+Disallow: /yaysu/
+
+User-agent: Googlebot-*
+Disallow: /yaywoy/
+Disallow: /yaystar/
+Disallow: /yaysu/
+
+User-agent: Adsbot-Google
+Disallow: /yaywoy/
+Disallow: /yaystar/
+Disallow: /yaysu/
+
+User-agent: Mediapartners-Google
+Disallow: /yaywoy/
+Disallow: /yaystar/
+Disallow: /yaysu/
+
+User-Agent: bingbot
+Disallow: /yaywoy/
+Disallow: /yaystar/
+Disallow: /yaysu/
+
+User-agent: msnbot
+Disallow: /yaywoy/
+Disallow: /yaystar/
+Disallow: /yaysu/
+
+User-agent: Slurp
+Disallow: /yaywoy/
+Disallow: /yaystar/
+Disallow: /yaysu/
+
+User-agent: *
+Disallow: /nogit/
+Disallow: /.git/
+
+User-Agent: *
+Disallow: /nogit/
+Disallow: /.git/

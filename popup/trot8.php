@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 <p>Fan of the series that inspired this game style? Enjoy some of your   favorite songs from the game in your TrotMania game! Credit must be   given to razorblade of Zenius-i-vanisher for the arcade-accurate steps   and audio. However, this package gives a few enhancements:</p>
 <ul>
   <li>Videos! (All arcade-accurate, and Widescreen when possible)</li>

@@ -14,7 +14,7 @@ content="Wander over yonder, episodes, download, Torrent, Direct Download, iTune
 
 <body>
 <!-- Start the Header!-->
-<?php include("../topnews.php"); ?>
+<!--#include virtual="/topnews.php" -->
 <center><img src="WOYHeader.png" alt="YayPonies header" />
   <br />
   </center>

@@ -1,0 +1,5 @@
+<?php include("headerpopup.php"); ?>
+<p><strong>Fixed S1E19</strong></p>
+<p>In the iTunes release of the episode, Rainbow Dash and Fluttershy are   missing when the group arrives at the bottom of the hole. Another iTunes   exclusive error, albeit minor, is the consistency of the appearance of   Twilight Sparkle's rope harness: For example, in one scene, when   Twilight Sparkle bucked off the Diamond Dog guard riding her, the guard   haphazardly pulled off the harness with his claws as he was flung away.   In other releases of the episode, Twilight Sparkle's harness remained   around her head rather than being pulled off. The show's director,   Jayson Thiessen, explained that iTunes somehow got an older version of   the episode that was not meant for air. (Original text : <a href="http://mlp.wikia.com/wiki/A_Dog_and_Pony_Show">http://mlp.wikia.com/wiki/A_Dog_and_Pony_Show</a> )</p>
+<p>ZR Fixed those problem.</div>
+</p>

@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 <p>SOURCE: <a href="http://www.equestriagaming.com/2014/06/my-little-karaoke-last-week-crew-behind.html">http://www.equestriagaming.com/2014/06/my-little-karaoke-last-week-crew-behind.html</a><br />
   <br />
   Last week, the crew behind My Little Karaoke - a song pack and  modification for UltraStar for singing along with various pony songs - <a href="http://www.mylittlekaraoke.com/index.php?post/Update%3A-Additional-Content-Disc-2">released a new content disc</a>.  The expansion provides a total of over 90 new songs according to the  developers, including foreign language versions of a few official songs  for you to improvise nonsensical lyrics over, as well as a bunch of  brony music of... varying quality. (I liked a couple of them, anyway.)  The update also comes with a new visual identity for the project.<br />

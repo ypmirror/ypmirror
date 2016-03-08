@@ -1,4 +1,4 @@
-<?php include("header.php"); ?>
+<!--#include file="header.php" -->
             <div id="links">
                 <p>TrotMania Downloads :</p>
 

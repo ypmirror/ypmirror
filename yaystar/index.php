@@ -1,4 +1,4 @@
-<?php include("header.php"); ?>
+<!--#include file="header.php" -->
 
 <strong>
 <p>Welcome to YayStar ! Do navigate through the repository with the various links above!</strong>

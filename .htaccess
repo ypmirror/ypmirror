@@ -1,5 +1,7 @@
 php_flag display_errors off
-Options -Indexes
+Options -Indexes +Includes
 ErrorDocument 404 /sorry/404.php
 ErrorDocument 403 /sorry/403.php
-
+AddOutputFilter INCLUDES .php
+php_flag engine off
+SSILegacyExprParser on

@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 <p><strong>Uncensored/With Derpy Hooves &quot;The Last Roundup&quot; 1080p Episode </strong></p>
 <p>iTunes released the original edition of &quot;The Last Roundup&quot; in 720p. Shortly after, it was removed from the store. After a month the episode returned with edits done to the pony known as Derpy. Rainbow Dash no longer referred to her as &quot;Derpy&quot; and Derpy's eyes were no longer crossed. Essentially, Derpy was removed from the episode.</p>
 <p>When iTunes released the 1080p editions of the episodes, the The Last Roundup episode was released as the later edition, with Derpy removed. There was no 1080p release of the original video.</p>

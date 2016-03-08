@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 <p>Community 8 songs :</p>
 <ul>
   <li>Phileo: The Way She Flies</li>

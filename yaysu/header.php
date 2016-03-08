@@ -14,7 +14,7 @@ content="Steven Universe, episodes, download, Torrent, Direct Download, iTunes, 
 
 <body>
 <!-- Start the Header!-->
-<?php include("../topnews.php"); ?>
+<!--#include virtual="/topnews.php" -->
 <center><img src="yaysu_banner.png" alt="YaySteven header" />
   </center>
   <div id="container">

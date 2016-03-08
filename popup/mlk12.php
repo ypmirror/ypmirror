@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 <p>Community 4 songs :</p>
 <ul>
   <li>Tara Strong: Take My Hand</li>

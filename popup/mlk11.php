@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 <p>Community 3 songs :</p>
 <ul>
   <li>Florence &amp; The Machine: The Stars Will Aid In Her Escape (PMV)</li>

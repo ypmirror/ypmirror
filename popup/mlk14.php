@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 <p>Community 6 songs :</p>
 <ul>
   <li>EileMonty: I Am Octavia</li>

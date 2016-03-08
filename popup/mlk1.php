@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 <p>My Little Karaoke - Singing is Magic is a rhythm game   which will make you sing, sing, sing. Grab a microphone, practice your   voice, and compete with your friends to reach the top scores!</p>
 Features:
 <ul>

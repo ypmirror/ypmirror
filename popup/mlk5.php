@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 Season 3 songs :
 <ul>
   <li>Ballad Of The Crystal Empire</li>

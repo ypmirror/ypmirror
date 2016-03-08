@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 <p>Community 9 songs :</p>
 <ul>
   <li>SimGretina, EileMonty: Again</li>

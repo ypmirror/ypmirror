@@ -1,4 +1,4 @@
-<?php include("header.php"); ?>
+<!--#include file="header.php" -->
             <script language="JavaScript">
                 /*
                  * Opens popup

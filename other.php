@@ -1,4 +1,4 @@
-<?php include("header.php"); ?>
+<!--#include file="header.php" -->
             <div id="links">
                 <table width="700" height="870" align="center">
                     <tbody>

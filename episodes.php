@@ -1,4 +1,4 @@
-<?php include("header.php"); ?>
+<!--#include file="header.php" -->
             <script language="JavaScript">
                 /*
                  * Returns false when a page selected from season.source.resolution does not exist

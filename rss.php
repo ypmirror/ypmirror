@@ -1,4 +1,4 @@
-<?php include("header.php"); ?>
+<!--#include file="header.php" -->
             <div id="links">
               <p><img src="rss.png" width="254" height="254" alt="RSS LOGO" /></p>
               <p>&nbsp;</p>

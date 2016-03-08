@@ -1,3 +1,4 @@
+<!--
 <!doctype php>
 <?php
 function curPageURL() {
@@ -50,3 +51,5 @@ a.current{ color: gray !important; cursor: default; text-decoration: none; }
 </center>
 </body>
 </html>
+-->
+I haven't SSI-ified this yet. Please come back later.

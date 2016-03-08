@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 <p>Community 2 songs :</p>
 <ul>
   <li>Friendship Is Witchcraft: The Gypsy Bard (Extended)</li>

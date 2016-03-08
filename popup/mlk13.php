@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 <p>Community 5 songs :</p>
 <ul>
   <li>AcoustiMandoBrony: Generosity</li>

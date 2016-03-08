@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 <p>This disc contains <a href="http://www.mylittlekaraoke.com/index.php?pages/Songs">a lot more song tracks</a>,   as well as additional fixes and performance updates - all of that in an   easy-to-use package. As usual, the songs work on Windows, Mac OSX, and   Linux.</p>
 <p>Features :</p>
 <ul>

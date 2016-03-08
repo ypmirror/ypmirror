@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 <p>Community 1 songs :</p>
 <ul>
   <li>Acoustic Brony, Mandopony: I'll Fly Higher</li>

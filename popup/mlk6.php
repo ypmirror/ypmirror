@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 Equestria Girls songs :
 <ul>
   <li>Equestria Girls Theme</li>

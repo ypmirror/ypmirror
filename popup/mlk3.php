@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 Season 1 songs :
 <ul>
   <li>Giggle at the Ghostly</li>

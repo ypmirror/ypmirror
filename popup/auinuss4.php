@@ -1,4 +1,4 @@
-<?php include("headerpopup.php"); ?>
+<!--#include file="headerpopup.php" -->
 <p> Episode S4E11, S4E13, S4E14 and S4E24 US was affected by multiples issues.</p>
 <p>So we replaced those by their australian versions.
 </p>

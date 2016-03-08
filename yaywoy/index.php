@@ -1,4 +1,4 @@
-<?php include("header.php"); ?>
+<!--#include file="header.php" -->
 
 <strong>
 <p>Welcome to Yay Wander! Do navigate through the repository with the various links above!</strong>
