@@ -1,4 +1,5 @@
 <!--#include file="header.php" -->
+            <p style="font-weight: bold">GIT MIRROR OWNER: IF YOUR MIRROR IS BROKEN, PLEASE ENABLE SSI, <a href="https://git.rainbowdash.xyz/yp/ypssi/src/master/.nginx">for NGINX</a> or <a href="https://git.rainbowdash.xyz/yp/ypssi/src/master/.htaccess">for Apache</a>
             <p style="font-weight: bold">Welcome to Yay Ponies! Do navigate through the repository with the various links above!</p>
             <p>
                 Thanks to the break between episode 21 and episode 22, we was able to do a little cleanup on the site !
