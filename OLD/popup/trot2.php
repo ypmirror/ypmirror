@@ -1,3 +1,0 @@
-<?php include("headerpopup.php"); ?>
-<p>Rhythm is Magic was the first version of TrotMania. Released on October   31, 2012, it was updated with additional songs once in a while until the   release of Chrystalize. With the release of Extra Lv. 3 for a revised   package of Rhythm is Magic was released, which includes all of its songs   (with videos) and marathon courses.</p>
-<p>To install this add-on pack, download the two ZIP files from the links   below, then copy the contents of their "Songs" folders into the   equivalent folders of your TrotMania or StepMania installation. Please   note that the courses are not in this package.</p>
