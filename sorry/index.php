@@ -1,22 +1,8 @@
-<!--
-<!doctype php>
-<?php
-function curPageURL() {
- $pageURL = '';
- if ($_SERVER["HTTPS"] == "on") {$pageURL .= "";}
- $pageURL .= "";
- if ($_SERVER["SERVER_PORT"] != "80") {
-  $pageURL .= $_SERVER["REQUEST_URI"];
- } else {
-  $pageURL .= $_SERVER["REQUEST_URI"];
- }
- return $pageURL;
-}
-?>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
-<title>YayPonies - Sorry !</title>
+<title>YayPonies - Moved</title>
 <style type="text/css">
 .absolute {
 	position: static;
@@ -25,6 +11,7 @@ body {
 	background-color: #141010;
 	font-size: 24px;
 	color: #FFFFFF;
+  text-align:center;
 }
 
 a{ color: #ff409f; font-weight: bold; }
@@ -33,7 +20,7 @@ a.current{ color: gray !important; cursor: default; text-decoration: none; }
 </style>
 </head>
 
-<body><center>
+<body>
   <div>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
@@ -41,15 +28,12 @@ a.current{ color: gray !important; cursor: default; text-decoration: none; }
     <p style="font-size: 18px">We're changing domain ! The page you requested is not<br>
       available anymore from yp1.pony.pp.ua, look instead on<br>
     yp1.yayponies.no !</p>
-    <p style="font-size: 16px; color: #ABABAB;">You tried to access <br/> 
-	<a href="http://yp1.pony.pp.ua<?php echo curPageURL();?>">http://yp1.pony.pp.ua<?php echo curPageURL();?></a>
-	<br/>Click on the link to be redirected to your page ! <br> <a href="http://yp1.yayponies.no<?php echo curPageURL();?>">http://yp1.yayponies.no<?php echo curPageURL();?></a>
+    <p style="font-size: 16px; color: #ABABAB;">You tried to access <br/>
+	<a href="http://yp1.pony.pp.ua<!--#echo var="REQUEST_URI" -->">http://yp1.pony.pp.ua<!--#echo var="REQUEST_URI" --></a>
+	<br/>Click on the link to be redirected to your page ! <br> <a href="http://yp1.yayponies.no<!--#echo var="REQEST_URI" -->">http://yp1.yayponies.no<!--#echo var="REQUEST_URI" --></a>
     </p>
     <p style="font-size: 12px; color: #706E6E;"><a href="http://floppychiptunes.deviantart.com/art/MLP-G1-Derpy-362852961">MLP G1: Derpy! by FloppyChiptunes</a></p>
     <p style="font-size: 12px; color: #706E6E;">&nbsp;</p>
   </div>
-</center>
 </body>
 </html>
--->
-I haven't SSI-ified this yet. Come back soon.
