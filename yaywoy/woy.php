@@ -4,7 +4,7 @@
 <center>
   <p>Welcome to the download page for Wander over Yonder. Direct links are hosted by <a href="http://www.derpyhoovesnews.com/">DHN</a> and <a href="http://coco-pommel.org/">Coco Pommel</a>, our sincerest thanks to you awesome people! If you have are facing difficulties in using the direct download with the direct link, right click on the link and click on &quot;Save link as...&quot; in the list, </p>
   <p>iTunes HD 1080P Season 2:</p>
-  <table width="735" height="319" align="center">
+  <table width="735" height="385" align="center">
     <tbody>
       <tr>
         <th width="292" height="27">Name </th>
@@ -131,6 +131,35 @@
         <td>YP iTunes 1080P</td>
         <td>&nbsp;</td>
         <td><a href="subtitles/YP-WOY-02x23_24-1R-The_Cartoon-The_Bot.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5501146&amp;lid=7">Episode 25</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5501147&amp;lid=7">26</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5501146&amp;lid=7">The Family Reunion</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5501147&amp;lid=7">The Rival</a>)</td>
+        <td>1 2 3</td>
+        <td><a href="http://yp.coco-pommel.org/ypwoy/YP-WOY-02x25_26-1R-The_Family_Reunion-The_Rival.mkv">1</a></td>
+        <td><a href="torrents/YP-WOY-02x25_26-1R-The_Family_Reunion-The_Rival.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/E55FC238AE8048737F1AC9DF6A3BCF8834F13E54.torrent">4</a> <a href="http://torcache.net/torrent/E55FC238AE8048737F1AC9DF6A3BCF8834F13E54.torrent">5</a> <a href="magnet:?xt=urn:btih:E55FC238AE8048737F1AC9DF6A3BCF8834F13E54">6</a> </td>
+        <td>YP iTunes 1080P</td>
+        <td>&nbsp;</td>
+        <td><a href="subtitles/YP-WOY-02x25_26-1R-The_Family_Reunion-The_Rival.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5501148&amp;lid=7">Episode 27 (My Fair Hatey)</a></td>
+        <td> 1 2 3</td>
+        <td><a href="http://yp.coco-pommel.org/ypwoy/YP-WOY-02x27-1R-My_Fair_Hatey.mkv">1</a></td>
+        <td>   <a href="torrents/YP-WOY-02x27-1R-My_Fair_Hatey.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/54D1D746E0C8B07C833E44F01AAF2AD1AB338B00.torrent">4</a> <a href="http://torcache.net/torrent/54D1D746E0C8B07C833E44F01AAF2AD1AB338B00.torrent">5</a> <a href="magnet:?xt=urn:btih:54D1D746E0C8B07C833E44F01AAF2AD1AB338B00">6</a>    
+</td>
+        <td>YP iTunes 1080P</td>
+        <td>&nbsp;</td>
+        <td><a href="subtitles/YP-WOY-02x27-1R-My_Fair_Hatey.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512104&amp;lid=7">Episode 28</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512105&amp;lid=7">29</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512104&amp;lid=7">The Legend</a> &amp; 	<a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512105&amp;lid=7">The Bad Neighbors</a>)</td>
+        <td>1 2 3</td>
+        <td><a href="http://yp.coco-pommel.org/ypwoy/YP-WOY-05x28_29-1R-The_Legend-The_Bad_Neighbors.mkv">1</a></td>
+        <td>   <a href="torrents/YP-WOY-05x28_29-1R-The_Legend-The_Bad_Neighbors.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/D89177035DD2DB680C803414F2D930457661F40E.torrent">4</a> <a href="http://torcache.net/torrent/D89177035DD2DB680C803414F2D930457661F40E.torrent">5</a> <a href="magnet:?xt=urn:btih:D89177035DD2DB680C803414F2D930457661F40E">6</a>    
+</td>
+        <td>YP iTunes 1080P</td>
+        <td>&nbsp;</td>
+        <td><a href="subtitles/YP-WOY-05x28_29-1R-The_Legend-The_Bad_Neighbors.srt">Get</a></td>
       </tr>
     </tbody>
   </table>

@@ -1277,7 +1277,7 @@
 				<fileName><![CDATA[YP-7LQCC-05x15.mp4.torrent]]></fileName>
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:2E57D93F1CCB74DB89619E9307A4B6770A25D8D7]]></magnetURI>
 			</torrent>
-		</item>		
+		</item>
 		<item>
 			<title><![CDATA[My Little Pony Friendship is Magic - 5x16 - Made in Manehattan [720P.WEB-DL LQCC | YP-7LQCC-05x16.mp4 | YayPonies]]]></title>
 			<link>http://yp1.yayponies.no/torrents/YP-7LQCC-05x16.mp4.torrent</link>
@@ -1372,6 +1372,42 @@
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
 				<fileName><![CDATA[YP-7LQCC-05x23.mp4.torrent]]></fileName>
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:B4087E00BCCA26C6D6E6F7F7962BC2C60158217A]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x24 - The Mane Attraction [720P.WEB-DL LQCC | YP-7LQCC-05x24.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQCC-05x24.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality CC]]></category>
+			<pubDate>Wed, 09 Mar 2016 09:00:05 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Mane Attraction; Season: 5; Episode: 24]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQCC-05x24.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQCC-05x24.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:9BD99DA35A8CCFC88371443EAF17BBC32E2B6C2F]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x25 - The Cutie Remark, Part 1 [720P.WEB-DL LQCC | YP-7LQCC-05x25.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQCC-05x25.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality CC]]></category>
+			<pubDate>Wed, 09 Mar 2016 09:00:05 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Cutie Remark, Part 1; Season: 5; Episode: 25]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQCC-05x25.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQCC-05x25.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:10911CEA82EC7C83266C8BF579C00D4DB5044EC2]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 5x26 - The Cutie Remark, Part 2 [720P.WEB-DL LQCC | YP-7LQCC-05x26.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQCC-05x26.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality CC]]></category>
+			<pubDate>Wed, 09 Mar 2016 09:00:05 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Cutie Remark, Part 2; Season: 5; Episode: 26]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQCC-05x26.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQCC-05x26.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:1D01A97E5A42CE30179E4C41876BD714168C1077]]></magnetURI>
 			</torrent>
 		</item>
 	</channel>
