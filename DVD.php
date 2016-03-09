@@ -18,7 +18,7 @@
                     We seed them when we can, we will eventually stop seeding if we need the disk space or the network resource,
                     so  please help and keep seeding them !
                 </p>
-                <table width="670" height="532" align="center">
+                <table width="676" height="532" align="center">
                     <tbody>
                         <tr>
                             <th width="267" height="20">Name</th>
@@ -200,6 +200,37 @@
                             <td><a href="/torrents/YP-DVD-S03D02.ISO.torrent">1</a> 2 <a href="http://zoink.it/torrent/CEED183B45E9537BF066DA66D39F385B89BE215E.torrent">3</a> 4 <a href="http://torcache.net/torrent/CEED183B45E9537BF066DA66D39F385B89BE215E.torrent">5</a> <a href="magnet:?xt=urn:btih:CEED183B45E9537BF066DA66D39F385B89BE215E">6</a> </td>
                             <td>5fe30d5f581c8adcdcdc57d75dcf293d</td>
                         </tr>
+                        <tr>
+                          <td height="20">--------------------------</td>
+                          <td>--------------------------</td>
+                          <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td height="20">My Little Pony - Season 4 DVD Pack :</td>
+                          <td>&nbsp;</td>
+                          <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td>Disk 1 of 4</td>
+                          <td>   <a href="/torrents/YP-DVD-S04D01.iso.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/1CFF264164D87168A6C11C5664C48792029044B2.torrent">4</a> <a href="http://torcache.net/torrent/1CFF264164D87168A6C11C5664C48792029044B2.torrent">5</a> <a href="magnet:?xt=urn:btih:1CFF264164D87168A6C11C5664C48792029044B2">6</a>    
+</td>
+                          <td>05f49b3d0e87d38925f7ac8fe6e5efaf</td>
+                        </tr>
+                        <tr>
+                          <td>Disk 2 of 4</td>
+                          <td><a href="/torrents/YP-DVD-S04D02.iso.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/534B640871A65134D3EE20E3B30BC1EBC91B48A4.torrent">4</a> <a href="http://torcache.net/torrent/534B640871A65134D3EE20E3B30BC1EBC91B48A4.torrent">5</a> <a href="magnet:?xt=urn:btih:534B640871A65134D3EE20E3B30BC1EBC91B48A4">6</a> </td>
+                          <td>91db4fc5e681592f6f1e6d50050d6089</td>
+                        </tr>
+                        <tr>
+                          <td>Disk 3 of 4</td>
+                          <td><a href="/torrents/YP-DVD-S04D03.iso.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/DEFCBD92C8C1F1BAABC469BCE454D6BCC0804435.torrent">4</a> <a href="http://torcache.net/torrent/DEFCBD92C8C1F1BAABC469BCE454D6BCC0804435.torrent">5</a> <a href="magnet:?xt=urn:btih:DEFCBD92C8C1F1BAABC469BCE454D6BCC0804435">6</a> </td>
+                          <td>f8e643c3b576486945405dfbf5b48dc3</td>
+                        </tr>
+                        <tr>
+                          <td>Disk 4 of 4</td>
+                          <td><a href="/torrents/YP-DVD-S04D04.iso.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/7B29766367C09D5D75ABE98E2EE35C0B70713C3B.torrent">4</a> <a href="http://torcache.net/torrent/7B29766367C09D5D75ABE98E2EE35C0B70713C3B.torrent">5</a> <a href="magnet:?xt=urn:btih:7B29766367C09D5D75ABE98E2EE35C0B70713C3B">6</a></td>
+                          <td>96d6b346e2849bef427f1a08c3fd863a</td>
+                        </tr>
                     </tbody>
                 </table>
 
@@ -210,7 +241,7 @@
                     <input type="checkbox" id="check" onclick="javascript:checkDisplay('check', 'junk')"/>
                     Display junk iso <br />
                     I understand that YayPonies isn't responsible for broken download in &quot;JUNK&quot;
-                <p>
+              <p>
             </div>
             <div id="junk">
                 <table width="731" height="48" align="center">
