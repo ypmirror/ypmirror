@@ -1,0 +1,1 @@
+<div id=msg><strong>Hello, It's me the red message again, Season 6 start March 26th! and, <br />we need iTunes card (US Cards only) to purchase the season! <br /> If you want to give us one (or many), send us the code at <a href="mailto:contact@yayponies.eu" style="color:white">contact@yayponies.eu</a></strong></div>
