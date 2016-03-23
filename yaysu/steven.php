@@ -377,7 +377,7 @@
       <tr>
 	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5211997&lid=7">Episode 24</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5211997&lid=7">Too Far</a>)</td>
 	<td><a href="https://mega.nz/#!00hUyAQL!ud4EyIMvSqyc2_fHmLYAseDwx0xBwb2JUW7nlC11GZU">1</a> 2 3</td>
-	<td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x24-DerpyHooves.mkv">1</a></td>
+	<td><a href="https://ypdl.sandpox.org/YP-SU-1TV-02x24-DerpyHooves.mkv">1</a></td>
 	<td><a href="torrents/YP-SU-1TV-02x24-DerpyHooves.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/14265206BF0F3C520883B1B71E2F77C6A21750FD.torrent">4</a> <a href="http://torcache.net/torrent/14265206BF0F3C520883B1B71E2F77C6A21750FD.torrent">5</a> <a href="magnet:?xt=urn:btih:14265206BF0F3C520883B1B71E2F77C6A21750FD">6</a></td>
 	<td>TV Spazz 1080P</td>
 	<td>embedded</td>
@@ -385,7 +385,7 @@
 	  <tr>
 	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363793&lid=7">Episode 26</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363793&lid=7">Steven's Birthday</a>)</td>
 	<td><a href="https://mega.nz/#!99JCFQoS!e6l0zSp9y7_I5DI5WwvrPAWrVdA0BS-07pMRy_BKGxQ">1</a> 2 3</td>
-	<td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x26-Spazz.mkv">1</a></td>
+	<td><a href="https://ypdl.sandpox.org/YP-SU-1TV-02x26-Spazz.mkv">1</a></td>
 	<td> <a href="torrents/YP-SU-1TV-02x26-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/ED337903F697FB550855329DF68E67C8F221DF2C.torrent">4</a> <a href="http://torcache.net/torrent/ED337903F697FB550855329DF68E67C8F221DF2C.torrent">5</a> <a href="magnet:?xt=urn:btih:ED337903F697FB550855329DF68E67C8F221DF2C">6</a></td>
 	<td>TV Spazz 1080P</td>
 	<td>embedded</td>
@@ -393,7 +393,7 @@
 	  <tr>
 	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363797&lid=7">Episode 28</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363797&lid=7">Message Received</a>)</td>
 	<td><a href="https://mega.nz/#!8gglgZjK!j2Gx_hpIFoSrOL7oQ-MzMPQp7SyzCPDRU359d7mUOkc">1</a> 2 3</td>
-	<td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x28-Spazz.mkv">1</a></td>
+	<td><a href="https://ypdl.sandpox.org/YP-SU-1TV-02x28-Spazz.mkv">1</a></td>
 	<td><a href="torrents/YP-SU-1TV-02x28-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/360FFA93B0CA7C0C62586341968A2AB12E088821.torrent">4</a> <a href="http://torcache.net/torrent/360FFA93B0CA7C0C62586341968A2AB12E088821.torrent">5</a> <a href="magnet:?xt=urn:btih:360FFA93B0CA7C0C62586341968A2AB12E088821">6</a></td>
 	<td>TV Spazz 1080P</td>
 	<td>embedded</td>
