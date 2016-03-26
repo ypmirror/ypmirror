@@ -87,12 +87,13 @@
                         <tr>
                             <td> I want to download: </td>
                             <td>
-                                <select size="6" name="DownloadSeason" onchange="javascript:dynamicList();">
+                                <select size="7" name="DownloadSeason" onchange="javascript:dynamicList();">
                                     <option value="1">Season 1</option>
                                     <option value="2">Season 2</option>
                                     <option value="3">Season 3</option>
                                     <option value="4">Season 4</option>
-                                    <option value="5" selected>Season 5</option>
+                                    <option value="5">Season 5</option>
+                                    <option value="6" selected>Season 6</option>
                                 </select>
                             </td>
                             <td>from:</td>
@@ -187,6 +188,10 @@
                         <td> Season 5 (1080p) </td>
                     </tr>
                     <tr>
+                        <td> <a href="permalink.php?link=episodes/1z6">1z6</a> </td>
+                        <td> Season 6 (1080p) </td>
+                    </tr>
+                    <tr>
                         <td> <a href="permalink.php?link=episodes/7z1">7z1</a> </td>
                         <td> Season 1 (720p) </td>
                     </tr>
@@ -205,6 +210,10 @@
                     <tr>
                         <td> <a href="permalink.php?link=episodes/7z5">7z5</a> </td>
                         <td> Season 5 (720p) </td>
+                    </tr>
+                    <tr>
+                        <td> <a href="permalink.php?link=episodes/7z6">7z6</a> </td>
+                        <td> Season 6 (720p) </td>
                     </tr>
 
                     <tr> <th colspan="2"> iTunes US Raw </th> </tr>
@@ -229,6 +238,10 @@
                         <td> Season 5 (1080p) </td>
                     </tr>
                     <tr>
+                        <td> <a href="permalink.php?link=episodes/1i6">1i6</a> </td>
+                        <td> Season 6 (1080p) </td>
+                    </tr>
+                    <tr>
                         <td> <a href="permalink.php?link=episodes/7i1">7i1</a> </td>
                         <td> Season 1 (720p) </td>
                     </tr>
@@ -247,6 +260,10 @@
                     <tr>
                         <td> <a href="permalink.php?link=episodes/7i5">7i5</a> </td>
                         <td> Season 5 (720p) </td>
+                    </tr>
+                    <tr>
+                        <td> <a href="permalink.php?link=episodes/7i6">7i6</a> </td>
+                        <td> Season 6 (720p) </td>
                     </tr>
 
                     <tr> <th colspan="2"> TVRips by MENTOS/Spazz </th> </tr>
@@ -270,6 +287,10 @@
                         <td> <a href="permalink.php?link=episodes/1t5">1t5</a> </td>
                         <td> Season 5 (1080p) </td>
                     </tr>
+                    <tr>
+                        <td> <a href="permalink.php?link=episodes/1t6">1t6</a> </td>
+                        <td> Season 6 (1080p) </td>
+                    </tr>
 
                     <tr> <th colspan="2"> Low Quality Encode </th> </tr>
                     <tr>
@@ -292,6 +313,10 @@
                         <td> <a href="permalink.php?link=episodes/7l5">7l5</a> </td>
                         <td> Season 5 (720p) </td>
                     </tr>
+                    <tr>
+                        <td> <a href="permalink.php?link=episodes/7l6">7l6</a> </td>
+                        <td> Season 6 (720p) </td>
+                    </tr>
 
                     <tr> <th colspan="2"> Low Quality Encode, Color Corrected </th> </tr>
                     <tr>
@@ -313,6 +338,10 @@
                     <tr>
                         <td> <a href="permalink.php?link=episodes/7lz5">7lz5</a> </td>
                         <td> Season 5 (720p) </td>
+                    </tr>
+                    <tr>
+                        <td> <a href="permalink.php?link=episodes/7lz6">7lz6</a> </td>
+                        <td> Season 6 (720p) </td>
                     </tr>
 
                     <tr> <th colspan="2"> Scootaloo TVrip (Unsupported) </th> </tr>
