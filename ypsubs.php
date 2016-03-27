@@ -36,7 +36,8 @@
                                     <option value="ypsubeqg"> Equestria Girls</option>
                                     <option value="ypsub4"> MLP FiM Season 4</option>
                                     <option value="ypsubeqg2"> Equestria Girls, Rainbow Rocks</option>
-                                    <option value="ypsub5" selected> MLP FiM Season 5</option>
+                                    <option value="ypsub5"> MLP FiM Season 5</option>
+                                    <option value="ypsub6" selected> MLP FiM Season 6</option>
                                 </select>
                             </td>
                             <td>

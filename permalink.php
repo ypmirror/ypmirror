@@ -115,6 +115,7 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = ypsubs/ypsub4" -->YP Subtitles for MLP FiM Season 4
 <!--#elif expr="$link = ypsubs/ypsub5" -->YP Subtitles for MLP FiM Season 5
 <!--#elif expr="$link = ypsubs/ypsubeqg2" -->Subtitles for Equestria Girls Rainbow Rocks.
+<!--#elif expr="$link = ypsubs/ypsub6" -->YP Subtitles for MLP FiM Season 6
 <!--#else -->Error - No title<!--#endif -->
 </h3>
 <br>
