@@ -1410,6 +1410,30 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:1D01A97E5A42CE30179E4C41876BD714168C1077]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x01 - The Crystalling, Part 1 [720P.WEB-DL LQCC | YP-7LQCC-06x01.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQCC-06x01.mp4.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality CC]]></category>
+			<pubDate>Mon, 28 Mar 2016 09:00:06 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Crystalling, Part 1; Season: 6; Episode: 01]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQCC-06x01.mp4.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQCC-06x01.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:AFA6780DEF2AECB2F2C98E658FFE3C657F4F152F]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x02 - The Crystalling, Part 2 [720P.WEB-DL LQCC | YP-7LQCC-06x02.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQCC-06x02.mp4.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality CC]]></category>
+			<pubDate>Mon, 28 Mar 2016 09:00:06 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Crystalling, Part 2; Season: 6; Episode: 01]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQCC-06x02.mp4.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQCC-06x02.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:50ED1F689BB355044DD8060DE99C777C391F573C]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
