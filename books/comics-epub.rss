@@ -478,6 +478,18 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:B081FC0386D52F349CE702E26CC003BA798BEB5B]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony, Friendship is Magic Comic #40 [iBook EPUB | YP-EPUB-COMIC40.epub | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-EPUB-COMIC40.epub.torrent</link>
+			<category domain="http://yp1.yayponies.no/book.php"><![CDATA[Main Series / EPUB]]></category>
+			<pubDate>Tue, 29 Mar 2016 00:00:01 -0500</pubDate>
+			<description><![CDATA[Comic Name: My Little Pony, Friendship is Magic; #40]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-EPUB-COMIC40.epub.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-EPUB-COMIC40.epub.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:EED5906998A783920E051083916B10844C72AC68]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->

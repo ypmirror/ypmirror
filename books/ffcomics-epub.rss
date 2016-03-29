@@ -294,18 +294,30 @@
                 <magnetURI><![CDATA[magnet:?xt=urn:btih:FBAB91152F57C9F3F31AB7749116F4F2FF2DA82B]]></magnetURI>
             </torrent>
         </item>
-				<item>
-						<title><![CDATA[My Little Pony, Friends Forever Comic #25 [iBook EPUB | YP-EPUB-FFCOMIC25.epub | YayPonies]]]></title>
-						<link>http://yp1.yayponies.no/torrents/YP-EPUB-FFCOMIC25.epub.torrent</link>
-						<category domain="http://yp1.yayponies.no/book.php"><![CDATA[Friends Forever / EPUB]]></category>
-						<pubDate>Tue, 16 Feb 2016 00:00:01 -0500</pubDate>
-						<description><![CDATA[Comic Name: My Little Pony, Friends Forever; #25]]></description>
-						<enclosure url="http://yp1.yayponies.no/torrents/YP-EPUB-FFCOMIC25.epub.torrent" type="application/x-bittorrent" />
-						<torrent xmlns="http://xmlns.ezrss.it/0.1/">
-								<fileName><![CDATA[YP-EPUB-FFCOMIC25.epub.torrent]]></fileName>
-								<magnetURI><![CDATA[magnet:?xt=urn:btih:4F6B5F2E35DE6223D0044F184922108495218E30]]></magnetURI>
-						</torrent>
-				</item>
+		<item>
+			<title><![CDATA[My Little Pony, Friends Forever Comic #25 [iBook EPUB | YP-EPUB-FFCOMIC25.epub | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-EPUB-FFCOMIC25.epub.torrent</link>
+			<category domain="http://yp1.yayponies.no/book.php"><![CDATA[Friends Forever / EPUB]]></category>
+			<pubDate>Tue, 16 Feb 2016 00:00:01 -0500</pubDate>
+			<description><![CDATA[Comic Name: My Little Pony, Friends Forever; #25]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-EPUB-FFCOMIC25.epub.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+					<fileName><![CDATA[YP-EPUB-FFCOMIC25.epub.torrent]]></fileName>
+					<magnetURI><![CDATA[magnet:?xt=urn:btih:4F6B5F2E35DE6223D0044F184922108495218E30]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony, Friends Forever Comic #26 [iBook EPUB | YP-EPUB-FFCOMIC26.epub | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-EPUB-FFCOMIC26.epub.torrent</link>
+			<category domain="http://yp1.yayponies.no/book.php"><![CDATA[Friends Forever / EPUB]]></category>
+			<pubDate>Tue, 29 Mar 2016 00:00:01 -0500</pubDate>
+			<description><![CDATA[Comic Name: My Little Pony, Friends Forever; #26]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-EPUB-FFCOMIC26.epub.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+					<fileName><![CDATA[YP-EPUB-FFCOMIC26.epub.torrent]]></fileName>
+					<magnetURI><![CDATA[magnet:?xt=urn:btih:40367FB72C611E52E3E3D6A8D1B837637E0E4F52]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->

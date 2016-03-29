@@ -306,6 +306,18 @@
 								<magnetURI><![CDATA[magnet:?xt=urn:btih:C3151B5B1C43122E31D280329F16A917B368C758]]></magnetURI>
 						</torrent>
 				</item>
+				<item>
+						<title><![CDATA[My Little Pony, Friends Forever Comic #26 [ PDF | YP-PDF-FFCOMIC26.pdf | YayPonies]]]></title>
+						<link>http://yp1.yayponies.no/torrents/YP-PDF-FFCOMIC26.pdf.torrent</link>
+						<category domain="http://yp1.yayponies.no/book.php"><![CDATA[Friends Forever / PDF]]></category>
+						<pubDate>Tue, 29 Mar 2016 00:00:01 -0500</pubDate>
+						<description><![CDATA[Comic Name: My Little Pony, Friends Forever; #26]]></description>
+						<enclosure url="http://yp1.yayponies.no/torrents/YP-PDF-FFCOMIC26.pdf.torrent" type="application/x-bittorrent" />
+						<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+								<fileName><![CDATA[YP-PDF-FFCOMIC26.pdf.torrent]]></fileName>
+								<magnetURI><![CDATA[magnet:?xt=urn:btih:0CB55C97C271B0DA19B454C21C3B42E721C3B9CC]]></magnetURI>
+						</torrent>
+				</item>
 	</channel>
 </rss>
 <!-- live  -->
