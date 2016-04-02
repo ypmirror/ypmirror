@@ -1434,6 +1434,18 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:501A82C6A4A437ADBA26D660A3D3EEFED1DAFB14]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x03 - The Gift of Maud Pie [1080P.HDTV (SPAZZ) | YP-1TV-06x03-Spazz.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-1TV-06x03-Spazz.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 1080P HDTV Rip]]></category>
+			<pubDate>Sat, 2 Apr 2016 09:00:05 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Gift of Maud Pie; Season: 6; Episode: 03]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-1TV-06x03-Spazz.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-1TV-06x03-Spazz.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:0648EC32A1B1EB646239B048674F2778F0A69F55]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
