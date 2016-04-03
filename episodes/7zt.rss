@@ -1434,6 +1434,18 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:1C174F8F6A9A694F7B39CB228D7C9598320CD137]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x03 - The Gift of Maud Pie [720P.WEB-DL CC | YP-7Z-06x03.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7Z-06x03.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 720P CC by ZR]]></category>
+			<pubDate>Sun, 3 Apr 2016 09:00:06 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Gift of Maud Pie; Season: 6; Episode: 03]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7Z-06x03.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7Z-06x03.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:D5BE0EAFD5E8ACFBBA118581430BCA63DFD4933E]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
