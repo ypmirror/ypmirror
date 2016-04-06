@@ -318,6 +318,18 @@
 								<magnetURI><![CDATA[magnet:?xt=urn:btih:0CB55C97C271B0DA19B454C21C3B42E721C3B9CC]]></magnetURI>
 						</torrent>
 				</item>
+				<item>
+					<title><![CDATA[My Little Pony, Friends Forever Comic #27 [ PDF | YP-PDF-FFCOMIC27.pdf | YayPonies]]]></title>
+					<link>http://yp1.yayponies.no/torrents/YP-PDF-FFCOMIC27.pdf.torrent</link>
+					<category domain="http://yp1.yayponies.no/book.php"><![CDATA[Friends Forever / PDF]]></category>
+					<pubDate>Wed, 6 Apr 2016 00:00:01 -0500</pubDate>
+					<description><![CDATA[Comic Name: My Little Pony, Friends Forever; #27]]></description>
+					<enclosure url="http://yp1.yayponies.no/torrents/YP-PDF-FFCOMIC27.pdf.torrent" type="application/x-bittorrent" />
+					<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+							<fileName><![CDATA[YP-PDF-FFCOMIC27.pdf.torrent]]></fileName>
+							<magnetURI><![CDATA[magnet:?xt=urn:btih:E1EAF480A91975F8A9553B4D72112D02735B3B11]]></magnetURI>
+					</torrent>
+				</item>
 	</channel>
 </rss>
 <!-- live  -->

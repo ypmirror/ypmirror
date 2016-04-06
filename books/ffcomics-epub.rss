@@ -318,6 +318,18 @@
 					<magnetURI><![CDATA[magnet:?xt=urn:btih:40367FB72C611E52E3E3D6A8D1B837637E0E4F52]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony, Friends Forever Comic #27 [iBook EPUB | YP-EPUB-FFCOMIC27.epub | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-EPUB-FFCOMIC27.epub.torrent</link>
+			<category domain="http://yp1.yayponies.no/book.php"><![CDATA[Friends Forever / EPUB]]></category>
+			<pubDate>Wed, 6 Apr 2016 00:00:01 -0500</pubDate>
+			<description><![CDATA[Comic Name: My Little Pony, Friends Forever; #27]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-EPUB-FFCOMIC27.epub.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+					<fileName><![CDATA[YP-EPUB-FFCOMIC27.epub.torrent]]></fileName>
+					<magnetURI><![CDATA[magnet:?xt=urn:btih:CCDF456DB12C993C810BB81FC2C9CC5632261ED4]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
