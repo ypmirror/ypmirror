@@ -1413,7 +1413,7 @@
 		<item>
 			<title><![CDATA[My Little Pony Friendship is Magic - 6x01 - The Crystalling, Part 1 [720P.WEB-DL LQCC | YP-7LQCC-06x01.mp4 | YayPonies]]]></title>
 			<link>http://yp1.yayponies.no/torrents/YP-7LQCC-06x01.mp4.torrent</link>
-			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality CC]]></category>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 720P Low Quality CC]]></category>
 			<pubDate>Mon, 28 Mar 2016 09:00:06 -0200</pubDate>
 			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Crystalling, Part 1; Season: 6; Episode: 01]]></description>
 			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQCC-06x01.mp4.torrent" type="application/x-bittorrent" />
@@ -1425,9 +1425,9 @@
 		<item>
 			<title><![CDATA[My Little Pony Friendship is Magic - 6x02 - The Crystalling, Part 2 [720P.WEB-DL LQCC | YP-7LQCC-06x02.mp4 | YayPonies]]]></title>
 			<link>http://yp1.yayponies.no/torrents/YP-7LQCC-06x02.mp4.torrent</link>
-			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality CC]]></category>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 720P Low Quality CC]]></category>
 			<pubDate>Mon, 28 Mar 2016 09:00:06 -0200</pubDate>
-			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Crystalling, Part 2; Season: 6; Episode: 01]]></description>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Crystalling, Part 2; Season: 6; Episode: 02]]></description>
 			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQCC-06x02.mp4.torrent" type="application/x-bittorrent" />
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
 				<fileName><![CDATA[YP-7LQCC-06x02.mp4.torrent]]></fileName>
@@ -1437,13 +1437,25 @@
 		<item>
 			<title><![CDATA[My Little Pony Friendship is Magic - 6x03 - The Gift of Maud Pie [720P.WEB-DL LQCC | YP-7LQCC-06x03.mp4 | YayPonies]]]></title>
 			<link>http://yp1.yayponies.no/torrents/YP-7LQCC-06x03.mp4.torrent</link>
-			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 5 / 720P Low Quality CC]]></category>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 720P Low Quality CC]]></category>
 			<pubDate>Sun, 3 Apr 2016 09:00:06 -0200</pubDate>
-			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Gift of Maud Pie; Season: 6; Episode: 01]]></description>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Gift of Maud Pie; Season: 6; Episode: 03]]></description>
 			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQCC-06x03.mp4.torrent" type="application/x-bittorrent" />
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
 				<fileName><![CDATA[YP-7LQCC-06x03.mp4.torrent]]></fileName>
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:14B5B35B6E9ADAA9669E207F80567DB3A2FD5372]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x04 - On Your Marks [720P.WEB-DL LQCC | YP-7LQCC-06x04.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQCC-06x04.mp4.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 720P Low Quality CC]]></category>
+			<pubDate>Sun, 10 Apr 2016 09:00:06 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: On Your Marks; Season: 6; Episode: 04]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQCC-06x04.mp4.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQCC-06x04.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:5B68E6E6E6EBBCB20BCCE45EFD1E46747B1BDAC0]]></magnetURI>
 			</torrent>
 		</item>
 	</channel>

@@ -1451,6 +1451,18 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:7A043DA27BA00E4571565A8925C90760C0127A6E]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x04 - On Your Marks [1080P.WEB-DL CC | YP-1Z-06x04.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-1Z-06x04.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 1080P CC by ZR]]></category>
+			<pubDate>Sun, 10 Apr 2016 09:00:06 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: On Your Marks; Season: 6; Episode: 04]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-1Z-06x04.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-1Z-06x04.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:1A23881273EC3B2FFECB8F470D27F57A0D718E95]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
