@@ -1458,6 +1458,18 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:8BE38266E6E40A77170ED6C39372E6EE9755BF98]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x05 - Gauntlet of Fire [1080P.HDTV (SPAZZ) | YP-1TV-06x05-Spazz.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-1TV-06x05-Spazz.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 1080P HDTV Rip]]></category>
+			<pubDate>Sat, 16 Apr 2016 09:00:05 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Gauntlet of Fire; Season: 6; Episode: 05]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-1TV-06x05-Spazz.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-1TV-06x05-Spazz.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:482E0808ACF287CDEF069DC1664E984EE92F1031]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
