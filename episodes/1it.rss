@@ -1459,15 +1459,15 @@
 			</torrent>
 		</item>
 		<item>
-			<title><![CDATA[My Little Pony Friendship is Magic - 6x05 - Gauntlet of Fire [1080P.WEB-DL TEMP | YP-1T-06x05.mkv | YayPonies]]]></title>
-			<link>http://yp1.yayponies.no/torrents/YP-1T-06x05.mkv.torrent</link>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x05 - Gauntlet of Fire [1080P.WEB-DL | YP-1R-06x05.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-1R-06x05.mkv.torrent</link>
 			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 1080P iTunes Raw]]></category>
-			<pubDate>Sun, 17 Apr 2016 09:00:06 -0200</pubDate>
+			<pubDate>Thu, 21 Apr 2016 09:00:06 -0200</pubDate>
 			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Gauntlet of Fire; Season: 6; Episode: 05]]></description>
-			<enclosure url="http://yp1.yayponies.no/torrents/YP-1T-06x05.mkv.torrent" type="application/x-bittorrent" />
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-1R-06x05.mkv.torrent" type="application/x-bittorrent" />
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
-				<fileName><![CDATA[YP-1T-06x05.mkv.torrent]]></fileName>
-				<magnetURI><![CDATA[magnet:?xt=urn:btih:264BBE2E6E3F73254C2A401FB11B50FC4F8A3932]]></magnetURI>
+				<fileName><![CDATA[YP-1R-06x05.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:CADC3102319F6378F2A3B177C470F5EE1FAA2615]]></magnetURI>
 			</torrent>
 		</item>
 	</channel>

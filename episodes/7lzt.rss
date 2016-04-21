@@ -1458,6 +1458,18 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:5B68E6E6E6EBBCB20BCCE45EFD1E46747B1BDAC0]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x05 - Gauntlet of Fire [720P.WEB-DL LQCC | YP-7LQCC-06x05.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQCC-06x05.mp4.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 720P Low Quality CC]]></category>
+			<pubDate>Thu, 21 Apr 2016 09:00:06 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Gauntlet of Fire; Season: 6; Episode: 05]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQCC-06x05.mp4.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQCC-06x05.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:54236D1522B951BF9E9B95930CC4004023901306]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
