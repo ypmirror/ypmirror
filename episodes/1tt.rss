@@ -1470,6 +1470,18 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:482E0808ACF287CDEF069DC1664E984EE92F1031]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x06 - No Second Prances [1080P.HDTV (SPAZZ) | YP-1TV-06x06-SpazzDHN.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-1TV-06x06-SpazzDHN.mp4.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 1080P HDTV Rip]]></category>
+			<pubDate>Sat, 30 Apr 2016 09:00:05 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: No Second Prances; Season: 6; Episode: 06]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-1TV-06x06-SpazzDHN.mp4.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-1TV-06x06-SpazzDHN.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:DB7E2E8A1AC450A1B718856800310ACB45B41430]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
