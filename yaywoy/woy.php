@@ -4,7 +4,7 @@
 <center>
   <p>Welcome to the download page for Wander over Yonder. Direct links are hosted by <a href="http://www.derpyhoovesnews.com/">DHN</a> and <a href="http://coco-pommel.org/">Coco Pommel</a>, our sincerest thanks to you awesome people! If you have are facing difficulties in using the direct download with the direct link, right click on the link and click on &quot;Save link as...&quot; in the list, </p>
   <p>iTunes HD 1080P Season 2:</p>
-  <table width="735" height="385" align="center">
+  <table width="735" height="407" align="center">
     <tbody>
       <tr>
         <th width="292" height="27">Name </th>
@@ -160,6 +160,15 @@
         <td>YP iTunes 1080P</td>
         <td>&nbsp;</td>
         <td><a href="subtitles/YP-WOY-05x28_29-1R-The_Legend-The_Bad_Neighbors.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512106&amp;lid=7">Episode 30</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512107&amp;lid=7">31</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512106&amp;lid=7">The Party Poopers</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512107&amp;lid=7">The Waste of Time</a>)</td>
+        <td><a href="https://mega.nz/#!gcAk1RgB!XauLoeKfNzuryZtOumJ8CXka5FIaoTsG5wjEqPDJGdM">1</a> 2 3</td>
+        <td><a href="http://yp.coco-pommel.org/ypwoy/YP-WOY-02x30_31-1R-The_Party_Poopers-The_Waste_of_Time.mkv">1</a></td>
+        <td><a href="/torrents/YP-WOY-02x30_31-1R-The_Party_Poopers-The_Waste_of_Time.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/B3C0FF29DB06BDD81855096A829B6230067B61D9.torrent">4</a> <a href="http://torcache.net/torrent/B3C0FF29DB06BDD81855096A829B6230067B61D9.torrent">5</a> <a href="magnet:?xt=urn:btih:B3C0FF29DB06BDD81855096A829B6230067B61D9">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td>&nbsp;</td>
+        <td><a href="subtitles/YP-WOY-02x30_31-1R-The_Party_Poopers-The_Waste_of_Time.srt">Get</a></td>
       </tr>
     </tbody>
   </table>
