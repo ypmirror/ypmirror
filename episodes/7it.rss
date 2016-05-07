@@ -1471,15 +1471,15 @@
 			</torrent>
 		</item>		
 		<item>
-			<title><![CDATA[My Little Pony Friendship is Magic - 6x06 - No Second Prances [720P.WEB-DL TEMP | YP-7T-06x06.mkv | YayPonies]]]></title>
-			<link>http://yp1.yayponies.no/torrents/YP-7T-06x06.mkv.torrent</link>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x06 - No Second Prances [720P.WEB-DL | YP-7R-06x06.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7R-06x06.mkv.torrent</link>
 			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 720P iTunes Raw]]></category>
-			<pubDate>Sun, 1 May 2016 09:00:06 -0200</pubDate>
+			<pubDate>Sun, 01 May 2016 09:00:07 -0200</pubDate>
 			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: No Second Prances; Season: 6; Episode: 06]]></description>
-			<enclosure url="http://yp1.yayponies.no/torrents/YP-7T-06x06.mkv.torrent" type="application/x-bittorrent" />
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7R-06x06.mkv.torrent" type="application/x-bittorrent" />
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
-				<fileName><![CDATA[YP-7T-06x06.mkv.torrent]]></fileName>
-				<magnetURI><![CDATA[magnet:?xt=urn:btih:ECBF393423426693CB7187E2E3DD419963A15153]]></magnetURI>
+				<fileName><![CDATA[YP-7R-06x06.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:F798E7AA86832BC77BF161573E4265C8C5A7545B]]></magnetURI>
 			</torrent>
 		</item>
 	</channel>

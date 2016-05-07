@@ -1452,10 +1452,34 @@
 			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 720P Low Quality]]></category>
 			<pubDate>Sun, 10 Apr 2016 09:00:06 -0200</pubDate>
 			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: On Your Marks; Season: 6; Episode: 04]]></description>
-			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQ-06x03.mp4.torrent" type="application/x-bittorrent" />
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQ-06x04.mp4.torrent" type="application/x-bittorrent" />
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
 				<fileName><![CDATA[YP-7LQ-06x04.mp4.torrent]]></fileName>
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:CA773DC04343ECC2BCD15942C877F14AA0E3FCA5]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x05 - Gauntlet of Fire [720P.WEB-DL LQ | YP-7LQ-06x05.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQ-06x05.mp4.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 720P Low Quality]]></category>
+			<pubDate>Sun, 01 May 2016 09:00:06 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Gauntlet of Fire; Season: 6; Episode: 05]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQ-06x05.mp4.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQ-06x05.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:757837629CD19E8CC223598F24ECCB48BCAC904A]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x06 - No Second Prances [720P.WEB-DL LQ | YP-7LQ-06x06.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQ-06x06.mp4.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 720P Low Quality]]></category>
+			<pubDate>Sun, 01 May 2016 09:00:06 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: No Second Prances; Season: 6; Episode: 06]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQ-06x06.mp4.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQ-06x06.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:902D4B8DF22143166CD52D26FFFD813FD8CA20E9]]></magnetURI>
 			</torrent>
 		</item>
 	</channel>
