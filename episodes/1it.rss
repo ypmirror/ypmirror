@@ -1483,15 +1483,15 @@
 			</torrent>
 		</item>
 		<item>
-			<title><![CDATA[My Little Pony Friendship is Magic - 6x07 - Newbie Dash [1080P.WEB-DL TEMP | YP-1T-06x07.mkv | YayPonies]]]></title>
-			<link>http://yp1.yayponies.no/torrents/YP-1T-06x07.mkv.torrent</link>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x07 - Newbie Dash [1080P.WEB-DL | YP-1R-06x07.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-1R-06x07.mkv.torrent</link>
 			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 1080P iTunes Raw]]></category>
-			<pubDate>Sun, 08 May 2016 09:00:07 -0200</pubDate>
+			<pubDate>Sun, 08 May 2016 09:00:08 -0200</pubDate>
 			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: Newbie Dash; Season: 6; Episode: 07]]></description>
-			<enclosure url="http://yp1.yayponies.no/torrents/YP-1T-06x07.mkv.torrent" type="application/x-bittorrent" />
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-1R-06x07.mkv.torrent" type="application/x-bittorrent" />
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
-				<fileName><![CDATA[YP-1T-06x07.mkv.torrent]]></fileName>
-				<magnetURI><![CDATA[magnet:?xt=urn:btih:087355BB25DE83DB673EE1B92C98572464AED555]]></magnetURI>
+				<fileName><![CDATA[YP-1R-06x07.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:22B756259BB01BA6B8502FC7AC672525263F6AD3]]></magnetURI>
 			</torrent>
 		</item>
 	</channel>
