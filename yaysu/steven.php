@@ -363,6 +363,31 @@
 </center>
 
 <center>
+<p>Season 2 iTunes RAW :</p>
+  <table width="752" align="center">
+    <tbody>
+      <tr>
+	<th width="396" height="27">Name </th>
+	<th width="76">Download </th>
+	<th width="57">Direct Download </th>
+	<th width="73">Torrents </th>
+	<th width="82">Info</th>
+	<th width="28">Subs</th>
+      </tr>
+	  <tr>
+	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576362&lid=7">Episode 1</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576363&lid=7">2</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576362&lid=7">Super Watermelon Island</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576363&lid=7">Gem Drill</a>)</td>
+	<td><a href="https://mega.nz/#!Y0ogEb5a!vBNtVtyHBK4DhJaLETLhilfodirV_YDf-rWlmrvR348">1</a> 2 3</td>
+	<td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x01_02.mkv">1</a></td>
+	<td><a href="torrents/YP-SU-1R-03x01_02.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/E135E1302C227F7C2F55A011623BF2FE7626128F.torrent">4</a> <a href="http://torcache.net/torrent/E135E1302C227F7C2F55A011623BF2FE7626128F.torrent">5</a> <a href="magnet:?xt=urn:btih:E135E1302C227F7C2F55A011623BF2FE7626128F">6</a></td>
+	<td>YP iTunes 1080P</td>
+	<td><a href="subtitles/YP-SU-1R-03x01_02.srt">Get</a></td>
+      </tr>
+	</tbody>
+  </table>
+</center>
+
+
+<center>
 <p>Season 2 TVRips :</p>
   <table width="752" align="center">
     <tbody>
