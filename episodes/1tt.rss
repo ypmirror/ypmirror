@@ -1471,15 +1471,15 @@
 			</torrent>
 		</item>
 		<item>
-			<title><![CDATA[My Little Pony Friendship is Magic - 6x06 - No Second Prances [1080P.HDTV (SPAZZ) | YP-1TV-06x06-SpazzDHN.mp4 | YayPonies]]]></title>
-			<link>http://yp1.yayponies.no/torrents/YP-1TV-06x06-SpazzDHN.mp4.torrent</link>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x06 - No Second Prances [1080P.HDTV (SPAZZ) | YP-1TV-06x06-Spazz.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-1TV-06x06-Spazz.mkv.torrent</link>
 			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 1080P HDTV Rip]]></category>
-			<pubDate>Sat, 30 Apr 2016 09:00:05 -0200</pubDate>
+			<pubDate>Sat, 14 May 2016 09:00:05 -0200</pubDate>
 			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: No Second Prances; Season: 6; Episode: 06]]></description>
-			<enclosure url="http://yp1.yayponies.no/torrents/YP-1TV-06x06-SpazzDHN.mp4.torrent" type="application/x-bittorrent" />
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-1TV-06x06-Spazz.mkv.torrent" type="application/x-bittorrent" />
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
-				<fileName><![CDATA[YP-1TV-06x06-SpazzDHN.mp4.torrent]]></fileName>
-				<magnetURI><![CDATA[magnet:?xt=urn:btih:DB7E2E8A1AC450A1B718856800310ACB45B41430]]></magnetURI>
+				<fileName><![CDATA[YP-1TV-06x06-Spazz.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:AD619D26150074D4FCF329160DAEFBABEE161C22]]></magnetURI>
 			</torrent>
 		</item>
 		<item>
@@ -1492,6 +1492,18 @@
 			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
 				<fileName><![CDATA[YP-1TV-06x07-Spazz.mkv.torrent]]></fileName>
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:A3E1D0DDBBF20AF083701FA637B097E0B179E673]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x08 - A Hearths Warming Tail [1080P.HDTV (SPAZZ) | YP-1TV-06x08-Spazz.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-1TV-06x08-Spazz.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 1080P HDTV Rip]]></category>
+			<pubDate>Sat, 14 May 2016 09:00:05 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: A Hearths Warming Tail; Season: 6; Episode: 08]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-1TV-06x08-Spazz.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-1TV-06x08-Spazz.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:925D539EA770B1E0058FBCDB02A3253E5B857217]]></magnetURI>
 			</torrent>
 		</item>
 	</channel>
