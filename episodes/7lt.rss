@@ -1494,6 +1494,18 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:6222A437F2663C4C0364072B94A3889314EA0039]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x08 - A Hearths Warming Tail [720P.WEB-DL LQ | YP-7LQ-06x08.mp4 | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7LQ-06x08.mp4.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 720P Low Quality]]></category>
+			<pubDate>Sun, 15 May 2016 09:00:06 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: A Hearths Warming Tail; Season: 6; Episode: 08]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7LQ-06x08.mp4.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7LQ-06x08.mp4.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:2B7164429E3083EF64E3C1A36004E36412F67CD4]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
