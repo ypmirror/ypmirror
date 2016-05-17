@@ -1,1 +1,0 @@
-<div id=msg><strong>YaySteven needs you! In order to pay the next volume of Steven Universe, you can send iTunes gift code to <a href="mailto:yaysteven@yayponies.eu" style="color:white">the YaySteven crew</a>. Thanks!</strong></div>
