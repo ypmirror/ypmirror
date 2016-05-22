@@ -1506,6 +1506,18 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:0CC1F0107E14179CF4CD6E39FCB2D7A3CC12CD8B]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x09 - Saddle Row and Rec [1080P.WEB-DL TEMP | YP-1T-06x09.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-1T-06x09.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 1080P iTunes Raw]]></category>
+			<pubDate>Sun, 22 May 2016 09:00:08 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: ASaddle Row and Rec; Season: 6; Episode: 09]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-1T-06x09.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-1T-06x09.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:917BF026F7A2C3C53387F538B0641525EB09A012]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
