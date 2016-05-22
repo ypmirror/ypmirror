@@ -1506,6 +1506,18 @@
 				<magnetURI><![CDATA[magnet:?xt=urn:btih:32E5308C463335FA28C6A8D9273EE868245769A9]]></magnetURI>
 			</torrent>
 		</item>
+		<item>
+			<title><![CDATA[My Little Pony Friendship is Magic - 6x09 - The Saddle Row Review [720P.WEB-DL CC | YP-7Z-06x09.mkv | YayPonies]]]></title>
+			<link>http://yp1.yayponies.no/torrents/YP-7Z-06x09.mkv.torrent</link>
+			<category domain="http://yp1.yayponies.no/episodes.php"><![CDATA[Season 6 / 720P CC by ZR]]></category>
+			<pubDate>Sun, 22 May 2016 09:00:06 -0200</pubDate>
+			<description><![CDATA[Show Name: My Little Pony: Friendship is Magic; Episode Title: The Saddle Row Review; Season: 6; Episode: 09]]></description>
+			<enclosure url="http://yp1.yayponies.no/torrents/YP-7Z-06x09.mkv.torrent" type="application/x-bittorrent" />
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[YP-7Z-06x09.mkv.torrent]]></fileName>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:233E8A313B1806F403D6D876BD10228F951166C2]]></magnetURI>
+			</torrent>
+		</item>
 	</channel>
 </rss>
 <!-- live  -->
