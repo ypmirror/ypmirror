@@ -423,4 +423,46 @@
 	<td>TV Spazz 1080P</td>
 	<td>embedded</td>
       </tr>
+	</tbody>
+  </table>
+</center>
 
+<center>
+<p>Season 3 TVRips :</p>
+  <table width="752" align="center">
+    <tbody>
+      <tr>
+	<th width="396" height="27">Name </th>
+	<th width="76">Download </th>
+	<th width="57">Direct Download </th>
+	<th width="73">Torrents </th>
+	<th width="82">Info</th>
+	<th width="28">Subs</th>
+      </tr>
+      <tr>
+	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576365&lid=7">Episode 3</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576365&lid=7">Same Old World</a>)</td>
+	<td><a href="https://mega.nz/#!Zo5SRDia!tZE0w5BrqCd_q8daetnpN-N_04NsLV8igyXzpghCleM">1</a> 2 3</td>
+	<td><a href="https://ypdl.sandpox.org/YP-SU-1TV-03x03-Spazz.mkv">1</a></td>
+	<td><a href="torrents/YP-SU-1TV-03x03-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/09E4D332702C6173A96A555E84E99720C68B682F.torrent">4</a> <a href="http://torcache.net/torrent/09E4D332702C6173A96A555E84E99720C68B682F.torrent">5</a> <a href="magnet:?xt=urn:btih:09E4D332702C6173A96A555E84E99720C68B682F">6</a></td>
+	<td>TV Spazz 1080P</td>
+	<td>embedded</td>
+      </tr>
+	  <tr>
+	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576364&lid=7">Episode 4</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576364&lid=7">Barn Mates</a>)</td>
+	<td><a href="https://mega.nz/#!xh4hAYQY!Ily1VDwJWChKvuKTqYheXN86xRQ7g_Xl9ccmZW4kTcw">1</a> 2 3</td>
+	<td><a href="https://ypdl.sandpox.org/YP-SU-7TV-03x04.mkv">1</a></td>
+	<td><a href="torrents/YP-SU-7TV-03x04.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/0D35F34C7B3D43ABC812DC55A91FFB2B588E5829.torrent">4</a> <a href="http://torcache.net/torrent/0D35F34C7B3D43ABC812DC55A91FFB2B588E5829.torrent">5</a> <a href="magnet:?xt=urn:btih:0D35F34C7B3D43ABC812DC55A91FFB2B588E5829">6</a></td>
+	<td>TV 720P</td>
+	<td>embedded</td>
+      </tr>
+	  <tr>
+	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576366&lid=7">Episode 5</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576366&lid=7">Hit the Diamond</a>)</td>
+	<td><a href="https://mega.nz/#!w05UFIaJ!e5JPV9s5F7ZVDDdog7-jQYRmXxjW5LlIiisO-BL6gjo">1</a> 2 3</td>
+	<td><a href="https://ypdl.sandpox.org/YP-SU-7TV-03x05.mkv">1</a></td>
+	<td><a href="torrents/YP-SU-7TV-03x05.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/D28B6A1E4180848FF2107BDB1C42EF58BA948EEE.torrent">4</a> <a href="http://torcache.net/torrent/D28B6A1E4180848FF2107BDB1C42EF58BA948EEE.torrent">5</a> <a href="magnet:?xt=urn:btih:D28B6A1E4180848FF2107BDB1C42EF58BA948EEE">6</a></td>
+	<td>TV 720P</td>
+	<td>embedded</td>
+      </tr>
+	</tbody>
+  </table>
+</center>
