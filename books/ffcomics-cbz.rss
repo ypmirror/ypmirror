@@ -330,6 +330,18 @@
 							<magnetURI><![CDATA[magnet:?xt=urn:btih:6FD920F69F137576396D713EE3E36BF63129A45E]]></magnetURI>
 					</torrent>
 				</item>
+				<item>
+					<title><![CDATA[My Little Pony, Friends Forever Comic #28 [ CBZ | YP-CBZ-FFCOMIC28.cbz | YayPonies]]]></title>
+					<link>http://yp1.yayponies.no/torrents/YP-CBZ-FFCOMIC28.cbz.torrent</link>
+					<category domain="http://yp1.yayponies.no/book.php"><![CDATA[Friends Forever / CBZ]]></category>
+					<pubDate>Thu, 26 May 2016 00:00:01 -0500</pubDate>
+					<description><![CDATA[Comic Name: My Little Pony, Friends Forever; #28]]></description>
+					<enclosure url="http://yp1.yayponies.no/torrents/YP-CBZ-FFCOMIC28.cbz.torrent" type="application/x-bittorrent" />
+					<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+							<fileName><![CDATA[YP-CBZ-FFCOMIC28.cbz.torrent]]></fileName>
+							<magnetURI><![CDATA[magnet:?xt=urn:btih:6E92270CA60AA1C6A936CC5014E914C17FC00387]]></magnetURI>
+					</torrent>
+				</item>
 	</channel>
 </rss>
 <!-- live  -->
