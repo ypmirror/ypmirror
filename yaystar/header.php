@@ -20,5 +20,5 @@ content="Star vs The Force of Evil, episodes, download, Torrent, Direct Download
   <div id="container">
   <center><small id="small"><a href="http://sammy-wright.deviantart.com/art/Star-Butterfly-492569752"> Star Butterfly with Pony Head by Sammy-Wright</a> | <a href="http://floppychiptunes.deviantart.com/">YayStar Logo by FloppyChiptunes</a></small></center><br />
 <center> 
-  <p><big><a href="index.php">Index</a></big> <big>| <a href="FAQ.php">FAQ</a></big> <big> | <a href="star.php">Episodes</a> | <a href="https://twitter.com/#!/YayPonies_eu">Twitter</a> | <a href="/">YayPonies</a></big></p>
+  <p><big><a href="index.php">Index</a></big> <big>| <a href="FAQ.php">FAQ</a></big> <big> | <a href="star.php">Episodes</a> | <a href="1it.rss">RSS</a> | <a href="https://twitter.com/#!/YayPonies_eu">Twitter</a> | <a href="/">YayPonies</a></big></p>
 </center>

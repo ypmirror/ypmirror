@@ -3,7 +3,8 @@
 </p>
 <center>
   <p>Welcome to the download page for Star vs The Forces of Evil. Direct links are hosted by <a href="http://coco-pommel.org/">Coco Pommel</a>, our sincerest thanks to you awesome people! If you have are facing difficulties in using the direct download with the direct link, right click on the link and click on &quot;Save link as...&quot; in the list, </p>
-  <p>iTunes RAW :</p>
+  <p>iTunes RAW :<br />
+    <a href="1it.rss">RSS</a> </p>
 </center>
 <center>
   <table width="752" height="319" align="center">
@@ -122,7 +123,8 @@
       </tr>
     </tbody>
   </table>
-  <p>Spazz TVRip:</p>
+  <p>Spazz TVRip:<br />
+    <a href="7tt.rss">RSS</a> </p>
   <table width="728" height="297" align="center">
     <tbody>
       <tr>
