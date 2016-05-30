@@ -7,7 +7,7 @@
     <atom:link href="/episodes/1it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 May 2016 20:23:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 May 2016 13:19:52 +0000</lastBuildDate>
     <item>
       <title>My Little Pony, Friendship is Magic - 06x10 - Applejack's 'Day' Off | 1080p.WEB-DL | YP-1R-06x10.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/torrents/YP-1R-06x10.mkv.torrent</link>
@@ -993,16 +993,16 @@
       <torrent:magneturi>magnet:?xt=urn:btih:09FC555328219C3346A82A6125302B4AAB6C95C4</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x19 - Putting Your Hoof Down | 1080p.WEB-DL | YP-1R-02x19.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/torrents/YP-1R-02x19.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x19 - Putting Your Hoof Down | 1080p.WEB-DL | YP-1R-02x19-FIX.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/torrents/YP-1R-02x19-FIX.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Putting Your Hoof Down; Season: 2; Episode: 19</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/torrents/YP-1R-02x19.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/torrents/YP-1R-02x19.mkv.torrent" length="5463" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/torrents/YP-1R-02x19-FIX.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/torrents/YP-1R-02x19-FIX.mkv.torrent" length="49710" type="application/x-bittorrent"/>
       <pubDate>Sat, 03 Mar 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1R-02x19.mkv.torrent</torrent:filename>
-      <torrent:contentlength>817785785</torrent:contentlength>
-      <torrent:infohash>DC1F422F30141C28D42CA335FC1BE506998F4E25</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:DC1F422F30141C28D42CA335FC1BE506998F4E25</torrent:magneturi>
+      <torrent:filename>YP-1R-02x19-FIX.mkv.torrent</torrent:filename>
+      <torrent:contentlength>632888178</torrent:contentlength>
+      <torrent:infohash>018B02F07B32F3CE0C85FA77A71C62AAEDAA1320</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:018B02F07B32F3CE0C85FA77A71C62AAEDAA1320</torrent:magneturi>
     </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 02x18 - A Friend in Deed | 1080p.WEB-DL | YP-1R-02x18.mkv | YayPonies</title>
