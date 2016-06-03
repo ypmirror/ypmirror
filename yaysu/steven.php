@@ -386,9 +386,17 @@
 	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576365&lid=7">Episode 3</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576364&lid=7">4</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576365&lid=7">Same Old World</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576364&lid=7">Barn Mates</a>)</td>
 	<td><a href="https://mega.nz/#!hoBUFSRR!7kd6hUcjPIxq5lHwaaHXWpwV0W5vg7IpZGr2pbj18ic">1</a> 2 3</td>
 	<td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x03_04.mkv">1</a></td>
-	<td> <a href="torrents/YP-SU-1R-03x03_04.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/5AB1EFEED57F48F92DE8E1C94B9409998499D11D.torrent">4</a> <a href="http://torcache.net/torrent/5AB1EFEED57F48F92DE8E1C94B9409998499D11D.torrent">5</a> <a href="magnet:?xt=urn:btih:5AB1EFEED57F48F92DE8E1C94B9409998499D11D">6</a></td>
+	<td><a href="torrents/YP-SU-1R-03x03_04.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/5AB1EFEED57F48F92DE8E1C94B9409998499D11D.torrent">4</a> <a href="http://torcache.net/torrent/5AB1EFEED57F48F92DE8E1C94B9409998499D11D.torrent">5</a> <a href="magnet:?xt=urn:btih:5AB1EFEED57F48F92DE8E1C94B9409998499D11D">6</a></td>
 	<td>YP iTunes 1080P</td>
 	<td><a href="subtitles/YP-SU-1R-03x03_04.srt">Get</a></td>
+      </tr>
+      <tr>
+	<td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576366&lid=7">Episode 5</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576366&lid=7">Same Old World</a>)</td>
+	<td><a href="https://mega.nz/#!g4Z2hDAZ!Y5YiB-ZxpM0KbBK_Fa6vvynF2IXv0iOs_1qAhMwxYn4">1</a> 2 3</td>
+	<td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x05.mkv">1</a></td>
+	<td><a href="torrents/YP-SU-1R-03x05.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/F49188808152F419B54465000878807366798831.torrent">4</a> <a href="http://torcache.net/torrent/F49188808152F419B54465000878807366798831.torrent">5</a> <a href="magnet:?xt=urn:btih:F49188808152F419B54465000878807366798831">6</a></td>
+	<td>YP iTunes 1080P</td>
+	<td><a href="subtitles/YP-SU-1R-03x05.srt">Get</a></td>
       </tr>
 	</tbody>
   </table>
