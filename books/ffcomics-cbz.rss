@@ -7,7 +7,19 @@
     <atom:link href="http://yp1.yayponies.no/books/ffcomics-cbz.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 May 2016 23:58:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jun 2016 04:19:40 +0000</lastBuildDate>
+    <item>
+      <title>Comics Friends Forever #29 | CBZ | YP-CBZ-FFCOMIC29.cbz | YayPonies</title>
+      <link>http://yp1.yayponies.no/torrents/YP-CBZ-FFCOMIC29.cbz.torrent</link>
+      <description>Comic Name: Comics Friends Forever; #29</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/torrents/YP-CBZ-FFCOMIC29.cbz.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/torrents/YP-CBZ-FFCOMIC29.cbz.torrent" length="4459" type="application/x-bittorrent"/>
+      <pubDate>Wed, 08 Jun 2016 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-CBZ-FFCOMIC29.cbz.torrent</torrent:filename>
+      <torrent:contentlength>50017739</torrent:contentlength>
+      <torrent:infohash>A30EA6FEA4055D84093B4042F56676F3C21AD7DF</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:A30EA6FEA4055D84093B4042F56676F3C21AD7DF</torrent:magneturi>
+    </item>
     <item>
       <title>Comics Friends Forever #28 | CBZ | YP-CBZ-FFCOMIC28.cbz | YayPonies</title>
       <link>http://yp1.yayponies.no/torrents/YP-CBZ-FFCOMIC28.cbz.torrent</link>
