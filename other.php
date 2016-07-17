@@ -1,6 +1,6 @@
 <!--#include file="header.php" -->
             <div id="links">
-                <table width="700" height="870" align="center">
+                <table width="700" height="914" align="center">
                     <tbody>
                         <tr>
                             <th width="343" height="20">Name</th>
@@ -233,6 +233,18 @@
                           <td height="20">My Little Pony - A Pony Kind of Christmas Album (MP3 320k VBR from amazon)</td>
                           <td valign="top"><a href="https://yp.coco-pommel.org/ypother/YP-MP3-XMAS.zip">DIRECT</a> or <a href="https://mega.nz/#!M14mABLT!8KSRAtsFxWWdeuxnXLvVAy3UJSSvGLzKxUf9Ic6XN74">1</a> 2 3</td>
                           <td><a href="/torrents/YP-MP3-XMAS.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/1E76BFB246F1934BE8394727ACA0DD9F902AE9A4.torrent">4</a> <a href="http://torcache.net/torrent/1E76BFB246F1934BE8394727ACA0DD9F902AE9A4.torrent">5</a> <a href="magnet:?xt=urn:btih:1E76BFB246F1934BE8394727ACA0DD9F902AE9A4">6</a></td>
+                          <td>By YayPonies</td>
+                        </tr>
+                        <tr>
+                          <td height="20">Friendship Is Magic Pinkie Pie's Party Playlist. (Lossless FLAC)</td>
+                          <td valign="top"><a href="https://yp.coco-pommel.org/ypother/YP-FLAC-FIMPPPP.zip">DIRECT</a> or <a href="https://mega.nz/#!fcYzWDLC!nDGf3zdWyGpC5UxCfnJTejViJHEPc0j2csIwpJ2mb2I">1</a> 2 3</td>
+                          <td><a href="/torrents/YP-FLAC-FIMPPPP.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/fce898ba084a39aeb68ee1901d72171a83cb0c61.torrent">4</a> <a href="http://torcache.net/torrent/fce898ba084a39aeb68ee1901d72171a83cb0c61.torrent">5</a> <a href="magnet:?xt=urn:btih:fce898ba084a39aeb68ee1901d72171a83cb0c61">6</a></td>
+                          <td>By YayPonies</td>
+                        </tr>
+                        <tr>
+                          <td height="20">Friendship Is Magic Pinkie Pie's Party Playlist. (YP MP3 320k VBR)</td>
+                          <td valign="top"><a href="https://yp.coco-pommel.org/ypother/YP-MP3-FIMPPPP.zip">DIRECT</a> or <a href="https://mega.nz/#!jdgUTSib!trD_-UZvRnYWCq8fybidnf4Nj3T6shlYVw0YCIsQKPU">1</a> 2 3</td>
+                          <td><a href="/torrents/YP-MP3-FIMPPPP.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/0de9e365bfded1d2dbd71a78e6c025797b37ef8c.torrent">4</a> <a href="http://torcache.net/torrent/0de9e365bfded1d2dbd71a78e6c025797b37ef8c.torrent">5</a> <a href="magnet:?xt=urn:btih:0de9e365bfded1d2dbd71a78e6c025797b37ef8c">6</a></td>
                           <td>By YayPonies</td>
                         </tr>
                     </tbody>

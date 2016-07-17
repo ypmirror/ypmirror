@@ -7,7 +7,19 @@
     <atom:link href="/yaystar/episodes/1it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 May 2016 20:58:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jul 2016 21:25:37 +0000</lastBuildDate>
+    <item>
+      <title>Star vs. the Forces of Evil - 02x01_02 - My New Wand! - Ludo in the Wild | 1080p.WEB-DL | YP-SV-1R-02x01_02.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/yaystar/torrents/YP-SV-1R-02x01_02.mkv.torrent</link>
+      <description>Show Name: Star vs. the Forces of Evil; Episode Title: My New Wand! - Ludo in the Wild; Season: 2; Episode: 01_02</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/yaystar/torrents/YP-SV-1R-02x01_02.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/yaystar/torrents/YP-SV-1R-02x01_02.mkv.torrent" length="71615" type="application/x-bittorrent"/>
+      <pubDate>Mon, 11 Jul 2016 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-SV-1R-02x01_02.mkv.torrent</torrent:filename>
+      <torrent:contentlength>929831474</torrent:contentlength>
+      <torrent:infohash>59A3D2605EC5FBD0B8533CD21826EC3DEE517E4D</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:59A3D2605EC5FBD0B8533CD21826EC3DEE517E4D</torrent:magneturi>
+    </item>
     <item>
       <title>Star vs. the Forces of Evil - 01x24 - Storm The Castle | 1080p.WEB-DL | YP-SV-1R-01x24.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/yaystar/torrents/YP-SV-1R-01x24.mkv.torrent</link>

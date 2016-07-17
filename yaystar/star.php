@@ -3,8 +3,31 @@
 </p>
 <center>
   <p>Welcome to the download page for Star vs The Forces of Evil. Direct links are hosted by <a href="http://coco-pommel.org/">Coco Pommel</a>, our sincerest thanks to you awesome people! If you have are facing difficulties in using the direct download with the direct link, right click on the link and click on &quot;Save link as...&quot; in the list, </p>
-  <p>iTunes RAW :<br />
-    <a href="1it.rss">RSS</a> </p>
+  <p><a href="1it.rss">iTunes RSS</a><br />
+    <a href="7tt.rss">Spazz TVRip RSS</a>  </p>
+  <p>iTunes RAW Season 2:</p>
+  <table width="752" height="55" align="center">
+    <tbody>
+      <tr>
+        <th width="396" height="27">Name </th>
+        <th width="76">Download </th>
+        <th width="57">Direct Download </th>
+        <th width="73">Torrents </th>
+        <th width="82">Info</th>
+        <th width="28">Subs</th>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5632039&amp;lid=7">Episode 1</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665653&amp;lid=7">2</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5632039&amp;lid=7">My New Wand!</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665653&amp;lid=7">Ludo in the Wild</a>)</td>
+        <td><a href="https://mega.nz/#!KFJkwDpQ!tBvz_1_1h2QuCzFTZSMdb7vNGsTWAuf3qGPsFY5cZwg">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x01_02.mkv">1</a></td>
+        <td><a href="/torrents/YP-SV-1R-02x01_02.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/no torrent file attached.torrent">4</a> <a href="http://torcache.net/torrent/no torrent file attached.torrent">5</a> <a href="magnet:?xt=urn:btih:no torrent file attached">6</a> </td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x01_02.srt">Get</a></td>
+      </tr>
+    </tbody>
+  </table>
+  <p>iTunes RAW Season 1:<br />
+</p>
 </center>
 <center>
   <table width="752" height="319" align="center">
@@ -123,8 +146,7 @@
       </tr>
     </tbody>
   </table>
-  <p>Spazz TVRip:<br />
-    <a href="7tt.rss">RSS</a> </p>
+  <p>Spazz TVRip Season 1:</p>
   <table width="728" height="297" align="center">
     <tbody>
       <tr>
