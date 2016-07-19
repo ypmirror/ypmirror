@@ -6,7 +6,7 @@
 <p><strong>Please read this page before asking us your question! </strong>
 <p><strong> -----------------------------------</strong></p>
 <p><strong>What's up with the filename format?</strong></p>
-<p>We have two main different format for video, TVRip and iTunes, iTunes video is better as it doesnt have watermark and is a real native 1080P encode, it however may take time to be available.</p>
+<p>We have two main different format for video, TVRip and iTunes, iTunes video is better as it doesn't have watermark and is a real native 1080P encode, it however may take time to be available.</p>
 <p>You can recognize if you have an iTunes or a TVRip episode by reading the filename, if you have an iTunes one, you should see &quot;1R&quot; after the number of the episode(s), if however, you have a TVRip, you gonna see &quot;1TV&quot;. 1R mean 1080P Raw and 1TV mean 1080P TVRip</p>
 <p>Here a breakdown of the name:</p>
 <p>YP - Well, it's our tag, YP for YayPonies.<br />
@@ -18,10 +18,8 @@
 </p>
 <p><strong>Episode Numbering :</strong></p>
 <p>We follow TheTVDB numbering of the show, <a href="http://thetvdb.com/?tab=series&id=270701&lid=7">http://thetvdb.com/?tab=series&id=270701&lid=7</a> , This should make the episode easy to intergate in a media center solution (Like <a href="http://kodi.tv/">Kodi</a> or <a href="https://plex.tv/">Plex</a>) </p>
-<p><strong>The metadata of the iTunes files only cover the first episode in the dual episodes file : </strong></p>
-<p>Because our UNDRM process wasnt designed for multiple episode in one, we're unable to add the second episode metadata into the MKV in a way that would worth it.</p>
 <p><strong>I've seen a derp, what can I do ?</strong></p>
-<p>Oops, it happens sometimes. You are always welcome to report each error (wrong link, missing episode...) by contacting <a href="mailto:yaysteven@yayponies.eu">the Steven Universe team</a>. Please be as precise as possible, specifying the concerned episode and the nature of the derp.</p>
+<p>Oops, it happens sometimes. You are always welcome to report each error (wrong link, missing episode...) by contacting <a href="mailto:yaysteven@yayponies.eu">the YaySteven team</a>. Please be as precise as possible, specifying the concerned episode and the nature of the derp.</p>
 <p>&nbsp;</p>
 <p><center><em>FAQ</em> - Similar to YayPonies : </center>
 <p><strong> Please read this page before asking us your question! </strong>
