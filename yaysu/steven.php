@@ -3,6 +3,7 @@
 </p>
 <center>
     <p>Welcome to the download page for Steven Universe. You can get the episodes via direct download (thanks <a href="https://www.sandpox.org/">SandPox</a> for hosting!), via provided third part services or via torrent.</p>
+    <p>If you are impatient and want to get new files as soon as they are ready, check out our <a href="https://ponychat.net/webchat/?autojoin=%23yayponies">IRC chan</a>, since website is somtimes updated several hours after the actual file release.</p>
     <p>Season 1 iTunes RAW :</p>
     <table width="752" align="center">
         <tbody>
@@ -434,9 +435,17 @@
                 <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576367&lid=7">Episode 6</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665658&lid=7">7</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576367&lid=7">Steven Floats</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665658&lid=7">Drop Beat Dad</a>)</td>
                 <td><a href="https://mega.nz/#!0sIGkLCJ!Pes2_FiThucp7ptVh28LQLLFefsIJdl7Glg6gEjWD6c">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x06_07.mkv">1</a></td>
-                <td> <a href="torrents/YP-SU-1R-03x06_07.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/8AD629F15DB6397B6C5E9FD92AA865EACC2EBC51.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:8AD629F15DB6397B6C5E9FD92AA865EACC2EBC51">6</a></td>
+                <td><a href="torrents/YP-SU-1R-03x06_07.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/8AD629F15DB6397B6C5E9FD92AA865EACC2EBC51.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:8AD629F15DB6397B6C5E9FD92AA865EACC2EBC51">6</a></td>
                 <td>YP iTunes 1080P</td>
                 <td><a href="subtitles/YP-SU-1R-03x06_07.srt">Get</a></td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665659&lid=7">Episode 8</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665660&lid=7">9</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665659&lid=7">Mr. Greg</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665660&lid=7">Too Short to Ride</a>)</td>
+                <td><a href="https://mega.nz/#!89pCUSQa!9cXIGwSKmFi0BvWDbcFnTpOhWBOK0XxEasBXXWpX4Sg">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x08_09.mkv">1</a></td>
+                <td><a href="torrents/YP-SU-1R-03x08_09.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/79E7AD2C422BB1DF671EEE412F071C2675253D83.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:79E7AD2C422BB1DF671EEE412F071C2675253D83">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles/YP-SU-1R-03x08_09.srt">Get</a></td>
             </tr>
         </tbody>
     </table>
