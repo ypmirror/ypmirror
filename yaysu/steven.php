@@ -536,11 +536,19 @@
                 <td>TV 720P</td>
                 <td>embedded</td>
             </tr>
-             <tr>
+            <tr>
                 <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665659&lid=7">Episode 8</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665659&lid=7">Mr. Greg</a>)</td>
                 <td><a href="https://mega.nz/#!Y9Z2BJwI!RFWsG2X1H0qLhI5mckQsTVztDbO7W4OcaC4Y9d0c8TY">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1TV-03x08-Spazz.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1TV-03x08-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/B696567F93476D2D7F856DD66754AD5E6EC6E038.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:B696567F93476D2D7F856DD66754AD5E6EC6E038">6</a></td>
+                <td>TV Spazz 1080P</td>
+                <td>embedded</td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665661&lid=7">Episode 10</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665661&lid=7">The New Lars</a>)</td>
+                <td><a href="https://mega.nz/#!NpwxAAhR!ZQ9n___M3Lk7nePWkUmgYllIKhx5gd3r_YuE-44akaw">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1TV-03x10-Spazz.mp4">1</a></td>
+                <td><a href="torrents/YP-SU-1TV-03x10-Spazz.mp4.torrent">1</a> 2 3 <a href="http://thetorrent.org/CC5DC334E095EBCD6A587B4257D8BEE0BDB6CDE5.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:CC5DC334E095EBCD6A587B4257D8BEE0BDB6CDE5">6</a></td>
                 <td>TV Spazz 1080P</td>
                 <td>embedded</td>
             </tr>
