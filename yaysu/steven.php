@@ -447,6 +447,14 @@
                 <td>YP iTunes 1080P</td>
                 <td><a href="subtitles/YP-SU-1R-03x08_09.srt">Get</a></td>
             </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665661&lid=7">Episode 10</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5671385&lid=7">11</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665661&lid=7">The New Lars</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5671385&lid=7">Beach City Drift</a>)</td>
+                <td><a href="https://mega.nz/#!s0YA1B7Z!J9gz46E-i5MpjelncZb-x9iGldIJlqGBCUP0sYBoqBM">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x10_11.mkv">1</a></td>
+                <td><a href="torrents/YP-SU-1R-03x10_11.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/020BC05A13288D4FB0F650F00E27E97AB8D408C8.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:020BC05A13288D4FB0F650F00E27E97AB8D408C8">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles/YP-SU-1R-03x10_11.srt">Get</a></td>
+            </tr>
         </tbody>
     </table>
 </center>
