@@ -7,7 +7,19 @@
     <atom:link href="/yaystar/episodes/1it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 Jul 2016 22:41:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jul 2016 05:34:51 +0000</lastBuildDate>
+    <item>
+      <title>Star vs. the Forces of Evil - 02x05_06 - Star on Wheels - Fetch | 1080p.WEB-DL | YP-SV-1R-02x05_06.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/yaystar/torrents/YP-SV-1R-02x05_06.mkv.torrent</link>
+      <description>Show Name: Star vs. the Forces of Evil; Episode Title: Star on Wheels - Fetch; Season: 2; Episode: 05_06</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/yaystar/torrents/YP-SV-1R-02x05_06.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/yaystar/torrents/YP-SV-1R-02x05_06.mkv.torrent" length="67405" type="application/x-bittorrent"/>
+      <pubDate>Mon, 25 Jul 2016 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-SV-1R-02x05_06.mkv.torrent</torrent:filename>
+      <torrent:contentlength>874927464</torrent:contentlength>
+      <torrent:infohash>82E28979A6EFA34CB6AF8531B3E05FA7FED55DD5</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:82E28979A6EFA34CB6AF8531B3E05FA7FED55DD5</torrent:magneturi>
+    </item>
     <item>
       <title>Star vs. the Forces of Evil - 02x03_04 - Mr. Candle Cares - Red Belt | 1080p.WEB-DL | YP-SV-1R-02x03_04.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/yaystar/torrents/YP-SV-1R-02x03_04.mkv.torrent</link>

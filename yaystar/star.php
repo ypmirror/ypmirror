@@ -6,7 +6,7 @@
   <p><a href="1it.rss">iTunes RSS</a><br />
     <a href="7tt.rss">Spazz TVRip RSS</a>  </p>
   <p>iTunes RAW Season 2:</p>
-  <table width="752" height="77" align="center">
+  <table width="752" height="99" align="center">
     <tbody>
       <tr>
         <th width="396" height="27">Name </th>
@@ -31,6 +31,14 @@
         <td> <a href="/torrents/YP-SV-1R-02x03_04.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/A480DB9D1EE66B4C95769314A0E0BFB4890B06E8.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:A480DB9D1EE66B4C95769314A0E0BFB4890B06E8">6</a></td>
         <td>YP iTunes 1080P</td>
         <td><a href="subtitles/YP-SV-1R-02x03_04.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665656&amp;lid=7">Episode 5</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665657&amp;lid=7">6</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665656&amp;lid=7">Star on Wheels</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665657&amp;lid=7">Fetch</a>)</td>
+        <td><a href="https://mega.nz/#!6NYAXZbR!ImaCOu8VRbmPoJwjZc4HgmcfCSUi6meedEa6bsw6D3g">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x05_06.mkv">1</a></td>
+        <td><a href="torrents/YP-SV-1R-02x05_06.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/82E28979A6EFA34CB6AF8531B3E05FA7FED55DD5.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:82E28979A6EFA34CB6AF8531B3E05FA7FED55DD5">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x05_06.srt">Get</a></td>
       </tr>
     </tbody>
   </table>
