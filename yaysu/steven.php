@@ -455,6 +455,14 @@
                 <td>YP iTunes 1080P</td>
                 <td><a href="subtitles/YP-SU-1R-03x10_11.srt">Get</a></td>
             </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5675057&lid=7">Episode 12</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5675753&lid=7">13</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5675057&lid=7">Restaurant Wars</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5675753&lid=7">Kiki's Pizza Delivery Service</a>)</td>
+                <td><a href="https://mega.nz/#!NkxGlT4K!r1a0SyOqNb-o-Jc3Id0Gy1O1DvviKU4Q1N2-9vOHCnk">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x12_13.mkv">1</a></td>
+                <td><a href="torrents/YP-SU-1R-03x12_13.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/4706128FF1EE611F494D0CEDBBD4E3184D953718.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:4706128FF1EE611F494D0CEDBBD4E3184D953718">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles/YP-SU-1R-03x12_13.srt">Get</a></td>
+            </tr>
         </tbody>
     </table>
 </center>
