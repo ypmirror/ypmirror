@@ -258,7 +258,7 @@
             <tr>
                 <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5359944&lid=7">Episode 2</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5359992&lid=7">3</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5359944&lid=7">Open Book</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5359992&lid=7">Joy Ride</a>)</td>
                 <td><a href="https://mega.nz/#!l4xlBLZQ!y35DKDU-bfQmR_hfCNhF9vIyxqy0EDVbRv7Cpb6xhiQ">1</a> 2 3</td>
-                <td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x02_03X.mkv">1</a></td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x02_03.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-02x02_03.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/6859D931067B40BDA8ED36519E47E3F6D3A65BE3.torrent">4</a> <a href="http://torcache.net/torrent/6859D931067B40BDA8ED36519E47E3F6D3A65BE3.torrent">5</a> <a href="magnet:?xt=urn:btih:6859D931067B40BDA8ED36519E47E3F6D3A65BE3">6</a></td>
                 <td>YP iTunes 1080P</td>
                 <td><a href="subtitles/YP-SU-1R-02x02_03.srt">Get</a></td>
@@ -573,6 +573,14 @@
                 <td><a href="https://mega.nz/#!x0AHFLzY!MXlR544F3xv9Hgy0kqv8kNBQ_oMbrLbeuHDWxoQ0L7Y">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1TV-03x12-Spazz.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1TV-03x12-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/CF926197C5D2610F224E6D8DBD507837C1CB8DE4.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:CF926197C5D2610F224E6D8DBD507837C1CB8DE4">6</a></td>
+                <td>TV Spazz 1080P</td>
+                <td>embedded</td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677434&lid=7">Episode 14</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677434&lid=7">Monster Reunion</a>)</td>
+                <td><a href="https://mega.nz/#!lspSUJCI!j16LcqNSdfEamdeq3fDXzCh1tQEoc_WL6wosI9iprqA">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1TV-03x14-Spazz.mkv">1</a></td>
+                <td><a href="torrents/YP-SU-1TV-03x14-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/720F2B8DC6869ECF6BAC3F17274064761D61A7C3.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:720F2B8DC6869ECF6BAC3F17274064761D61A7C3">6</a></td>
                 <td>TV Spazz 1080P</td>
                 <td>embedded</td>
             </tr>
