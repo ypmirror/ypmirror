@@ -1,2027 +1,2027 @@
 ﻿1
 00:00:00,835 --> 00:00:03,302
-       ♪ WE ♪                   
-       ♪ ARE THE CRYSTAL ♪      
+\h\h\h\h\h\h\h♪\hWE\h♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h♪\hARE\hTHE\hCRYSTAL\h♪\h\h\h\h\h\h
 
 2
 00:00:03,304 --> 00:00:04,503
-                  ♪ GEMS ♪      
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪\hGEMS\h♪\h\h\h\h\h\h
 
 3
 00:00:04,505 --> 00:00:06,772
-  ♪ WE'LL ALWAYS SAVE THE DAY ♪ 
+\h\h♪\hWE'LL\hALWAYS\hSAVE\hTHE\hDAY\h♪\h
 
 4
 00:00:06,774 --> 00:00:09,775
-   Steven: ♪ AND IF YOU THINK   
-        WE CAN'T, WE'LL ♪       
+\h\h\hSteven:\h♪\hAND\hIF\hYOU\hTHINK\h\h\h
+\h\h\h\h\h\h\h\hWE\hCAN'T,\hWE'LL\h♪\h\h\h\h\h\h\h
 
 5
 00:00:09,777 --> 00:00:12,111
-      ♪ ALWAYS FIND A WAY ♪     
+\h\h\h\h\h\h♪\hALWAYS\hFIND\hA\hWAY\h♪\h\h\h\h\h
 
 6
 00:00:12,113 --> 00:00:14,113
-♪ THAT'S WHY THE PEOPLE ♪       
+♪\hTHAT'S\hWHY\hTHE\hPEOPLE\h♪\h\h\h\h\h\h\h
 
 7
 00:00:14,115 --> 00:00:16,148
-        ♪ OF THIS WORLD ♪       
+\h\h\h\h\h\h\h\h♪\hOF\hTHIS\hWORLD\h♪\h\h\h\h\h\h\h
 
 8
 00:00:16,150 --> 00:00:17,850
-   ♪ BELIEVE IN ♪               
+\h\h\h♪\hBELIEVE\hIN\h♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 9
 00:00:17,852 --> 00:00:18,650
-     ♪ GARNET ♪                 
+\h\h\h\h\h♪\hGARNET\h♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 10
 00:00:18,652 --> 00:00:19,718
-          Amethyst: ♪ AMETHYST ♪
+\h\h\h\h\h\h\h\h\h\hAmethyst:\h♪\hAMETHYST\h♪
 
 11
 00:00:19,720 --> 00:00:21,286
-Pearl: ♪ AND PEARL ♪            
+Pearl:\h♪\hAND\hPEARL\h♪\h\h\h\h\h\h\h\h\h\h\h\h
 
 12
 00:00:21,288 --> 00:00:22,955
-           AND STEVEN.          
+\h\h\h\h\h\h\h\h\h\h\hAND\hSTEVEN.\h\h\h\h\h\h\h\h\h\h
 
 13
 00:00:25,226 --> 00:00:26,859
-       [ BIRDS TWEETING ]       
+\h\h\h\h\h\h\h[\hBIRDS\hTWEETING\h]\h\h\h\h\h\h\h
 
 14
 00:00:28,529 --> 00:00:31,563
-      [ CREATURES CALLING ]     
+\h\h\h\h\h\h[\hCREATURES\hCALLING\h]\h\h\h\h\h
 
 15
 00:00:36,470 --> 00:00:38,771
-       [ CREATURES CALLING      
-          IN DISTANCE ]         
+\h\h\h\h\h\h\h[\hCREATURES\hCALLING\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\hIN\hDISTANCE\h]\h\h\h\h\h\h\h\h\h
 
 16
 00:00:43,844 --> 00:00:45,477
-       [ BIRDS TWEETING ]       
+\h\h\h\h\h\h\h[\hBIRDS\hTWEETING\h]\h\h\h\h\h\h\h
 
 17
 00:00:52,987 --> 00:00:54,520
-              BAH!              
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hBAH!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 18
 00:00:54,522 --> 00:00:55,687
-            [ GASP ]            
+\h\h\h\h\h\h\h\h\h\h\h\h[\hGASP\h]\h\h\h\h\h\h\h\h\h\h\h\h
 
 19
 00:00:55,689 --> 00:00:57,689
-          [ GROWLING ]          
+\h\h\h\h\h\h\h\h\h\h[\hGROWLING\h]\h\h\h\h\h\h\h\h\h\h
 
 20
 00:00:57,691 --> 00:01:00,092
-          [ RUMBLING ]          
+\h\h\h\h\h\h\h\h\h\h[\hRUMBLING\h]\h\h\h\h\h\h\h\h\h\h
 
 21
 00:01:00,094 --> 00:01:02,561
-            [ BARKING, PANTING ]
+\h\h\h\h\h\h\h\h\h\h\h\h[\hBARKING,\hPANTING\h]
 
 22
 00:01:04,165 --> 00:01:06,198
-                 [ BARKING ]    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hBARKING\h]\h\h\h\h
 
 23
 00:01:06,200 --> 00:01:08,467
-                 [ PANTING ]    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hPANTING\h]\h\h\h\h
 
 24
 00:01:09,603 --> 00:01:11,070
-        WOOF!                   
+\h\h\h\h\h\h\h\hWOOF!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 25
 00:01:11,072 --> 00:01:13,672
-     [ BARKING ]                
+\h\h\h\h\h[\hBARKING\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 26
 00:01:14,875 --> 00:01:17,009
-           [ PANTING ]          
+\h\h\h\h\h\h\h\h\h\h\h[\hPANTING\h]\h\h\h\h\h\h\h\h\h\h
 
 27
 00:01:17,011 --> 00:01:19,244
-    [ BARKING ]                 
+\h\h\h\h[\hBARKING\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 28
 00:01:19,246 --> 00:01:20,612
-     [ PANTING ]                
+\h\h\h\h\h[\hPANTING\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 29
 00:01:22,216 --> 00:01:23,949
-          [ DRUMBEAT ]          
+\h\h\h\h\h\h\h\h\h\h[\hDRUMBEAT\h]\h\h\h\h\h\h\h\h\h\h
 
 30
 00:01:24,952 --> 00:01:26,452
-                     OH.        
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOH.\h\h\h\h\h\h\h\h
 
 31
 00:01:36,730 --> 00:01:38,831
-           [ BARKING ]          
+\h\h\h\h\h\h\h\h\h\h\h[\hBARKING\h]\h\h\h\h\h\h\h\h\h\h
 
 32
 00:01:56,951 --> 00:01:59,451
-          [ LAUGHTER ]          
+\h\h\h\h\h\h\h\h\h\h[\hLAUGHTER\h]\h\h\h\h\h\h\h\h\h\h
 
 33
 00:02:07,294 --> 00:02:09,328
-           [RUMBLING]           
-              HUH?              
+\h\h\h\h\h\h\h\h\h\h\h[RUMBLING]\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hHUH?\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 34
 00:02:09,330 --> 00:02:10,662
-           [ CAWING ]           
+\h\h\h\h\h\h\h\h\h\h\h[\hCAWING\h]\h\h\h\h\h\h\h\h\h\h\h
 
 35
 00:02:12,233 --> 00:02:14,600
-               ♪♪               
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 36
 00:02:14,602 --> 00:02:17,002
-                ♪♪              
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 37
 00:02:17,004 --> 00:02:18,637
-               ♪♪               
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 38
 00:02:18,639 --> 00:02:21,006
-                ♪♪              
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 39
 00:02:21,008 --> 00:02:23,342
-               ♪♪               
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 40
 00:02:23,344 --> 00:02:25,244
-                ♪♪              
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 41
 00:02:25,246 --> 00:02:27,479
-                [ RATTLING ]    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hRATTLING\h]\h\h\h\h
 
 42
 00:02:54,675 --> 00:02:55,841
-              HUH?              
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hHUH?\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 43
 00:03:02,349 --> 00:03:04,016
-          [ RUMBLING ]          
+\h\h\h\h\h\h\h\h\h\h[\hRUMBLING\h]\h\h\h\h\h\h\h\h\h\h
 
 44
 00:03:04,018 --> 00:03:06,385
-   [ SUSPENSEFUL MUSIC PLAYS ]  
+\h\h\h[\hSUSPENSEFUL\hMUSIC\hPLAYS\h]\h\h
 
 45
 00:03:09,790 --> 00:03:11,423
-            AAAAAAAH!           
+\h\h\h\h\h\h\h\h\h\h\h\hAAAAAAAH!\h\h\h\h\h\h\h\h\h\h\h
 
 46
 00:03:14,061 --> 00:03:15,794
-      [ ROARS ]                 
+\h\h\h\h\h\h[\hROARS\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 47
 00:03:15,796 --> 00:03:17,362
-                    AAAH!       
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hAAAH!\h\h\h\h\h\h\h
 
 48
 00:03:17,364 --> 00:03:19,865
-       STEVEN.                  
+\h\h\h\h\h\h\hSTEVEN.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 49
 00:03:19,867 --> 00:03:21,333
-      [ GROWL ]                 
+\h\h\h\h\h\h[\hGROWL\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 50
 00:03:21,335 --> 00:03:23,068
-           [ GASPING ]          
+\h\h\h\h\h\h\h\h\h\h\h[\hGASPING\h]\h\h\h\h\h\h\h\h\h\h
 
 51
 00:03:23,070 --> 00:03:24,236
-DIDN'T YOU FEEL THAT?           
+DIDN'T\hYOU\hFEEL\hTHAT?\h\h\h\h\h\h\h\h\h\h\h
 
 52
 00:03:24,238 --> 00:03:25,571
-           FEEL WHAT?           
+\h\h\h\h\h\h\h\h\h\h\hFEEL\hWHAT?\h\h\h\h\h\h\h\h\h\h\h
 
 53
 00:03:25,573 --> 00:03:27,573
-              THE GROUND SHOOK! 
-         THIS COULD BE THE START
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hTHE\hGROUND\hSHOOK!\h
+\h\h\h\h\h\h\h\h\hTHIS\hCOULD\hBE\hTHE\hSTART
 
 54
 00:03:27,575 --> 00:03:29,041
-              OF THE EMERGENCE  
-               OF THE CLUSTER.  
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hOF\hTHE\hEMERGENCE\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOF\hTHE\hCLUSTER.\h\h
 
 55
 00:03:29,043 --> 00:03:32,244
-         STAGE 1: SLIGHT TREMORS
-             EVERY QUARTER HOUR.
+\h\h\h\h\h\h\h\h\hSTAGE\h1:\hSLIGHT\hTREMORS
+\h\h\h\h\h\h\h\h\h\h\h\h\hEVERY\hQUARTER\hHOUR.
 
 56
 00:03:32,246 --> 00:03:34,746
-                  STAGE 2:      
-         FULL-SCALE EARTHQUAKES.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSTAGE\h2:\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\hFULL-SCALE\hEARTHQUAKES.
 
 57
 00:03:34,748 --> 00:03:35,747
-                  STAGE 3:      
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSTAGE\h3:\h\h\h\h\h\h
 
 58
 00:03:35,749 --> 00:03:38,750
-         THE EARTH IS DESTROYED!
+\h\h\h\h\h\h\h\h\hTHE\hEARTH\hIS\hDESTROYED!
 
 59
 00:03:38,752 --> 00:03:40,352
-      WE'RE RUNNING OUT OF TIME.
+\h\h\h\h\h\hWE'RE\hRUNNING\hOUT\hOF\hTIME.
 
 60
 00:03:40,354 --> 00:03:41,587
-              WE NEED TO DRILL  
-                 RIGHT NOW!     
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hWE\hNEED\hTO\hDRILL\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hRIGHT\hNOW!\h\h\h\h\h
 
 61
 00:03:41,589 --> 00:03:43,522
- NO, IT'S MALACHITE!            
+\hNO,\hIT'S\hMALACHITE!\h\h\h\h\h\h\h\h\h\h\h\h
 
 62
 00:03:43,524 --> 00:03:45,257
-           MALACHITE?           
+\h\h\h\h\h\h\h\h\h\h\hMALACHITE?\h\h\h\h\h\h\h\h\h\h\h
 
 63
 00:03:45,259 --> 00:03:46,258
-                    WHAT?       
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWHAT?\h\h\h\h\h\h\h
 
 64
 00:03:46,260 --> 00:03:47,659
-I WAS ON MASK ISLAND.           
+I\hWAS\hON\hMASK\hISLAND.\h\h\h\h\h\h\h\h\h\h\h
 
 65
 00:03:47,661 --> 00:03:49,361
-      I WAS IN                  
-A WATERMELON STEVEN.            
+\h\h\h\h\h\hI\hWAS\hIN\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+A\hWATERMELON\hSTEVEN.\h\h\h\h\h\h\h\h\h\h\h\h
 
 66
 00:03:49,363 --> 00:03:50,696
-      THEY HAVE                 
- A LOVELY COMMUNITY,            
+\h\h\h\h\h\hTHEY\hHAVE\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\hA\hLOVELY\hCOMMUNITY,\h\h\h\h\h\h\h\h\h\h\h\h
 
 67
 00:03:50,698 --> 00:03:52,431
-   BUT MALACHITE,               
-   SHE WAS THERE.               
+\h\h\hBUT\hMALACHITE,\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\hSHE\hWAS\hTHERE.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 68
 00:03:52,433 --> 00:03:53,599
-            [ COUGH ]           
+\h\h\h\h\h\h\h\h\h\h\h\h[\hCOUGH\h]\h\h\h\h\h\h\h\h\h\h\h
 
 69
 00:03:53,601 --> 00:03:55,601
-    LAPIS LAZULI                
- IS LOSING CONTROL.             
+\h\h\h\hLAPIS\hLAZULI\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\hIS\hLOSING\hCONTROL.\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 70
 00:03:55,603 --> 00:03:57,436
-    SOON, JASPER                
- WILL OVERPOWER HER             
+\h\h\h\hSOON,\hJASPER\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\hWILL\hOVERPOWER\hHER\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 71
 00:03:57,438 --> 00:03:58,870
-    AND MALACHITE               
-   WILL BE LOOSE.               
+\h\h\h\hAND\hMALACHITE\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\hWILL\hBE\hLOOSE.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 72
 00:03:58,872 --> 00:04:00,772
-               WHO KNOWS WHAT   
-             SORT OF DESTRUCTION
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWHO\hKNOWS\hWHAT\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\hSORT\hOF\hDESTRUCTION
 
 73
 00:04:00,774 --> 00:04:03,742
-         AN UNSTABLE FUSION LIKE
-          MALACHITE COULD CAUSE?
+\h\h\h\h\h\h\h\h\hAN\hUNSTABLE\hFUSION\hLIKE
+\h\h\h\h\h\h\h\h\h\hMALACHITE\hCOULD\hCAUSE?
 
 74
 00:04:03,744 --> 00:04:06,278
-        ALL RIGHT, GEMS,        
-     PEARL, AMETHYST, AND I     
+\h\h\h\h\h\h\h\hALL\hRIGHT,\hGEMS,\h\h\h\h\h\h\h\h
+\h\h\h\h\hPEARL,\hAMETHYST,\hAND\hI\h\h\h\h\h
 
 75
 00:04:06,280 --> 00:04:07,679
-    WILL WALK TO MASK ISLAND.   
+\h\h\h\hWILL\hWALK\hTO\hMASK\hISLAND.\h\h\h
 
 76
 00:04:07,681 --> 00:04:09,615
-          STEVEN, IT'S          
-     TOO DANGEROUS FOR YOU.     
+\h\h\h\h\h\h\h\h\h\hSTEVEN,\hIT'S\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\hTOO\hDANGEROUS\hFOR\hYOU.\h\h\h\h\h
 
 77
 00:04:09,617 --> 00:04:12,517
-    STAY HERE AND WATCH AFTER   
-     THE DRILL WITH PERIDOT.    
+\h\h\h\hSTAY\hHERE\hAND\hWATCH\hAFTER\h\h\h
+\h\h\h\h\hTHE\hDRILL\hWITH\hPERIDOT.\h\h\h\h
 
 78
 00:04:12,519 --> 00:04:14,286
-         LET'S GO, GEMS.        
+\h\h\h\h\h\h\h\h\hLET'S\hGO,\hGEMS.\h\h\h\h\h\h\h\h
 
 79
 00:04:14,288 --> 00:04:15,754
-    TO THE NEAREST WARP PAD.    
+\h\h\h\hTO\hTHE\hNEAREST\hWARP\hPAD.\h\h\h\h
 
 80
 00:04:15,756 --> 00:04:18,056
-               TO THE NEAREST   
-                  WARP PAD!     
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTO\hTHE\hNEAREST\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWARP\hPAD!\h\h\h\h\h
 
 81
 00:04:18,058 --> 00:04:19,825
-                 [ PANTING ]    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hPANTING\h]\h\h\h\h
 
 82
 00:04:21,562 --> 00:04:22,894
-          [ RUMBLING ]          
- WHOA.                          
+\h\h\h\h\h\h\h\h\h\h[\hRUMBLING\h]\h\h\h\h\h\h\h\h\h\h
+\hWHOA.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 83
 00:04:22,896 --> 00:04:26,531
-Pearl: SO, LAZULI HAS JASPER    
-TRAPPED IN A FUSION?            
+Pearl:\hSO,\hLAZULI\hHAS\hJASPER\h\h\h\h
+TRAPPED\hIN\hA\hFUSION?\h\h\h\h\h\h\h\h\h\h\h\h
 
 84
 00:04:26,533 --> 00:04:28,133
-  YOU'RE JOKING ME.             
+\h\hYOU'RE\hJOKING\hME.\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 85
 00:04:28,135 --> 00:04:30,869
-            IT'S TRUE! BUT LAPIS
-           MUST BE GETTING TIRED
+\h\h\h\h\h\h\h\h\h\h\h\hIT'S\hTRUE!\hBUT\hLAPIS
+\h\h\h\h\h\h\h\h\h\h\hMUST\hBE\hGETTING\hTIRED
 
 86
 00:04:30,871 --> 00:04:32,804
-            FROM FIGHTING JASPER
-                FOR SO LONG.    
+\h\h\h\h\h\h\h\h\h\h\h\hFROM\hFIGHTING\hJASPER
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hFOR\hSO\hLONG.\h\h\h\h
 
 87
 00:04:32,806 --> 00:04:36,308
-JUST BEING ON A SHIP            
-WITH JASPER MADE ME TIRED.      
+JUST\hBEING\hON\hA\hSHIP\h\h\h\h\h\h\h\h\h\h\h\h
+WITH\hJASPER\hMADE\hME\hTIRED.\h\h\h\h\h\h
 
 88
 00:04:36,310 --> 00:04:38,210
-                  WHOA. OH!     
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWHOA.\hOH!\h\h\h\h\h
 
 89
 00:04:38,212 --> 00:04:39,745
-                    AAH!        
-             I GOTTA HELP THEM! 
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hAAH!\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\hI\hGOTTA\hHELP\hTHEM!\h
 
 90
 00:04:39,747 --> 00:04:41,913
-              BUT THEY TOLD ME  
-           IT WAS TOO DANGEROUS.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hBUT\hTHEY\hTOLD\hME\h\h
+\h\h\h\h\h\h\h\h\h\h\hIT\hWAS\hTOO\hDANGEROUS.
 
 91
 00:04:41,915 --> 00:04:44,116
- WHY DON'T YOU JUST             
-    DISOBEY THEM?               
+\hWHY\hDON'T\hYOU\hJUST\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hDISOBEY\hTHEM?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 92
 00:04:44,118 --> 00:04:45,384
-       REBEL.                   
+\h\h\h\h\h\h\hREBEL.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 93
 00:04:45,386 --> 00:04:47,419
-   ISN'T THAT LIKE              
-  YOUR GUYS' THING?             
+\h\h\hISN'T\hTHAT\hLIKE\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\hYOUR\hGUYS'\hTHING?\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 94
 00:04:47,421 --> 00:04:48,787
-             HUH, YOU'RE RIGHT! 
+\h\h\h\h\h\h\h\h\h\h\h\h\hHUH,\hYOU'RE\hRIGHT!\h
 
 95
 00:04:48,789 --> 00:04:50,822
-                OOH, I KNOW!    
-              I'LL FALL ASLEEP  
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOOH,\hI\hKNOW!\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hI'LL\hFALL\hASLEEP\h\h
 
 96
 00:04:50,824 --> 00:04:52,791
-        AND GO INTO A WATERMELON
-                STEVEN AGAIN.   
+\h\h\h\h\h\h\h\hAND\hGO\hINTO\hA\hWATERMELON
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSTEVEN\hAGAIN.\h\h\h
 
 97
 00:04:52,793 --> 00:04:54,493
-                  THIS WAY,     
-               I CAN HELP THEM  
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTHIS\hWAY,\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hI\hCAN\hHELP\hTHEM\h\h
 
 98
 00:04:54,495 --> 00:04:57,129
-                AND BE SAFE,    
-              AT THE SAME TIME. 
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hAND\hBE\hSAFE,\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hAT\hTHE\hSAME\hTIME.\h
 
 99
 00:04:57,131 --> 00:04:58,830
-          [ MALEVOLENT CHUCKLE ]
+\h\h\h\h\h\h\h\h\h\h[\hMALEVOLENT\hCHUCKLE\h]
 
 100
 00:04:58,832 --> 00:05:00,332
-        WOW.                    
+\h\h\h\h\h\h\h\hWOW.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 101
 00:05:00,334 --> 00:05:01,967
-YOU'RE A REAL ANARCHIST.        
+YOU'RE\hA\hREAL\hANARCHIST.\h\h\h\h\h\h\h\h
 
 102
 00:05:01,969 --> 00:05:06,505
-           [sleepily] NO ONE CAN
-             TELL<i> ME</i> WHAT TO DO.
+\h\h\h\h\h\h\h\h\h\h\h[sleepily]\hNO\hONE\hCAN
+\h\h\h\h\h\h\h\h\h\h\h\h\hTELL<i>\hME</i>\hWHAT\hTO\hDO.
 
 103
 00:05:06,507 --> 00:05:07,572
-                 [ SNORING ]    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hSNORING\h]\h\h\h\h
 
 104
 00:05:07,574 --> 00:05:08,807
-        WAIT!                   
-  WHAT DO I DO NOW?             
+\h\h\h\h\h\h\h\hWAIT!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\hWHAT\hDO\hI\hDO\hNOW?\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 105
 00:05:08,809 --> 00:05:11,910
-     DON'T JUST                 
-   LEAVE ME HERE!               
+\h\h\h\h\hDON'T\hJUST\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\hLEAVE\hME\hHERE!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 106
 00:05:11,912 --> 00:05:13,578
-      [ SIGH ]                  
+\h\h\h\h\h\h[\hSIGH\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 107
 00:05:13,580 --> 00:05:16,682
-                     ♪♪         
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h
 
 108
 00:05:21,088 --> 00:05:22,354
-               ♪♪               
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 109
 00:05:22,356 --> 00:05:24,289
-          [ RUMBLING ]          
+\h\h\h\h\h\h\h\h\h\h[\hRUMBLING\h]\h\h\h\h\h\h\h\h\h\h
 
 110
 00:05:24,291 --> 00:05:25,590
-   [ RESONATING ]               
+\h\h\h[\hRESONATING\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 111
 00:05:25,592 --> 00:05:28,493
-    [ GRUNTING ]                
+\h\h\h\h[\hGRUNTING\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 112
 00:05:28,495 --> 00:05:31,196
-      ALL RIGHT, LET'S PUT      
-         AN END TO THIS.        
+\h\h\h\h\h\hALL\hRIGHT,\hLET'S\hPUT\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\hAN\hEND\hTO\hTHIS.\h\h\h\h\h\h\h\h
 
 113
 00:05:31,198 --> 00:05:33,031
-      [ GRUNT ]                 
+\h\h\h\h\h\h[\hGRUNT\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 114
 00:05:33,033 --> 00:05:34,599
-               ♪♪               
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 115
 00:05:43,477 --> 00:05:46,178
-      GIVE UP!                  
+\h\h\h\h\h\hGIVE\hUP!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 116
 00:05:46,180 --> 00:05:48,513
-      [ GROWL ]                 
+\h\h\h\h\h\h[\hGROWL\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 117
 00:05:48,515 --> 00:05:50,716
-      [panting]                 
-   I'M IMPRESSED.               
+\h\h\h\h\h\h[panting]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\hI'M\hIMPRESSED.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 118
 00:05:50,718 --> 00:05:53,118
-YOU REALLY HELD OUT.            
+YOU\hREALLY\hHELD\hOUT.\h\h\h\h\h\h\h\h\h\h\h\h
 
 119
 00:05:53,120 --> 00:05:55,120
-                MALACHI-I-TE!   
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMALACHI-I-TE!\h\h\h
 
 120
 00:05:55,122 --> 00:05:56,521
-       [gasp]                   
-    THEY'RE HERE.               
+\h\h\h\h\h\h\h[gasp]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hTHEY'RE\hHERE.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 121
 00:05:56,523 --> 00:05:57,789
-      [ GROWL ]                 
+\h\h\h\h\h\h[\hGROWL\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 122
 00:05:57,791 --> 00:05:59,391
-        STOP!                   
+\h\h\h\h\h\h\h\hSTOP!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 123
 00:05:59,393 --> 00:06:00,559
-      PATHETIC.                 
+\h\h\h\h\h\hPATHETIC.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 124
 00:06:00,561 --> 00:06:01,860
-   DON'T YOU SEE?               
+\h\h\hDON'T\hYOU\hSEE?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 125
 00:06:01,862 --> 00:06:04,329
-WE'VE BEEN HOLDING US           
- BACK FOR TOO LONG.             
+WE'VE\hBEEN\hHOLDING\hUS\h\h\h\h\h\h\h\h\h\h\h
+\hBACK\hFOR\hTOO\hLONG.\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 126
 00:06:04,331 --> 00:06:05,664
-    AND FOR WHAT?               
+\h\h\h\hAND\hFOR\hWHAT?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 127
 00:06:05,666 --> 00:06:07,866
-IF WE'RE GOING TO BE            
-THIS THING TOGETHER,            
+IF\hWE'RE\hGOING\hTO\hBE\h\h\h\h\h\h\h\h\h\h\h\h
+THIS\hTHING\hTOGETHER,\h\h\h\h\h\h\h\h\h\h\h\h
 
 128
 00:06:07,868 --> 00:06:10,569
-  WHY DON'T WE HAVE             
-      SOME FUN?                 
+\h\hWHY\hDON'T\hWE\hHAVE\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\hSOME\hFUN?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 129
 00:06:10,571 --> 00:06:12,337
-         WE DON'T HAVE TO FIGHT.
+\h\h\h\h\h\h\h\h\hWE\hDON'T\hHAVE\hTO\hFIGHT.
 
 130
 00:06:12,339 --> 00:06:13,905
-             YOU'RE OUTNUMBERED.
+\h\h\h\h\h\h\h\h\h\h\h\h\hYOU'RE\hOUTNUMBERED.
 
 131
 00:06:15,075 --> 00:06:17,576
-I MAY BE OUTNUMBERED,           
+I\hMAY\hBE\hOUTNUMBERED,\h\h\h\h\h\h\h\h\h\h\h
 
 132
 00:06:17,578 --> 00:06:19,711
-     BUT YOU'RE                 
- OUT OF YOUR DEPTH.             
+\h\h\h\h\hBUT\hYOU'RE\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\hOUT\hOF\hYOUR\hDEPTH.\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 133
 00:06:19,713 --> 00:06:23,248
-I CAN'T WAIT TO TEAR            
-   YOU GEMS APART.              
+I\hCAN'T\hWAIT\hTO\hTEAR\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\hYOU\hGEMS\hAPART.\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 134
 00:06:23,250 --> 00:06:26,184
-                  [ ROAR ]      
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hROAR\h]\h\h\h\h\h\h
 
 135
 00:06:26,186 --> 00:06:28,153
-                     ♪♪         
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h
 
 136
 00:06:34,495 --> 00:06:36,628
-                     ♪♪         
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h
 
 137
 00:06:41,435 --> 00:06:43,034
-                     ♪♪         
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h
 
 138
 00:06:43,036 --> 00:06:44,236
-      [ SLICE ]                 
+\h\h\h\h\h\h[\hSLICE\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 139
 00:06:52,579 --> 00:06:55,147
-                     ♪♪         
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h
 
 140
 00:06:58,685 --> 00:07:00,252
-      [ ROAR ]                  
+\h\h\h\h\h\h[\hROAR\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 141
 00:07:01,622 --> 00:07:03,021
-     [ GRUMBLE ]                
+\h\h\h\h\h[\hGRUMBLE\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 142
 00:07:04,191 --> 00:07:06,191
-     [ PANTING ]                
+\h\h\h\h\h[\hPANTING\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 143
 00:07:06,193 --> 00:07:08,059
-          [ GROANING ]          
+\h\h\h\h\h\h\h\h\h\h[\hGROANING\h]\h\h\h\h\h\h\h\h\h\h
 
 144
 00:07:08,061 --> 00:07:09,361
-                 [ GRUMBLE ]    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hGRUMBLE\h]\h\h\h\h
 
 145
 00:07:14,535 --> 00:07:16,201
-           [ WAILING ]          
+\h\h\h\h\h\h\h\h\h\h\h[\hWAILING\h]\h\h\h\h\h\h\h\h\h\h
 
 146
 00:07:16,203 --> 00:07:18,303
-    [ BARKING ]                 
+\h\h\h\h[\hBARKING\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 147
 00:07:18,305 --> 00:07:19,905
-     [ PANTING ]                
+\h\h\h\h\h[\hPANTING\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 148
 00:07:19,907 --> 00:07:21,807
-              RAWR!             
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hRAWR!\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 149
 00:07:21,809 --> 00:07:24,109
-         RAWR RAWR RAWR!        
-         RAWR RAWR RAWR!        
+\h\h\h\h\h\h\h\h\hRAWR\hRAWR\hRAWR!\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\hRAWR\hRAWR\hRAWR!\h\h\h\h\h\h\h\h
 
 150
 00:07:24,111 --> 00:07:26,711
-          ARR RAWR RAWR         
-       ARR RAWR RAWR RAWR.      
+\h\h\h\h\h\h\h\h\h\hARR\hRAWR\hRAWR\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\hARR\hRAWR\hRAWR\hRAWR.\h\h\h\h\h\h
 
 151
 00:07:26,713 --> 00:07:29,648
-      RAWR RAWR RAWR, RAWR.     
-         RAWR RAWR RAWR.        
+\h\h\h\h\h\hRAWR\hRAWR\hRAWR,\hRAWR.\h\h\h\h\h
+\h\h\h\h\h\h\h\h\hRAWR\hRAWR\hRAWR.\h\h\h\h\h\h\h\h
 
 152
 00:07:29,650 --> 00:07:33,318
-          RAWR RAWR RAWR,       
-       RAWR RAWR RAWR RAWR!     
+\h\h\h\h\h\h\h\h\h\hRAWR\hRAWR\hRAWR,\h\h\h\h\h\h\h
+\h\h\h\h\h\h\hRAWR\hRAWR\hRAWR\hRAWR!\h\h\h\h\h
 
 153
 00:07:33,320 --> 00:07:34,886
-          [ RATTLING ]          
+\h\h\h\h\h\h\h\h\h\h[\hRATTLING\h]\h\h\h\h\h\h\h\h\h\h
 
 154
 00:07:37,825 --> 00:07:40,325
-           [chanting]           
-     RAWR. RAWR. RAWR. RAWR.    
+\h\h\h\h\h\h\h\h\h\h\h[chanting]\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\hRAWR.\hRAWR.\hRAWR.\hRAWR.\h\h\h\h
 
 155
 00:07:40,327 --> 00:07:42,828
-      RAWR. RAWR. RAWR. RAWR.   
+\h\h\h\h\h\hRAWR.\hRAWR.\hRAWR.\hRAWR.\h\h\h
 
 156
 00:07:42,830 --> 00:07:46,898
-        RAWR. RAWR. RAWR.       
-          RAW-AW-AW-R!          
+\h\h\h\h\h\h\h\hRAWR.\hRAWR.\hRAWR.\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\hRAW-AW-AW-R!\h\h\h\h\h\h\h\h\h\h
 
 157
 00:07:46,900 --> 00:07:49,067
-     [ CHANTING CONTINUES ]     
+\h\h\h\h\h[\hCHANTING\hCONTINUES\h]\h\h\h\h\h
 
 158
 00:07:49,069 --> 00:07:50,302
-        RAWR!                   
+\h\h\h\h\h\h\h\hRAWR!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 159
 00:07:54,975 --> 00:07:56,842
-         YOU KNOW, YOU'RE RIGHT.
+\h\h\h\h\h\h\h\h\hYOU\hKNOW,\hYOU'RE\hRIGHT.
 
 160
 00:07:56,844 --> 00:07:58,610
-               THERE REALLY<i> IS</i>  
-               SOMETHING MORE   
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTHERE\hREALLY<i>\hIS</i>\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSOMETHING\hMORE\h\h\h
 
 161
 00:07:58,612 --> 00:08:00,111
-           TO THIS FUSION THING.
+\h\h\h\h\h\h\h\h\h\h\hTO\hTHIS\hFUSION\hTHING.
 
 162
 00:08:00,113 --> 00:08:02,581
-                IT'S NOT JUST   
-               A CHEAP THRILL.  
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hIT'S\hNOT\hJUST\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hA\hCHEAP\hTHRILL.\h\h
 
 163
 00:08:02,583 --> 00:08:04,316
-             AAAAH!             
+\h\h\h\h\h\h\h\h\h\h\h\h\hAAAAH!\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 164
 00:08:04,318 --> 00:08:06,685
-YOU'VE REALLY SHOWN ME          
-  A WHOLE NEW WORLD             
+YOU'VE\hREALLY\hSHOWN\hME\h\h\h\h\h\h\h\h\h\h
+\h\hA\hWHOLE\hNEW\hWORLD\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 165
 00:08:06,687 --> 00:08:08,353
-  OF POSSIBILITIES.             
+\h\hOF\hPOSSIBILITIES.\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 166
 00:08:08,355 --> 00:08:09,855
-        KEEP IT TOGETHER.       
+\h\h\h\h\h\h\h\hKEEP\hIT\hTOGETHER.\h\h\h\h\h\h\h
 
 167
 00:08:09,857 --> 00:08:13,091
-       [grunt]                  
-ALLOW ME TO THANK YOU.          
+\h\h\h\h\h\h\h[grunt]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+ALLOW\hME\hTO\hTHANK\hYOU.\h\h\h\h\h\h\h\h\h\h
 
 168
 00:08:14,528 --> 00:08:15,694
-               OH!              
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOH!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 169
 00:08:15,696 --> 00:08:17,362
- SORRY, BUT THERE'S             
-      ONLY ROOM                 
+\hSORRY,\hBUT\hTHERE'S\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\hONLY\hROOM\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 170
 00:08:17,364 --> 00:08:20,999
- FOR ONE ABOMINATION            
-ON THIS MEASLY PLANET.          
+\hFOR\hONE\hABOMINATION\h\h\h\h\h\h\h\h\h\h\h\h
+ON\hTHIS\hMEASLY\hPLANET.\h\h\h\h\h\h\h\h\h\h
 
 171
 00:08:21,001 --> 00:08:22,100
-            RAWWWWR!            
+\h\h\h\h\h\h\h\h\h\h\h\hRAWWWWR!\h\h\h\h\h\h\h\h\h\h\h\h
 
 172
 00:08:22,102 --> 00:08:23,168
-    [ LAUGHTER ]                
+\h\h\h\h[\hLAUGHTER\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 173
 00:08:23,170 --> 00:08:24,503
-        [ TRUMPET BLOWS ]       
+\h\h\h\h\h\h\h\h[\hTRUMPET\hBLOWS\h]\h\h\h\h\h\h\h
 
 174
 00:08:24,505 --> 00:08:25,504
-      [ GASP ]                  
+\h\h\h\h\h\h[\hGASP\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 175
 00:08:25,506 --> 00:08:26,505
-        HUH?                    
+\h\h\h\h\h\h\h\hHUH?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 176
 00:08:26,507 --> 00:08:28,607
-           AAAAAAAAAH!          
+\h\h\h\h\h\h\h\h\h\h\hAAAAAAAAAH!\h\h\h\h\h\h\h\h\h\h
 
 177
 00:08:28,609 --> 00:08:30,408
-               ♪♪               
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 178
 00:08:33,213 --> 00:08:35,080
-          [ LAUGHTER ]          
+\h\h\h\h\h\h\h\h\h\h[\hLAUGHTER\h]\h\h\h\h\h\h\h\h\h\h
 
 179
 00:08:37,451 --> 00:08:38,850
-         ♪♪                     
+\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 180
 00:08:40,521 --> 00:08:41,786
-               OH!              
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOH!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 181
 00:08:44,024 --> 00:08:46,224
-             AA-AA-AA-AA-AA-AA- 
-                AA-AA-AA-AH!    
+\h\h\h\h\h\h\h\h\h\h\h\h\hAA-AA-AA-AA-AA-AA-\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hAA-AA-AA-AH!\h\h\h\h
 
 182
 00:08:46,226 --> 00:08:47,526
-      HUH? UNH!                 
+\h\h\h\h\h\hHUH?\hUNH!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 183
 00:08:47,528 --> 00:08:48,560
-                    UNH!        
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hUNH!\h\h\h\h\h\h\h\h
 
 184
 00:08:48,562 --> 00:08:51,129
-     [ GASPING ]                
+\h\h\h\h\h[\hGASPING\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 185
 00:08:51,131 --> 00:08:53,398
-          [ GROWLING ]          
+\h\h\h\h\h\h\h\h\h\h[\hGROWLING\h]\h\h\h\h\h\h\h\h\h\h
 
 186
 00:08:53,400 --> 00:08:55,033
-          [ STRAINING ]         
+\h\h\h\h\h\h\h\h\h\h[\hSTRAINING\h]\h\h\h\h\h\h\h\h\h
 
 187
 00:08:55,035 --> 00:08:56,134
-              ARGH!             
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hARGH!\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 188
 00:08:56,136 --> 00:08:58,470
-           [ PANTING ]          
+\h\h\h\h\h\h\h\h\h\h\h[\hPANTING\h]\h\h\h\h\h\h\h\h\h\h
 
 189
 00:08:58,472 --> 00:09:01,540
-            [ ROAR ]            
+\h\h\h\h\h\h\h\h\h\h\h\h[\hROAR\h]\h\h\h\h\h\h\h\h\h\h\h\h
 
 190
 00:09:01,542 --> 00:09:02,908
-   WHAT IS THIS?!               
+\h\h\hWHAT\hIS\hTHIS?!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 191
 00:09:02,910 --> 00:09:05,477
-    YOU THINK YOU               
- CAN HOLD ME DOWN?!             
+\h\h\h\hYOU\hTHINK\hYOU\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\hCAN\hHOLD\hME\hDOWN?!\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 192
 00:09:05,479 --> 00:09:07,379
-     NOBODY CAN.                
+\h\h\h\h\hNOBODY\hCAN.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 193
 00:09:07,381 --> 00:09:09,080
-              AAH!              
-              -AH!              
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hAAH!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h-AH!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 194
 00:09:09,082 --> 00:09:10,715
-    NOT ANYMORE.                
+\h\h\h\hNOT\hANYMORE.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 195
 00:09:10,717 --> 00:09:12,350
-      [ GRUNT ]                 
+\h\h\h\h\h\h[\hGRUNT\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 196
 00:09:12,352 --> 00:09:14,319
-              HEY!              
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hHEY!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 197
 00:09:14,321 --> 00:09:16,154
-     DON'T FORGET ABOUT ME.     
+\h\h\h\h\hDON'T\hFORGET\hABOUT\hME.\h\h\h\h\h
 
 198
 00:09:18,592 --> 00:09:20,425
-                     ♪♪         
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h
 
 199
 00:09:20,427 --> 00:09:21,593
-              AGH!              
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hAGH!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 200
 00:09:21,595 --> 00:09:23,228
-        OOH!                    
+\h\h\h\h\h\h\h\hOOH!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 201
 00:09:23,230 --> 00:09:25,163
-            ARR-ARR!            
+\h\h\h\h\h\h\h\h\h\h\h\hARR-ARR!\h\h\h\h\h\h\h\h\h\h\h\h
 
 202
 00:09:28,101 --> 00:09:29,167
-     [ GRUMBLE ]                
+\h\h\h\h\h[\hGRUMBLE\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 203
 00:09:29,169 --> 00:09:30,302
-      [ GASP ]                  
+\h\h\h\h\h\h[\hGASP\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 204
 00:09:32,272 --> 00:09:35,140
-            YOU TWO SHOULD SPEND
-              SOME TIME APART.  
+\h\h\h\h\h\h\h\h\h\h\h\hYOU\hTWO\hSHOULD\hSPEND
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hSOME\hTIME\hAPART.\h\h
 
 205
 00:09:36,076 --> 00:09:38,009
-               ♪♪               
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 206
 00:09:47,120 --> 00:09:49,354
-          [ CHEERING ]          
+\h\h\h\h\h\h\h\h\h\h[\hCHEERING\h]\h\h\h\h\h\h\h\h\h\h
 
 207
 00:09:51,892 --> 00:09:55,293
-          [ CHEERING ]          
-           -[WHOOPING]          
+\h\h\h\h\h\h\h\h\h\h[\hCHEERING\h]\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h-[WHOOPING]\h\h\h\h\h\h\h\h\h\h
 
 208
 00:09:56,196 --> 00:09:57,696
-              AGH!              
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hAGH!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 209
 00:09:57,698 --> 00:09:59,731
-         [ RESONATING ]         
+\h\h\h\h\h\h\h\h\h[\hRESONATING\h]\h\h\h\h\h\h\h\h\h
 
 210
 00:09:59,733 --> 00:10:02,300
-     [ PANTING ]                
+\h\h\h\h\h[\hPANTING\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 211
 00:10:02,302 --> 00:10:04,569
-     [ CHUCKLE ]                
+\h\h\h\h\h[\hCHUCKLE\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 212
 00:10:04,571 --> 00:10:05,770
-                    URR.        
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hURR.\h\h\h\h\h\h\h\h
 
 213
 00:10:05,772 --> 00:10:08,139
-                 I'M ALIVE.     
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hI'M\hALIVE.\h\h\h\h\h
 
 214
 00:10:08,141 --> 00:10:09,741
-       STEVEN?                  
+\h\h\h\h\h\h\hSTEVEN?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 215
 00:10:09,743 --> 00:10:11,309
-           IS THAT YOU IN THERE?
+\h\h\h\h\h\h\h\h\h\h\hIS\hTHAT\hYOU\hIN\hTHERE?
 
 216
 00:10:11,311 --> 00:10:14,479
-   THANK YOU. WE COULDN'T HAVE  
-   DONE IT WITHOUT YOUR HELP.   
+\h\h\hTHANK\hYOU.\hWE\hCOULDN'T\hHAVE\h\h
+\h\h\hDONE\hIT\hWITHOUT\hYOUR\hHELP.\h\h\h
 
 217
 00:10:14,481 --> 00:10:16,381
-            GOOD JOB, MELONHEAD.
+\h\h\h\h\h\h\h\h\h\h\h\hGOOD\hJOB,\hMELONHEAD.
 
 218
 00:10:16,383 --> 00:10:18,450
-     THANK YOU, ALL OF YOU.     
+\h\h\h\h\hTHANK\hYOU,\hALL\hOF\hYOU.\h\h\h\h\h
 
 219
 00:10:18,452 --> 00:10:20,318
-      YOU ARE TRULY BRAVE.      
+\h\h\h\h\h\hYOU\hARE\hTRULY\hBRAVE.\h\h\h\h\h\h
 
 220
 00:10:20,320 --> 00:10:24,155
-        AWWW!                   
+\h\h\h\h\h\h\h\hAWWW!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 221
 00:10:24,157 --> 00:10:26,925
-          [ LAUGHTER ]          
+\h\h\h\h\h\h\h\h\h\h[\hLAUGHTER\h]\h\h\h\h\h\h\h\h\h\h
 
 222
 00:10:26,927 --> 00:10:28,493
-          [ RUMBLING ]          
-    AW.                         
+\h\h\h\h\h\h\h\h\h\h[\hRUMBLING\h]\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hAW.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 223
 00:10:28,495 --> 00:10:30,161
-           [ CAWING ]           
+\h\h\h\h\h\h\h\h\h\h\h[\hCAWING\h]\h\h\h\h\h\h\h\h\h\h\h
 
 224
 00:10:36,503 --> 00:10:38,336
-       UH-OH!                   
+\h\h\h\h\h\h\hUH-OH!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 225
 00:10:38,338 --> 00:10:40,905
-           [ BARKING ]          
+\h\h\h\h\h\h\h\h\h\h\h[\hBARKING\h]\h\h\h\h\h\h\h\h\h\h
 
 226
 00:10:40,907 --> 00:10:42,340
-         IT MUST BE THE CLUSTER.
+\h\h\h\h\h\h\h\h\hIT\hMUST\hBE\hTHE\hCLUSTER.
 
 227
 00:10:42,342 --> 00:10:43,775
-             PERIDOT WAS RIGHT. 
+\h\h\h\h\h\h\h\h\h\h\h\h\hPERIDOT\hWAS\hRIGHT.\h
 
 228
 00:10:43,777 --> 00:10:46,011
-                   STEVEN,      
-               IT'S UP TO YOU.  
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSTEVEN,\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hIT'S\hUP\hTO\hYOU.\h\h
 
 229
 00:10:46,013 --> 00:10:47,278
-        THE WORLD WAS DESTROYED.
+\h\h\h\h\h\h\h\hTHE\hWORLD\hWAS\hDESTROYED.
 
 230
 00:10:47,280 --> 00:10:49,180
-           WE DON'T MAKE IT BACK
-                  IN TIME.      
+\h\h\h\h\h\h\h\h\h\h\hWE\hDON'T\hMAKE\hIT\hBACK
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hIN\hTIME.\h\h\h\h\h\h
 
 231
 00:10:49,182 --> 00:10:50,181
-                  WAKE UP.      
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWAKE\hUP.\h\h\h\h\h\h
 
 232
 00:10:50,183 --> 00:10:51,816
-                 GET PERIDOT    
-             AND START DRILLING.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hGET\hPERIDOT\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\hAND\hSTART\hDRILLING.
 
 233
 00:10:51,818 --> 00:10:53,652
-            THE EARTH NEEDS YOU,
-                   STEVEN.      
+\h\h\h\h\h\h\h\h\h\h\h\hTHE\hEARTH\hNEEDS\hYOU,
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSTEVEN.\h\h\h\h\h\h
 
 234
 00:10:53,654 --> 00:10:55,487
-               WE'LL BE FINE.   
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWE'LL\hBE\hFINE.\h\h\h
 
 235
 00:10:55,489 --> 00:10:56,855
-              YOU CAN DO THIS.  
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hYOU\hCAN\hDO\hTHIS.\h\h
 
 236
 00:10:56,857 --> 00:10:58,590
-       WE BELIEVE IN YOU.       
+\h\h\h\h\h\h\hWE\hBELIEVE\hIN\hYOU.\h\h\h\h\h\h\h
 
 237
 00:11:02,295 --> 00:11:03,528
-            YOU GOT THIS, DUDE! 
+\h\h\h\h\h\h\h\h\h\h\h\hYOU\hGOT\hTHIS,\hDUDE!\h
 
 238
 00:11:03,530 --> 00:11:04,863
-             YOU KNOW THE DRILL.
+\h\h\h\h\h\h\h\h\h\h\h\h\hYOU\hKNOW\hTHE\hDRILL.
 
 239
 00:11:04,865 --> 00:11:06,097
- BE CAREFUL, STEVEN.            
+\hBE\hCAREFUL,\hSTEVEN.\h\h\h\h\h\h\h\h\h\h\h\h
 
 240
 00:11:06,099 --> 00:11:08,867
-WATCH EACH OTHER'S BACKS.       
+WATCH\hEACH\hOTHER'S\hBACKS.\h\h\h\h\h\h\h
 
 241
 00:11:08,869 --> 00:11:10,935
-          AND, STEVEN,          
+\h\h\h\h\h\h\h\h\h\hAND,\hSTEVEN,\h\h\h\h\h\h\h\h\h\h
 
 242
 00:11:10,937 --> 00:11:12,404
-          WE LOVE YOU.          
+\h\h\h\h\h\h\h\h\h\hWE\hLOVE\hYOU.\h\h\h\h\h\h\h\h\h\h
 
 243
 00:11:13,407 --> 00:11:15,040
-       [ CRICKETS CHIRP ]       
+\h\h\h\h\h\h\h[\hCRICKETS\hCHIRP\h]\h\h\h\h\h\h\h
 
 244
 00:11:29,523 --> 00:11:33,191
-              Greg:             
-    AND, STEVEN, WE LOVE YOU.   
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hGreg:\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hAND,\hSTEVEN,\hWE\hLOVE\hYOU.\h\h\h
 
 245
 00:11:33,193 --> 00:11:35,026
-          [ RUMBLING ]          
+\h\h\h\h\h\h\h\h\h\h[\hRUMBLING\h]\h\h\h\h\h\h\h\h\h\h
 
 246
 00:11:35,028 --> 00:11:36,795
-         [ WHIMPERING ]         
+\h\h\h\h\h\h\h\h\h[\hWHIMPERING\h]\h\h\h\h\h\h\h\h\h
 
 247
 00:11:36,797 --> 00:11:38,830
-           [ GRUNTS ]           
+\h\h\h\h\h\h\h\h\h\h\h[\hGRUNTS\h]\h\h\h\h\h\h\h\h\h\h\h
 
 248
 00:11:38,832 --> 00:11:40,665
-            [ GASPS ]           
+\h\h\h\h\h\h\h\h\h\h\h\h[\hGASPS\h]\h\h\h\h\h\h\h\h\h\h\h
 
 249
 00:11:40,667 --> 00:11:42,867
-               IF YOU'RE DONE   
-              JUST LYING THERE, 
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hIF\hYOU'RE\hDONE\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hJUST\hLYING\hTHERE,\h
 
 250
 00:11:42,869 --> 00:11:45,904
-      MAYBE IT'S ABOUT TIME THAT
-  WE STOP THE WORLD FROM ENDING!
+\h\h\h\h\h\hMAYBE\hIT'S\hABOUT\hTIME\hTHAT
+\h\hWE\hSTOP\hTHE\hWORLD\hFROM\hENDING!
 
 251
 00:11:45,906 --> 00:11:47,072
-          WHERE ARE THE OTHERS?!
+\h\h\h\h\h\h\h\h\h\hWHERE\hARE\hTHE\hOTHERS?!
 
 252
 00:11:47,074 --> 00:11:48,573
-    THEY'RE STUCK               
-   ON MASK ISLAND!              
+\h\h\h\hTHEY'RE\hSTUCK\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\hON\hMASK\hISLAND!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 253
 00:11:48,575 --> 00:11:50,175
-  WE HAVE TO DRILL              
-    WITHOUT THEM!               
+\h\hWE\hHAVE\hTO\hDRILL\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hWITHOUT\hTHEM!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 254
 00:11:50,177 --> 00:11:52,177
-          UGH! AM I THE ONLY ONE
+\h\h\h\h\h\h\h\h\h\hUGH!\hAM\hI\hTHE\hONLY\hONE
 
 255
 00:11:52,179 --> 00:11:53,978
-               WHO UNDERSTANDS  
-       THE MEANING OF TEAMWORK?!
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWHO\hUNDERSTANDS\h\h
+\h\h\h\h\h\h\hTHE\hMEANING\hOF\hTEAMWORK?!
 
 256
 00:11:53,980 --> 00:11:57,916
-     OKAY, STEVEN, ARE YOU READY
-  TO DRILL DOWN INTO THE PLANET,
+\h\h\h\h\hOKAY,\hSTEVEN,\hARE\hYOU\hREADY
+\h\hTO\hDRILL\hDOWN\hINTO\hTHE\hPLANET,
 
 257
 00:11:57,918 --> 00:12:00,085
-  TO DEPTHS NEVER BEFORE REACHED
-               BY YOUR SPECIES  
+\h\hTO\hDEPTHS\hNEVER\hBEFORE\hREACHED
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hBY\hYOUR\hSPECIES\h\h
 
 258
 00:12:00,087 --> 00:12:02,921
-      TO STOP THE CLUSTER BEFORE
-  IT FORMS AND SAVE YOUR WORLD?!
+\h\h\h\h\h\hTO\hSTOP\hTHE\hCLUSTER\hBEFORE
+\h\hIT\hFORMS\hAND\hSAVE\hYOUR\hWORLD?!
 
 259
 00:12:02,923 --> 00:12:04,856
- I DON'T KNOW.                  
-               DON'T SAY THAT.  
+\hI\hDON'T\hKNOW.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hDON'T\hSAY\hTHAT.\h\h
 
 260
 00:12:04,858 --> 00:12:07,358
-        SAY WE'LL DO IT TOGETHER
-        AND IT'S GONNA BE GREAT!
+\h\h\h\h\h\h\h\hSAY\hWE'LL\hDO\hIT\hTOGETHER
+\h\h\h\h\h\h\h\hAND\hIT'S\hGONNA\hBE\hGREAT!
 
 261
 00:12:07,360 --> 00:12:10,495
-WE'RE GONNA DO IT TOGETHER,     
-AND IT'S GONNA BE GREAT!        
+WE'RE\hGONNA\hDO\hIT\hTOGETHER,\h\h\h\h\h
+AND\hIT'S\hGONNA\hBE\hGREAT!\h\h\h\h\h\h\h\h
 
 262
 00:12:10,497 --> 00:12:11,730
-                    LIAR!       
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hLIAR!\h\h\h\h\h\h\h
 
 263
 00:12:11,732 --> 00:12:13,998
-                        AHH!    
-    WAH! UNH!                   
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hAHH!\h\h\h\h
+\h\h\h\hWAH!\hUNH!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 264
 00:12:14,000 --> 00:12:17,102
-                READY OR NOT,   
-             WE HAVE A MISSION. 
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hREADY\hOR\hNOT,\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\hWE\hHAVE\hA\hMISSION.\h
 
 265
 00:12:17,104 --> 00:12:19,838
-          [ WHIRRING ]          
+\h\h\h\h\h\h\h\h\h\h[\hWHIRRING\h]\h\h\h\h\h\h\h\h\h\h
 
 266
 00:12:19,840 --> 00:12:22,774
-              INCREASING SPEED. 
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hINCREASING\hSPEED.\h
 
 267
 00:12:25,112 --> 00:12:27,011
-            [ CLICK ]           
-    ALL RIGHT.                  
+\h\h\h\h\h\h\h\h\h\h\h\h[\hCLICK\h]\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hALL\hRIGHT.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 268
 00:12:27,013 --> 00:12:28,513
- BRACING FOR IMPACT.            
+\hBRACING\hFOR\hIMPACT.\h\h\h\h\h\h\h\h\h\h\h\h
 
 269
 00:12:28,515 --> 00:12:31,583
-    IT'S ACTUALLY TWO MORE HOURS
-               TO THE CLUSTER.  
+\h\h\h\hIT'S\hACTUALLY\hTWO\hMORE\hHOURS
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTO\hTHE\hCLUSTER.\h\h
 
 270
 00:12:31,585 --> 00:12:34,686
-OH. WISH I'D BROUGHT            
-     SOME TUNES.                
+OH.\hWISH\hI'D\hBROUGHT\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\hSOME\hTUNES.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 271
 00:12:34,688 --> 00:12:38,256
-    [<i> SCHMALTZY MUSIC PLAYS</i> ]   
-UH, THANKS.                     
+\h\h\h\h[<i>\hSCHMALTZY\hMUSIC\hPLAYS</i>\h]\h\h\h
+UH,\hTHANKS.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 272
 00:12:41,061 --> 00:12:43,094
-       [<i> MUSIC CONTINUES</i> ]      
+\h\h\h\h\h\h\h[<i>\hMUSIC\hCONTINUES</i>\h]\h\h\h\h\h\h
 
 273
 00:12:43,096 --> 00:12:46,197
- IT'S KIND OF FREAKY            
-   DOWN HERE, HUH?              
+\hIT'S\hKIND\hOF\hFREAKY\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\hDOWN\hHERE,\hHUH?\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 274
 00:12:46,199 --> 00:12:47,565
-                WHY IS THAT?    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWHY\hIS\hTHAT?\h\h\h\h
 
 275
 00:12:47,567 --> 00:12:50,201
-      IT'S JUST                 
-  DARK AND CRAMPED.             
+\h\h\h\h\h\hIT'S\hJUST\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\hDARK\hAND\hCRAMPED.\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 276
 00:12:50,203 --> 00:12:53,271
-   I CAN'T EVEN...              
-    STRETCH OUT.                
+\h\h\hI\hCAN'T\hEVEN...\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hSTRETCH\hOUT.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 277
 00:12:53,273 --> 00:12:56,141
-          [ RUMBLING ]          
-[ WHIMPERS ]                    
+\h\h\h\h\h\h\h\h\h\h[\hRUMBLING\h]\h\h\h\h\h\h\h\h\h\h
+[\hWHIMPERS\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 278
 00:12:57,978 --> 00:13:01,246
-  HOW DID YOU THINK             
- YOU WERE GONNA GET             
-EVERYONE IN HERE, ANYWAY?       
+\h\hHOW\hDID\hYOU\hTHINK\h\h\h\h\h\h\h\h\h\h\h\h\h
+\hYOU\hWERE\hGONNA\hGET\h\h\h\h\h\h\h\h\h\h\h\h\h
+EVERYONE\hIN\hHERE,\hANYWAY?\h\h\h\h\h\h\h
 
 279
 00:13:01,248 --> 00:13:03,715
-                I DON'T KNOW.   
-     THEY'D SHRINK OR SOMETHING.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hI\hDON'T\hKNOW.\h\h\h
+\h\h\h\h\hTHEY'D\hSHRINK\hOR\hSOMETHING.
 
 280
 00:13:03,717 --> 00:13:06,885
-    WE DIDN'T HAVE A LOT OF TIME
-                  TO PLAN.      
+\h\h\h\hWE\hDIDN'T\hHAVE\hA\hLOT\hOF\hTIME
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTO\hPLAN.\h\h\h\h\h\h
 
 281
 00:13:06,887 --> 00:13:08,720
-SO, WHAT<i> IS</i> THE PLAN?           
+SO,\hWHAT<i>\hIS</i>\hTHE\hPLAN?\h\h\h\h\h\h\h\h\h\h\h
 
 282
 00:13:08,722 --> 00:13:12,157
-              WE HAVE A DRILL.  
-           WE'RE GOING TO DRILL.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hWE\hHAVE\hA\hDRILL.\h\h
+\h\h\h\h\h\h\h\h\h\h\hWE'RE\hGOING\hTO\hDRILL.
 
 283
 00:13:12,159 --> 00:13:16,261
-          GET READY. WE'RE ABOUT
- TO PENETRATE THE ASTHENOSPHERE.
+\h\h\h\h\h\h\h\h\h\hGET\hREADY.\hWE'RE\hABOUT
+\hTO\hPENETRATE\hTHE\hASTHENOSPHERE.
 
 284
 00:13:16,263 --> 00:13:18,663
-        WHOA!                   
-   IT'S ALL LAVA.               
+\h\h\h\h\h\h\h\hWHOA!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\hIT'S\hALL\hLAVA.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 285
 00:13:18,665 --> 00:13:21,065
-          LAVA IS WHAT COMES OUT
-                OF VOLCANOES.   
+\h\h\h\h\h\h\h\h\h\hLAVA\hIS\hWHAT\hCOMES\hOUT
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOF\hVOLCANOES.\h\h\h
 
 286
 00:13:21,067 --> 00:13:23,568
-                   THAT'S       
-         SUPERHEATED PERIDOTITE.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTHAT'S\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\hSUPERHEATED\hPERIDOTITE.
 
 287
 00:13:23,570 --> 00:13:24,903
-    PERIDOT-ITE?                
+\h\h\h\hPERIDOT-ITE?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 288
 00:13:24,905 --> 00:13:28,306
-     YEAH. IT'S MADE OF THE SAME
-             STUFF AS PERIDOTS. 
+\h\h\h\h\hYEAH.\hIT'S\hMADE\hOF\hTHE\hSAME
+\h\h\h\h\h\h\h\h\h\h\h\h\hSTUFF\hAS\hPERIDOTS.\h
 
 289
 00:13:28,308 --> 00:13:29,908
-YOU WERE MADE ON HOMEWORLD,     
-       RIGHT?                   
+YOU\hWERE\hMADE\hON\hHOMEWORLD,\h\h\h\h\h
+\h\h\h\h\h\h\hRIGHT?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 290
 00:13:29,910 --> 00:13:31,075
-                   MM-HMM.      
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMM-HMM.\h\h\h\h\h\h
 
 291
 00:13:31,077 --> 00:13:32,177
-  WHAT WAS IT LIKE?             
+\h\hWHAT\hWAS\hIT\hLIKE?\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 292
 00:13:32,179 --> 00:13:34,579
-               I DIDN'T EXIST,  
-                 THEN I DID.    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hI\hDIDN'T\hEXIST,\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTHEN\hI\hDID.\h\h\h\h
 
 293
 00:13:34,581 --> 00:13:38,283
-    I DON'T HAVE MEMORIES OF IT,
-               JUST FEELINGS.   
+\h\h\h\hI\hDON'T\hHAVE\hMEMORIES\hOF\hIT,
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hJUST\hFEELINGS.\h\h\h
 
 294
 00:13:38,285 --> 00:13:40,785
-      I KNOW I CAN NEVER GO BACK
-                TO HOMEWORLD,   
+\h\h\h\h\h\hI\hKNOW\hI\hCAN\hNEVER\hGO\hBACK
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTO\hHOMEWORLD,\h\h\h
 
 295
 00:13:40,787 --> 00:13:44,355
-                BUT IT'S HARD   
-       NOT TO HAVE SOME FEELINGS
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hBUT\hIT'S\hHARD\h\h\h
+\h\h\h\h\h\h\hNOT\hTO\hHAVE\hSOME\hFEELINGS
 
 296
 00:13:44,357 --> 00:13:46,524
-        FOR WHERE YOU CAME FROM.
+\h\h\h\h\h\h\h\hFOR\hWHERE\hYOU\hCAME\hFROM.
 
 297
 00:13:48,929 --> 00:13:52,764
-               BUT IT'S FINE.   
- I HAVE SOMETHING DIFFERENT NOW.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hBUT\hIT'S\hFINE.\h\h\h
+\hI\hHAVE\hSOMETHING\hDIFFERENT\hNOW.
 
 298
 00:13:52,766 --> 00:13:53,998
-   W-WHAT'S THAT?               
+\h\h\hW-WHAT'S\hTHAT?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 299
 00:13:54,000 --> 00:13:56,134
-                 YOU KNOW...    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hYOU\hKNOW...\h\h\h\h
 
 300
 00:13:56,136 --> 00:13:59,037
-                  YOU GUYS.     
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hYOU\hGUYS.\h\h\h\h\h
 
 301
 00:13:59,039 --> 00:14:00,839
-          [ THUMPING ]          
+\h\h\h\h\h\h\h\h\h\h[\hTHUMPING\h]\h\h\h\h\h\h\h\h\h\h
 
 302
 00:14:00,841 --> 00:14:02,307
- WHAT'S THAT SOUND?             
+\hWHAT'S\hTHAT\hSOUND?\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 303
 00:14:02,309 --> 00:14:03,975
-      [ GASPS ]                 
-    A GEM MUTANT!               
+\h\h\h\h\h\h[\hGASPS\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hA\hGEM\hMUTANT!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 304
 00:14:03,977 --> 00:14:06,444
-      THEY MUST HAVE BURIED SOME
-    PROTOTYPES WITH THE CLUSTER.
+\h\h\h\h\h\hTHEY\hMUST\hHAVE\hBURIED\hSOME
+\h\h\h\hPROTOTYPES\hWITH\hTHE\hCLUSTER.
 
 305
 00:14:06,446 --> 00:14:07,812
-     [ THUMPING CONTINUES ]     
+\h\h\h\h\h[\hTHUMPING\hCONTINUES\h]\h\h\h\h\h
 
 306
 00:14:07,814 --> 00:14:08,947
-THEY'RE ALL OVER US!            
+THEY'RE\hALL\hOVER\hUS!\h\h\h\h\h\h\h\h\h\h\h\h
 
 307
 00:14:08,949 --> 00:14:11,850
-THEY'RE ATTACKING THE DRILL!    
-   WHAT DO WE DO?!              
+THEY'RE\hATTACKING\hTHE\hDRILL!\h\h\h\h
+\h\h\hWHAT\hDO\hWE\hDO?!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 308
 00:14:12,853 --> 00:14:14,853
-             PEARL DIDN'T THINK 
-              IT WAS NECESSARY, 
+\h\h\h\h\h\h\h\h\h\h\h\h\hPEARL\hDIDN'T\hTHINK\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hIT\hWAS\hNECESSARY,\h
 
 309
 00:14:14,855 --> 00:14:17,689
-          BUT I NEVER LEAVE HOME
-         WITHOUT A BLAST CANNON.
+\h\h\h\h\h\h\h\h\h\hBUT\hI\hNEVER\hLEAVE\hHOME
+\h\h\h\h\h\h\h\h\hWITHOUT\hA\hBLAST\hCANNON.
 
 310
 00:14:20,460 --> 00:14:22,794
-SOMETHING DOESN'T FEEL RIGHT    
-     ABOUT THIS.                
+SOMETHING\hDOESN'T\hFEEL\hRIGHT\h\h\h\h
+\h\h\h\h\hABOUT\hTHIS.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 311
 00:14:22,796 --> 00:14:24,462
-             THEN USE THE D-PAD.
+\h\h\h\h\h\h\h\h\h\h\h\h\hTHEN\hUSE\hTHE\hD-PAD.
 
 312
 00:14:24,464 --> 00:14:25,964
-  NO, IT'S JUST...              
+\h\hNO,\hIT'S\hJUST...\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 313
 00:14:25,966 --> 00:14:29,834
-THESE THINGS, WE CAN'T JUST     
-LEAVE THEIR GEMS OUT THERE.     
+THESE\hTHINGS,\hWE\hCAN'T\hJUST\h\h\h\h\h
+LEAVE\hTHEIR\hGEMS\hOUT\hTHERE.\h\h\h\h\h
 
 314
 00:14:29,836 --> 00:14:31,836
-THEY'RE GOING TO FORM AGAIN     
-       LATER.                   
+THEY'RE\hGOING\hTO\hFORM\hAGAIN\h\h\h\h\h
+\h\h\h\h\h\h\hLATER.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 315
 00:14:31,838 --> 00:14:36,140
-IF I COULD JUST BUBBLE THEM,    
-THEN THEY'D BE SAFE.            
+IF\hI\hCOULD\hJUST\hBUBBLE\hTHEM,\h\h\h\h
+THEN\hTHEY'D\hBE\hSAFE.\h\h\h\h\h\h\h\h\h\h\h\h
 
 316
 00:14:36,142 --> 00:14:37,976
-      COME ON.                  
-WE'VE GOT TO HELP THEM.         
+\h\h\h\h\h\hCOME\hON.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+WE'VE\hGOT\hTO\hHELP\hTHEM.\h\h\h\h\h\h\h\h\h
 
 317
 00:14:37,978 --> 00:14:41,145
-       THERE IS NO HELPING THEM.
-             THEY'RE TOO BROKEN.
+\h\h\h\h\h\h\hTHERE\hIS\hNO\hHELPING\hTHEM.
+\h\h\h\h\h\h\h\h\h\h\h\h\hTHEY'RE\hTOO\hBROKEN.
 
 318
 00:14:41,147 --> 00:14:44,148
-    THE BEINGS WHO USED TO BE IN
-   THOSE SHARDS ARE SO SHATTERED
+\h\h\h\hTHE\hBEINGS\hWHO\hUSED\hTO\hBE\hIN
+\h\h\hTHOSE\hSHARDS\hARE\hSO\hSHATTERED
 
 319
 00:14:44,150 --> 00:14:47,819
-    THEY DON'T KNOW WHO THEY ARE
-OR WHAT'S HAPPENING AROUND THEM.
+\h\h\h\hTHEY\hDON'T\hKNOW\hWHO\hTHEY\hARE
+OR\hWHAT'S\hHAPPENING\hAROUND\hTHEM.
 
 320
 00:14:47,821 --> 00:14:49,587
-             THEY JUST SEEK OUT 
-                 OTHER GEMS,    
+\h\h\h\h\h\h\h\h\h\h\h\h\hTHEY\hJUST\hSEEK\hOUT\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOTHER\hGEMS,\h\h\h\h
 
 321
 00:14:49,589 --> 00:14:52,156
-  LOOKING FOR THE MISSING PIECES
-               OF THEMSELVES,   
+\h\hLOOKING\hFOR\hTHE\hMISSING\hPIECES
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOF\hTHEMSELVES,\h\h\h
 
 322
 00:14:52,158 --> 00:14:54,626
-       TRYING TO MAKE THEMSELVES
-                   WHOLE.       
+\h\h\h\h\h\h\hTRYING\hTO\hMAKE\hTHEMSELVES
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWHOLE.\h\h\h\h\h\h\h
 
 323
 00:14:55,662 --> 00:14:59,030
-    THESE EARLY EXPERIMENTS ONLY
-    COMBINE TWO OR THREE SHARDS.
+\h\h\h\hTHESE\hEARLY\hEXPERIMENTS\hONLY
+\h\h\h\hCOMBINE\hTWO\hOR\hTHREE\hSHARDS.
 
 324
 00:14:59,032 --> 00:15:02,000
-             THE CLUSTER WILL BE
-       A BILLION TIMES BIGGER --
+\h\h\h\h\h\h\h\h\h\h\h\h\hTHE\hCLUSTER\hWILL\hBE
+\h\h\h\h\h\h\hA\hBILLION\hTIMES\hBIGGER\h--
 
 325
 00:15:02,002 --> 00:15:05,436
-   AN INSEPARABLE FUSION CAPABLE
-           OF DESTROYING WORLDS,
+\h\h\hAN\hINSEPARABLE\hFUSION\hCAPABLE
+\h\h\h\h\h\h\h\h\h\h\hOF\hDESTROYING\hWORLDS,
 
 326
 00:15:05,438 --> 00:15:07,405
-         STARTING WITH THIS ONE.
+\h\h\h\h\h\h\h\h\hSTARTING\hWITH\hTHIS\hONE.
 
 327
 00:15:08,942 --> 00:15:11,843
- WE'RE HITTING SOME DENSER ROCK.
-                 THIS IS IT!    
+\hWE'RE\hHITTING\hSOME\hDENSER\hROCK.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTHIS\hIS\hIT!\h\h\h\h
 
 328
 00:15:14,414 --> 00:15:17,181
-          [ RUMBLING ]          
+\h\h\h\h\h\h\h\h\h\h[\hRUMBLING\h]\h\h\h\h\h\h\h\h\h\h
 
 329
 00:15:17,183 --> 00:15:20,018
-       [ WHIRRING STOPS ]       
+\h\h\h\h\h\h\h[\hWHIRRING\hSTOPS\h]\h\h\h\h\h\h\h
 
 330
 00:15:24,291 --> 00:15:26,925
-        RECOVERY DEPTH ACHIEVED.
+\h\h\h\h\h\h\h\hRECOVERY\hDEPTH\hACHIEVED.
 
 331
 00:15:26,927 --> 00:15:28,927
-                TARGET FOUND.   
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTARGET\hFOUND.\h\h\h
 
 332
 00:15:28,929 --> 00:15:29,961
-     IS THAT...                 
+\h\h\h\h\hIS\hTHAT...\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 333
 00:15:29,963 --> 00:15:32,897
-                THE CLUSTER.    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTHE\hCLUSTER.\h\h\h\h
 
 334
 00:15:32,899 --> 00:15:34,299
-          [ RUMBLING ]          
+\h\h\h\h\h\h\h\h\h\h[\hRUMBLING\h]\h\h\h\h\h\h\h\h\h\h
 
 335
 00:15:34,301 --> 00:15:36,234
-        [ BOTH GASPING ]        
+\h\h\h\h\h\h\h\h[\hBOTH\hGASPING\h]\h\h\h\h\h\h\h\h
 
 336
 00:15:36,236 --> 00:15:38,403
- WHAT'S HAPPENING?!             
+\hWHAT'S\hHAPPENING?!\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 337
 00:15:38,405 --> 00:15:42,307
-          [ WARBLING ]          
+\h\h\h\h\h\h\h\h\h\h[\hWARBLING\h]\h\h\h\h\h\h\h\h\h\h
 
 338
 00:15:42,309 --> 00:15:45,376
-               IT'S TOO LATE!   
-              IT'S TAKING FORM! 
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hIT'S\hTOO\hLATE!\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hIT'S\hTAKING\hFORM!\h
 
 339
 00:15:50,050 --> 00:15:52,750
-              STEVEN, I'M SORRY 
-             I COULDN'T SAVE YOU
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hSTEVEN,\hI'M\hSORRY\h
+\h\h\h\h\h\h\h\h\h\h\h\h\hI\hCOULDN'T\hSAVE\hYOU
 
 340
 00:15:52,752 --> 00:15:54,552
-               OR THE BILLIONS  
-             OF OTHER LIFE-FORMS
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOR\hTHE\hBILLIONS\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\hOF\hOTHER\hLIFE-FORMS
 
 341
 00:15:54,554 --> 00:15:56,487
-        WHO MATTER FAR, FAR LESS
-                   TO ME.       
+\h\h\h\h\h\h\h\hWHO\hMATTER\hFAR,\hFAR\hLESS
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTO\hME.\h\h\h\h\h\h\h
 
 342
 00:15:56,489 --> 00:15:59,223
-                 DO YOU HAVE    
-              ANY LAST WORDS?!  
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hDO\hYOU\hHAVE\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hANY\hLAST\hWORDS?!\h\h
 
 343
 00:15:59,225 --> 00:16:01,392
-I LOVE YOU, PERIDOT.            
+I\hLOVE\hYOU,\hPERIDOT.\h\h\h\h\h\h\h\h\h\h\h\h
 
 344
 00:16:01,394 --> 00:16:03,394
-                WOW. THANKS.    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWOW.\hTHANKS.\h\h\h\h
 
 345
 00:16:03,396 --> 00:16:05,697
-          [ THUMPING ]          
+\h\h\h\h\h\h\h\h\h\h[\hTHUMPING\h]\h\h\h\h\h\h\h\h\h\h
 
 346
 00:16:14,407 --> 00:16:17,475
-                     ♪♪         
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h
 
 347
 00:16:17,477 --> 00:16:20,411
-           IT'S STILL STRUGGLING
-              TO TAKE ITS FORM! 
+\h\h\h\h\h\h\h\h\h\h\hIT'S\hSTILL\hSTRUGGLING
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hTO\hTAKE\hITS\hFORM!\h
 
 348
 00:16:20,413 --> 00:16:23,648
-  THIS MEANS WE STILL MIGHT HAVE
-   TIME! THERE'S STILL A CHANCE!
+\h\hTHIS\hMEANS\hWE\hSTILL\hMIGHT\hHAVE
+\h\h\hTIME!\hTHERE'S\hSTILL\hA\hCHANCE!
 
 349
 00:16:23,650 --> 00:16:27,352
-                JUST A LITTLE   
-               REPOSITIONING!   
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hJUST\hA\hLITTLE\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hREPOSITIONING!\h\h\h
 
 350
 00:16:29,789 --> 00:16:33,124
-          [ GROANING ]          
+\h\h\h\h\h\h\h\h\h\h[\hGROANING\h]\h\h\h\h\h\h\h\h\h\h
 
 351
 00:16:33,126 --> 00:16:36,260
-PERIDOT, I DON'T THINK          
-WE SHOULD HURT THE CLUSTER.     
+PERIDOT,\hI\hDON'T\hTHINK\h\h\h\h\h\h\h\h\h\h
+WE\hSHOULD\hHURT\hTHE\hCLUSTER.\h\h\h\h\h
 
 352
 00:16:36,262 --> 00:16:38,496
-    I DON'T THINK               
-IT KNOWS WHAT IT'S DOING.       
+\h\h\h\hI\hDON'T\hTHINK\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+IT\hKNOWS\hWHAT\hIT'S\hDOING.\h\h\h\h\h\h\h
 
 353
 00:16:39,632 --> 00:16:42,266
-              IT DOESN'T MATTER 
-    IF IT KNOWS WHAT IT'S DOING,
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hIT\hDOESN'T\hMATTER\h
+\h\h\h\hIF\hIT\hKNOWS\hWHAT\hIT'S\hDOING,
 
 354
 00:16:42,268 --> 00:16:44,769
-      IT'S STILL GOING TO DO IT.
+\h\h\h\h\h\hIT'S\hSTILL\hGOING\hTO\hDO\hIT.
 
 355
 00:16:49,142 --> 00:16:51,843
-    [ SCREAMING ]               
+\h\h\h\h[\hSCREAMING\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 356
 00:16:53,613 --> 00:16:58,149
-         [ SPUTTERING ]         
+\h\h\h\h\h\h\h\h\h[\hSPUTTERING\h]\h\h\h\h\h\h\h\h\h
 
 357
 00:16:58,151 --> 00:16:59,350
-    [ GRUNTING ]                
+\h\h\h\h[\hGRUNTING\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 358
 00:16:59,352 --> 00:17:00,952
-                   WHAT?!       
-      IS THE INCREASED VIBRATION
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWHAT?!\h\h\h\h\h\h\h
+\h\h\h\h\h\hIS\hTHE\hINCREASED\hVIBRATION
 
 359
 00:17:00,954 --> 00:17:02,787
-               CAUSING DAMAGE   
-             TO YOUR HEAD HOLES?
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hCAUSING\hDAMAGE\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\hTO\hYOUR\hHEAD\hHOLES?
 
 360
 00:17:02,789 --> 00:17:03,855
-    I DON'T KNOW!               
+\h\h\h\hI\hDON'T\hKNOW!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 361
 00:17:03,857 --> 00:17:05,890
-         WE'RE NOT EVEN PIERCING
-               THE CRUST YET!   
+\h\h\h\h\h\h\h\h\hWE'RE\hNOT\hEVEN\hPIERCING
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTHE\hCRUST\hYET!\h\h\h
 
 362
 00:17:05,892 --> 00:17:09,360
-       I NEED TO INCREASE POWER!
-       ARE YOU GOING TO BE OKAY?
+\h\h\h\h\h\h\hI\hNEED\hTO\hINCREASE\hPOWER!
+\h\h\h\h\h\h\hARE\hYOU\hGOING\hTO\hBE\hOKAY?
 
 363
 00:17:09,362 --> 00:17:12,797
-     YEAH, YEAH.                
-I THINK ITS JUST THE NOISE...   
+\h\h\h\h\hYEAH,\hYEAH.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+I\hTHINK\hITS\hJUST\hTHE\hNOISE...\h\h\h
 
 364
 00:17:12,799 --> 00:17:13,564
-      I THINK.                  
+\h\h\h\h\h\hI\hTHINK.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 365
 00:17:13,566 --> 00:17:15,400
-    KEEP GOING.                 
-                    AFFIRMATIVE.
+\h\h\h\hKEEP\hGOING.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hAFFIRMATIVE.
 
 366
 00:17:15,402 --> 00:17:17,902
-           ACTIVATING TRIPLE-TIP
-              PENETRATION MODE! 
+\h\h\h\h\h\h\h\h\h\h\hACTIVATING\hTRIPLE-TIP
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hPENETRATION\hMODE!\h
 
 367
 00:17:29,482 --> 00:17:31,983
-      [ GASPS ]                 
+\h\h\h\h\h\h[\hGASPS\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 368
 00:17:31,985 --> 00:17:33,985
-   RUNAWAY DRILL!               
+\h\h\hRUNAWAY\hDRILL!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 369
 00:17:33,987 --> 00:17:35,053
-                 [ GRUNTS ]     
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hGRUNTS\h]\h\h\h\h\h
 
 370
 00:17:37,490 --> 00:17:41,225
-                   THERE!       
-       JUST GOT TO KEEP BALANCE!
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTHERE!\h\h\h\h\h\h\h
+\h\h\h\h\h\h\hJUST\hGOT\hTO\hKEEP\hBALANCE!
 
 371
 00:17:41,227 --> 00:17:43,895
-        OKAY.                   
+\h\h\h\h\h\h\h\hOKAY.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 372
 00:17:43,897 --> 00:17:45,163
-          [ SCREAMING ]         
+\h\h\h\h\h\h\h\h\h\h[\hSCREAMING\h]\h\h\h\h\h\h\h\h\h
 
 373
 00:17:45,165 --> 00:17:46,664
-     AAH! AAAH!                 
+\h\h\h\h\hAAH!\hAAAH!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 374
 00:17:46,666 --> 00:17:50,568
-                I DON'T KNOW    
-          IF IT'S GOING TO HOLD!
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hI\hDON'T\hKNOW\h\h\h\h
+\h\h\h\h\h\h\h\h\h\hIF\hIT'S\hGOING\hTO\hHOLD!
 
 375
 00:17:50,570 --> 00:17:53,504
-     I DON'T...                 
-UNDERSTAND WHAT'S HAPPENING!    
+\h\h\h\h\hI\hDON'T...\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+UNDERSTAND\hWHAT'S\hHAPPENING!\h\h\h\h
 
 376
 00:17:53,506 --> 00:17:54,906
-     [ GRUNTS ]                 
+\h\h\h\h\h[\hGRUNTS\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 377
 00:17:54,908 --> 00:17:56,340
-               WHAT'S WRONG?!   
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWHAT'S\hWRONG?!\h\h\h
 
 378
 00:17:56,342 --> 00:17:57,875
-    I DON'T KNOW!               
+\h\h\h\hI\hDON'T\hKNOW!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 379
 00:17:57,877 --> 00:17:58,910
-          [ WARBLING ]          
+\h\h\h\h\h\h\h\h\h\h[\hWARBLING\h]\h\h\h\h\h\h\h\h\h\h
 
 380
 00:17:58,912 --> 00:18:01,179
-     [ PANTING ]                
+\h\h\h\h\h[\hPANTING\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 381
 00:18:02,916 --> 00:18:05,216
-              STEVEN! STEVEN?!  
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hSTEVEN!\hSTEVEN?!\h\h
 
 382
 00:18:05,218 --> 00:18:07,819
-     [ PANTING ]                
+\h\h\h\h\h[\hPANTING\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 383
 00:18:11,257 --> 00:18:14,192
- PERIDOT? PERIDOT?!             
+\hPERIDOT?\hPERIDOT?!\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 384
 00:18:17,630 --> 00:18:20,598
-    [<i> INDISTINCT WHISPERING</i> ]   
+\h\h\h\h[<i>\hINDISTINCT\hWHISPERING</i>\h]\h\h\h
 
 385
 00:18:21,367 --> 00:18:23,701
-            [ GASPS ]           
+\h\h\h\h\h\h\h\h\h\h\h\h[\hGASPS\h]\h\h\h\h\h\h\h\h\h\h\h
 
 386
 00:18:23,703 --> 00:18:26,771
-    [<i> WHISPERING CONTINUES</i> ]    
+\h\h\h\h[<i>\hWHISPERING\hCONTINUES</i>\h]\h\h\h\h
 
 387
 00:18:35,548 --> 00:18:37,949
-       <i> WANT TO. NEED TO.</i>       
+\h\h\h\h\h\h\h<i>\hWANT\hTO.\hNEED\hTO.</i>\h\h\h\h\h\h\h
 
 388
 00:18:37,951 --> 00:18:42,320
-         YOU...WANT TO?         
-          WANT TO WHAT?         
+\h\h\h\h\h\h\h\h\hYOU...WANT\hTO?\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\hWANT\hTO\hWHAT?\h\h\h\h\h\h\h\h\h
 
 389
 00:18:42,322 --> 00:18:44,322
-             <i> FORM!</i>             
+\h\h\h\h\h\h\h\h\h\h\h\h\h<i>\hFORM!</i>\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 390
 00:18:44,324 --> 00:18:47,859
-       AAAH! PLEASE, STOP!      
+\h\h\h\h\h\h\hAAAH!\hPLEASE,\hSTOP!\h\h\h\h\h\h
 
 391
 00:18:49,596 --> 00:18:51,562
-        IT'S THE CLUSTER.       
+\h\h\h\h\h\h\h\hIT'S\hTHE\hCLUSTER.\h\h\h\h\h\h\h
 
 392
 00:18:51,564 --> 00:18:53,831
-   I'M TALKING TO THE CLUSTER?  
+\h\h\hI'M\hTALKING\hTO\hTHE\hCLUSTER?\h\h
 
 393
 00:18:53,833 --> 00:18:57,768
-        BUT HOW DID I GET       
-   INSIDE YOUR BRAIN? BRAINS?   
+\h\h\h\h\h\h\h\hBUT\hHOW\hDID\hI\hGET\h\h\h\h\h\h\h
+\h\h\hINSIDE\hYOUR\hBRAIN?\hBRAINS?\h\h\h
 
 394
 00:18:57,770 --> 00:19:01,973
-         <i> MUST, HAVE TO,</i>        
-       <i> WANT TO, NEED TO.</i>       
+\h\h\h\h\h\h\h\h\h<i>\hMUST,\hHAVE\hTO,</i>\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h<i>\hWANT\hTO,\hNEED\hTO.</i>\h\h\h\h\h\h\h
 
 395
 00:19:01,975 --> 00:19:04,809
-        <i> MUST, HAVE TO...</i>       
-         [ GASPS ] WAIT!        
+\h\h\h\h\h\h\h\h<i>\hMUST,\hHAVE\hTO...</i>\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h[\hGASPS\h]\hWAIT!\h\h\h\h\h\h\h\h
 
 396
 00:19:04,811 --> 00:19:06,410
-    PLEASE, DON'T TAKE FORM!    
+\h\h\h\hPLEASE,\hDON'T\hTAKE\hFORM!\h\h\h\h
 
 397
 00:19:06,412 --> 00:19:09,747
-   <i> WANT TO, NEED TO -- FORM!</i>   
-       <i> FORM, FORM, FORM!</i>       
+\h\h\h<i>\hWANT\hTO,\hNEED\hTO\h--\hFORM!</i>\h\h\h
+\h\h\h\h\h\h\h<i>\hFORM,\hFORM,\hFORM!</i>\h\h\h\h\h\h\h
 
 398
 00:19:09,749 --> 00:19:13,251
-     <i> WANT FORM! WANT FORM!</i>     
-             <i> FORM!</i>             
+\h\h\h\h\h<i>\hWANT\hFORM!\hWANT\hFORM!</i>\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h<i>\hFORM!</i>\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 399
 00:19:13,253 --> 00:19:14,752
-         [<i> WHISPERING</i> ]         
+\h\h\h\h\h\h\h\h\h[<i>\hWHISPERING</i>\h]\h\h\h\h\h\h\h\h\h
 
 400
 00:19:14,754 --> 00:19:18,589
-    MAYBE INSTEAD OF FORMING,   
-  YOU COULD DO SOMETHING ELSE?  
+\h\h\h\hMAYBE\hINSTEAD\hOF\hFORMING,\h\h\h
+\h\hYOU\hCOULD\hDO\hSOMETHING\hELSE?\h\h
 
 401
 00:19:18,591 --> 00:19:21,425
-             <i> FORM!</i>             
+\h\h\h\h\h\h\h\h\h\h\h\h\h<i>\hFORM!</i>\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 402
 00:19:21,427 --> 00:19:25,630
-    BOY, YOU'VE SURE GOT THE    
- ONE-TRACKIEST MIND I EVER MET! 
+\h\h\h\hBOY,\hYOU'VE\hSURE\hGOT\hTHE\h\h\h\h
+\hONE-TRACKIEST\hMIND\hI\hEVER\hMET!\h
 
 403
 00:19:25,632 --> 00:19:27,932
-           <i> NEED FORM!</i>          
+\h\h\h\h\h\h\h\h\h\h\h<i>\hNEED\hFORM!</i>\h\h\h\h\h\h\h\h\h\h
 
 404
 00:19:27,934 --> 00:19:31,969
-              AAH!              
-          <i> TO BE WHOLE.</i>         
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hAAH!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h<i>\hTO\hBE\hWHOLE.</i>\h\h\h\h\h\h\h\h\h
 
 405
 00:19:31,971 --> 00:19:33,604
-             WHOLE?             
+\h\h\h\h\h\h\h\h\h\h\h\h\hWHOLE?\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 406
 00:19:33,606 --> 00:19:35,373
-       OH, YOU'RE SHARDS.       
+\h\h\h\h\h\h\hOH,\hYOU'RE\hSHARDS.\h\h\h\h\h\h\h
 
 407
 00:19:35,375 --> 00:19:38,176
-      YOU JUST WANT TO FIND     
-     THE REST OF YOUR GEMS.     
+\h\h\h\h\h\hYOU\hJUST\hWANT\hTO\hFIND\h\h\h\h\h
+\h\h\h\h\hTHE\hREST\hOF\hYOUR\hGEMS.\h\h\h\h\h
 
 408
 00:19:38,178 --> 00:19:41,479
- BUT FORMING WON'T HELP YOU FIND
-     THE REST OF YOURSELVES.    
+\hBUT\hFORMING\hWON'T\hHELP\hYOU\hFIND
+\h\h\h\h\hTHE\hREST\hOF\hYOURSELVES.\h\h\h\h
 
 409
 00:19:41,481 --> 00:19:43,781
- YOU'LL JUST DESTROY THE EARTH. 
+\hYOU'LL\hJUST\hDESTROY\hTHE\hEARTH.\h
 
 410
 00:19:43,783 --> 00:19:46,551
-      <i> NO, NO, NO, NO, NO.</i>      
+\h\h\h\h\h\h<i>\hNO,\hNO,\hNO,\hNO,\hNO.</i>\h\h\h\h\h\h
 
 411
 00:19:46,553 --> 00:19:48,619
-     BUT IF YOU WANT TO FIND    
-           OTHER GEMS,          
+\h\h\h\h\hBUT\hIF\hYOU\hWANT\hTO\hFIND\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\hOTHER\hGEMS,\h\h\h\h\h\h\h\h\h\h
 
 412
 00:19:48,621 --> 00:19:50,621
-     THERE'S SO MANY OF YOU     
-           RIGHT HERE.          
+\h\h\h\h\hTHERE'S\hSO\hMANY\hOF\hYOU\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\hRIGHT\hHERE.\h\h\h\h\h\h\h\h\h\h
 
 413
 00:19:50,623 --> 00:19:53,391
-   LOOK -- SHARD, MEET SHARD.   
+\h\h\hLOOK\h--\hSHARD,\hMEET\hSHARD.\h\h\h
 
 414
 00:19:53,393 --> 00:19:55,893
-   <i> HAVE TO.</i>                    
-                    <i> WANT TO.</i>   
+\h\h\h<i>\hHAVE\hTO.</i>\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h<i>\hWANT\hTO.</i>\h\h\h
 
 415
 00:19:55,895 --> 00:19:59,330
-  SEE, YOU ALREADY HAVE SO MUCH 
-         TO TALK ABOUT.         
+\h\hSEE,\hYOU\hALREADY\hHAVE\hSO\hMUCH\h
+\h\h\h\h\h\h\h\h\hTO\hTALK\hABOUT.\h\h\h\h\h\h\h\h\h
 
 416
 00:19:59,332 --> 00:20:01,566
-                    <i> HELLO.</i>     
-       <i> HI.</i>                     
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h<i>\hHELLO.</i>\h\h\h\h\h
+\h\h\h\h\h\h\h<i>\hHI.</i>\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 417
 00:20:01,568 --> 00:20:04,735
-     [<i> INDISTINCT TALKING</i> ]     
+\h\h\h\h\h[<i>\hINDISTINCT\hTALKING</i>\h]\h\h\h\h\h
 
 418
 00:20:06,906 --> 00:20:10,374
-         THIS IS GREAT!         
-  YOU DON'T EVEN NEED TO FORM!  
+\h\h\h\h\h\h\h\h\hTHIS\hIS\hGREAT!\h\h\h\h\h\h\h\h\h
+\h\hYOU\hDON'T\hEVEN\hNEED\hTO\hFORM!\h\h
 
 419
 00:20:10,376 --> 00:20:12,143
-     YOU CAN JUST STAY HERE!    
+\h\h\h\h\hYOU\hCAN\hJUST\hSTAY\hHERE!\h\h\h\h
 
 420
 00:20:12,145 --> 00:20:14,412
-         <i> WANT TO STAY.</i>         
+\h\h\h\h\h\h\h\h\h<i>\hWANT\hTO\hSTAY.</i>\h\h\h\h\h\h\h\h\h
 
 421
 00:20:14,414 --> 00:20:16,414
-             <i> BUT...</i>            
+\h\h\h\h\h\h\h\h\h\h\h\h\h<i>\hBUT...</i>\h\h\h\h\h\h\h\h\h\h\h\h
 
 422
 00:20:16,416 --> 00:20:18,816
-          <i> CAN'T STOP!</i>          
+\h\h\h\h\h\h\h\h\h\h<i>\hCAN'T\hSTOP!</i>\h\h\h\h\h\h\h\h\h\h
 
 423
 00:20:18,818 --> 00:20:21,185
-         <i> GOING TO FORM!</i>        
+\h\h\h\h\h\h\h\h\h<i>\hGOING\hTO\hFORM!</i>\h\h\h\h\h\h\h\h
 
 424
 00:20:21,187 --> 00:20:23,221
-          <i> CAN'T STOP!</i>          
+\h\h\h\h\h\h\h\h\h\h<i>\hCAN'T\hSTOP!</i>\h\h\h\h\h\h\h\h\h\h
 
 425
 00:20:23,223 --> 00:20:25,389
-         <i> GOING TO FORM!</i>        
+\h\h\h\h\h\h\h\h\h<i>\hGOING\hTO\hFORM!</i>\h\h\h\h\h\h\h\h
 
 426
 00:20:25,391 --> 00:20:27,325
-          <i> HELP! HELP!</i>          
+\h\h\h\h\h\h\h\h\h\h<i>\hHELP!\hHELP!</i>\h\h\h\h\h\h\h\h\h\h
 
 427
 00:20:27,327 --> 00:20:30,995
-IT'S OKAY. IF I JUST BUBBLE YOU,
-   YOU WON'T HAVE TO COME OUT.  
+IT'S\hOKAY.\hIF\hI\hJUST\hBUBBLE\hYOU,
+\h\h\hYOU\hWON'T\hHAVE\hTO\hCOME\hOUT.\h\h
 
 428
 00:20:30,997 --> 00:20:34,165
-      IT'LL KEEP YOU SAFE.      
-    HERE, LOOK -- LIKE THIS!    
+\h\h\h\h\h\hIT'LL\hKEEP\hYOU\hSAFE.\h\h\h\h\h\h
+\h\h\h\hHERE,\hLOOK\h--\hLIKE\hTHIS!\h\h\h\h
 
 429
 00:20:34,167 --> 00:20:36,667
-        I CAN BUBBLE YOU!       
-        I CAN BUBBLE YOU!       
+\h\h\h\h\h\h\h\hI\hCAN\hBUBBLE\hYOU!\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hI\hCAN\hBUBBLE\hYOU!\h\h\h\h\h\h\h
 
 430
 00:20:36,669 --> 00:20:38,703
-        I CAN BUBBLE YOU!       
-           [ PANTING ]          
+\h\h\h\h\h\h\h\hI\hCAN\hBUBBLE\hYOU!\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h[\hPANTING\h]\h\h\h\h\h\h\h\h\h\h
 
 431
 00:20:38,705 --> 00:20:42,173
-   WELL, THAT'S FIVE OUT OF...  
+\h\h\hWELL,\hTHAT'S\hFIVE\hOUT\hOF...\h\h
 
 432
 00:20:42,175 --> 00:20:43,541
-            OH, GEEZ.           
+\h\h\h\h\h\h\h\h\h\h\h\hOH,\hGEEZ.\h\h\h\h\h\h\h\h\h\h\h
 
 433
 00:20:43,543 --> 00:20:45,676
-           I'M SORRY!           
+\h\h\h\h\h\h\h\h\h\h\hI'M\hSORRY!\h\h\h\h\h\h\h\h\h\h\h
 
 434
 00:20:45,678 --> 00:20:47,878
-      I CAN'T DO IT ALONE!      
+\h\h\h\h\h\hI\hCAN'T\hDO\hIT\hALONE!\h\h\h\h\h\h
 
 435
 00:20:47,880 --> 00:20:51,949
-          [<i> CLAMORING</i> ]         
+\h\h\h\h\h\h\h\h\h\h[<i>\hCLAMORING</i>\h]\h\h\h\h\h\h\h\h\h
 
 436
 00:20:51,951 --> 00:20:53,351
-              WHOA!             
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hWHOA!\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 437
 00:20:53,353 --> 00:20:55,753
-          [ GRUNTING ]          
+\h\h\h\h\h\h\h\h\h\h[\hGRUNTING\h]\h\h\h\h\h\h\h\h\h\h
 
 438
 00:20:55,755 --> 00:20:58,189
-              STEVEN, WAKE UP!  
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hSTEVEN,\hWAKE\hUP!\h\h
 
 439
 00:20:58,191 --> 00:21:00,291
-      [ GASPS ]                 
-IT DOESN'T WANT TO FORM!        
+\h\h\h\h\h\h[\hGASPS\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+IT\hDOESN'T\hWANT\hTO\hFORM!\h\h\h\h\h\h\h\h
 
 440
 00:21:00,293 --> 00:21:01,525
-                   WHAT?!       
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWHAT?!\h\h\h\h\h\h\h
 
 441
 00:21:01,527 --> 00:21:03,027
-  WE GOT TO PUT IT              
-    IN A BUBBLE!                
+\h\hWE\hGOT\hTO\hPUT\hIT\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hIN\hA\hBUBBLE!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 442
 00:21:03,029 --> 00:21:06,130
-                BUBBLE THAT?!   
-               THERE'S NO WAY!  
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hBUBBLE\hTHAT?!\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTHERE'S\hNO\hWAY!\h\h
 
 443
 00:21:09,569 --> 00:21:12,036
-      [ GASPS ]                 
-THEY'RE BUBBLING EACH OTHER!    
+\h\h\h\h\h\h[\hGASPS\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+THEY'RE\hBUBBLING\hEACH\hOTHER!\h\h\h\h
 
 444
 00:21:12,038 --> 00:21:15,773
-    I'VE GOT YOU!               
-  YOU'VE GOT THIS!              
+\h\h\h\hI'VE\hGOT\hYOU!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\hYOU'VE\hGOT\hTHIS!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 445
 00:21:17,577 --> 00:21:20,311
-WE'VE ALL GOT EACH OTHER!       
+WE'VE\hALL\hGOT\hEACH\hOTHER!\h\h\h\h\h\h\h
 
 446
 00:21:32,392 --> 00:21:33,758
-           Both: WHOA!          
+\h\h\h\h\h\h\h\h\h\h\hBoth:\hWHOA!\h\h\h\h\h\h\h\h\h\h
 
 447
 00:21:33,760 --> 00:21:35,059
-     YOU DID IT!                
+\h\h\h\h\hYOU\hDID\hIT!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 448
 00:21:35,061 --> 00:21:37,895
-             WE DID IT TOGETHER,
-              AND IT WAS GREAT! 
+\h\h\h\h\h\h\h\h\h\h\h\h\hWE\hDID\hIT\hTOGETHER,
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hAND\hIT\hWAS\hGREAT!\h
 
 449
 00:21:37,897 --> 00:21:38,929
-                    HUH?        
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hHUH?\h\h\h\h\h\h\h\h
 
 450
 00:21:38,931 --> 00:21:41,565
-              GUYS,             
-          YOU'RE BACK!          
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hGUYS,\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\hYOU'RE\hBACK!\h\h\h\h\h\h\h\h\h\h
 
 451
 00:21:41,567 --> 00:21:43,968
-         IS LAPIS OKAY?         
-        -SHE'LL BE FINE.        
+\h\h\h\h\h\h\h\h\hIS\hLAPIS\hOKAY?\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h-SHE'LL\hBE\hFINE.\h\h\h\h\h\h\h\h
 
 452
 00:21:43,970 --> 00:21:46,937
-   YOU LOOK HAPPY!              
-DID YOU DESTROY THE CLUSTER?    
+\h\h\hYOU\hLOOK\hHAPPY!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+DID\hYOU\hDESTROY\hTHE\hCLUSTER?\h\h\h\h
 
 453
 00:21:46,939 --> 00:21:49,674
-      -NO, I TALKED TO IT!      
-             -WHAT?             
+\h\h\h\h\h\h-NO,\hI\hTALKED\hTO\hIT!\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h-WHAT?\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 454
 00:21:49,676 --> 00:21:52,076
-   IT DOESN'T WANT TO DESTROY   
-           THE EARTH.           
+\h\h\hIT\hDOESN'T\hWANT\hTO\hDESTROY\h\h\h
+\h\h\h\h\h\h\h\h\h\h\hTHE\hEARTH.\h\h\h\h\h\h\h\h\h\h\h
 
 455
 00:21:52,078 --> 00:21:54,845
-     IT JUST WANTS COMPANY,     
-      AND IT'S GOT IT NOW.      
+\h\h\h\h\hIT\hJUST\hWANTS\hCOMPANY,\h\h\h\h\h
+\h\h\h\h\h\hAND\hIT'S\hGOT\hIT\hNOW.\h\h\h\h\h\h
 
 456
 00:21:54,847 --> 00:21:56,514
-  IT'S LIKE A BAJILLION PEOPLE! 
+\h\hIT'S\hLIKE\hA\hBAJILLION\hPEOPLE!\h
 
 457
 00:21:56,516 --> 00:21:58,916
-    THEY'LL HAVE LOTS OF TIME   
-  TO GET TO KNOW EACH OTHER...  
+\h\h\h\hTHEY'LL\hHAVE\hLOTS\hOF\hTIME\h\h\h
+\h\hTO\hGET\hTO\hKNOW\hEACH\hOTHER...\h\h
 
 458
 00:21:58,918 --> 00:22:00,284
-            NOW THAT            
-      THEY'RE IN A BUBBLE.      
+\h\h\h\h\h\h\h\h\h\h\h\hNOW\hTHAT\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\hTHEY'RE\hIN\hA\hBUBBLE.\h\h\h\h\h\h
 
 459
 00:22:00,286 --> 00:22:04,822
-HOW ON EARTH DID YOU BUBBLE     
-  THAT WHOLE THING?             
+HOW\hON\hEARTH\hDID\hYOU\hBUBBLE\h\h\h\h\h
+\h\hTHAT\hWHOLE\hTHING?\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 460
 00:22:04,824 --> 00:22:07,925
-      WE HAD A LITTLE HELP.     
+\h\h\h\h\h\hWE\hHAD\hA\hLITTLE\hHELP.\h\h\h\h\h
 
 461
 00:22:16,502 --> 00:22:18,903
-      [ CRICKETS BUZZING ]      
+\h\h\h\h\h\h[\hCRICKETS\hBUZZING\h]\h\h\h\h\h\h
 

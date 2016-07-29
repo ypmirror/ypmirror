@@ -1,1317 +1,1317 @@
 ﻿1
 00:00:00,634 --> 00:00:02,001
-       ♪ WE ♪                   
+\h\h\h\h\h\h\h♪\hWE\h♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 2
 00:00:02,003 --> 00:00:03,869
-    ♪ ARE THE CRYSTAL GEMS ♪    
+\h\h\h\h♪\hARE\hTHE\hCRYSTAL\hGEMS\h♪\h\h\h\h
 
 3
 00:00:03,871 --> 00:00:06,472
-  ♪ WE'LL ALWAYS SAVE THE DAY ♪ 
+\h\h♪\hWE'LL\hALWAYS\hSAVE\hTHE\hDAY\h♪\h
 
 4
 00:00:06,474 --> 00:00:08,774
-             Steven:            
-  ♪ AND IF YOU THINK WE CAN'T ♪ 
+\h\h\h\h\h\h\h\h\h\h\h\h\hSteven:\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h♪\hAND\hIF\hYOU\hTHINK\hWE\hCAN'T\h♪\h
 
 5
 00:00:08,776 --> 00:00:11,543
-   ♪ WE'LL ALWAYS FIND A WAY ♪  
+\h\h\h♪\hWE'LL\hALWAYS\hFIND\hA\hWAY\h♪\h\h
 
 6
 00:00:11,545 --> 00:00:13,479
-♪ THAT'S WHY THE PEOPLE ♪       
+♪\hTHAT'S\hWHY\hTHE\hPEOPLE\h♪\h\h\h\h\h\h\h
 
 7
 00:00:13,481 --> 00:00:15,681
-        ♪ OF THIS WORLD ♪       
+\h\h\h\h\h\h\h\h♪\hOF\hTHIS\hWORLD\h♪\h\h\h\h\h\h\h
 
 8
 00:00:15,683 --> 00:00:16,815
-   ♪ BELIEVE IN ♪               
+\h\h\h♪\hBELIEVE\hIN\h♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 9
 00:00:16,817 --> 00:00:17,783
-     ♪ GARNET ♪                 
+\h\h\h\h\h♪\hGARNET\h♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 10
 00:00:17,785 --> 00:00:19,018
-    Amethyst: ♪ AMETHYST ♪      
+\h\h\h\hAmethyst:\h♪\hAMETHYST\h♪\h\h\h\h\h\h
 
 11
 00:00:19,020 --> 00:00:20,552
-            Pearl: ♪ AND PEARL ♪
+\h\h\h\h\h\h\h\h\h\h\h\hPearl:\h♪\hAND\hPEARL\h♪
 
 12
 00:00:20,554 --> 00:00:22,354
-           AND STEVEN!          
+\h\h\h\h\h\h\h\h\h\h\hAND\hSTEVEN!\h\h\h\h\h\h\h\h\h\h
 
 13
 00:00:32,867 --> 00:00:34,099
-          [ ALL GASP ]          
+\h\h\h\h\h\h\h\h\h\h[\hALL\hGASP\h]\h\h\h\h\h\h\h\h\h\h
 
 14
 00:00:35,403 --> 00:00:37,703
-           RUBY? AAH!           
+\h\h\h\h\h\h\h\h\h\h\hRUBY?\hAAH!\h\h\h\h\h\h\h\h\h\h\h
 
 15
 00:00:39,073 --> 00:00:40,539
-                [ GRUMBLES ]    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hGRUMBLES\h]\h\h\h\h
 
 16
 00:00:40,541 --> 00:00:41,974
-           [ GRUNTS ]           
+\h\h\h\h\h\h\h\h\h\h\h[\hGRUNTS\h]\h\h\h\h\h\h\h\h\h\h\h
 
 17
 00:00:41,976 --> 00:00:44,043
-          HA! HOO-WHOO!         
+\h\h\h\h\h\h\h\h\h\hHA!\hHOO-WHOO!\h\h\h\h\h\h\h\h\h
 
 18
 00:00:44,045 --> 00:00:45,911
-            HOW-OOH!            
+\h\h\h\h\h\h\h\h\h\h\h\hHOW-OOH!\h\h\h\h\h\h\h\h\h\h\h\h
 
 19
 00:00:45,913 --> 00:00:46,979
-              HIYA!             
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hHIYA!\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 20
 00:00:46,981 --> 00:00:48,180
-     [ GRUNTS ]                 
+\h\h\h\h\h[\hGRUNTS\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 21
 00:00:48,182 --> 00:00:51,016
- [ GASPS ] WHAT A LOVELY PLANET!
-                 [ HUMMING ]    
+\h[\hGASPS\h]\hWHAT\hA\hLOVELY\hPLANET!
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hHUMMING\h]\h\h\h\h
 
 22
 00:00:51,018 --> 00:00:53,986
-    WAIT! SO WE JUST GET OUT    
-        AND WALK AROUND?        
+\h\h\h\hWAIT!\hSO\hWE\hJUST\hGET\hOUT\h\h\h\h
+\h\h\h\h\h\h\h\hAND\hWALK\hAROUND?\h\h\h\h\h\h\h\h
 
 23
 00:00:53,988 --> 00:00:57,556
-                 OOH!           
-    NOW, WHERE'S THE GEM        
-  THE SCANNERS LOCKED ONTO?     
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOOH!\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hNOW,\hWHERE'S\hTHE\hGEM\h\h\h\h\h\h\h\h
+\h\hTHE\hSCANNERS\hLOCKED\hONTO?\h\h\h\h\h
 
 24
 00:00:57,558 --> 00:01:00,259
-          LET'S FAN OUT         
-      AND SEARCH THE AREA.      
+\h\h\h\h\h\h\h\h\h\hLET'S\hFAN\hOUT\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\hAND\hSEARCH\hTHE\hAREA.\h\h\h\h\h\h
 
 25
 00:01:00,261 --> 00:01:01,894
-              WHOA,             
-        LOOK AT THEM ALL.       
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hWHOA,\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hLOOK\hAT\hTHEM\hALL.\h\h\h\h\h\h\h
 
 26
 00:01:01,896 --> 00:01:03,896
-     I KNEW IT.                 
-  THEY'RE AFTER ME.             
+\h\h\h\h\hI\hKNEW\hIT.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\hTHEY'RE\hAFTER\hME.\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 27
 00:01:03,898 --> 00:01:05,697
-         THIS IS THE END        
-          OF THE LINE.          
+\h\h\h\h\h\h\h\h\hTHIS\hIS\hTHE\hEND\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\hOF\hTHE\hLINE.\h\h\h\h\h\h\h\h\h\h
 
 28
 00:01:05,699 --> 00:01:07,166
-     YOU REALLY                 
-  WEREN'T KIDDING.              
+\h\h\h\h\hYOU\hREALLY\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\hWEREN'T\hKIDDING.\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 29
 00:01:07,168 --> 00:01:09,101
-      I DISOBEYED A DIRECT ORDER
-            FROM YELLOW DIAMOND,
+\h\h\h\h\h\hI\hDISOBEYED\hA\hDIRECT\hORDER
+\h\h\h\h\h\h\h\h\h\h\h\hFROM\hYELLOW\hDIAMOND,
 
 30
 00:01:09,103 --> 00:01:12,171
-      AND I CALLED HER A CLOD...
-                TO HER FACE.    
+\h\h\h\h\h\hAND\hI\hCALLED\hHER\hA\hCLOD...
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTO\hHER\hFACE.\h\h\h\h
 
 31
 00:01:12,173 --> 00:01:14,606
-          OH, HONESTLY,         
-    YOU CALL EVERYONE A CLOD.   
+\h\h\h\h\h\h\h\h\h\hOH,\hHONESTLY,\h\h\h\h\h\h\h\h\h
+\h\h\h\hYOU\hCALL\hEVERYONE\hA\hCLOD.\h\h\h
 
 32
 00:01:14,608 --> 00:01:15,941
-YES, BUT NOT EVERYONE           
+YES,\hBUT\hNOT\hEVERYONE\h\h\h\h\h\h\h\h\h\h\h
 
 33
 00:01:15,943 --> 00:01:18,077
-HAS COMMAND OVER ALL THE ARMIES 
-    OF HOMEWORLD,               
+HAS\hCOMMAND\hOVER\hALL\hTHE\hARMIES\h
+\h\h\h\hOF\hHOMEWORLD,\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 34
 00:01:18,079 --> 00:01:19,912
-WAITING FOR THE WORD            
-   TO SHATTER ME!               
+WAITING\hFOR\hTHE\hWORD\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\hTO\hSHATTER\hME!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 35
 00:01:19,914 --> 00:01:22,247
-                  PERIDOT,      
-      WE WON'T LET THEM GET YOU.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hPERIDOT,\h\h\h\h\h\h
+\h\h\h\h\h\hWE\hWON'T\hLET\hTHEM\hGET\hYOU.
 
 36
 00:01:22,249 --> 00:01:25,217
-BUT HAVEN'T I CAUSED YOU        
-   ENOUGH TROUBLE?              
+BUT\hHAVEN'T\hI\hCAUSED\hYOU\h\h\h\h\h\h\h\h
+\h\h\hENOUGH\hTROUBLE?\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 37
 00:01:25,219 --> 00:01:26,385
-      DON'T WORRY, PERIDOT.     
+\h\h\h\h\h\hDON'T\hWORRY,\hPERIDOT.\h\h\h\h\h
 
 38
 00:01:26,387 --> 00:01:27,853
-       IT'S OUR SWORN DUTY      
+\h\h\h\h\h\h\hIT'S\hOUR\hSWORN\hDUTY\h\h\h\h\h\h
 
 39
 00:01:27,855 --> 00:01:29,922
-       TO PROTECT ANYTHING      
-  THAT CALLS THIS PLANET HOME.  
+\h\h\h\h\h\h\hTO\hPROTECT\hANYTHING\h\h\h\h\h\h
+\h\hTHAT\hCALLS\hTHIS\hPLANET\hHOME.\h\h
 
 40
 00:01:29,924 --> 00:01:32,591
-        AND THAT INCLUDES       
-         CLODS LIKE YOU.        
+\h\h\h\h\h\h\h\hAND\hTHAT\hINCLUDES\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\hCLODS\hLIKE\hYOU.\h\h\h\h\h\h\h\h
 
 41
 00:01:32,593 --> 00:01:34,560
-   THAT'S MY WORD.              
+\h\h\hTHAT'S\hMY\hWORD.\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 42
 00:01:34,562 --> 00:01:36,061
-      LISTEN UP, EVERYONE.      
+\h\h\h\h\h\hLISTEN\hUP,\hEVERYONE.\h\h\h\h\h\h
 
 43
 00:01:36,063 --> 00:01:37,096
-   I HAVE A PLAN.               
+\h\h\hI\hHAVE\hA\hPLAN.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 44
 00:01:37,098 --> 00:01:40,699
-         OR SHOULD I SAY        
-        <i> WE</i> HAVE A PLAN?        
+\h\h\h\h\h\h\h\h\hOR\hSHOULD\hI\hSAY\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h<i>\hWE</i>\hHAVE\hA\hPLAN?\h\h\h\h\h\h\h\h
 
 45
 00:01:41,635 --> 00:01:43,469
-  HELLO, EVERYONE.              
+\h\hHELLO,\hEVERYONE.\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 46
 00:01:43,471 --> 00:01:45,370
-           Both: RUBY! SAPPHIRE!
+\h\h\h\h\h\h\h\h\h\h\hBoth:\hRUBY!\hSAPPHIRE!
 
 47
 00:01:45,372 --> 00:01:47,139
-           HU-U-U-GS!           
+\h\h\h\h\h\h\h\h\h\h\hHU-U-U-GS!\h\h\h\h\h\h\h\h\h\h\h
 
 48
 00:01:47,141 --> 00:01:48,273
-   HELLO, STEVEN.               
+\h\h\hHELLO,\hSTEVEN.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 49
 00:01:48,275 --> 00:01:49,608
-            SO, WHAT'S THE PLAN?
+\h\h\h\h\h\h\h\h\h\h\h\hSO,\hWHAT'S\hTHE\hPLAN?
 
 50
 00:01:49,610 --> 00:01:52,311
-          -[ CHUCKLES ]         
-         -YOU GOT THIS.         
+\h\h\h\h\h\h\h\h\h\h-[\hCHUCKLES\h]\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h-YOU\hGOT\hTHIS.\h\h\h\h\h\h\h\h\h
 
 51
 00:01:52,313 --> 00:01:53,712
-  JUST ACT CASUAL.              
+\h\hJUST\hACT\hCASUAL.\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 52
 00:01:53,714 --> 00:01:56,615
-                YEAH, CASUAL.   
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hYEAH,\hCASUAL.\h\h\h
 
 53
 00:01:58,319 --> 00:02:00,252
-  [ INDISTINCT CONVERSATIONS ]  
+\h\h[\hINDISTINCT\hCONVERSATIONS\h]\h\h
 
 54
 00:02:00,254 --> 00:02:01,753
-         FOCUS, RUBIES!         
+\h\h\h\h\h\h\h\h\hFOCUS,\hRUBIES!\h\h\h\h\h\h\h\h\h
 
 55
 00:02:01,755 --> 00:02:04,289
-  THIS IS AN IMPORTANT MISSION  
-      FROM YELLOW DIAMOND,      
+\h\hTHIS\hIS\hAN\hIMPORTANT\hMISSION\h\h
+\h\h\h\h\h\hFROM\hYELLOW\hDIAMOND,\h\h\h\h\h\h
 
 56
 00:02:04,291 --> 00:02:05,924
-     SO WE CAN'T MESS IT UP.    
+\h\h\h\h\hSO\hWE\hCAN'T\hMESS\hIT\hUP.\h\h\h\h
 
 57
 00:02:05,926 --> 00:02:07,960
-    EH, HEY, HEY!               
-    [ CHUCKLES ]                
+\h\h\h\hEH,\hHEY,\hHEY!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h[\hCHUCKLES\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 58
 00:02:07,962 --> 00:02:11,029
-UH, WHAT ARE WE ALL DOING       
-     OVER HERE?                 
+UH,\hWHAT\hARE\hWE\hALL\hDOING\h\h\h\h\h\h\h
+\h\h\h\h\hOVER\hHERE?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 59
 00:02:11,799 --> 00:02:14,266
-           YEAH, WHAT ARE WE ALL
-                 DOING HERE?    
+\h\h\h\h\h\h\h\h\h\h\hYEAH,\hWHAT\hARE\hWE\hALL
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hDOING\hHERE?\h\h\h\h
 
 60
 00:02:14,268 --> 00:02:18,303
-     WE'RE HERE TO RETRIEVE     
-THE LEADER OF THE EARTH MISSION!
+\h\h\h\h\hWE'RE\hHERE\hTO\hRETRIEVE\h\h\h\h\h
+THE\hLEADER\hOF\hTHE\hEARTH\hMISSION!
 
 61
 00:02:18,305 --> 00:02:20,639
-       HEY, WAIT A SECOND.      
+\h\h\h\h\h\h\hHEY,\hWAIT\hA\hSECOND.\h\h\h\h\h\h
 
 62
 00:02:20,641 --> 00:02:24,843
-    IT SEEMS LIKE THERE ARE MORE
-              OF US THAN USUAL. 
+\h\h\h\hIT\hSEEMS\hLIKE\hTHERE\hARE\hMORE
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hOF\hUS\hTHAN\hUSUAL.\h
 
 63
 00:02:24,845 --> 00:02:27,613
-THERE'S SUPPOSED TO BE FIVE     
-       OF US.                   
+THERE'S\hSUPPOSED\hTO\hBE\hFIVE\h\h\h\h\h
+\h\h\h\h\h\h\hOF\hUS.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 64
 00:02:27,615 --> 00:02:29,748
-          FIVE RUBIES!          
+\h\h\h\h\h\h\h\h\h\hFIVE\hRUBIES!\h\h\h\h\h\h\h\h\h\h
 
 65
 00:02:31,485 --> 00:02:34,820
-              ONE, TWO, THREE,  
-                 FOUR, FIVE.    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hONE,\hTWO,\hTHREE,\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hFOUR,\hFIVE.\h\h\h\h
 
 66
 00:02:34,822 --> 00:02:37,189
-    -[ CHUCKLES ] NEVER MIND.   
-             -PHEW!             
+\h\h\h\h-[\hCHUCKLES\h]\hNEVER\hMIND.\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h-PHEW!\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 67
 00:02:37,191 --> 00:02:40,826
- THE LEADER OF THE EARTH MISSION
- MUST BE AROUND HERE SOMEWHERE. 
+\hTHE\hLEADER\hOF\hTHE\hEARTH\hMISSION
+\hMUST\hBE\hAROUND\hHERE\hSOMEWHERE.\h
 
 68
 00:02:40,828 --> 00:02:43,662
-   WELL, SHE'S DEFINITELY NOT   
-          IN THAT BARN.         
+\h\h\hWELL,\hSHE'S\hDEFINITELY\hNOT\h\h\h
+\h\h\h\h\h\h\h\h\h\hIN\hTHAT\hBARN.\h\h\h\h\h\h\h\h\h
 
 69
 00:02:43,664 --> 00:02:45,330
-                    WHOA!       
-       I DIDN'T SEE THAT BEFORE.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWHOA!\h\h\h\h\h\h\h
+\h\h\h\h\h\h\hI\hDIDN'T\hSEE\hTHAT\hBEFORE.
 
 70
 00:02:45,332 --> 00:02:47,633
-     MAYBE WE<i> SHOULD</i> LOOK AROUND
-                  IN THERE.     
+\h\h\h\h\hMAYBE\hWE<i>\hSHOULD</i>\hLOOK\hAROUND
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hIN\hTHERE.\h\h\h\h\h
 
 71
 00:02:47,635 --> 00:02:50,169
-I'LL GO...BY MYSELF.            
+I'LL\hGO...BY\hMYSELF.\h\h\h\h\h\h\h\h\h\h\h\h
 
 72
 00:02:50,171 --> 00:02:51,336
-        GAH!                    
+\h\h\h\h\h\h\h\hGAH!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 73
 00:02:51,338 --> 00:02:52,638
-                  BYE-BYE!      
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hBYE-BYE!\h\h\h\h\h\h
 
 74
 00:02:52,640 --> 00:02:54,473
-       THEY WANT TO SEARCH      
-            THE BARN.           
+\h\h\h\h\h\h\hTHEY\hWANT\hTO\hSEARCH\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hTHE\hBARN.\h\h\h\h\h\h\h\h\h\h\h
 
 75
 00:02:54,475 --> 00:02:56,175
-           -WE HEARD.           
-            -WE SAW.            
+\h\h\h\h\h\h\h\h\h\h\h-WE\hHEARD.\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h-WE\hSAW.\h\h\h\h\h\h\h\h\h\h\h\h
 
 76
 00:02:56,177 --> 00:02:57,442
-     I'M SCARED.                
+\h\h\h\h\hI'M\hSCARED.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 77
 00:02:57,444 --> 00:02:59,144
-       LET'S AMBUSH THEM!       
+\h\h\h\h\h\h\hLET'S\hAMBUSH\hTHEM!\h\h\h\h\h\h\h
 
 78
 00:02:59,146 --> 00:03:01,547
-         NO.                    
-NO ONE NEEDS TO GET HURT.       
+\h\h\h\h\h\h\h\h\hNO.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+NO\hONE\hNEEDS\hTO\hGET\hHURT.\h\h\h\h\h\h\h
 
 79
 00:03:01,549 --> 00:03:02,814
- LET'S BE SENSIBLE.             
+\hLET'S\hBE\hSENSIBLE.\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 80
 00:03:02,816 --> 00:03:04,716
-                WHAT DO I DO?   
-                [ WHIMPERS ]    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWHAT\hDO\hI\hDO?\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hWHIMPERS\h]\h\h\h\h
 
 81
 00:03:04,718 --> 00:03:06,151
-  JUST GO OUT THERE             
+\h\hJUST\hGO\hOUT\hTHERE\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 82
 00:03:06,153 --> 00:03:09,021
-AND TELL THEM THIS IS A PLACE   
- WHERE HUMANS LIVE.             
+AND\hTELL\hTHEM\hTHIS\hIS\hA\hPLACE\h\h\h
+\hWHERE\hHUMANS\hLIVE.\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 83
 00:03:09,023 --> 00:03:11,857
-                  [ SIGHS ]     
-       I DON'T WANT TO GO ALONE.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hSIGHS\h]\h\h\h\h\h
+\h\h\h\h\h\h\hI\hDON'T\hWANT\hTO\hGO\hALONE.
 
 84
 00:03:11,859 --> 00:03:14,526
-         OOH! I'LL COME.        
-      I'LL BE YOUR BACKUP.      
+\h\h\h\h\h\h\h\h\hOOH!\hI'LL\hCOME.\h\h\h\h\h\h\h\h
+\h\h\h\h\h\hI'LL\hBE\hYOUR\hBACKUP.\h\h\h\h\h\h
 
 85
 00:03:14,528 --> 00:03:17,796
-AND HERE'S SOME BACKUP          
-  FOR YOUR BACKUP.              
+AND\hHERE'S\hSOME\hBACKUP\h\h\h\h\h\h\h\h\h\h
+\h\hFOR\hYOUR\hBACKUP.\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 86
 00:03:18,566 --> 00:03:22,201
-I CHECKED THE BARN, AND         
-I JUST FOUND A BUNCH OF HUMANS. 
+I\hCHECKED\hTHE\hBARN,\hAND\h\h\h\h\h\h\h\h\h
+I\hJUST\hFOUND\hA\hBUNCH\hOF\hHUMANS.\h
 
 87
 00:03:22,203 --> 00:03:26,572
-           YEP! NOTHING IN THERE
-               BUT US HUMANS!   
+\h\h\h\h\h\h\h\h\h\h\hYEP!\hNOTHING\hIN\hTHERE
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hBUT\hUS\hHUMANS!\h\h\h
 
 88
 00:03:26,574 --> 00:03:27,906
-             REALLY?            
+\h\h\h\h\h\h\h\h\h\h\h\h\hREALLY?\h\h\h\h\h\h\h\h\h\h\h\h
 
 89
 00:03:27,908 --> 00:03:29,741
-LOOKS LIKE WE FAILED.           
+LOOKS\hLIKE\hWE\hFAILED.\h\h\h\h\h\h\h\h\h\h\h
 
 90
 00:03:29,743 --> 00:03:31,577
-TIME TO GO BACK HOME.           
+TIME\hTO\hGO\hBACK\hHOME.\h\h\h\h\h\h\h\h\h\h\h
 
 91
 00:03:31,579 --> 00:03:33,679
-             I THINK            
-     WE BETTER DOUBLE-CHECK.    
+\h\h\h\h\h\h\h\h\h\h\h\h\hI\hTHINK\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\hWE\hBETTER\hDOUBLE-CHECK.\h\h\h\h
 
 92
 00:03:33,681 --> 00:03:36,215
-   YOU REMEMBER WHAT HAPPENED   
-           LAST TIME.           
+\h\h\hYOU\hREMEMBER\hWHAT\hHAPPENED\h\h\h
+\h\h\h\h\h\h\h\h\h\h\hLAST\hTIME.\h\h\h\h\h\h\h\h\h\h\h
 
 93
 00:03:36,217 --> 00:03:37,382
-     LAST TIME?                 
+\h\h\h\h\hLAST\hTIME?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 94
 00:03:37,384 --> 00:03:38,650
-          [ LAUGHTER ]          
+\h\h\h\h\h\h\h\h\h\h[\hLAUGHTER\h]\h\h\h\h\h\h\h\h\h\h
 
 95
 00:03:38,652 --> 00:03:41,587
-          OH, RUBY,             
-    YOU'RE SO FORGETFUL.        
+\h\h\h\h\h\h\h\h\h\hOH,\hRUBY,\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hYOU'RE\hSO\hFORGETFUL.\h\h\h\h\h\h\h\h
 
 96
 00:03:41,589 --> 00:03:43,589
-           ALL RIGHT,           
-     LET'S SEARCH THE BARN!     
+\h\h\h\h\h\h\h\h\h\h\hALL\hRIGHT,\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\hLET'S\hSEARCH\hTHE\hBARN!\h\h\h\h\h
 
 97
 00:03:43,591 --> 00:03:45,691
-      Together: YES, RUBY!      
-  WAIT!                         
+\h\h\h\h\h\hTogether:\hYES,\hRUBY!\h\h\h\h\h\h
+\h\hWAIT!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 98
 00:03:45,693 --> 00:03:48,727
-   YOU CAN'T BEC--              
-   BECAUSE, UH...               
+\h\h\hYOU\hCAN'T\hBEC--\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\hBECAUSE,\hUH...\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 99
 00:03:48,729 --> 00:03:53,799
-              YOU HAVE TO, UH,  
-               PLAY BASEBALL.   
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hYOU\hHAVE\hTO,\hUH,\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hPLAY\hBASEBALL.\h\h\h
 
 100
 00:03:54,735 --> 00:03:56,702
-                    YEAH,       
-             IT'S A HUMAN THING.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hYEAH,\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\hIT'S\hA\hHUMAN\hTHING.
 
 101
 00:03:56,704 --> 00:03:58,904
-                 IF YOU WIN,    
-             YOU CAN GO INSIDE. 
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hIF\hYOU\hWIN,\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\hYOU\hCAN\hGO\hINSIDE.\h
 
 102
 00:03:58,906 --> 00:04:01,607
-              AND IF YOU LOSE,  
-       YOU GOT TO LEAVE FOREVER.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hAND\hIF\hYOU\hLOSE,\h\h
+\h\h\h\h\h\h\hYOU\hGOT\hTO\hLEAVE\hFOREVER.
 
 103
 00:04:01,609 --> 00:04:04,209
-          BASE...BALL.          
+\h\h\h\h\h\h\h\h\h\hBASE...BALL.\h\h\h\h\h\h\h\h\h\h
 
 104
 00:04:04,211 --> 00:04:05,244
-         All: BASEBALL?         
+\h\h\h\h\h\h\h\h\hAll:\hBASEBALL?\h\h\h\h\h\h\h\h\h
 
 105
 00:04:05,246 --> 00:04:07,412
-   I SAW THAT THIS              
- WAS A POSSIBILITY,             
+\h\h\hI\hSAW\hTHAT\hTHIS\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\hWAS\hA\hPOSSIBILITY,\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 106
 00:04:07,414 --> 00:04:10,949
-THOUGH I AM SURPRISED THAT THIS 
-IS THE PATH WE'RE TAKING.       
+THOUGH\hI\hAM\hSURPRISED\hTHAT\hTHIS\h
+IS\hTHE\hPATH\hWE'RE\hTAKING.\h\h\h\h\h\h\h
 
 107
 00:04:10,951 --> 00:04:12,517
-        [ WHISTLE BLOWS ]       
-           ALL RIGHT,           
+\h\h\h\h\h\h\h\h[\hWHISTLE\hBLOWS\h]\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\hALL\hRIGHT,\h\h\h\h\h\h\h\h\h\h\h
 
 108
 00:04:12,519 --> 00:04:15,354
-   MY HUMAN BASEBALL KNOWLEDGE  
-    WILL LEAD US TO VICTORY.    
+\h\h\hMY\hHUMAN\hBASEBALL\hKNOWLEDGE\h\h
+\h\h\h\hWILL\hLEAD\hUS\hTO\hVICTORY.\h\h\h\h
 
 109
 00:04:15,356 --> 00:04:18,257
-     LET'S JUST GO OUT THERE    
-    AND PRETEND TO BE HUMANS,   
+\h\h\h\h\hLET'S\hJUST\hGO\hOUT\hTHERE\h\h\h\h
+\h\h\h\hAND\hPRETEND\hTO\hBE\hHUMANS,\h\h\h
 
 110
 00:04:18,259 --> 00:04:19,191
-         EXCEPT PERIDOT.        
+\h\h\h\h\h\h\h\h\hEXCEPT\hPERIDOT.\h\h\h\h\h\h\h\h
 
 111
 00:04:19,193 --> 00:04:21,260
-    YOU STAY HERE IN THE BARN   
-            AND HIDE.           
+\h\h\h\hYOU\hSTAY\hHERE\hIN\hTHE\hBARN\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hAND\hHIDE.\h\h\h\h\h\h\h\h\h\h\h
 
 112
 00:04:21,262 --> 00:04:22,461
-        OKAY.                   
+\h\h\h\h\h\h\h\hOKAY.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 113
 00:04:22,463 --> 00:04:24,263
-          EVERYBODY IN?         
+\h\h\h\h\h\h\h\h\h\hEVERYBODY\hIN?\h\h\h\h\h\h\h\h\h
 
 114
 00:04:24,265 --> 00:04:25,964
-             LAPIS?             
+\h\h\h\h\h\h\h\h\h\h\h\h\hLAPIS?\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 115
 00:04:25,966 --> 00:04:30,168
-                [ CHUCKLES ]    
-              THIS PLAN SUCKS.  
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hCHUCKLES\h]\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hTHIS\hPLAN\hSUCKS.\h\h
 
 116
 00:04:31,605 --> 00:04:33,138
-        WE'RE THE HUMANS!       
+\h\h\h\h\h\h\h\hWE'RE\hTHE\hHUMANS!\h\h\h\h\h\h\h
 
 117
 00:04:33,140 --> 00:04:34,539
-             STEVEN!            
+\h\h\h\h\h\h\h\h\h\h\h\h\hSTEVEN!\h\h\h\h\h\h\h\h\h\h\h\h
 
 118
 00:04:34,541 --> 00:04:35,540
-              EARL!             
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hEARL!\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 119
 00:04:35,542 --> 00:04:36,575
-              AMY!              
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hAMY!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 120
 00:04:36,577 --> 00:04:37,576
-              BOB!              
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hBOB!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 121
 00:04:37,578 --> 00:04:38,877
-           AND SOPHIE!          
+\h\h\h\h\h\h\h\h\h\h\hAND\hSOPHIE!\h\h\h\h\h\h\h\h\h\h
 
 122
 00:04:38,879 --> 00:04:40,312
-                 UNDERSTOOD.    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hUNDERSTOOD.\h\h\h\h
 
 123
 00:04:40,314 --> 00:04:44,316
-         OUR TEAM IS THE RUBIES,
-             CONSISTING OF RUBY!
+\h\h\h\h\h\h\h\h\hOUR\hTEAM\hIS\hTHE\hRUBIES,
+\h\h\h\h\h\h\h\h\h\h\h\h\hCONSISTING\hOF\hRUBY!
 
 124
 00:04:44,318 --> 00:04:46,118
-             -RUBY!             
-             -RUBY!             
+\h\h\h\h\h\h\h\h\h\h\h\h\h-RUBY!\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h-RUBY!\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 125
 00:04:46,120 --> 00:04:48,086
-            -RUBY!              
-            -RUBY!              
+\h\h\h\h\h\h\h\h\h\h\h\h-RUBY!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h-RUBY!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 126
 00:04:48,088 --> 00:04:49,121
-            AND RUBY!           
+\h\h\h\h\h\h\h\h\h\h\h\hAND\hRUBY!\h\h\h\h\h\h\h\h\h\h\h
 
 127
 00:04:49,123 --> 00:04:50,889
- HERE'S THE RULES OF THE GAME --
+\hHERE'S\hTHE\hRULES\hOF\hTHE\hGAME\h--
 
 128
 00:04:50,891 --> 00:04:52,924
- WE TAKE TURNS THROWING THE BALL
-         AT EACH OTHER.         
+\hWE\hTAKE\hTURNS\hTHROWING\hTHE\hBALL
+\h\h\h\h\h\h\h\h\hAT\hEACH\hOTHER.\h\h\h\h\h\h\h\h\h
 
 129
 00:04:52,926 --> 00:04:55,127
-THE BATTER TRIES TO HIT THE BALL
-          WITH THE BAT,         
+THE\hBATTER\hTRIES\hTO\hHIT\hTHE\hBALL
+\h\h\h\h\h\h\h\h\h\hWITH\hTHE\hBAT,\h\h\h\h\h\h\h\h\h
 
 130
 00:04:55,129 --> 00:04:56,928
-        AND THEN THEY RUN       
-        AROUND THE BASES.       
+\h\h\h\h\h\h\h\hAND\hTHEN\hTHEY\hRUN\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hAROUND\hTHE\hBASES.\h\h\h\h\h\h\h
 
 131
 00:04:56,930 --> 00:04:59,731
-WHOEVER GETS THE MOST RUNS WINS.
-       [ CROWD CHEERING ]       
+WHOEVER\hGETS\hTHE\hMOST\hRUNS\hWINS.
+\h\h\h\h\h\h\h[\hCROWD\hCHEERING\h]\h\h\h\h\h\h\h
 
 132
 00:05:03,137 --> 00:05:04,136
-               AH!              
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hAH!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 133
 00:05:04,138 --> 00:05:06,238
-       YOU GET THREE TRIES      
-        TO HIT THE BALL.        
+\h\h\h\h\h\h\hYOU\hGET\hTHREE\hTRIES\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hTO\hHIT\hTHE\hBALL.\h\h\h\h\h\h\h\h
 
 134
 00:05:06,240 --> 00:05:07,339
-         IF YOU MISS...         
+\h\h\h\h\h\h\h\h\hIF\hYOU\hMISS...\h\h\h\h\h\h\h\h\h
 
 135
 00:05:07,341 --> 00:05:08,774
-                 STRIKE ONE!    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSTRIKE\hONE!\h\h\h\h
 
 136
 00:05:08,776 --> 00:05:10,042
-       WHAT?!                   
+\h\h\h\h\h\h\hWHAT?!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 137
 00:05:11,312 --> 00:05:13,211
-                 STRIKE TWO!    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSTRIKE\hTWO!\h\h\h\h
 
 138
 00:05:13,914 --> 00:05:16,181
-           [ GRUNTS ]           
+\h\h\h\h\h\h\h\h\h\h\h[\hGRUNTS\h]\h\h\h\h\h\h\h\h\h\h\h
 
 139
 00:05:16,183 --> 00:05:17,182
-                STRIKE THREE!   
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSTRIKE\hTHREE!\h\h\h
 
 140
 00:05:17,184 --> 00:05:19,151
-         THREE STRIKES,         
-         AND YOU'RE OUT.        
+\h\h\h\h\h\h\h\h\hTHREE\hSTRIKES,\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\hAND\hYOU'RE\hOUT.\h\h\h\h\h\h\h\h
 
 141
 00:05:19,153 --> 00:05:22,354
-      OH, DARN.                 
- MM, GUESS I'M OUT.             
+\h\h\h\h\h\hOH,\hDARN.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\hMM,\hGUESS\hI'M\hOUT.\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 142
 00:05:23,457 --> 00:05:25,857
-        OHH!                    
- YOU SWUNG TOO SLOW!            
+\h\h\h\h\h\h\h\hOHH!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\hYOU\hSWUNG\hTOO\hSLOW!\h\h\h\h\h\h\h\h\h\h\h\h
 
 143
 00:05:25,859 --> 00:05:28,193
-  DO IT LIKE THIS!              
+\h\hDO\hIT\hLIKE\hTHIS!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 144
 00:05:28,195 --> 00:05:29,494
-          [ GRUNTING ]          
+\h\h\h\h\h\h\h\h\h\h[\hGRUNTING\h]\h\h\h\h\h\h\h\h\h\h
 
 145
 00:05:30,631 --> 00:05:33,265
-           [ WHACK! ]           
+\h\h\h\h\h\h\h\h\h\h\h[\hWHACK!\h]\h\h\h\h\h\h\h\h\h\h\h
 
 146
 00:05:33,267 --> 00:05:34,466
-         HUT, HUT, HUT!         
+\h\h\h\h\h\h\h\h\hHUT,\hHUT,\hHUT!\h\h\h\h\h\h\h\h\h
 
 147
 00:05:34,468 --> 00:05:37,169
-          [ WHISTLE! ]          
+\h\h\h\h\h\h\h\h\h\h[\hWHISTLE!\h]\h\h\h\h\h\h\h\h\h\h
 
 148
 00:05:37,171 --> 00:05:38,337
-              HUT!              
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hHUT!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 149
 00:05:38,339 --> 00:05:41,006
-        AND THAT'S CALLED       
-           A HOME RUN.          
+\h\h\h\h\h\h\h\hAND\hTHAT'S\hCALLED\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\hA\hHOME\hRUN.\h\h\h\h\h\h\h\h\h\h
 
 150
 00:05:41,008 --> 00:05:43,608
-    IF THE BALL GETS CAUGHT,    
-           YOU'RE OUT.          
+\h\h\h\hIF\hTHE\hBALL\hGETS\hCAUGHT,\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\hYOU'RE\hOUT.\h\h\h\h\h\h\h\h\h\h
 
 151
 00:05:43,610 --> 00:05:44,976
-     AND IF YOU GET TAGGED,     
+\h\h\h\h\hAND\hIF\hYOU\hGET\hTAGGED,\h\h\h\h\h
 
 152
 00:05:44,978 --> 00:05:46,278
-     YOU'RE OUT!                
+\h\h\h\h\hYOU'RE\hOUT!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 153
 00:05:46,280 --> 00:05:47,346
-                 [ GROANS ]     
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hGROANS\h]\h\h\h\h\h
 
 154
 00:05:47,348 --> 00:05:50,382
-UH, AND AFTER THREE OUTS,       
-  WE SWITCH SIDES.              
+UH,\hAND\hAFTER\hTHREE\hOUTS,\h\h\h\h\h\h\h
+\h\hWE\hSWITCH\hSIDES.\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 155
 00:05:53,854 --> 00:05:55,654
-           [ GROANS ]           
+\h\h\h\h\h\h\h\h\h\h\h[\hGROANS\h]\h\h\h\h\h\h\h\h\h\h\h
 
 156
 00:05:55,656 --> 00:05:57,222
-             [ POP ]            
+\h\h\h\h\h\h\h\h\h\h\h\h\h[\hPOP\h]\h\h\h\h\h\h\h\h\h\h\h\h
 
 157
 00:05:57,224 --> 00:05:58,357
-           [ WHACK! ]           
+\h\h\h\h\h\h\h\h\h\h\h[\hWHACK!\h]\h\h\h\h\h\h\h\h\h\h\h
 
 158
 00:05:58,359 --> 00:05:59,858
-           WHOA-HO-HO!          
+\h\h\h\h\h\h\h\h\h\h\hWHOA-HO-HO!\h\h\h\h\h\h\h\h\h\h
 
 159
 00:05:59,860 --> 00:06:02,160
-           [ WHOOSH! ]          
+\h\h\h\h\h\h\h\h\h\h\h[\hWHOOSH!\h]\h\h\h\h\h\h\h\h\h\h
 
 160
 00:06:02,162 --> 00:06:03,128
-        NICE!                   
+\h\h\h\h\h\h\h\hNICE!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 161
 00:06:03,130 --> 00:06:05,697
-WOW! THAT PURPLE HUMAN'S        
-    REALLY GOOD!                
+WOW!\hTHAT\hPURPLE\hHUMAN'S\h\h\h\h\h\h\h\h
+\h\h\h\hREALLY\hGOOD!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 162
 00:06:05,699 --> 00:06:07,032
-            [ LAUGHS NERVOUSLY ]
+\h\h\h\h\h\h\h\h\h\h\h\h[\hLAUGHS\hNERVOUSLY\h]
 
 163
 00:06:07,034 --> 00:06:10,535
-                US HUMANS --    
-        WE'RE FULL OF SURPRISES.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hUS\hHUMANS\h--\h\h\h\h
+\h\h\h\h\h\h\h\hWE'RE\hFULL\hOF\hSURPRISES.
 
 164
 00:06:10,537 --> 00:06:12,237
-           Amethyst, be careful!
+\h\h\h\h\h\h\h\h\h\h\hAmethyst,\hbe\hcareful!
 
 165
 00:06:13,040 --> 00:06:16,208
-                 HEY, RUBY.     
-                [ LAUGHING ]    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hHEY,\hRUBY.\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hLAUGHING\h]\h\h\h\h
 
 166
 00:06:16,210 --> 00:06:19,077
-        Doc: STRIKE ONE!        
-                         HUH?   
+\h\h\h\h\h\h\h\hDoc:\hSTRIKE\hONE!\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hHUH?\h\h\h
 
 167
 00:06:19,079 --> 00:06:21,413
- HAVEN'T I SEEN YOU             
-  SOMEWHERE BEFORE?             
+\hHAVEN'T\hI\hSEEN\hYOU\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\hSOMEWHERE\hBEFORE?\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 168
 00:06:21,415 --> 00:06:23,882
-                I DON'T KNOW.   
-    I DON'T GET OFF PLANET MUCH.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hI\hDON'T\hKNOW.\h\h\h
+\h\h\h\hI\hDON'T\hGET\hOFF\hPLANET\hMUCH.
 
 169
 00:06:23,884 --> 00:06:25,717
-        [ BOTH LAUGHING ]       
+\h\h\h\h\h\h\h\h[\hBOTH\hLAUGHING\h]\h\h\h\h\h\h\h
 
 170
 00:06:25,719 --> 00:06:27,052
-           STRIKE TWO!          
+\h\h\h\h\h\h\h\h\h\h\hSTRIKE\hTWO!\h\h\h\h\h\h\h\h\h\h
 
 171
 00:06:27,054 --> 00:06:29,321
-              WHAT'S GOING ON?  
-            WHAT ARE THEY DOING?
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hWHAT'S\hGOING\hON?\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hWHAT\hARE\hTHEY\hDOING?
 
 172
 00:06:29,323 --> 00:06:30,655
-      FLIRTING.                 
+\h\h\h\h\h\hFLIRTING.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 173
 00:06:30,657 --> 00:06:32,057
-          UH-OH.                
+\h\h\h\h\h\h\h\h\h\hUH-OH.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 174
 00:06:32,059 --> 00:06:33,825
-          STRIKE THREE!         
-             [ POP ]            
+\h\h\h\h\h\h\h\h\h\hSTRIKE\hTHREE!\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h[\hPOP\h]\h\h\h\h\h\h\h\h\h\h\h\h
 
 175
 00:06:33,827 --> 00:06:35,560
-       UH...        UH...       
+\h\h\h\h\h\h\hUH...\h\h\h\h\h\h\h\hUH...\h\h\h\h\h\h\h
 
 176
 00:06:35,562 --> 00:06:37,829
-    [ BOTH LAUGH NERVOUSLY ]    
+\h\h\h\h[\hBOTH\hLAUGH\hNERVOUSLY\h]\h\h\h\h
 
 177
 00:06:37,831 --> 00:06:42,267
-                     ♪♪         
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h
 
 178
 00:06:46,573 --> 00:06:48,440
-             WHAT?!             
+\h\h\h\h\h\h\h\h\h\h\h\h\hWHAT?!\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 179
 00:06:49,777 --> 00:06:51,576
-  YEAH! [ GRUNTS ]              
+\h\hYEAH!\h[\hGRUNTS\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 180
 00:06:51,578 --> 00:06:55,113
-                     ♪♪         
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h
 
 181
 00:06:59,286 --> 00:07:00,652
-        [ ALL GRUNTING ]        
+\h\h\h\h\h\h\h\h[\hALL\hGRUNTING\h]\h\h\h\h\h\h\h\h
 
 182
 00:07:01,922 --> 00:07:03,922
-           [ SPEAKING           
-         INDISTINCTLY ]         
+\h\h\h\h\h\h\h\h\h\h\h[\hSPEAKING\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\hINDISTINCTLY\h]\h\h\h\h\h\h\h\h\h
 
 183
 00:07:03,924 --> 00:07:06,191
-     [ BAT WHACKS BASEBALL ]    
+\h\h\h\h\h[\hBAT\hWHACKS\hBASEBALL\h]\h\h\h\h
 
 184
 00:07:06,193 --> 00:07:07,559
-            [ SMACK ]           
+\h\h\h\h\h\h\h\h\h\h\h\h[\hSMACK\h]\h\h\h\h\h\h\h\h\h\h\h
 
 185
 00:07:07,561 --> 00:07:08,927
-           [ GROANS ]           
+\h\h\h\h\h\h\h\h\h\h\h[\hGROANS\h]\h\h\h\h\h\h\h\h\h\h\h
 
 186
 00:07:09,763 --> 00:07:11,463
-           [ GRUNTS ]           
+\h\h\h\h\h\h\h\h\h\h\h[\hGRUNTS\h]\h\h\h\h\h\h\h\h\h\h\h
 
 187
 00:07:11,465 --> 00:07:12,798
-             [ GRUNTS ]         
+\h\h\h\h\h\h\h\h\h\h\h\h\h[\hGRUNTS\h]\h\h\h\h\h\h\h\h\h
 
 188
 00:07:12,800 --> 00:07:14,633
-            [ CRACK ]           
+\h\h\h\h\h\h\h\h\h\h\h\h[\hCRACK\h]\h\h\h\h\h\h\h\h\h\h\h
 
 189
 00:07:16,103 --> 00:07:18,136
-            HEY, HOW'S IT GOING?
-               ARE WE WINNING?  
+\h\h\h\h\h\h\h\h\h\h\h\hHEY,\hHOW'S\hIT\hGOING?
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hARE\hWE\hWINNING?\h\h
 
 190
 00:07:18,138 --> 00:07:20,038
-        UM...                   
-[ LAUGHS NERVOUSLY ]            
+\h\h\h\h\h\h\h\hUM...\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+[\hLAUGHS\hNERVOUSLY\h]\h\h\h\h\h\h\h\h\h\h\h\h
 
 191
 00:07:20,040 --> 00:07:23,642
-        NOW, WHAT YOU WANT TO DO
-         IS LEAD WITH YOUR HIPS.
+\h\h\h\h\h\h\h\hNOW,\hWHAT\hYOU\hWANT\hTO\hDO
+\h\h\h\h\h\h\h\h\hIS\hLEAD\hWITH\hYOUR\hHIPS.
 
 192
 00:07:23,644 --> 00:07:25,110
-                         YEAH.  
-             THAT'S PRETTY GOOD.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hYEAH.\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\hTHAT'S\hPRETTY\hGOOD.
 
 193
 00:07:25,112 --> 00:07:26,445
-          LET ME SHOW YOU AGAIN.
+\h\h\h\h\h\h\h\h\h\hLET\hME\hSHOW\hYOU\hAGAIN.
 
 194
 00:07:26,447 --> 00:07:29,147
-WELL [LAUGHS NERVOUSLY]         
-WE'RE DOING JUST FINE.          
+WELL\h[LAUGHS\hNERVOUSLY]\h\h\h\h\h\h\h\h\h
+WE'RE\hDOING\hJUST\hFINE.\h\h\h\h\h\h\h\h\h\h
 
 195
 00:07:29,149 --> 00:07:31,283
-                    EVERYTHING'S
-                GONNA BE A-OKAY.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hEVERYTHING'S
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hGONNA\hBE\hA-OKAY.
 
 196
 00:07:31,285 --> 00:07:33,885
-       YOU'RE LYING TO ME!      
-        TO MAKE YOU FEEL BETTER!
+\h\h\h\h\h\h\hYOU'RE\hLYING\hTO\hME!\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hTO\hMAKE\hYOU\hFEEL\hBETTER!
 
 197
 00:07:33,887 --> 00:07:35,220
-           THANK YOU!           
+\h\h\h\h\h\h\h\h\h\h\hTHANK\hYOU!\h\h\h\h\h\h\h\h\h\h\h
 
 198
 00:07:35,222 --> 00:07:37,489
-Steven: ALL RIGHT, IT'S         
-THE BOTTOM OF THE NINTH.        
+Steven:\hALL\hRIGHT,\hIT'S\h\h\h\h\h\h\h\h\h
+THE\hBOTTOM\hOF\hTHE\hNINTH.\h\h\h\h\h\h\h\h
 
 199
 00:07:37,491 --> 00:07:38,924
-WE'VE GOT LAPIS ON SECOND,      
+WE'VE\hGOT\hLAPIS\hON\hSECOND,\h\h\h\h\h\h
 
 200
 00:07:38,926 --> 00:07:40,959
-  BUT ONE MORE OUT              
-AND THE GAME'S OVER FOR US.     
+\h\hBUT\hONE\hMORE\hOUT\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+AND\hTHE\hGAME'S\hOVER\hFOR\hUS.\h\h\h\h\h
 
 201
 00:07:40,961 --> 00:07:43,628
-WE NEED TO HIT A HOME RUN.      
+WE\hNEED\hTO\hHIT\hA\hHOME\hRUN.\h\h\h\h\h\h
 
 202
 00:07:43,630 --> 00:07:45,497
-        [ BOTH LAUGHING ]       
+\h\h\h\h\h\h\h\h[\hBOTH\hLAUGHING\h]\h\h\h\h\h\h\h
 
 203
 00:07:45,499 --> 00:07:47,499
-WAIT! I CALL A TIME-OUT!        
+WAIT!\hI\hCALL\hA\hTIME-OUT!\h\h\h\h\h\h\h\h
 
 204
 00:07:47,501 --> 00:07:48,967
-        LISTEN, YOU TWO,        
+\h\h\h\h\h\h\h\hLISTEN,\hYOU\hTWO,\h\h\h\h\h\h\h\h
 
 205
 00:07:48,969 --> 00:07:50,569
-        I KNOW IT'S HARD        
-        BEING SEPARATED,        
+\h\h\h\h\h\h\h\hI\hKNOW\hIT'S\hHARD\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hBEING\hSEPARATED,\h\h\h\h\h\h\h\h
 
 206
 00:07:50,571 --> 00:07:52,337
-    BUT WE HAVE TO KEEP THEM    
-         OUT OF THE BARN        
+\h\h\h\hBUT\hWE\hHAVE\hTO\hKEEP\hTHEM\h\h\h\h
+\h\h\h\h\h\h\h\h\hOUT\hOF\hTHE\hBARN\h\h\h\h\h\h\h\h
 
 207
 00:07:52,339 --> 00:07:53,805
-           OR THEY'RE           
-       GONNA FIND PERIDOT.      
+\h\h\h\h\h\h\h\h\h\h\hOR\hTHEY'RE\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\hGONNA\hFIND\hPERIDOT.\h\h\h\h\h\h
 
 208
 00:07:53,807 --> 00:07:54,973
-            REMEMBER?           
+\h\h\h\h\h\h\h\h\h\h\h\hREMEMBER?\h\h\h\h\h\h\h\h\h\h\h
 
 209
 00:07:54,975 --> 00:07:56,308
-     RUBY, STOP BEING CUTE,     
+\h\h\h\h\hRUBY,\hSTOP\hBEING\hCUTE,\h\h\h\h\h
 
 210
 00:07:56,310 --> 00:07:59,644
-         AND, SAPPHIRE,         
-   KEEP YOUR EYE ON THE BALL.   
+\h\h\h\h\h\h\h\h\hAND,\hSAPPHIRE,\h\h\h\h\h\h\h\h\h
+\h\h\hKEEP\hYOUR\hEYE\hON\hTHE\hBALL.\h\h\h
 
 211
 00:07:59,646 --> 00:08:01,346
-          PUN INTENDED?         
+\h\h\h\h\h\h\h\h\h\hPUN\hINTENDED?\h\h\h\h\h\h\h\h\h
 
 212
 00:08:01,348 --> 00:08:04,316
-  [ SNAPS FINGERS ]             
-WHAT DID I JUST SAY?            
+\h\h[\hSNAPS\hFINGERS\h]\h\h\h\h\h\h\h\h\h\h\h\h\h
+WHAT\hDID\hI\hJUST\hSAY?\h\h\h\h\h\h\h\h\h\h\h\h
 
 213
 00:08:04,318 --> 00:08:06,451
-                 [ GRUNTS ]     
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hGRUNTS\h]\h\h\h\h\h
 
 214
 00:08:06,453 --> 00:08:07,786
-           [ GRUNTS ]           
+\h\h\h\h\h\h\h\h\h\h\h[\hGRUNTS\h]\h\h\h\h\h\h\h\h\h\h\h
 
 215
 00:08:07,788 --> 00:08:09,154
-        Doc: STRIKE ONE!        
+\h\h\h\h\h\h\h\hDoc:\hSTRIKE\hONE!\h\h\h\h\h\h\h\h
 
 216
 00:08:09,156 --> 00:08:12,591
-   [ BIRD CAWING IN DISTANCE ]  
+\h\h\h[\hBIRD\hCAWING\hIN\hDISTANCE\h]\h\h
 
 217
 00:08:12,593 --> 00:08:13,792
-      COME ON!                  
+\h\h\h\h\h\hCOME\hON!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 218
 00:08:13,794 --> 00:08:14,993
-I KNOW YOU CAN DO IT!           
+I\hKNOW\hYOU\hCAN\hDO\hIT!\h\h\h\h\h\h\h\h\h\h\h
 
 219
 00:08:14,995 --> 00:08:16,495
-                 [ GROANS ]     
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hGROANS\h]\h\h\h\h\h
 
 220
 00:08:16,497 --> 00:08:18,630
-           [ GRUNTS ]           
+\h\h\h\h\h\h\h\h\h\h\h[\hGRUNTS\h]\h\h\h\h\h\h\h\h\h\h\h
 
 221
 00:08:18,632 --> 00:08:21,166
-        Doc: STRIKE TWO!        
+\h\h\h\h\h\h\h\hDoc:\hSTRIKE\hTWO!\h\h\h\h\h\h\h\h
 
 222
 00:08:21,168 --> 00:08:23,502
-JUST LOOK AT THE BALL.          
+JUST\hLOOK\hAT\hTHE\hBALL.\h\h\h\h\h\h\h\h\h\h
 
 223
 00:08:23,504 --> 00:08:24,870
-                 I'M TRYING,    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hI'M\hTRYING,\h\h\h\h
 
 224
 00:08:24,872 --> 00:08:26,538
-       BUT ALL I WANT TO LOOK AT
-                   IS YOU.      
+\h\h\h\h\h\h\hBUT\hALL\hI\hWANT\hTO\hLOOK\hAT
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hIS\hYOU.\h\h\h\h\h\h
 
 225
 00:08:26,540 --> 00:08:30,542
-DON'T WORRY, YOU CAN LOOK AT ME 
-WHEN YOU'RE RUNNING FOR HOME.   
+DON'T\hWORRY,\hYOU\hCAN\hLOOK\hAT\hME\h
+WHEN\hYOU'RE\hRUNNING\hFOR\hHOME.\h\h\h
 
 226
 00:08:31,678 --> 00:08:33,011
-           [ FOOSH! ]           
+\h\h\h\h\h\h\h\h\h\h\h[\hFOOSH!\h]\h\h\h\h\h\h\h\h\h\h\h
 
 227
 00:08:33,013 --> 00:08:34,613
-          [ GRUNTING ]          
+\h\h\h\h\h\h\h\h\h\h[\hGRUNTING\h]\h\h\h\h\h\h\h\h\h\h
 
 228
 00:08:34,615 --> 00:08:36,381
-           WHOO-AH-AH!          
+\h\h\h\h\h\h\h\h\h\h\hWHOO-AH-AH!\h\h\h\h\h\h\h\h\h\h
 
 229
 00:08:36,383 --> 00:08:37,849
-                [ GRUNTING ]    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hGRUNTING\h]\h\h\h\h
 
 230
 00:08:37,851 --> 00:08:38,850
-                    AAAH!       
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hAAAH!\h\h\h\h\h\h\h
 
 231
 00:08:38,852 --> 00:08:40,785
-           [ WHACK! ]           
+\h\h\h\h\h\h\h\h\h\h\h[\hWHACK!\h]\h\h\h\h\h\h\h\h\h\h\h
 
 232
 00:08:40,787 --> 00:08:42,554
-          [ ALL GASP ]          
+\h\h\h\h\h\h\h\h\h\h[\hALL\hGASP\h]\h\h\h\h\h\h\h\h\h\h
 
 233
 00:08:42,556 --> 00:08:46,024
-                [ GRUNTING ]    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hGRUNTING\h]\h\h\h\h
 
 234
 00:08:46,026 --> 00:08:48,126
-           [ WHOOSH! ]          
+\h\h\h\h\h\h\h\h\h\h\h[\hWHOOSH!\h]\h\h\h\h\h\h\h\h\h\h
 
 235
 00:08:48,128 --> 00:08:50,896
-    [ MAJESTIC MUSIC PLAYS ]    
+\h\h\h\h[\hMAJESTIC\hMUSIC\hPLAYS\h]\h\h\h\h
 
 236
 00:08:50,898 --> 00:08:55,000
-    [ LAUGHING ]                
+\h\h\h\h[\hLAUGHING\h]\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 237
 00:08:55,002 --> 00:08:56,368
-        YEAH!                   
+\h\h\h\h\h\h\h\hYEAH!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 238
 00:08:58,372 --> 00:08:59,838
-           [ GRUNTS ]           
+\h\h\h\h\h\h\h\h\h\h\h[\hGRUNTS\h]\h\h\h\h\h\h\h\h\h\h\h
 
 239
 00:08:59,840 --> 00:09:00,972
-           [ BREATHING HEAVILY ]
+\h\h\h\h\h\h\h\h\h\h\h[\hBREATHING\hHEAVILY\h]
 
 240
 00:09:00,974 --> 00:09:02,073
-     COME TO ME!                
+\h\h\h\h\hCOME\hTO\hME!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 241
 00:09:02,075 --> 00:09:05,110
-        [ BOTH LAUGHING ]       
+\h\h\h\h\h\h\h\h[\hBOTH\hLAUGHING\h]\h\h\h\h\h\h\h
 
 242
 00:09:08,081 --> 00:09:09,414
-          [ ALL GASP ]          
+\h\h\h\h\h\h\h\h\h\h[\hALL\hGASP\h]\h\h\h\h\h\h\h\h\h\h
 
 243
 00:09:09,416 --> 00:09:12,050
-          [ LAUGHING ]          
+\h\h\h\h\h\h\h\h\h\h[\hLAUGHING\h]\h\h\h\h\h\h\h\h\h\h
 
 244
 00:09:12,052 --> 00:09:13,852
-             WHOOPS.            
+\h\h\h\h\h\h\h\h\h\h\h\h\hWHOOPS.\h\h\h\h\h\h\h\h\h\h\h\h
 
 245
 00:09:13,854 --> 00:09:15,186
-          THEY'RE GEMS!         
+\h\h\h\h\h\h\h\h\h\hTHEY'RE\hGEMS!\h\h\h\h\h\h\h\h\h
 
 246
 00:09:15,188 --> 00:09:16,221
-             WE'VE BEEN TRICKED!
+\h\h\h\h\h\h\h\h\h\h\h\h\hWE'VE\hBEEN\hTRICKED!
 
 247
 00:09:16,223 --> 00:09:18,223
-WHAT A TURN OF EVENTS!          
+WHAT\hA\hTURN\hOF\hEVENTS!\h\h\h\h\h\h\h\h\h\h
 
 248
 00:09:18,225 --> 00:09:19,057
-UH...                           
+UH...\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 249
 00:09:19,059 --> 00:09:20,659
-                HUH? W-WHAT?    
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hHUH?\hW-WHAT?\h\h\h\h
 
 250
 00:09:20,661 --> 00:09:22,994
-   SORRY, GUYS. GAME IS OVER.   
+\h\h\hSORRY,\hGUYS.\hGAME\hIS\hOVER.\h\h\h
 
 251
 00:09:22,996 --> 00:09:24,195
-           THAT'S IT!           
+\h\h\h\h\h\h\h\h\h\h\hTHAT'S\hIT!\h\h\h\h\h\h\h\h\h\h\h
 
 252
 00:09:24,197 --> 00:09:27,432
-        RUBIES, COMBINE!        
+\h\h\h\h\h\h\h\hRUBIES,\hCOMBINE!\h\h\h\h\h\h\h\h
 
 253
 00:09:27,434 --> 00:09:29,668
-           [ WARBLE! ]          
+\h\h\h\h\h\h\h\h\h\h\h[\hWARBLE!\h]\h\h\h\h\h\h\h\h\h\h
 
 254
 00:09:29,670 --> 00:09:30,669
-       [ GROUND RUMBLES ]       
+\h\h\h\h\h\h\h[\hGROUND\hRUMBLES\h]\h\h\h\h\h\h\h
 
 255
 00:09:30,671 --> 00:09:32,537
-                  [ ROARS ]     
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h[\hROARS\h]\h\h\h\h\h
 
 256
 00:09:32,539 --> 00:09:35,907
-       [ Screaming ] WAIT!      
-         UH, WAIT! STOP!        
+\h\h\h\h\h\h\h[\hScreaming\h]\hWAIT!\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\hUH,\hWAIT!\hSTOP!\h\h\h\h\h\h\h\h
 
 257
 00:09:35,909 --> 00:09:37,008
-        DON'T HURT THEM!        
+\h\h\h\h\h\h\h\hDON'T\hHURT\hTHEM!\h\h\h\h\h\h\h\h
 
 258
 00:09:37,010 --> 00:09:38,043
-            OOF! OOF!           
+\h\h\h\h\h\h\h\h\h\h\h\hOOF!\hOOF!\h\h\h\h\h\h\h\h\h\h\h
 
 259
 00:09:38,045 --> 00:09:39,077
-           [ PANTING ]          
+\h\h\h\h\h\h\h\h\h\h\h[\hPANTING\h]\h\h\h\h\h\h\h\h\h\h
 
 260
 00:09:39,079 --> 00:09:40,512
-        WAIT.                   
- OH, PLEASE, PLEASE!            
+\h\h\h\h\h\h\h\hWAIT.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\hOH,\hPLEASE,\hPLEASE!\h\h\h\h\h\h\h\h\h\h\h\h
 
 261
 00:09:40,514 --> 00:09:42,614
-      IT'S ME YOU'RE AFTER,     
-             RIGHT?             
+\h\h\h\h\h\hIT'S\hME\hYOU'RE\hAFTER,\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\hRIGHT?\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 262
 00:09:42,616 --> 00:09:43,615
-     I'M NOT GONNA STAND BY     
+\h\h\h\h\hI'M\hNOT\hGONNA\hSTAND\hBY\h\h\h\h\h
 
 263
 00:09:43,617 --> 00:09:45,617
-       AND LET MY FRIENDS       
-        FIGHT MY BATTLES!       
+\h\h\h\h\h\h\hAND\hLET\hMY\hFRIENDS\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hFIGHT\hMY\hBATTLES!\h\h\h\h\h\h\h
 
 264
 00:09:45,619 --> 00:09:47,385
- AWW! PERI LOVES US.            
+\hAWW!\hPERI\hLOVES\hUS.\h\h\h\h\h\h\h\h\h\h\h\h
 
 265
 00:09:47,387 --> 00:09:51,856
-    ARE YOU THE PERIDOT ASSIGNED
-    TO THE FAILED EARTH MISSION?
+\h\h\h\hARE\hYOU\hTHE\hPERIDOT\hASSIGNED
+\h\h\h\hTO\hTHE\hFAILED\hEARTH\hMISSION?
 
 266
 00:09:51,858 --> 00:09:55,060
-      NOT SURE IF "FAILED"      
-  WOULD BE THE RIGHT WORD TO -- 
+\h\h\h\h\h\hNOT\hSURE\hIF\h"FAILED"\h\h\h\h\h\h
+\h\hWOULD\hBE\hTHE\hRIGHT\hWORD\hTO\h--\h
 
 267
 00:09:55,062 --> 00:09:57,062
-              WHERE IS JASPER?  
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hWHERE\hIS\hJASPER?\h\h
 
 268
 00:09:57,064 --> 00:09:59,631
-   YOU'RE LOOKING FOR JASPER?   
+\h\h\hYOU'RE\hLOOKING\hFOR\hJASPER?\h\h\h
 
 269
 00:09:59,633 --> 00:10:00,865
-                  CORRECT!      
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hCORRECT!\h\h\h\h\h\h
 
 270
 00:10:00,867 --> 00:10:03,134
-      WAIT, BUT I'M THE ONE     
-    WHO BETRAYED THE MISSION,   
+\h\h\h\h\h\hWAIT,\hBUT\hI'M\hTHE\hONE\h\h\h\h\h
+\h\h\h\hWHO\hBETRAYED\hTHE\hMISSION,\h\h\h
 
 271
 00:10:03,136 --> 00:10:04,970
-    WHO CALLED YELLOW DIAMOND   
-             A CLOD,            
+\h\h\h\hWHO\hCALLED\hYELLOW\hDIAMOND\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\hA\hCLOD,\h\h\h\h\h\h\h\h\h\h\h\h
 
 272
 00:10:04,972 --> 00:10:07,439
-         THE NEW LEADER         
-      OF THE CRYSTAL GEMS?      
+\h\h\h\h\h\h\h\h\hTHE\hNEW\hLEADER\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\hOF\hTHE\hCRYSTAL\hGEMS?\h\h\h\h\h\h
 
 273
 00:10:07,441 --> 00:10:08,306
-        WHAT?                   
+\h\h\h\h\h\h\h\hWHAT?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 274
 00:10:08,308 --> 00:10:10,942
-                   TELL US      
-            WHERE JASPER IS NOW!
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTELL\hUS\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hWHERE\hJASPER\hIS\hNOW!
 
 275
 00:10:10,944 --> 00:10:12,143
-            [ GASPS ]           
+\h\h\h\h\h\h\h\h\h\h\h\h[\hGASPS\h]\h\h\h\h\h\h\h\h\h\h\h
 
 276
 00:10:12,145 --> 00:10:14,913
-          JASPER -- UM,         
-    WE KNOW WHERE JASPER IS.    
+\h\h\h\h\h\h\h\h\h\hJASPER\h--\hUM,\h\h\h\h\h\h\h\h\h
+\h\h\h\hWE\hKNOW\hWHERE\hJASPER\hIS.\h\h\h\h
 
 277
 00:10:14,915 --> 00:10:17,048
-                          WELL?!
-               UH...            
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWELL?!
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hUH...\h\h\h\h\h\h\h\h\h\h\h\h
 
 278
 00:10:17,050 --> 00:10:18,216
-      NEPTUNE!                  
+\h\h\h\h\h\hNEPTUNE!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 279
 00:10:18,218 --> 00:10:20,952
-      SHE'S ON                  
- THE PLANET NEPTUNE.            
+\h\h\h\h\h\hSHE'S\hON\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\hTHE\hPLANET\hNEPTUNE.\h\h\h\h\h\h\h\h\h\h\h\h
 
 280
 00:10:20,954 --> 00:10:25,256
-       [ WIND WHISTLING ]       
+\h\h\h\h\h\h\h[\hWIND\hWHISTLING\h]\h\h\h\h\h\h\h
 
 281
 00:10:25,258 --> 00:10:28,393
-    WELL, WHY DIDN'T YOU SAY SO?
+\h\h\h\hWELL,\hWHY\hDIDN'T\hYOU\hSAY\hSO?
 
 282
 00:10:28,395 --> 00:10:29,594
-            [ SIGHS ]           
+\h\h\h\h\h\h\h\h\h\h\h\h[\hSIGHS\h]\h\h\h\h\h\h\h\h\h\h\h
 
 283
 00:10:29,596 --> 00:10:30,962
-           [ WARBLE! ]          
+\h\h\h\h\h\h\h\h\h\h\h[\hWARBLE!\h]\h\h\h\h\h\h\h\h\h\h
 
 284
 00:10:30,964 --> 00:10:32,764
-          WE ALL HERE?          
+\h\h\h\h\h\h\h\h\h\hWE\hALL\hHERE?\h\h\h\h\h\h\h\h\h\h
 
 285
 00:10:32,766 --> 00:10:34,633
-        1...2...3...4...        
+\h\h\h\h\h\h\h\h1...2...3...4...\h\h\h\h\h\h\h\h
 
 286
 00:10:34,635 --> 00:10:37,235
-        AND -- HA! -- 5.        
+\h\h\h\h\h\h\h\hAND\h--\hHA!\h--\h5.\h\h\h\h\h\h\h\h
 
 287
 00:10:37,237 --> 00:10:39,504
-     TO THE PLANET NEPTUNE!     
+\h\h\h\h\hTO\hTHE\hPLANET\hNEPTUNE!\h\h\h\h\h
 
 288
 00:10:39,506 --> 00:10:40,972
-                 LET'S MOVE OUT,
-                      SOLDIERS. 
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hLET'S\hMOVE\hOUT,
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSOLDIERS.\h
 
 289
 00:10:40,974 --> 00:10:42,941
-          WHAT A LOVELY-SOUNDING
-                   PLANET.      
+\h\h\h\h\h\h\h\h\h\hWHAT\hA\hLOVELY-SOUNDING
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hPLANET.\h\h\h\h\h\h
 
 290
 00:10:42,943 --> 00:10:44,142
-       BUT WE                   
-   JUST GOT HERE.               
+\h\h\h\h\h\h\hBUT\hWE\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\hJUST\hGOT\hHERE.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
 
 291
 00:10:44,144 --> 00:10:45,577
-        LET'S GO, NEWBIE!       
+\h\h\h\h\h\h\h\hLET'S\hGO,\hNEWBIE!\h\h\h\h\h\h\h
 
 292
 00:10:46,680 --> 00:10:49,147
-                 Thank you.     
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hThank\hyou.\h\h\h\h\h
 
 293
 00:10:53,286 --> 00:10:55,587
-           [ WARBLE! ]          
+\h\h\h\h\h\h\h\h\h\h\h[\hWARBLE!\h]\h\h\h\h\h\h\h\h\h\h
 
 294
 00:10:57,958 --> 00:10:59,691
-            [ ZAP! ]            
+\h\h\h\h\h\h\h\h\h\h\h\h[\hZAP!\h]\h\h\h\h\h\h\h\h\h\h\h\h
 
 295
 00:11:01,962 --> 00:11:04,362
-           [ WHOOSH! ]          
+\h\h\h\h\h\h\h\h\h\h\h[\hWHOOSH!\h]\h\h\h\h\h\h\h\h\h\h
 
 296
 00:11:04,364 --> 00:11:08,299
-                    MAN,        
-              RUBIES ARE DUMB.  
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMAN,\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hRUBIES\hARE\hDUMB.\h\h
 
 297
 00:11:08,301 --> 00:11:09,634
-        NOT ALL OF THEM.        
+\h\h\h\h\h\h\h\hNOT\hALL\hOF\hTHEM.\h\h\h\h\h\h\h\h
 
 298
 00:11:09,636 --> 00:11:10,869
-            [ POP! ]            
+\h\h\h\h\h\h\h\h\h\h\h\h[\hPOP!\h]\h\h\h\h\h\h\h\h\h\h\h\h
 
 299
 00:11:12,439 --> 00:11:15,106
-      [ CRICKETS CHIRPING ]     
+\h\h\h\h\h\h[\hCRICKETS\hCHIRPING\h]\h\h\h\h\h
 
 300
 00:11:15,108 --> 00:11:18,443
-                     ♪♪         
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h
 
