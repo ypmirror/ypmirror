@@ -463,6 +463,14 @@
                 <td>YP iTunes 1080P</td>
                 <td><a href="subtitles/YP-SU-1R-03x12_13.srt">Get</a></td>
             </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677434&lid=7">Episode 13</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677435&lid=7">14</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677434&lid=7">Monster Reunion</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677435&lid=7">Alone at Sea</a>)</td>
+                <td><a href="https://mega.nz/#!x1wnBCSI!C1BKmeOsP6hBET2a2V_CRkvMRfJRAJN0S4OL3Enqec4">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x14_15.mkv">1</a></td>
+                <td><a href="torrents/YP-SU-1R-03x14_15.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/659E15D6F2CC1E25ECAFF157E190E1C7CF3FC0CD.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:659E15D6F2CC1E25ECAFF157E190E1C7CF3FC0CD">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles/YP-SU-1R-03x14_15.srt">Get</a></td>
+            </tr>
         </tbody>
     </table>
 </center>
