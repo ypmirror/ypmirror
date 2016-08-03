@@ -600,6 +600,14 @@
                 <td>TV Spazz 1080P</td>
                 <td>embedded</td>
             </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690130&lid=7">Episode 18</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690130&lid=7">Crack the Whip</a>)</td>
+                <td><a href="https://mega.nz/#!9gBAlLwZ!0bp5CgiGHT_lXJUT-8eYfaFJMljwXIjzUQ-uic_b8f8">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1TV-03x18-Spazz.mkv">1</a></td>
+                <td><a href="torrents/YP-SU-1TV-03x18-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/A3606BBD7C78659C9CF1197EB9A0242CC5A22B22.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:A3606BBD7C78659C9CF1197EB9A0242CC5A22B22">6</a></td>
+                <td>TV Spazz 1080P</td>
+                <td>embedded</td>
+            </tr>
         </tbody>
     </table>
 </center>
