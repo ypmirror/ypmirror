@@ -479,6 +479,79 @@
                 <td>YP iTunes 1080P</td>
                 <td><a href="subtitles/YP-SU-1R-03x16_17.srt">Get</a></td>
             </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690130&lid=7">Episode 18</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690131&lid=7">19</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690130&lid=7">Crack the Whip</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690131&lid=7">Steven vs. Amethyst</a>)</td>
+                <td><a href="https://mega.nz/#!A1pFTDQJ!rAgPciOmW0RwObWf1SI9PMbWOqgrGFlMWQO85uNVSK0">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x18_19.mkv">1</a></td>
+                <td><a href="torrents/YP-SU-1R-03x18_19.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/22932EC791BC419DB9D5540598A622A7F263FD87.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:22932EC791BC419DB9D5540598A622A7F263FD87">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles/YP-SU-1R-03x18_19.srt">Get</a></td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+
+<center>
+    <p>Specials + Minisodes iTunes RAW :</p>
+    <table width="752" align="center">
+        <tbody>
+            <tr>
+                <th width="396" height="27">Name</th>
+                <th width="66">Download</th>
+                <th width="57">Direct Download</th>
+                <th width="73">Torrents</th>
+                <th width="92">Info</th>
+                <th width="28">Subs</th>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=560735&id=5272446&lid=7">Sneak Peek with Rebecca Sugar</a></td>
+                <td><a href="https://mega.nz/#!ZhACjajS!LwaGGt4Ms_AGBTFMxGysjnymS9NkUZZP3-o2mTWXhX0">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1R-00x02.mkv">1</a></td>
+                <td><a href="torrents/YP-SU-1R-00x02.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/2F7BBF50A14F3B35CF7EE09743943F40B56E1EE2.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:2F7BBF50A14F3B35CF7EE09743943F40B56E1EE2">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td>none</td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=560735&id=5274778&lid=7">What are Gems?</a></td>
+                <td><a href="https://mega.nz/#!xsRWRYRL!5M2zou7tRHwoHewDPGxLpzQXcQpwciI2c_pNSZUwY7M">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1R-00x03.mkv">1</a></td>
+                <td><a href="torrents/YP-SU-1R-00x03.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/DCF1F6B11E2794F1628A75D793870F8FCFFCD64C.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:DCF1F6B11E2794F1628A75D793870F8FCFFCD64C">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles/YP-SU-1R-00x03.srt">Get</a></td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=560735&id=5298262&lid=7">We Are The Crystal Gems (Extended Theme)</a></td>
+                <td><a href="https://mega.nz/#!Q8BiFQhR!smtLxE9xrqZqOJfmNcjToXmd8EWE7bQAm_78d3rserY">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1R-00x04.mkv">1</a></td>
+                <td><a href="torrents/YP-SU-1R-00x04.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/D50DC756D022FE8D08ADF2BCEF97823AC6133FD8.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:D50DC756D022FE8D08ADF2BCEF97823AC6133FD8">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles/YP-SU-1R-00x04.srt">Get</a></td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=560735&id=5389032&lid=7">Unboxing Special #1: Wacky Sack Hot Dog Duffel Bag</a></td>
+                <td><a href="https://mega.nz/#!MlQxTZQA!ClZc3Aqop2zIxQmGxzDydo1cJchN05FS1XJ_ZyczKwk">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1R-00x06.mkv">1</a></td>
+                <td><a href="torrents/YP-SU-1R-00x06.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/58369F709188A86CF4D9C9551FD137FD98FBDEED.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:58369F709188A86CF4D9C9551FD137FD98FBDEED">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles/YP-SU-1R-00x06.srt">Get</a></td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=560735&id=5391094&lid=7">Fusion</a></td>
+                <td><a href="https://mega.nz/#!F9ATwAKR!zEp7f0cs21zktsSGBpKK04MLWgQ6FRRas3EfnElprUo">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1R-00x07.mkv">1</a></td>
+                <td><a href="torrents/YP-SU-1R-00x07.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/5DE3966EE9D0EE004C052F120CD67D8323E43D21.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:5DE3966EE9D0EE004C052F120CD67D8323E43D21">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles/YP-SU-1R-00x07.srt">Get</a></td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=560735&id=5438754&lid=7">Lion Loves to Fit in a Box</a></td>
+                <td><a href="https://mega.nz/#!5hoghCyb!qsTrr0JRD4OXdMSLNveECF8kgUyqP8tLgb9xl01OxLA">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1R-00x08.mkv">1</a></td>
+                <td><a href="torrents/YP-SU-1R-00x08.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/C7C1AA5828026825605F6FDEA383F695D72DA86F.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:C7C1AA5828026825605F6FDEA383F695D72DA86F">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles/YP-SU-1R-00x08.srt">Get</a></td>
+            </tr>
         </tbody>
     </table>
 </center>
