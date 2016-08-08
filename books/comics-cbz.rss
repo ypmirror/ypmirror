@@ -7,7 +7,19 @@
     <atom:link href="http://yp1.yayponies.no/books/comics-cbz.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jun 2016 06:21:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Aug 2016 14:01:59 +0000</lastBuildDate>
+    <item>
+      <title>Comics Main Series #44 | CBZ | YP-CBZ-COMIC44.cbz | YayPonies</title>
+      <link>http://yp1.yayponies.no/torrents/YP-CBZ-COMIC44.cbz.torrent</link>
+      <description>Comic Name: Comics Main Series; #44</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/torrents/YP-CBZ-COMIC44.cbz.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/torrents/YP-CBZ-COMIC44.cbz.torrent" length="4021" type="application/x-bittorrent"/>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-CBZ-COMIC44.cbz.torrent</torrent:filename>
+      <torrent:contentlength>44445113</torrent:contentlength>
+      <torrent:infohash>933E625A18B1E18AE95623FD9732A6867293F992</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:933E625A18B1E18AE95623FD9732A6867293F992</torrent:magneturi>
+    </item>
     <item>
       <title>Comics Main Series #43 | CBZ | YP-CBZ-COMIC43.cbz | YayPonies</title>
       <link>http://yp1.yayponies.no/torrents/YP-CBZ-COMIC43.cbz.torrent</link>
