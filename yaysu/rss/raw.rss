@@ -7,7 +7,19 @@
     <atom:link href="http://yp1.yayponies.no/yaysu/rss/raw.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Aug 2016 08:30:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Aug 2016 12:04:53 +0000</lastBuildDate>
+    <item>
+      <title>Steven Universe - 03x22_23 - Beta - Earthlings | 1080P.WEB-DL | YP-SU-1R-03x22_23.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-03x22_23.mkv.torrent</link>
+      <description>Show Name: Steven Universe; Episode Title: Beta - Earthlings; Season: 3; Episode: 22_23</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-03x22_23.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-03x22_23.mkv.torrent" length="68596" type="application/x-bittorrent"/>
+      <pubDate>Tue, 09 Aug 2016 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-SU-1R-03x22_23.mkv.torrent</torrent:filename>
+      <torrent:contentlength>890575698</torrent:contentlength>
+      <torrent:infohash>BBCBE395CA1238FB62FCA5748E48D05DA966B8C5</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:BBCBE395CA1238FB62FCA5748E48D05DA966B8C5</torrent:magneturi>
+    </item>
     <item>
       <title>Steven Universe - 03x20 - Bismuth | 1080P.WEB-DL | YP-SU-1R-03x20.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-03x20.mkv.torrent</link>

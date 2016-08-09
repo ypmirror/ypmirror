@@ -256,7 +256,7 @@
                 <td><a href="subtitles/YP-SU-1R-02x01.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5359944&lid=7">Episode 2</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5359992&lid=7">3</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5359944&lid=7">Open Book</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5359992&lid=7">Joy Ride</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5359944&lid=7">Episode 2</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5359992&lid=7">3</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5359944&lid=7">Open Book</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5359992&lid=7">Joy Ride</a>)</td>
                 <td><a href="https://mega.nz/#!l4xlBLZQ!y35DKDU-bfQmR_hfCNhF9vIyxqy0EDVbRv7Cpb6xhiQ">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x02_03.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-02x02_03.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/6859D931067B40BDA8ED36519E47E3F6D3A65BE3.torrent">4</a> <a href="http://torcache.net/torrent/6859D931067B40BDA8ED36519E47E3F6D3A65BE3.torrent">5</a> <a href="magnet:?xt=urn:btih:6859D931067B40BDA8ED36519E47E3F6D3A65BE3">6</a></td>
@@ -264,7 +264,7 @@
                 <td><a href="subtitles/YP-SU-1R-02x02_03.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5357869&lid=7">Episode 4</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5158298&lid=7">5</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5357869&lid=7">Say Uncle</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5158298&lid=7">Story for Steven</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5357869&lid=7">Episode 4</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5158298&lid=7">5</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5357869&lid=7">Say Uncle</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5158298&lid=7">Story for Steven</a>)</td>
                 <td><a href="https://mega.nz/#!RlgD3SxK!q_05QcJPls5BneF__DZsSSah0fvwSCS9jEqCOvcg2r8">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x04_05.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-02x04_05.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/E99C9B7E6CF2A4868C277D713ADAC0B89CB7C5AE.torrent">4</a> <a href="http://torcache.net/torrent/E99C9B7E6CF2A4868C277D713ADAC0B89CB7C5AE.torrent">5</a> <a href="magnet:?xt=urn:btih:E99C9B7E6CF2A4868C277D713ADAC0B89CB7C5AE">6</a></td>
@@ -272,7 +272,7 @@
                 <td><a href="subtitles/YP-SU-1R-02x04_05.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5173456&lid=7">Episode 6</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5360059&lid=7">7</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5173456&lid=7">Shirt Club</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5360059&lid=7">Love Letters</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5173456&lid=7">Episode 6</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5360059&lid=7">7</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5173456&lid=7">Shirt Club</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5360059&lid=7">Love Letters</a>)</td>
                 <td><a href="https://mega.nz/#!ZwpRwYRD!Q_Irh6zYP8HKXROr3WAuQTmO5-C6zD0QE1Ja0rR71fg">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x06_07.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-02x06_07.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/24461079481B4453B40D7BD4E2D150A510FF906E.torrent">4</a> <a href="http://torcache.net/torrent/24461079481B4453B40D7BD4E2D150A510FF906E.torrent">5</a> <a href="magnet:?xt=urn:btih:24461079481B4453B40D7BD4E2D150A510FF906E">6</a></td>
@@ -288,7 +288,7 @@
                 <td><a href="subtitles/YP-SU-1R-02x08.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5360067&lid=7">Episode 9</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5360125&lid=7">10</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5360067&lid=7">Sworn to the Sword</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5360125&lid=7">Rising Tides/Crashing Skies</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5360067&lid=7">Episode 9</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5360125&lid=7">10</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5360067&lid=7">Sworn to the Sword</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5360125&lid=7">Rising Tides/Crashing Skies</a>)</td>
                 <td><a href="https://mega.nz/#!R9YwBYKb!0AEV5uwWAZbp_BOMe8443kriEN9qBzc2jt6HtUhL1SE">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x09_10.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-02x09_10.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/5A4D18511E81F9A95A958FA0C023858CB32F2516.torrent">4</a> <a href="http://torcache.net/torrent/5A4D18511E81F9A95A958FA0C023858CB32F2516.torrent">5</a> <a href="magnet:?xt=urn:btih:5A4D18511E81F9A95A958FA0C023858CB32F2516">6</a></td>
@@ -296,7 +296,7 @@
                 <td><a href="subtitles/YP-SU-1R-02x09_10.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5360137&lid=7">Episode 11</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5211998&lid=7">12</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5360137&lid=7">Keeping it Together</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5211998&lid=7">We Need to Talk</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5360137&lid=7">Episode 11</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5211998&lid=7">12</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5360137&lid=7">Keeping it Together</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5211998&lid=7">We Need to Talk</a>)</td>
                 <td><a href="https://mega.nz/#!RxhTQQpI!GP2uPPTX89mOp_RkHZ2FnaX5ZMYklYdiWfWqFPa5GhM">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x11_12.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-02x11_12.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/C50C0CC1F04648A1FC1E418454813FDC4E0812E6.torrent">4</a> <a href="http://torcache.net/torrent/C50C0CC1F04648A1FC1E418454813FDC4E0812E6.torrent">5</a> <a href="magnet:?xt=urn:btih:C50C0CC1F04648A1FC1E418454813FDC4E0812E6">6</a></td>
@@ -312,7 +312,7 @@
                 <td><a href="subtitles/YP-SU-1R-02x13.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5358120&lid=7">Episode 14</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5250644&lid=7">15</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5358120&lid=7">Cry for Help</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5250644&lid=7">Keystone Motel</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5358120&lid=7">Episode 14</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5250644&lid=7">15</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5358120&lid=7">Cry for Help</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5250644&lid=7">Keystone Motel</a>)</td>
                 <td><a href="https://mega.nz/#!MwQ1FZxY!Sa7F5mpWYTHgj7C3s1Nff2_H32orUAqIFzVevfDBtHw">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x14_15.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-02x14_15.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/04D65546903F6AFE54475E930E34C7AA3CE1B17C.torrent">4</a> <a href="http://torcache.net/torrent/04D65546903F6AFE54475E930E34C7AA3CE1B17C.torrent">5</a> <a href="magnet:?xt=urn:btih:04D65546903F6AFE54475E930E34C7AA3CE1B17C">6</a></td>
@@ -320,7 +320,7 @@
                 <td><a href="subtitles/YP-SU-1R-02x14_15.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276622&lid=7">Episode 16</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276628&lid=7">17</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276622&lid=7">Onion Friend</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276628&lid=7">Historical Friction</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276622&lid=7">Episode 16</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276628&lid=7">17</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276622&lid=7">Onion Friend</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276628&lid=7">Historical Friction</a>)</td>
                 <td><a href="https://mega.nz/#!EsR3ADhR!8eF2Fj0f5dOC8VyVwrGpLdw05s5D1Ze2IAHDVNn1MEQ">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x16_17.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-02x16_17.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/173D24CF484B7D754D24971FAEB8C1187BAD1BF5.torrent">4</a> <a href="http://torcache.net/torrent/173D24CF484B7D754D24971FAEB8C1187BAD1BF5.torrent">5</a> <a href="magnet:?xt=urn:btih:173D24CF484B7D754D24971FAEB8C1187BAD1BF5">6</a></td>
@@ -328,7 +328,7 @@
                 <td><a href="subtitles/YP-SU-1R-02x16_17.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276631&lid=7">Episode 18</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276632&lid=7">19</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276631&lid=7">Friend Ship</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276632&lid=7">Nightmare Hospital</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276631&lid=7">Episode 18</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276632&lid=7">19</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276631&lid=7">Friend Ship</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276632&lid=7">Nightmare Hospital</a>)</td>
                 <td><a href="https://mega.nz/#!4twWFCiK!Kly5kXfnMxqegg1gVSEbfM9e1opYX97fvgQMHZ0sado">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x18_19.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-02x18_19.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/88D7D000C7F05512D229332923C8A6D1FC18117D.torrent">4</a> <a href="http://torcache.net/torrent/88D7D000C7F05512D229332923C8A6D1FC18117D.torrent">5</a> <a href="magnet:?xt=urn:btih:88D7D000C7F05512D229332923C8A6D1FC18117D">6</a></td>
@@ -336,7 +336,7 @@
                 <td><a href="subtitles/YP-SU-1R-02x18_19.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5295279&lid=7">Episode 20</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276633&lid=7">21</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5295279&lid=7">Sadie's Song</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276633&lid=7">Catch and Release</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5295279&lid=7">Episode 20</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276633&lid=7">21</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5295279&lid=7">Sadie's Song</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276633&lid=7">Catch and Release</a>)</td>
                 <td><a href="https://mega.nz/#!dxwHVSiQ!-3KT33ByOODufJaR90M8kXHiWVJH5O8bJdYQb7w424g">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x20_21.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-02x20_21.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/A3E1F6AB6F0973FEDA0B95880A034CEAE5C5CD7F.torrent">4</a> <a href="http://torcache.net/torrent/A3E1F6AB6F0973FEDA0B95880A034CEAE5C5CD7F.torrent">5</a> <a href="magnet:?xt=urn:btih:A3E1F6AB6F0973FEDA0B95880A034CEAE5C5CD7F">6</a></td>
@@ -344,7 +344,7 @@
                 <td><a href="subtitles/YP-SU-1R-02x20_21.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276634&lid=7">Episode 22</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5295278&lid=7">23</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276634&lid=7">When It Rains</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5295278&lid=7">Back to the Barn</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276634&lid=7">Episode 22</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5295278&lid=7">23</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5276634&lid=7">When It Rains</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5295278&lid=7">Back to the Barn</a>)</td>
                 <td><a href="https://mega.nz/#!4kBkBBaA!uNUIJe0Lq37FNnHIAZSOxoabnKDWMmQwNWZBLnzn1ak">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x22_23.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-02x22_23.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/7961E501F92D77F8BCC633D960E7456FABAF5411.torrent">4</a> <a href="http://torcache.net/torrent/7961E501F92D77F8BCC633D960E7456FABAF5411.torrent">5</a> <a href="magnet:?xt=urn:btih:7961E501F92D77F8BCC633D960E7456FABAF5411">6</a></td>
@@ -352,7 +352,7 @@
                 <td><a href="subtitles/YP-SU-1R-02x22_23.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363784&lid=7">Episode 24</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363792&lid=7">25</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363784&lid=7">Too Far</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363792&lid=7">The Answer</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363784&lid=7">Episode 24</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363792&lid=7">25</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363784&lid=7">Too Far</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363792&lid=7">The Answer</a>)</td>
                 <td><a href="https://mega.nz/#!hoJhhKRJ!JjTRwAVRskbhu_nLdvliaVod7Z5d6Ejz57zNRofjS2w">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x24_25.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-02x24_25.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/71E39601CB75DBC04DBED2F12202F0F95A90B581.torrent">4</a> <a href="http://torcache.net/torrent/71E39601CB75DBC04DBED2F12202F0F95A90B581.torrent">5</a> <a href="magnet:?xt=urn:btih:71E39601CB75DBC04DBED2F12202F0F95A90B581">6</a></td>
@@ -360,7 +360,7 @@
                 <td><a href="subtitles/YP-SU-1R-02x24_25.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363793&lid=7">Episode 26</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363795&lid=7">27</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363793&lid=7">Steven's Birthday</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363795&lid=7">It Could've Been Great</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363793&lid=7">Episode 26</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363795&lid=7">27</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363793&lid=7">Steven's Birthday</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363795&lid=7">It Could've Been Great</a>)</td>
                 <td><a href="https://mega.nz/#!xlBUza6Z!nV-Vb7PqMNtXy9_XI-KVnAOTkNSJRbk3GtmnvB9pIdI">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x26_27.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-02x26_27.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/AD150C88D28BC5984BD7631E70F340F14946D784.torrent">4</a> <a href="http://torcache.net/torrent/AD150C88D28BC5984BD7631E70F340F14946D784.torrent">5</a> <a href="magnet:?xt=urn:btih:AD150C88D28BC5984BD7631E70F340F14946D784">6</a></td>
@@ -368,7 +368,7 @@
                 <td><a href="subtitles/YP-SU-1R-02x26_27.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363797&lid=7">Episode 28</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363815&lid=7">29</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363797&lid=7">Message Received</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363815&lid=7">Log Date 7 15 2</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363797&lid=7">Episode 28</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363815&lid=7">29</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363797&lid=7">Message Received</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=616370&id=5363815&lid=7">Log Date 7 15 2</a>)</td>
                 <td><a href="https://mega.nz/#!plAEGJbJ!u1Q-kqSRR-fTb3nzYSyBaDD4thMtZLJrUNKCM-tv0j0">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-02x28_29.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-02x28_29.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/D86DC82FA2689AEF15A9A7DC10A0084504C7F044.torrent">4</a> <a href="http://torcache.net/torrent/D86DC82FA2689AEF15A9A7DC10A0084504C7F044.torrent">5</a> <a href="magnet:?xt=urn:btih:D86DC82FA2689AEF15A9A7DC10A0084504C7F044">6</a></td>
@@ -408,7 +408,7 @@
                 <th width="28">Subs</th>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576362&lid=7">Episode 1</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576363&lid=7">2</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576362&lid=7">Super Watermelon Island</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576363&lid=7">Gem Drill</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576362&lid=7">Episode 1</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576363&lid=7">2</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576362&lid=7">Super Watermelon Island</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576363&lid=7">Gem Drill</a>)</td>
                 <td><a href="https://mega.nz/#!Y0ogEb5a!vBNtVtyHBK4DhJaLETLhilfodirV_YDf-rWlmrvR348">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x01_02.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x01_02.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/E135E1302C227F7C2F55A011623BF2FE7626128F.torrent">4</a> <a href="http://torcache.net/torrent/E135E1302C227F7C2F55A011623BF2FE7626128F.torrent">5</a> <a href="magnet:?xt=urn:btih:E135E1302C227F7C2F55A011623BF2FE7626128F">6</a></td>
@@ -416,7 +416,7 @@
                 <td><a href="subtitles/YP-SU-1R-03x01_02.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576365&lid=7">Episode 3</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576364&lid=7">4</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576365&lid=7">Same Old World</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576364&lid=7">Barn Mates</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576365&lid=7">Episode 3</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576364&lid=7">4</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576365&lid=7">Same Old World</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576364&lid=7">Barn Mates</a>)</td>
                 <td><a href="https://mega.nz/#!hoBUFSRR!7kd6hUcjPIxq5lHwaaHXWpwV0W5vg7IpZGr2pbj18ic">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x03_04.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x03_04.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/5AB1EFEED57F48F92DE8E1C94B9409998499D11D.torrent">4</a> <a href="http://torcache.net/torrent/5AB1EFEED57F48F92DE8E1C94B9409998499D11D.torrent">5</a> <a href="magnet:?xt=urn:btih:5AB1EFEED57F48F92DE8E1C94B9409998499D11D">6</a></td>
@@ -432,7 +432,7 @@
                 <td><a href="subtitles/YP-SU-1R-03x05.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576367&lid=7">Episode 6</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665658&lid=7">7</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576367&lid=7">Steven Floats</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665658&lid=7">Drop Beat Dad</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576367&lid=7">Episode 6</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665658&lid=7">7</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5576367&lid=7">Steven Floats</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665658&lid=7">Drop Beat Dad</a>)</td>
                 <td><a href="https://mega.nz/#!0sIGkLCJ!Pes2_FiThucp7ptVh28LQLLFefsIJdl7Glg6gEjWD6c">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x06_07.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x06_07.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/8AD629F15DB6397B6C5E9FD92AA865EACC2EBC51.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:8AD629F15DB6397B6C5E9FD92AA865EACC2EBC51">6</a></td>
@@ -440,7 +440,7 @@
                 <td><a href="subtitles/YP-SU-1R-03x06_07.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665659&lid=7">Episode 8</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665660&lid=7">9</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665659&lid=7">Mr. Greg</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665660&lid=7">Too Short to Ride</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665659&lid=7">Episode 8</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665660&lid=7">9</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665659&lid=7">Mr. Greg</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665660&lid=7">Too Short to Ride</a>)</td>
                 <td><a href="https://mega.nz/#!89pCUSQa!9cXIGwSKmFi0BvWDbcFnTpOhWBOK0XxEasBXXWpX4Sg">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x08_09.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x08_09.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/79E7AD2C422BB1DF671EEE412F071C2675253D83.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:79E7AD2C422BB1DF671EEE412F071C2675253D83">6</a></td>
@@ -448,7 +448,7 @@
                 <td><a href="subtitles/YP-SU-1R-03x08_09.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665661&lid=7">Episode 10</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5671385&lid=7">11</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665661&lid=7">The New Lars</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5671385&lid=7">Beach City Drift</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665661&lid=7">Episode 10</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5671385&lid=7">11</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5665661&lid=7">The New Lars</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5671385&lid=7">Beach City Drift</a>)</td>
                 <td><a href="https://mega.nz/#!s0YA1B7Z!J9gz46E-i5MpjelncZb-x9iGldIJlqGBCUP0sYBoqBM">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x10_11.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x10_11.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/020BC05A13288D4FB0F650F00E27E97AB8D408C8.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:020BC05A13288D4FB0F650F00E27E97AB8D408C8">6</a></td>
@@ -456,7 +456,7 @@
                 <td><a href="subtitles/YP-SU-1R-03x10_11.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5675057&lid=7">Episode 12</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5675753&lid=7">13</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5675057&lid=7">Restaurant Wars</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5675753&lid=7">Kiki's Pizza Delivery Service</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5675057&lid=7">Episode 12</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5675753&lid=7">13</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5675057&lid=7">Restaurant Wars</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5675753&lid=7">Kiki's Pizza Delivery Service</a>)</td>
                 <td><a href="https://mega.nz/#!NkxGlT4K!r1a0SyOqNb-o-Jc3Id0Gy1O1DvviKU4Q1N2-9vOHCnk">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x12_13.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x12_13.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/4706128FF1EE611F494D0CEDBBD4E3184D953718.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:4706128FF1EE611F494D0CEDBBD4E3184D953718">6</a></td>
@@ -464,7 +464,7 @@
                 <td><a href="subtitles/YP-SU-1R-03x12_13.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677434&lid=7">Episode 14</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677435&lid=7">15</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677434&lid=7">Monster Reunion</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677435&lid=7">Alone at Sea</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677434&lid=7">Episode 14</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677435&lid=7">15</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677434&lid=7">Monster Reunion</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677435&lid=7">Alone at Sea</a>)</td>
                 <td><a href="https://mega.nz/#!x1wnBCSI!C1BKmeOsP6hBET2a2V_CRkvMRfJRAJN0S4OL3Enqec4">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x14_15.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x14_15.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/659E15D6F2CC1E25ECAFF157E190E1C7CF3FC0CD.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:659E15D6F2CC1E25ECAFF157E190E1C7CF3FC0CD">6</a></td>
@@ -472,7 +472,7 @@
                 <td><a href="subtitles/YP-SU-1R-03x14_15.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677719&lid=7">Episode 16</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5678928&lid=7">17</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677719&lid=7">Greg the Babysitter</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5678928&lid=7">Gem Hunt</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677719&lid=7">Episode 16</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5678928&lid=7">17</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5677719&lid=7">Greg the Babysitter</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5678928&lid=7">Gem Hunt</a>)</td>
                 <td><a href="https://mega.nz/#!I1hCxTjS!0oiecU5-C5gKH5oyqtJfizFVFE8zmibWaS2WgYhja7Q">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x16_17.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x16_17.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/7245AE3E745BBFD29CC878BE512C9BD1C77A1D6D.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:7245AE3E745BBFD29CC878BE512C9BD1C77A1D6D">6</a></td>
@@ -480,7 +480,7 @@
                 <td><a href="subtitles/YP-SU-1R-03x16_17.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690130&lid=7">Episode 18</a>  &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690131&lid=7">19</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690130&lid=7">Crack the Whip</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690131&lid=7">Steven vs. Amethyst</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690130&lid=7">Episode 18</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690131&lid=7">19</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690130&lid=7">Crack the Whip</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690131&lid=7">Steven vs. Amethyst</a>)</td>
                 <td><a href="https://mega.nz/#!A1pFTDQJ!rAgPciOmW0RwObWf1SI9PMbWOqgrGFlMWQO85uNVSK0">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x18_19.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x18_19.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/22932EC791BC419DB9D5540598A622A7F263FD87.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:22932EC791BC419DB9D5540598A622A7F263FD87">6</a></td>
@@ -488,12 +488,20 @@
                 <td><a href="subtitles/YP-SU-1R-03x18_19.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690132&lid=7">Episode 20</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690132&lid=7">Bismuth</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690132&lid=7">Episode 20</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5704663&lid=7">21</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690132&lid=7">Bismuth (1)</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5704663&lid=7">Bismuth (2)</a>)</td>
                 <td><a href="https://mega.nz/#!15QBQagD!73S2L_DPlLZjokPpE8fe7sPHDdAlGj3HKwaTKyYG6OY">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x20.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x20.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/4CF3AE025810DE05872A922501A2B7F99C973340.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:4CF3AE025810DE05872A922501A2B7F99C973340">6</a></td>
                 <td>YP iTunes 1080P</td>
                 <td><a href="subtitles/YP-SU-1R-03x20.srt">Get</a></td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690133&lid=7">Episode 22</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690134&lid=7">23</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690133&lid=7">Beta</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690134&lid=7">Earthlings</a>)</td>
+                <td><a href="https://mega.nz/#!NxQwjAwL!KBM9qMj2y_SthSa9RfHp9D14Y2ZYQ9FT3qNM7GtOK5k">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x22_23.mkv">1</a></td>
+                <td><a href="torrents/YP-SU-1R-03x22_23.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/BBCBE395CA1238FB62FCA5748E48D05DA966B8C5.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:BBCBE395CA1238FB62FCA5748E48D05DA966B8C5">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles/YP-SU-1R-03x22_23.srt">Get</a></td>
             </tr>
         </tbody>
     </table>
