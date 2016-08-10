@@ -697,6 +697,14 @@
                 <td>TV Spazz 1080P</td>
                 <td>embedded</td>
             </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690135&lid=7">Episode 24</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690135&lid=7">Back to the Moon</a>)</td>
+                <td><a href="https://mega.nz/#!Qo5ShKJS!1ykdM6OqOtkBjCUQyfMkFGbvigCt9_XuUw-wrh8kSSQ">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1TV-03x24-Spazz.mkv">1</a></td>
+                <td><a href="torrents/YP-SU-1TV-03x24-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/615C7ADD298A8E16BE188C8B37B5E9067BC8071D.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:615C7ADD298A8E16BE188C8B37B5E9067BC8071D">6</a></td>
+                <td>TV Spazz 1080P</td>
+                <td>embedded</td>
+            </tr>
         </tbody>
     </table>
 </center>
