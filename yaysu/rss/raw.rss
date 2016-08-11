@@ -7,11 +7,23 @@
     <atom:link href="http://yp1.yayponies.no/yaysu/rss/raw.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Aug 2016 12:04:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Aug 2016 17:34:27 +0000</lastBuildDate>
     <item>
-      <title>Steven Universe - 03x22_23 - Beta - Earthlings | 1080P.WEB-DL | YP-SU-1R-03x22_23.mkv | YayPonies</title>
+      <title>Steven Universe - 03x23_24 - Back to the Moon (3) - Bubbled (4) | 1080P.WEB-DL | YP-SU-1R-03x23_24.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-03x23_24.mkv.torrent</link>
+      <description>Show Name: Steven Universe; Episode Title: Back to the Moon (3) - Bubbled (4); Season: 3; Episode: 23_24</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-03x23_24.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-03x23_24.mkv.torrent" length="69276" type="application/x-bittorrent"/>
+      <pubDate>Thu, 11 Aug 2016 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-SU-1R-03x23_24.mkv.torrent</torrent:filename>
+      <torrent:contentlength>899670325</torrent:contentlength>
+      <torrent:infohash>DE9794BD3DF91AF2731640B59D8DB70E2D0C92EE</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:DE9794BD3DF91AF2731640B59D8DB70E2D0C92EE</torrent:magneturi>
+    </item>
+    <item>
+      <title>Steven Universe - 03x22_23 - Earthlings (2) - Back to the Moon (3) | 1080P.WEB-DL | YP-SU-1R-03x22_23.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-03x22_23.mkv.torrent</link>
-      <description>Show Name: Steven Universe; Episode Title: Beta - Earthlings; Season: 3; Episode: 22_23</description>
+      <description>Show Name: Steven Universe; Episode Title: Earthlings (2) - Back to the Moon (3); Season: 3; Episode: 22_23</description>
       <guid isPermaLink="false">http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-03x22_23.mkv.torrent</guid>
       <enclosure url="http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-03x22_23.mkv.torrent" length="68596" type="application/x-bittorrent"/>
       <pubDate>Tue, 09 Aug 2016 00:00:00 -0600</pubDate>
@@ -69,9 +81,9 @@
       <torrent:magneturi>magnet:?xt=urn:btih:659E15D6F2CC1E25ECAFF157E190E1C7CF3FC0CD</torrent:magneturi>
     </item>
     <item>
-      <title>Steven Universe - 03x12_13 - Restaurant Wars - Kiki’s Pizza Delivery Service | 1080P.WEB-DL | YP-SU-1R-03x12_13.mkv | YayPonies</title>
+      <title>Steven Universe - 03x12_13 - Restaurant Wars - Kiki's Pizza Delivery Service | 1080P.WEB-DL | YP-SU-1R-03x12_13.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-03x12_13.mkv.torrent</link>
-      <description>Show Name: Steven Universe; Episode Title: Restaurant Wars - Kiki’s Pizza Delivery Service; Season: 3; Episode: 12_13</description>
+      <description>Show Name: Steven Universe; Episode Title: Restaurant Wars - Kiki's Pizza Delivery Service; Season: 3; Episode: 12_13</description>
       <guid isPermaLink="false">http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-03x12_13.mkv.torrent</guid>
       <enclosure url="http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-03x12_13.mkv.torrent" length="68236" type="application/x-bittorrent"/>
       <pubDate>Wed, 27 Jul 2016 00:00:00 -0600</pubDate>

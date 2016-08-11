@@ -400,11 +400,12 @@
     <table width="752" align="center">
         <tbody>
             <tr>
-                <th width="396" height="27">Name</th>
+                <th width="380" height="27">Name</th>
                 <th width="66">Download</th>
                 <th width="57">Direct Download</th>
                 <th width="73">Torrents</th>
                 <th width="92">Info</th>
+                <th width="16">Original EP num</th>
                 <th width="28">Subs</th>
             </tr>
             <tr>
@@ -413,6 +414,7 @@
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x01_02.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x01_02.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/E135E1302C227F7C2F55A011623BF2FE7626128F.torrent">4</a> <a href="http://torcache.net/torrent/E135E1302C227F7C2F55A011623BF2FE7626128F.torrent">5</a> <a href="magnet:?xt=urn:btih:E135E1302C227F7C2F55A011623BF2FE7626128F">6</a></td>
                 <td>YP iTunes 1080P</td>
+                <td></td>
                 <td><a href="subtitles/YP-SU-1R-03x01_02.srt">Get</a></td>
             </tr>
             <tr>
@@ -421,6 +423,7 @@
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x03_04.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x03_04.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/5AB1EFEED57F48F92DE8E1C94B9409998499D11D.torrent">4</a> <a href="http://torcache.net/torrent/5AB1EFEED57F48F92DE8E1C94B9409998499D11D.torrent">5</a> <a href="magnet:?xt=urn:btih:5AB1EFEED57F48F92DE8E1C94B9409998499D11D">6</a></td>
                 <td>YP iTunes 1080P</td>
+                <td></td>
                 <td><a href="subtitles/YP-SU-1R-03x03_04.srt">Get</a></td>
             </tr>
             <tr>
@@ -429,6 +432,7 @@
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x05.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x05.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/F49188808152F419B54465000878807366798831.torrent">4</a> <a href="http://torcache.net/torrent/F49188808152F419B54465000878807366798831.torrent">5</a> <a href="magnet:?xt=urn:btih:F49188808152F419B54465000878807366798831">6</a></td>
                 <td>YP iTunes 1080P</td>
+                <td></td>
                 <td><a href="subtitles/YP-SU-1R-03x05.srt">Get</a></td>
             </tr>
             <tr>
@@ -437,6 +441,7 @@
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x06_07.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x06_07.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/8AD629F15DB6397B6C5E9FD92AA865EACC2EBC51.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:8AD629F15DB6397B6C5E9FD92AA865EACC2EBC51">6</a></td>
                 <td>YP iTunes 1080P</td>
+                <td></td>
                 <td><a href="subtitles/YP-SU-1R-03x06_07.srt">Get</a></td>
             </tr>
             <tr>
@@ -445,6 +450,7 @@
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x08_09.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x08_09.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/79E7AD2C422BB1DF671EEE412F071C2675253D83.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:79E7AD2C422BB1DF671EEE412F071C2675253D83">6</a></td>
                 <td>YP iTunes 1080P</td>
+                <td></td>
                 <td><a href="subtitles/YP-SU-1R-03x08_09.srt">Get</a></td>
             </tr>
             <tr>
@@ -453,6 +459,7 @@
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x10_11.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x10_11.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/020BC05A13288D4FB0F650F00E27E97AB8D408C8.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:020BC05A13288D4FB0F650F00E27E97AB8D408C8">6</a></td>
                 <td>YP iTunes 1080P</td>
+                <td></td>
                 <td><a href="subtitles/YP-SU-1R-03x10_11.srt">Get</a></td>
             </tr>
             <tr>
@@ -461,6 +468,7 @@
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x12_13.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x12_13.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/4706128FF1EE611F494D0CEDBBD4E3184D953718.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:4706128FF1EE611F494D0CEDBBD4E3184D953718">6</a></td>
                 <td>YP iTunes 1080P</td>
+                <td></td>
                 <td><a href="subtitles/YP-SU-1R-03x12_13.srt">Get</a></td>
             </tr>
             <tr>
@@ -469,6 +477,7 @@
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x14_15.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x14_15.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/659E15D6F2CC1E25ECAFF157E190E1C7CF3FC0CD.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:659E15D6F2CC1E25ECAFF157E190E1C7CF3FC0CD">6</a></td>
                 <td>YP iTunes 1080P</td>
+                <td></td>
                 <td><a href="subtitles/YP-SU-1R-03x14_15.srt">Get</a></td>
             </tr>
             <tr>
@@ -477,6 +486,7 @@
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x16_17.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x16_17.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/7245AE3E745BBFD29CC878BE512C9BD1C77A1D6D.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:7245AE3E745BBFD29CC878BE512C9BD1C77A1D6D">6</a></td>
                 <td>YP iTunes 1080P</td>
+                <td></td>
                 <td><a href="subtitles/YP-SU-1R-03x16_17.srt">Get</a></td>
             </tr>
             <tr>
@@ -485,23 +495,35 @@
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x18_19.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x18_19.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/22932EC791BC419DB9D5540598A622A7F263FD87.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:22932EC791BC419DB9D5540598A622A7F263FD87">6</a></td>
                 <td>YP iTunes 1080P</td>
+                <td></td>
                 <td><a href="subtitles/YP-SU-1R-03x18_19.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690132&lid=7">Episode 20</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5704663&lid=7">21</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690132&lid=7">Bismuth (1)</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5704663&lid=7">Bismuth (2)</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690132&lid=7">Episode 20</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690132&lid=7">Bismuth</a>)</td>
                 <td><a href="https://mega.nz/#!15QBQagD!73S2L_DPlLZjokPpE8fe7sPHDdAlGj3HKwaTKyYG6OY">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x20.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x20.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/4CF3AE025810DE05872A922501A2B7F99C973340.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:4CF3AE025810DE05872A922501A2B7F99C973340">6</a></td>
                 <td>YP iTunes 1080P</td>
+                <td></td>
                 <td><a href="subtitles/YP-SU-1R-03x20.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690133&lid=7">Episode 22</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690134&lid=7">23</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690133&lid=7">Beta</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690134&lid=7">Earthlings</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5704663&lid=7">Episode 21</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690133&lid=7">22</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5704663&lid=7">Beta</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690134&lid=7">Earthlings</a>)</td>
                 <td><a href="https://mega.nz/#!NxQwjAwL!KBM9qMj2y_SthSa9RfHp9D14Y2ZYQ9FT3qNM7GtOK5k">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x22_23.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1R-03x22_23.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/BBCBE395CA1238FB62FCA5748E48D05DA966B8C5.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:BBCBE395CA1238FB62FCA5748E48D05DA966B8C5">6</a></td>
                 <td>YP iTunes 1080P</td>
+                <td>22&amp;23</td>
                 <td><a href="subtitles/YP-SU-1R-03x22_23.srt">Get</a></td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690134&lid=7">Episode 23</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690135&lid=7">24</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690134&lid=7">Back to the Moon</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5690135&lid=7">Bubbled</a>)</td>
+                <td><a href="https://mega.nz/#!slxRTC4A!KTHpwakzPRu1U0eT9orHJeSxDT5398-TINDCmTEVJd8">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1R-03x23_24.mkv">1</a></td>
+                <td><a href="torrents/YP-SU-1R-03x23_24.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/DE9794BD3DF91AF2731640B59D8DB70E2D0C92EE.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:DE9794BD3DF91AF2731640B59D8DB70E2D0C92EE">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td>22&amp;23</td>
+                <td><a href="subtitles/YP-SU-1R-03x23_24.srt">Get</a></td>
             </tr>
         </tbody>
     </table>
@@ -578,7 +600,7 @@
     <table width="752" align="center">
         <tbody>
             <tr>
-                <th width="396" height="27">Name</th>
+                <th width="380" height="27">Name</th>
                 <th width="66">Download</th>
                 <th width="57">Direct Download</th>
                 <th width="73">Torrents</th>
