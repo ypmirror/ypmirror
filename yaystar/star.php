@@ -6,7 +6,7 @@
   <p><a href="1it.rss">iTunes RSS</a><br />
     <a href="7tt.rss">Spazz TVRip RSS</a>  </p>
   <p>iTunes RAW Season 2:</p>
-  <table width="752" height="99" align="center">
+  <table width="752" height="143" align="center">
     <tbody>
       <tr>
         <th width="396" height="27">Name </th>
@@ -39,6 +39,22 @@
         <td><a href="torrents/YP-SV-1R-02x05_06.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/82E28979A6EFA34CB6AF8531B3E05FA7FED55DD5.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:82E28979A6EFA34CB6AF8531B3E05FA7FED55DD5">6</a></td>
         <td>YP iTunes 1080P</td>
         <td><a href="subtitles/YP-SV-1R-02x05_06.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678094&amp;lid=7">Episode 7</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678097&amp;lid=7">8</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678094&amp;lid=7">Star vs. Echo Creek</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678097&amp;lid=7">Wand to Wand</a>)</td>
+        <td><a href="https://mega.nz/#!hlkymTTZ!3b0qH1FQYOLE1IRGrBAZIdSHoBkX1zUh4EwnD7CwLBo">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x07_08.mkv">1</a></td>
+        <td><a href="/torrents/YP-SV-1R-02x07_08.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/F8CA8DADFF2AF58FB40E1B55D909357A01BDB872.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:F8CA8DADFF2AF58FB40E1B55D909357A01BDB872">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x07_08.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678104&amp;lid=7">Episode 9</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678105&amp;lid=7">10</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678104&amp;lid=7">Starstruck</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678105&amp;lid=7">Camping Trip</a>)</td>
+        <td><a href="https://mega.nz/#!QstUmRaS!BTguav3ovSRyZqIjP-IsUC6C-wLjwWN5_EiMHtxhcUw">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x09_10.mkv">1</a></td>
+        <td><a href="/torrents/YP-SV-1R-02x09_10.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/374EF8106099C3C7151991CCB17E7738F98B91E5.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:374EF8106099C3C7151991CCB17E7738F98B91E5">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x09_10.srt">Get</a></td>
       </tr>
     </tbody>
   </table>
