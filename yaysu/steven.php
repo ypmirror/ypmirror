@@ -547,7 +547,7 @@
                 <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=675726&id=5706594&lid=7">Episode 1</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=675726&id=5706595&lid=7">2</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=675726&id=5706594&lid=7">The Kindergarten Kid</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=675726&id=5706595&lid=7">Know Your Fusion</a>)</td>
                 <td><a href="https://mega.nz/#!QsxTVQCA!bcHWKwHkFRmvPK3-B8uqz-PyactdvGtBt2VuRUoW7zk">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1R-04x01_02.mkv">1</a></td>
-                <td> <a href="torrents/YP-SU-1R-04x01_02.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/27991AEB0D7BD1A428BD502F4D96B3B532CE783B.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:27991AEB0D7BD1A428BD502F4D96B3B532CE783B">6</a></td>
+                <td> NOPE</td>
                 <td>YP iTunes 1080P</td>
                 <td></td>
                 <td><a href="subtitles/YP-SU-1R-04x01_02.srt">Get</a></td>
