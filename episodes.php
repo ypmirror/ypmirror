@@ -5,9 +5,10 @@
                  * @called by dynamicList and getPonies
                  */
                 function pageExists(season, source, resolution) {
-                    if ((source == 't' || source == 's') && resolution == '7') return false; // No 720p for TVrip
+                    if ((source == 't' || source == 's' || source == 'sc') && resolution == '7') return false; // No 720p for TVrip or Scoot
                     if (resolution == '1' && (source == 'l' || source == 'lz')) return false; // No 1080p for LQ
                     if (source == 'a' && ! (season == '1' || season == '2')) return false; // No iTunes AU for seasons >= 3
+					if (source == 'sc' && ! (season == '5' || season == '6')) return false; // No Scoot HEVC for seasons <= 5 yet
                     if (source == 's' && ! (season == '1' || season == '2' || season == '3')) return false // Scootaloo rip up to season 3
 
                     return true;
@@ -54,6 +55,7 @@
                     // explicit...
                     var archiveNames = {
                         'i' : 'iTunes Raw',
+                        'sc' : 'Scootaloo Corrected HEVC',
                         'a' : 'AUSTRALIAN iTunes Raw',
                         'z' : 'Color Corrected',
                         'tt' : 'MENTOS TVRip',
@@ -98,8 +100,9 @@
                             </td>
                             <td>from:</td>
                             <td>
-                                <select size="7" name="DownloadSource" onchange="javascript:dynamicList();">
+                                <select size="8" name="DownloadSource" onchange="javascript:dynamicList();">
                                     <option value="i" selected>iTunes Raw US</option>
+                                    <option value="sc">Scootaloo Corrected HEVC</option>
                                     <option value="a">iTunes Raw AU</option>
                                     <option value="z">Color Corrected by ZR</option>
                                     <option value="t">TVRips (Spazz or Mentos)</option>
@@ -111,8 +114,8 @@
                             <td>in:</td>
                             <td>
                                 <select size="3" name="DownloadResolution" onchange="javascript:dynamicList();">
-                                    <option value="7" selected> 720p </option>
-                                    <option value="1"> 1080p </option>
+                                    <option value="7"> 720p </option>
+                                    <option value="1" selected> 1080p </option>
                                 </select>
                             </td>
                             <td>
@@ -140,7 +143,6 @@
                 <br /><br />
                 <p style="font-size: 130%">The pages for the Season 3 &amp; 4 iTunes Raw AU (Both 1080P and 720P) don't exist, those versions aren't gonna be uploaded,
                     as from the season 3, there is no benefit to use AU version over the US version !</p>
-                <p> Unsupported : Scootaloo TVRIP 1080P ( Scootaloo group completely dissapeared, Season 3 is incomplete !) </p>
             </div>
             <div id="noscript" style="text-align: center">
                 <p style="font-weight: bold;font-size: 130%;">
@@ -264,6 +266,16 @@
                     <tr>
                         <td> <a href="permalink.php?link=episodes/7i6">7i6</a> </td>
                         <td> Season 6 (720p) </td>
+                    </tr>
+
+                    <tr> <th colspan="2"> Scootaloo Corrected HEVC </th> </tr>
+                    <tr>
+                        <td> <a href="permalink.php?link=episodes/1sc5">1sc5</a> </td>
+                        <td> Season 5 (1080p) </td>
+                    </tr>
+                    <tr>
+                        <td> <a href="permalink.php?link=episodes/1sc6">1sc6</a> </td>
+                        <td> Season 6 (1080p) </td>
                     </tr>
 
                     <tr> <th colspan="2"> TVRips by MENTOS/Spazz </th> </tr>
