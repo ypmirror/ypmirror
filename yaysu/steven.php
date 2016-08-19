@@ -525,6 +525,22 @@
                 <td></td>
                 <td><a href="subtitles/YP-SU-1R-03x23_24.srt">Get</a></td>
             </tr>
+            <tr>
+                <td height="20">&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td height="20">FULL SEASON TORRENT PACK</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td><a href="torrents/YP-SU-1R-03.zip">DOWNLOAD</a></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
         </tbody>
     </table>
 </center>
@@ -752,6 +768,30 @@
                 <td><a href="https://mega.nz/#!Qo5ShKJS!1ykdM6OqOtkBjCUQyfMkFGbvigCt9_XuUw-wrh8kSSQ">1</a> 2 3</td>
                 <td><a href="https://ypdl.sandpox.org/YP-SU-1TV-03x24-Spazz.mkv">1</a></td>
                 <td><a href="torrents/YP-SU-1TV-03x24-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/615C7ADD298A8E16BE188C8B37B5E9067BC8071D.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:615C7ADD298A8E16BE188C8B37B5E9067BC8071D">6</a></td>
+                <td>TV Spazz 1080P</td>
+                <td>embedded</td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+<center>
+    <p>Season 4 TVRips :</p>
+    <table width="752" align="center">
+        <tbody>
+            <tr>
+                <th width="396" height="27">Name</th>
+                <th width="66">Download</th>
+                <th width="57">Direct Download</th>
+                <th width="73">Torrents</th>
+                <th width="92">Info</th>
+                <th width="28">Subs</th>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=675726&id=5696749&lid=7">Episode 3</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=675726&id=5696749&lid=7">Buddy's Book</a>)</td>
+                <td><a href="https://mega.nz/#!ZtonjAyJ!C_ZMF3VQ0XrmjdowlW0r7UHZz-gB6rjObR3p3-huSR4">1</a> 2 3</td>
+                <td><a href="https://ypdl.sandpox.org/YP-SU-1TV-04x03-Spazz.mkv">1</a></td>
+                <td> <a href="torrents/YP-SU-1TV-04x03-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/B07851E023341E509B0E42123B06FB69EA257187.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:B07851E023341E509B0E42123B06FB69EA257187">6</a></td>
                 <td>TV Spazz 1080P</td>
                 <td>embedded</td>
             </tr>
