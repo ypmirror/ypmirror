@@ -63,6 +63,8 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = episodes/7i5" -->iTunes US Season 5 (720p)
 <!--#elif expr="$link = episodes/7i6" -->iTunes US Season 6 (720p)
 
+<!--#elif expr="$link = episodes/1sc3" -->Scootaloo Corrected (x265/HEVC) Season 3 (1080p)
+<!--#elif expr="$link = episodes/1sc4" -->Scootaloo Corrected (x265/HEVC) Season 4 (1080p)
 <!--#elif expr="$link = episodes/1sc5" -->Scootaloo Corrected (x265/HEVC) Season 5 (1080p)
 <!--#elif expr="$link = episodes/1sc6" -->Scootaloo Corrected (x265/HEVC) Season 6 (1080p)
 

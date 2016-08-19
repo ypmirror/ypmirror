@@ -8,7 +8,7 @@
                     if ((source == 't' || source == 's' || source == 'sc') && resolution == '7') return false; // No 720p for TVrip or Scoot
                     if (resolution == '1' && (source == 'l' || source == 'lz')) return false; // No 1080p for LQ
                     if (source == 'a' && ! (season == '1' || season == '2')) return false; // No iTunes AU for seasons >= 3
-					if (source == 'sc' && ! (season == '5' || season == '6')) return false; // No Scoot HEVC for seasons <= 5 yet
+					if (source == 'sc' && ! (season == '3' || season == '4' || season == '5' || season == '6')) return false; // No Scoot HEVC for seasons <= 3 yet
                     if (source == 's' && ! (season == '1' || season == '2' || season == '3')) return false // Scootaloo rip up to season 3
 
                     return true;
@@ -269,6 +269,14 @@
                     </tr>
 
                     <tr> <th colspan="2"> Scootaloo Corrected HEVC </th> </tr>
+                    <tr>
+                        <td> <a href="permalink.php?link=episodes/1sc3">1sc3</a> </td>
+                        <td> Season 3 (1080p) </td>
+                    </tr>
+                    <tr>
+                        <td> <a href="permalink.php?link=episodes/1sc4">1sc4</a> </td>
+                        <td> Season 4 (1080p) </td>
+                    </tr>
                     <tr>
                         <td> <a href="permalink.php?link=episodes/1sc5">1sc5</a> </td>
                         <td> Season 5 (1080p) </td>
