@@ -1,1 +1,1 @@
-<div id=msg><strong>Test our new format! Scootaloo Corrected HEVC! S5,S6,S4 and S3 available now! S1/S2 to come very soon!</strong></div>
+<div id=msg><strong>Test our new format! Scootaloo Corrected HEVC! First half of Season 1, Complete Season 3,4,5,6 And EQG, Rainbow Rocks Available, other half of Season 1 and Season 2 to come very soon!</strong></div>
