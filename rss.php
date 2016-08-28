@@ -2,8 +2,10 @@
             <div id="links">
               <p><img src="rss.png" width="254" height="254" alt="RSS LOGO" /></p>
               <p>&nbsp;</p>
-              <p>LIST OF AVAILABLE TORRENTS RSS:</p>
-              <p><a href="episodes/1tt.rss">Show: 1080P TVRip</a><br />
+              <p>LIST OF AVAILABLE TORRENTS RSS:<br />
+              </p>
+              <p><a href="episodes/1sct.rss">Show: 1080P Scootaloo Corrected HEVC</a><br />
+                <a href="episodes/1tt.rss">Show: 1080P TVRip</a><br />
                 <a href="episodes/1it.rss">Show: iTunes Raw 1080P</a><br />
                 <a href="episodes/7it.rss">Show: iTunes Raw 720P</a><br />
                 <a href="episodes/1zt.rss">Show: 
