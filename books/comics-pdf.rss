@@ -7,7 +7,19 @@
     <atom:link href="http://yp1.yayponies.no/books/comics-pdf.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Aug 2016 14:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Aug 2016 21:46:42 +0000</lastBuildDate>
+    <item>
+      <title>Comics Main Series #45 | PDF | YP-PDF-COMIC45.pdf | YayPonies</title>
+      <link>http://yp1.yayponies.no/torrents/YP-PDF-COMIC45.pdf.torrent</link>
+      <description>Comic Name: Comics Main Series; #45</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/torrents/YP-PDF-COMIC45.pdf.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/torrents/YP-PDF-COMIC45.pdf.torrent" length="10617" type="application/x-bittorrent"/>
+      <pubDate>Wed, 31 Aug 2016 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-PDF-COMIC45.pdf.torrent</torrent:filename>
+      <torrent:contentlength>130837572</torrent:contentlength>
+      <torrent:infohash>A8DEF7D64FBAA516B691D3E04AB36C48B9765194</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:A8DEF7D64FBAA516B691D3E04AB36C48B9765194</torrent:magneturi>
+    </item>
     <item>
       <title>Comics Main Series #44 | PDF | YP-PDF-COMIC44.pdf | YayPonies</title>
       <link>http://yp1.yayponies.no/torrents/YP-PDF-COMIC44.pdf.torrent</link>
