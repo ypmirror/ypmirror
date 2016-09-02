@@ -535,7 +535,7 @@
                 <td><a href="subtitles/YP-SU-1R-04x01_02.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706594&lid=7">Episode 27</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706595&lid=7">28</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706594&lid=7">The Kindergarten Kid</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706595&lid=7">Know Your Fusion</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706594&lid=7">Episode 27</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706595&lid=7">28</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706594&lid=7">Buddy's Book</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706595&lid=7">Mindful Education</a>)</td>
                 <td>1 2 3</td>
                 <td>nope</td>
                 <td><a href="torrents/YP-SU-1R-03x27_28.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/67ABFECB38D1A0366F71EFBC3DF70CF15C78FDAC.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:67ABFECB38D1A0366F71EFBC3DF70CF15C78FDAC">6</a></td>
@@ -743,6 +743,13 @@
                 <td><a href="https://mega.nz/#!Qo5ShKJS!1ykdM6OqOtkBjCUQyfMkFGbvigCt9_XuUw-wrh8kSSQ">1</a> 2 3</td>
                 <td>nope</td>
                 <td><a href="torrents/YP-SU-1TV-03x24-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/615C7ADD298A8E16BE188C8B37B5E9067BC8071D.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:615C7ADD298A8E16BE188C8B37B5E9067BC8071D">6</a></td>
+                <td>TV Spazz 1080P</td>
+                <td>embedded</td>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5696752&lid=7">Episode 29</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5696752&lid=7">Future Boy Zoltron</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1TV-03x29-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/F8C7D7FD536EC7094A82CADFA1C27938485EFC1C.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:F8C7D7FD536EC7094A82CADFA1C27938485EFC1C">6</a></td>
                 <td>TV Spazz 1080P</td>
                 <td>embedded</td>
             </tr>
