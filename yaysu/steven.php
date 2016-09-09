@@ -526,22 +526,64 @@
                 <td><a href="subtitles/YP-SU-1R-03x23_24.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706594&lid=7">Episode 25</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706595&lid=7">26</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706594&lid=7">The Kindergarten Kid</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706595&lid=7">Know Your Fusion</a>)</td>
+                <td height="20">&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td height="20">FULL SEASON TORRENT PACK</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td><a href="torrents/YP-SU-1R-03.zip">DOWNLOAD</a></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+<center>
+    <p>Season 4 iTunes RAW :</p>
+    <table width="752" align="center">
+        <tbody>
+            <tr>
+                <th width="380" height="27">Name</th>
+                <th width="66">Download</th>
+                <th width="57">Direct Download</th>
+                <th width="73">Torrents</th>
+                <th width="92">Info</th>
+                <th width="16">Original EP num</th>
+                <th width="28">Subs</th>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706594&lid=7">Episode 1</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706595&lid=7">2</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706594&lid=7">The Kindergarten Kid</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706595&lid=7">Know Your Fusion</a>)</td>
                 <td><a href="https://mega.nz/#!QsxTVQCA!bcHWKwHkFRmvPK3-B8uqz-PyactdvGtBt2VuRUoW7zk">1</a> 2 3</td>
                 <td>nope</td>
                 <td><a href="torrents/YP-SU-1R-04x01_02.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/1228EE7ADED2B8816079F0E4FF4A9452065155ED.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:1228EE7ADED2B8816079F0E4FF4A9452065155ED">6</a></td>
                 <td>YP iTunes 1080P</td>
-                <td>S4E1&amp;2</td>
+                <td></td>
                 <td><a href="subtitles/YP-SU-1R-04x01_02.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706594&lid=7">Episode 27</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706595&lid=7">28</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706594&lid=7">Buddy's Book</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706595&lid=7">Mindful Education</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706594&lid=7">Episode 3</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706595&lid=7">4</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706594&lid=7">Buddy's Book</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=662842&id=5706595&lid=7">Mindful Education</a>)</td>
                 <td>1 2 3</td>
                 <td>nope</td>
                 <td><a href="torrents/YP-SU-1R-03x27_28.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/67ABFECB38D1A0366F71EFBC3DF70CF15C78FDAC.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:67ABFECB38D1A0366F71EFBC3DF70CF15C78FDAC">6</a></td>
                 <td>YP iTunes 1080P</td>
-                <td></td>
+                <td>3x27-28</td>
                 <td><a href="subtitles/YP-SU-1R-03x27_28.srt">Get</a></td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5696752&lid=7">Episode 5</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5729283&lid=7">6</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5696752&lid=7">Future Boy Zoltron</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5729283&lid=7">Last One Out of Beach City</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-04x05_06.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/C20D9238FC8ECB88EFF8BBB43EE9A8666F9686AF.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:C20D9238FC8ECB88EFF8BBB43EE9A8666F9686AF">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-SU-1R-04x05_06.srt">Get</a></td>
             </tr>
         </tbody>
     </table>
