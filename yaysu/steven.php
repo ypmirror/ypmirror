@@ -585,6 +585,15 @@
                 <td></td>
                 <td><a href="subtitles/YP-SU-1R-04x05_06.srt">Get</a></td>
             </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5741802&lid=7">Episode 7</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5741802&lid=7">Onion Gang</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-04x07.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/6B9877B98605905F160B24D56E9001ABFB46A96C.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:6B9877B98605905F160B24D56E9001ABFB46A96C">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-SU-1R-04x07.srt">Get</a></td>
+            </tr>
         </tbody>
     </table>
 </center>
