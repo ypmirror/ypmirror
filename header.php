@@ -85,13 +85,14 @@
                 <a href="DVD.php">DVDs/Blurays</a> |
                 <a href="book.php">Books/Comics</a>
                 <br />
-				<a href="/yaysu/">YaySteven</a> |
+                <a href="/Music.php">Pony Music</a> |
+                <a href="eqg.php">Equestria Girls</a> |
+                <a href="/yaysu/">YaySteven</a> |
                 <a href="/yaywoy/">YayWander</a> |
 				<a href="/yaystar/">YayStar</a> |
                 <a href="fan.php">Fan Works</a> |
-                <a href="broniesii.php">Bronies II</a> |
-                <a href="other.php">Other Downloads</a> |
-                <a href="eqg.php">Equestria Girls 1,2&amp;3</a> 
+                <a href="other.php">Others</a> | 
+				<a href="broniesii.php">Bronies II</a>
                 <br />
 				<a href="tutorial.php">Tutorials</a> |
                 <a href="rss.php">RSS</a> |
