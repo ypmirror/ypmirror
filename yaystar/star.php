@@ -6,7 +6,7 @@
   <p><a href="1it.rss">iTunes RSS</a><br />
     <a href="7tt.rss">Spazz TVRip RSS</a>  </p>
   <p>iTunes RAW Season 2:</p>
-  <table width="752" height="143" align="center">
+  <table width="752" height="209" align="center">
     <tbody>
       <tr>
         <th width="396" height="27">Name </th>
@@ -55,6 +55,30 @@
         <td><a href="/torrents/YP-SV-1R-02x09_10.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/374EF8106099C3C7151991CCB17E7738F98B91E5.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:374EF8106099C3C7151991CCB17E7738F98B91E5">6</a></td>
         <td>YP iTunes 1080P</td>
         <td><a href="subtitles/YP-SV-1R-02x09_10.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678106&amp;lid=7">Episode 11</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678107&amp;lid=7">12</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678106&amp;lid=7">Starsitting</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678107&amp;lid=7">On The Job</a>)</td>
+        <td><a href="https://mega.nz/#!4lYRXBTR!u0sx87slD9VJ7SyopBRit6UxChsJ1hHIhRJfvAs6USw">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x11_12.mkv">1</a></td>
+        <td><a href="/torrents/YP-SV-1R-02x11_12.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/EE99D48872E428B5A1A7AE403AAA3B7D1F55BBDB.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:EE99D48872E428B5A1A7AE403AAA3B7D1F55BBDB">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x11_12.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709764&amp;lid=7">Episode 13</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709765&amp;lid=7">14</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709764&amp;lid=7">Goblin Dogs</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709765&amp;lid=7">By the Book</a>)</td>
+        <td><a href="https://mega.nz/#!Y8IGjLrS!uzslWyS6EdECdGHULlTrnl6VB7aM4aKsDzeOTjRBXJc">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x13_14.mkv">1</a></td>
+        <td><a href="/torrents/YP-SV-1R-02x13_14.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/1AD3A477FFEA15FA7C443AE92E0C75D021407AA8.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:1AD3A477FFEA15FA7C443AE92E0C75D021407AA8">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x13_14.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"> <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709766&amp;lid=7">Episode 15</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709767&amp;lid=7">16</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709766&amp;lid=7">Game of Flags</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709767&amp;lid=7">Girls' Day Out</a>)</td>
+        <td><a href="https://mega.nz/#!h5RzXDRa!TA_UVIDU6C_O6Ka3FmTEDMgpIMv_V_YmB-HmCfq9ML0">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x15_16.mkv">1</a></td>
+        <td><a href="/torrents/YP-SV-1R-02x15_16.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/90A53AD9674C43FBC1955751412B7D066B53C65D.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:90A53AD9674C43FBC1955751412B7D066B53C65D">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x15_16.srt">Get</a></td>
       </tr>
     </tbody>
   </table>
