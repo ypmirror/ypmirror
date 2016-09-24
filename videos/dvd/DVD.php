@@ -162,13 +162,13 @@
                         </tr>
                         <tr>
                             <td height="20">Commentary audio tracks alone is available on the </td>
-                            <td><a href="other.php">Other Downloads page</a></td>
+                            <td><a href="/others/other.php">Other Downloads page</a></td>
                             <td>&nbsp;</td>
                         </tr>
                         <tr>
-                            <td height="20"><a href="eqg.php">EQUESTRIA GIRLS</a></td>
-                            <td><a href="eqg.php">EQUESTRIA GIRLS</a></td>
-                            <td><a href="eqg.php">EQUESTRIA GIRLS</a></td>
+                            <td height="20"><a href="/videos/eqg/eqg.php">EQUESTRIA GIRLS</a></td>
+                            <td><a href="/videos/eqg/eqg.php">EQUESTRIA GIRLS</a></td>
+                            <td><a href="/videos/eqg/eqg.php">EQUESTRIA GIRLS</a></td>
                         </tr>
                         <tr>
                             <td height="20">--------------------------</td>

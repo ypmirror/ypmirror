@@ -148,7 +148,7 @@
                         </tr>
                         <tr>
                             <td height="20"><a href="http://www.tv-tokyo.co.jp/program/detail/22599_201307300730.html">第18話『ドキドキライブ』 (01x18)</a></td>
-                            <td>1 2 3 </td>
+                            <td><a href="https://mega.nz/#!VdNgHZyA!_BX4sSnXgWNyJ7alE1DTYQmPXBvTmpujLeogIDEyZNE">1</a> 2 3 </td>
                             <td><a href="https://yp.coco-pommel.org/ypvideo/YP-1JP-01x18.mkv">1</a></td>
                             <td><a href="/videos/japan/torrents/YP-1JP-01x18.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/F88515B47AF162629ECC579B469566665C3B79DB.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:F88515B47AF162629ECC579B469566665C3B79DB">6</a>    
 </td>
@@ -156,7 +156,7 @@
                         </tr>
                         <tr>
                             <td height="20"><a href="http://www.tv-tokyo.co.jp/program/detail/22599_201308060730.html">第19話『アイ・ラブ・ラリティ』(01x19)</a></td>
-                            <td>1 2 3 </td>
+                            <td><a href="https://mega.nz/#!BAU0xI4L!U3MXY-Tqm05KnpZZfN6FJLXM1fWPS0q1xxnpAtgC0Z0">1</a> 2 3 </td>
                             <td><a href="https://yp.coco-pommel.org/ypvideo/YP-1JP-01x19.mkv">1</a></td>
                             <td><a href="/videos/japan/torrents/YP-1JP-01x19.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/CE8088F76D77193CDA7CA2B0A9F1A0EE7F7FFA18.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:CE8088F76D77193CDA7CA2B0A9F1A0EE7F7FFA18">6</a></td>
                             <td>GOOD</td>

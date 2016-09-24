@@ -60,7 +60,7 @@
                         <tr>
                           <td height="20">My Little Pony: Friendship is Magic Songs of Harmony</td>
                           <td>MP3</td>
-                          <td><a href="https://yp.coco-pommel.org/ypmusic/YP-MP3-ALBUM3.zip">DIRECT</a> or 1 2 3</td>
+                          <td><a href="https://yp.coco-pommel.org/ypmusic/YP-MP3-ALBUM3.zip">DIRECT</a> or <a href="https://mega.nz/#!MAljgbZS!X66dxyI2HlXJt9maVaZA5iorxWGHXhakvR8_xCRQK0g">1</a> 2 3</td>
                           <td><a href="/music/torrents/YP-MP3-ALBUM3.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/B4D703F50953DDB32B1B2D59DAD08FB285553CFE.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:B4D703F50953DDB32B1B2D59DAD08FB285553CFE">6</a>    
 </td>
                           <td>By YayPonies</td>
