@@ -1,0 +1,1 @@
+<div id=msg>If you like YaySteven, please <a href="mailto:yaysteven@yayponies.eu" style="color:white">give us</a> some of your iTunes gift card code (US account only). Thanks!</div>

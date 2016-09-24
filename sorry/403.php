@@ -24,7 +24,7 @@ a.current{ color: gray !important; cursor: default; text-decoration: none; }
   <div>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
-    <p><img src="/4626.gif" width="582" height="400" alt=""/></p>
+    <p><img src="/sorry/403.gif" width="582" height="400" alt=""/></p>
     <p style="font-size: 18px">You're not allowed to access the page/file you wanted ! (403 Forbidden)<br>
       If you think you're seeing that message by error please
        <a href="mailto:contact@yayponies.eu?subject=[ERR403] - I'm not allowed to see the page/file <!--#echo var="SERVER_NAME" -->:<!--#echo var="SERVER_PORT" --><!--#echo var="REQUEST_URI" -->">Contact us via mail</a>

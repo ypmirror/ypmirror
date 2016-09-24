@@ -1,0 +1,33 @@
+﻿1
+00:00:34,502 --> 00:00:36,368
+\h\h\h\h\h\h\h\h\h\h\h\h[\hTHUD!\h]\h\h\h\h\h\h\h\h\h\h\h
+
+2
+00:00:43,744 --> 00:00:46,145
+\h\h\h\h\h\h\h[\hWARBLE!\hCRUNCH!\h]\h\h\h\h\h\h
+
+3
+00:00:46,147 --> 00:00:48,981
+\h\h\h\h\h\h\h\h\h\h[\hGRUNTING\h]\h\h\h\h\h\h\h\h\h\h
+
+4
+00:00:48,983 --> 00:00:51,283
+\h\h\h\h\h\h\h\h\h\h\h[\hPANTING\h]\h\h\h\h\h\h\h\h\h\h
+
+5
+00:00:53,387 --> 00:00:56,588
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hOKAY.\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\hGO\hAHEAD,\hLION.\h\h\h\h\h\h\h\h
+
+6
+00:00:56,590 --> 00:00:57,723
+\h\h\h\h\h\h\h\h\h\h\h[\hTHUNK!\h]\h\h\h\h\h\h\h\h\h\h\h
+
+7
+00:00:57,725 --> 00:01:01,226
+\h\h\h\h\h\h\h\h[\hBOY\hCHUCKLING\h]\h\h\h\h\h\h\h
+
+8
+00:01:01,228 --> 00:01:04,596
+\h\h\h\h\h\h\h\h\h\hAAAH!\hAGAIN?!\h\h\h\h\h\h\h\h\h
+

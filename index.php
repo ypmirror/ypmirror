@@ -1,6 +1,6 @@
-<!--#include file="header.php" -->
+<!--#include file="/resources/header.php" -->
             <p style="font-weight: bold">GIT MIRROR OWNER: IF YOUR MIRROR IS BROKEN, PLEASE ENABLE SSI, <a href="https://git.yayponies.pw/upgradetossi">INSTRUCTION HERE!</a>
-            <p style="font-weight: bold">Welcome to Yay Ponies! Do navigate through the repository with the various links above!</p>
+            </p><p style="font-weight: bold">Welcome to Yay Ponies! Do navigate through the repository with the various links above!</p>
             <p>
                 Thanks to the break between episode 21 and episode 22, we was able to do a little cleanup on the site !
                 Now the two official mirrors support HTTPS, with a trusted certificate, so you don't have to bypass the warning !
@@ -12,6 +12,6 @@
                 and replaced them by 1080p links.
             </p>
             <p> MUFFINS !<br />YayPonies Staff</p>
-        </div>
+        
     </body>
 </html>

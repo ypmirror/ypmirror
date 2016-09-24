@@ -24,7 +24,7 @@ a.current{ color: gray !important; cursor: default; text-decoration: none; }
   <div>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
-    <p><img src="/sorry.png" width="640" height="352" alt=""/></p>
+    <p><img src="/sorry/404.png" width="640" height="352" alt=""/></p>
     <p style="font-size: 18px">The page you requested wasn't found on the Twilight library (Maybe because it burned)<br>(404 Not Found)<br>
       If you think you're seeing that message by error please
        <a href="mailto:contact@yayponies.eu?subject=[ERR404] - Page <!--#echo var="SERVER_NAME" -->:<!--#echo var="SERVER_PORT" --><!--#echo var="REQUEST_URI" --> is not found!">Contact us via mail</a>

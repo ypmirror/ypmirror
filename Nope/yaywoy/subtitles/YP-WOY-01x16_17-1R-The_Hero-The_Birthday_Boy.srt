@@ -1,0 +1,1920 @@
+1
+00:00:04,738 --> 00:00:07,606
+      <i>♪ Yip bi di dit bip</i>       
+        <i>bi-ee-i-di-dit ♪</i>        
+
+2
+00:00:07,608 --> 00:00:09,208
+      <i>♪ Wander over yonder </i>     
+
+3
+00:00:09,210 --> 00:00:10,509
+      <i>♪ Yip bi di dit bip</i>       
+        <i>bi-ee-i-di-dit ♪</i>        
+
+4
+00:00:10,511 --> 00:00:12,511
+        <i>♪ Wander over yonder </i>   
+
+5
+00:00:12,513 --> 00:00:14,179
+   <i>♪ Wander wander over over</i>    
+<i>yonder yonder wander yonder ♪</i>   
+
+6
+00:00:14,181 --> 00:00:15,514
+      <i>♪ Yip bi di dit bip</i>       
+        <i>bi-ee-i-di-dit ♪</i>        
+
+7
+00:00:15,516 --> 00:00:16,949
+        <i>♪ Wander over yonder </i>   
+
+8
+00:00:16,951 --> 00:00:18,183
+      <i>♪ Yip bi di dit bip</i>       
+        <i>bi-ee-i-di-dit ♪</i>        
+
+9
+00:00:18,185 --> 00:00:19,852
+        <i>♪ Wander over yonder </i>   
+
+10
+00:00:19,854 --> 00:00:21,020
+      <i>♪ Yip bi di dit bip</i>       
+        <i>bi-ee-i-di-dit ♪</i>        
+
+11
+00:00:21,022 --> 00:00:22,287
+        <i>♪ Wander over yonder </i>   
+
+12
+00:00:22,289 --> 00:00:23,989
+      <i>♪ Wander over,</i>            
+      <i>over yonder ♪</i>             
+
+13
+00:00:23,991 --> 00:00:25,624
+            <i>♪ Wander yonder</i>     
+            <i>wander yonder ♪</i>     
+
+14
+00:00:25,626 --> 00:00:26,759
+      <i>♪ Yip bi di dit bip</i>       
+        <i>bi-ee-i-di-dit ♪</i>        
+
+15
+00:00:26,761 --> 00:00:27,893
+        <i>♪ Wander over yonder </i>   
+
+16
+00:00:35,201 --> 00:00:36,602
+      <i>♪ Yip bi di dit bip</i>       
+        <i>bi-ee-i-di-dit ♪</i>        
+
+17
+00:00:36,604 --> 00:00:38,203
+        <i>♪ Wander over yonder </i>   
+
+18
+00:00:38,205 --> 00:00:39,538
+      <i>♪ Yip bi di dit bip</i>       
+        <i>bi-ee-i-di-dit ♪</i>        
+
+19
+00:00:39,540 --> 00:00:40,706
+        <i>♪ Wander over yonder </i>   
+
+20
+00:00:40,708 --> 00:00:42,041
+        <i>♪ Wander wander</i>         
+          <i>over, over ♪</i>          
+
+21
+00:00:42,043 --> 00:00:43,675
+        <i>♪ Yonder yonder</i>         
+        <i>wander wander ♪</i>         
+
+22
+00:00:43,677 --> 00:00:46,578
+      <i>♪ Yip bi di dit bip</i>       
+        <i>bi-ee-i-di-dit ♪</i>        
+
+23
+00:00:53,253 --> 00:00:55,554
+              <i>MAN:</i>              
+   <i>Ancient prophecy foretold</i>    
+
+24
+00:00:55,556 --> 00:00:57,656
+        <i>that the beloved</i>        
+        <i>Princess Demura</i>         
+
+25
+00:00:57,658 --> 00:00:59,258
+       <i>would be kidnapped</i>       
+        <i>by King Draykor</i>         
+
+26
+00:00:59,260 --> 00:01:00,893
+        <i>the evil Dragon King,</i>   
+
+27
+00:01:00,895 --> 00:01:02,327
+        <i>who, hungry for power,</i>  
+
+28
+00:01:02,329 --> 00:01:04,863
+     <i>stole her away to his</i>      
+     <i>Labyrinth of Delusion!</i>     
+
+29
+00:01:04,865 --> 00:01:08,233
+     <i>And now only one hero</i>      
+        <i>can rescue her,</i>         
+
+30
+00:01:08,235 --> 00:01:09,868
+        <i>her one true love.</i>      
+
+31
+00:01:09,870 --> 00:01:11,570
+        <i>And once he saves her,</i>  
+
+32
+00:01:11,572 --> 00:01:13,105
+         <i>they will live</i>         
+       <i>happily ever after</i>       
+
+33
+00:01:13,107 --> 00:01:14,606
+         <i>and use their</i>          
+      <i>compatible features</i>       
+
+34
+00:01:14,608 --> 00:01:16,608
+           <i>to produce</i>           
+   <i>many attractive offspring,</i>   
+
+35
+00:01:16,610 --> 00:01:18,944
+       <i>who will also live</i>       
+      <i>happily ever after!</i>       
+
+36
+00:01:18,946 --> 00:01:22,314
+            And I,              
+   Sir Brad Starlight, am...    
+
+37
+00:01:25,852 --> 00:01:28,754
+          Now, Draykor plans    
+       to wed Demura at sundown.
+
+38
+00:01:28,756 --> 00:01:30,022
+              I beseech you,    
+             kind travelers,    
+
+39
+00:01:30,024 --> 00:01:31,223
+      will you help me save her,
+
+40
+00:01:31,225 --> 00:01:33,025
+               so we may live   
+             happily ever after?
+
+41
+00:01:33,027 --> 00:01:35,227
+       Are you kidding?         
+       Save a princess?         
+
+42
+00:01:35,229 --> 00:01:36,762
+I've always wanted              
+to save a princess!             
+
+43
+00:01:36,764 --> 00:01:38,630
+Let's go save a princess!       
+
+44
+00:01:38,632 --> 00:01:40,265
+                  Whoa there,   
+               my furry fellow! 
+
+45
+00:01:40,267 --> 00:01:42,601
+         I like your enthusiasm,
+             but remember...    
+
+46
+00:01:42,603 --> 00:01:44,603
+ I'm the hero here.             
+
+47
+00:01:44,605 --> 00:01:45,771
+You're my goofy sidekick,       
+
+48
+00:01:45,773 --> 00:01:47,906
+who trapes, japes, gapes,       
+     and, of course,            
+
+49
+00:01:47,908 --> 00:01:49,341
+ sings my theme song.           
+
+50
+00:01:49,343 --> 00:01:50,375
+ And my noble steed.            
+
+51
+00:01:50,377 --> 00:01:52,010
+         Who trudges,           
+      drudges, begrudges        
+
+52
+00:01:52,012 --> 00:01:54,313
+    and generally does          
+all the heavy lifting.          
+
+53
+00:01:54,315 --> 00:01:56,014
+             Whoa!              
+            Nuh-uh.             
+
+54
+00:01:56,016 --> 00:01:59,318
+   I don't just let anybody     
+      hop in this saddle.       
+
+55
+00:01:59,320 --> 00:02:00,986
+      Grrrr...!                 
+
+56
+00:02:00,988 --> 00:02:04,356
+        Sylvia, come on!        
+A princess is in danger.        
+
+57
+00:02:05,825 --> 00:02:07,659
+            Uhh! Okay, fine.    
+
+58
+00:02:07,661 --> 00:02:09,661
+           But only 'cause      
+     we're helping a sister out.
+
+59
+00:02:09,663 --> 00:02:11,697
+               Hyah!            
+Onward, noble steed!            
+
+60
+00:02:11,699 --> 00:02:14,867
+       Princess rescue!         
+            Wooooo!             
+
+61
+00:02:18,838 --> 00:02:22,407
+ ♪ I sing the tale              
+of Brad Starlight ♪             
+
+62
+00:02:22,409 --> 00:02:26,044
+♪ A worthy, brave,              
+and daring knight ♪             
+
+63
+00:02:26,046 --> 00:02:28,147
+ ♪ He helped a crone            
+to cross the street ♪           
+
+64
+00:02:28,149 --> 00:02:29,681
+                 More dangerous!
+
+65
+00:02:29,683 --> 00:02:32,818
+♪ Though it was lava            
+  beneath his feet ♪            
+
+66
+00:02:32,820 --> 00:02:35,787
+    Put in that I fought a bear 
+     they know how strong I am. 
+
+67
+00:02:35,789 --> 00:02:39,324
+♪ He wrestled a large           
+  and scary bear ♪              
+
+68
+00:02:39,326 --> 00:02:41,026
+         And come on,           
+          old crone?            
+
+69
+00:02:41,028 --> 00:02:42,828
+             Yuck.              
+    Make it a pretty lady.      
+
+70
+00:02:42,830 --> 00:02:46,198
+ ♪ All to help a maiden fair    
+
+71
+00:02:46,200 --> 00:02:47,799
+           Hey, yes.            
+
+72
+00:02:47,801 --> 00:02:49,268
+       She totally wants        
+         to smooch me.          
+
+73
+00:02:49,270 --> 00:02:51,270
+♪ Then his sidekick,            
+    brave and true ♪            
+
+74
+00:02:51,272 --> 00:02:53,705
+             Whoa!              
+   Silence, silly sidekick.     
+
+75
+00:02:53,707 --> 00:02:55,274
+   We're here.                  
+
+76
+00:02:55,276 --> 00:02:58,710
+   The Labyrinth of Delusion!   
+
+77
+00:02:58,712 --> 00:03:01,980
+    Don't worry, princess,      
+        we'll save you!         
+
+78
+00:03:03,416 --> 00:03:04,917
+                       Uh,      
+         the prophecy says      
+
+79
+00:03:04,919 --> 00:03:06,852
+               that the hero    
+           always leads the way.
+
+80
+00:03:08,254 --> 00:03:10,289
+           Oh, gosh,            
+   I am so sorry. Of course.    
+
+81
+00:03:10,291 --> 00:03:13,091
+       After you, Sir Starlight.
+
+82
+00:03:17,163 --> 00:03:19,398
+         Oh, you poor,          
+    silly, stupid sidekick.     
+
+83
+00:03:19,400 --> 00:03:21,466
+That way is clearly a trap.     
+
+84
+00:03:21,468 --> 00:03:23,302
+This is the correct path.       
+
+85
+00:03:24,904 --> 00:03:26,772
+Are you flarping serious?       
+
+86
+00:03:26,774 --> 00:03:28,273
+                      Easy girl.
+
+87
+00:03:28,275 --> 00:03:31,043
+       I know the danger spooks 
+         dumb beasts like you.  
+
+88
+00:03:31,045 --> 00:03:33,412
+       You have no idea         
+  what you're doing, do you?    
+
+89
+00:03:33,414 --> 00:03:36,014
+              Ooh, tasty carrot.
+
+90
+00:03:36,016 --> 00:03:38,317
+ Wander, keep an eye            
+       on this fool.            
+
+91
+00:03:41,187 --> 00:03:43,755
+                    ( laughs )  
+                   That a girl. 
+
+92
+00:03:43,757 --> 00:03:45,190
+               Onward, sidekick!
+
+93
+00:03:45,192 --> 00:03:46,792
+           Oh, and try and throw
+             in some pratfalls  
+
+94
+00:03:46,794 --> 00:03:48,760
+         and silly catchphrases 
+            if you can, okay?   
+
+95
+00:03:48,762 --> 00:03:51,396
+                 Copy that!     
+             Whoop-a-deedy-doo. 
+
+96
+00:03:51,398 --> 00:03:52,831
+                       Splat.   
+
+97
+00:03:54,000 --> 00:03:55,400
+   Careful, sidekick!           
+
+98
+00:03:55,402 --> 00:03:58,770
+      A gauntlet of traps       
+   most fearsome awaits us.     
+
+99
+00:03:58,772 --> 00:04:00,472
+     A weakling like you cannot 
+        hope to withstand it.   
+
+100
+00:04:00,474 --> 00:04:03,242
+       Truly, it will take one  
+     with big, hero-ey muscles, 
+
+101
+00:04:03,244 --> 00:04:05,877
+         such as myself,        
+ to make it through this alive. 
+
+102
+00:04:08,348 --> 00:04:09,915
+    We're coming, princess!     
+
+103
+00:04:23,763 --> 00:04:26,265
+   Ah, clearly this is just     
+     a warm-up challenge.       
+
+104
+00:04:26,267 --> 00:04:27,499
+             Okay.              
+          Here we go.           
+
+105
+00:04:27,501 --> 00:04:29,034
+          Excelsior--           
+
+106
+00:04:32,305 --> 00:04:33,372
+          ( groans )            
+
+107
+00:04:41,547 --> 00:04:43,415
+That's it, Sir Starlight!       
+
+108
+00:04:43,417 --> 00:04:46,318
+You're almost through.          
+    Whoop-a-deedy-doo!          
+
+109
+00:04:47,320 --> 00:04:49,288
+             What?              
+        I don't-- How?          
+
+110
+00:04:49,290 --> 00:04:52,257
+             Oh, Sylvia?        
+She took the other path!        
+
+111
+00:04:52,259 --> 00:04:54,259
+Turns out it was                
+ quite pleasant.                
+
+112
+00:04:54,261 --> 00:04:56,295
+ There was even                 
+a lemonade stand.               
+
+113
+00:04:56,297 --> 00:04:58,563
+           Let's see you get out
+            of this one, champ. 
+
+114
+00:04:58,565 --> 00:05:00,198
+ But don't worry!               
+
+115
+00:05:00,200 --> 00:05:03,435
+     It's a pattern,            
+so all you got to do is--       
+
+116
+00:05:03,437 --> 00:05:07,105
+            No! No!             
+    The hero does not need      
+     the sidekick's help!       
+
+117
+00:05:11,944 --> 00:05:14,579
+         Now, clearly,          
+  it's some sort of pattern.    
+
+118
+00:05:17,016 --> 00:05:20,085
+    ( Starlight screaming )     
+
+119
+00:05:22,221 --> 00:05:23,922
+Nice griffin. Ow!               
+
+120
+00:05:29,329 --> 00:05:30,429
+       Gah! the griffin         
+         has my cape!           
+
+121
+00:05:30,431 --> 00:05:31,396
+ The griffin has my cape!       
+
+122
+00:05:36,336 --> 00:05:38,070
+            Get off!            
+
+123
+00:05:38,072 --> 00:05:39,471
+           My sword!            
+
+124
+00:05:39,473 --> 00:05:42,074
+   Your sidekick tom-foolery    
+     has cost me my sword!      
+
+125
+00:05:42,076 --> 00:05:43,375
+     The prophecy specifically  
+
+126
+00:05:43,377 --> 00:05:45,844
+        states the hero         
+      has a mighty sword!       
+
+127
+00:05:45,846 --> 00:05:47,512
+          Is this mighty enough?
+
+128
+00:05:49,949 --> 00:05:52,451
+   (gasps) The sword of Destiny!
+
+129
+00:05:52,453 --> 00:05:55,354
+      Forged in the fires       
+     of a collapsing star,      
+
+130
+00:05:55,356 --> 00:05:57,456
+      the Andromeda Lords       
+     themselves crafted it      
+
+131
+00:05:57,458 --> 00:05:59,925
+ so that only the most noble,   
+       the most daring,         
+
+132
+00:05:59,927 --> 00:06:02,327
+        the most truly          
+righteous hero could--          
+
+133
+00:06:02,329 --> 00:06:05,397
+Wha-- But the hero              
+  is supposed to--              
+
+134
+00:06:05,399 --> 00:06:07,332
+Put it back! Put it back!       
+      Put it back!              
+
+135
+00:06:07,334 --> 00:06:10,469
+     Oh, sorry. Don't know      
+       my own strength.         
+
+136
+00:06:10,471 --> 00:06:13,638
+Ah, come on,                    
+it's like you haven't           
+even  <i>read </i> the prophecy.       
+
+137
+00:06:39,399 --> 00:06:41,500
+Ain't happening,                
+     pretty boy.                
+
+138
+00:06:43,002 --> 00:06:44,202
+             Don't!             
+
+139
+00:07:05,658 --> 00:07:08,226
+     It's better this way!      
+
+140
+00:07:08,228 --> 00:07:09,394
+          Now come on.          
+  Stop dilly-dallying.          
+
+141
+00:07:09,396 --> 00:07:11,496
+  We're gonna be late.          
+
+142
+00:07:11,498 --> 00:07:14,366
+          Helping a sister out. 
+          Helping a sister out. 
+
+143
+00:07:14,368 --> 00:07:16,435
+          ( animal howling )    
+
+144
+00:07:22,475 --> 00:07:24,409
+         The day's end          
+         may be nigh,           
+
+145
+00:07:24,411 --> 00:07:26,445
+         Princess Demura...     
+
+146
+00:07:26,447 --> 00:07:28,013
+         but fear not.          
+
+147
+00:07:28,015 --> 00:07:30,515
+      No barrier can keep       
+       my love from you.        
+
+148
+00:07:30,517 --> 00:07:33,318
+       I shall smash the--      
+
+149
+00:07:33,320 --> 00:07:34,986
+         Oh, come on,           
+       are you serious?         
+
+150
+00:07:34,988 --> 00:07:36,388
+       It was unlocked.         
+
+151
+00:07:36,390 --> 00:07:38,223
+       I don't care!            
+
+152
+00:07:38,225 --> 00:07:39,624
+        I need to make          
+     a dramatic entrance.       
+
+153
+00:07:39,626 --> 00:07:40,725
+     Close it!                  
+
+154
+00:07:43,496 --> 00:07:48,467
+   No door is strong enough     
+ to keep me from you, my love.  
+
+155
+00:07:50,336 --> 00:07:51,536
+ ( all growling )               
+
+156
+00:07:53,639 --> 00:07:55,006
+            Ahh!                
+
+157
+00:07:55,008 --> 00:07:58,243
+         For the princess!      
+
+158
+00:07:58,245 --> 00:08:00,412
+         Wait just a--          
+     Come on, this is my--      
+
+159
+00:08:00,414 --> 00:08:02,247
+         I wanted to--          
+
+160
+00:08:02,249 --> 00:08:04,216
+            Stop!!!             
+
+161
+00:08:07,119 --> 00:08:09,588
+       All I want to do         
+   is save my one true love     
+
+162
+00:08:09,590 --> 00:08:12,491
+    and have everyone know      
+    how great a hero I am.      
+
+163
+00:08:12,493 --> 00:08:14,493
+          Just like             
+ the prophecy says!             
+
+164
+00:08:14,495 --> 00:08:16,728
+    And you're ruining it,      
+    ruining it, ruining it!     
+
+165
+00:08:16,730 --> 00:08:18,997
+    Why can't you get it?!      
+
+166
+00:08:18,999 --> 00:08:22,167
+           Sidekick!            
+         Steed! Hero!           
+
+167
+00:08:22,169 --> 00:08:23,668
+                  Prisoner.     
+
+168
+00:08:36,616 --> 00:08:39,518
+    So these are the heroes     
+
+169
+00:08:39,520 --> 00:08:41,419
+          who've come           
+      to steal my bride.        
+
+170
+00:08:41,421 --> 00:08:44,356
+     Well, you're too late      
+        Sir Starlight!          
+
+171
+00:08:44,358 --> 00:08:48,727
+      Soon, the sun will set    
+   and Princess Demura will be--
+
+172
+00:08:48,729 --> 00:08:50,495
+               DEMURA: ( gasps )
+                   beloved.     
+
+173
+00:08:54,567 --> 00:08:57,602
+                She's beautiful!
+
+174
+00:08:57,604 --> 00:09:00,272
+ And pink. Ugh!                 
+
+175
+00:09:00,274 --> 00:09:03,241
+            Demura,             
+   it is I, Brad Starlight.     
+
+176
+00:09:03,243 --> 00:09:04,676
+         Silence, cur!          
+
+177
+00:09:04,678 --> 00:09:07,779
+    ( shushing )                
+ It's all right.                
+
+178
+00:09:07,781 --> 00:09:11,816
+There's no need to shout,       
+   beloved, it's fine.          
+
+179
+00:09:11,818 --> 00:09:15,153
+           I'm so sorry, honey. 
+               You know I--     
+
+180
+00:09:15,155 --> 00:09:18,456
+     I just want this day to be 
+     perfect for you, you know. 
+
+181
+00:09:18,458 --> 00:09:22,794
+Oh, and it will be, Drake,      
+as long as we're together.      
+
+182
+00:09:22,796 --> 00:09:26,831
+             Oh... You're pooky.
+
+183
+00:09:28,768 --> 00:09:31,136
+      Seriously, Bradley?       
+          This again?           
+
+184
+00:09:31,138 --> 00:09:32,671
+              I'm sorry, did he 
+             drag you two along 
+
+185
+00:09:32,673 --> 00:09:34,606
+                  on some crazy 
+                 rescue mission?
+
+186
+00:09:41,147 --> 00:09:44,816
+It's not a crazy mission!       
+ The prophecy foretold!         
+
+187
+00:09:44,818 --> 00:09:48,520
+               Prophecy?        
+       You mean your diary from 
+        when we were what, 15?  
+
+188
+00:09:49,855 --> 00:09:52,257
+                    (sighs)     
+                Look, Brad.     
+
+189
+00:09:52,259 --> 00:09:53,792
+            I know this is hard,
+
+190
+00:09:53,794 --> 00:09:56,528
+       but things don't always  
+     work out the way you want. 
+
+191
+00:09:56,530 --> 00:09:59,598
+        Life isn't a fairy-tale.
+
+192
+00:10:00,800 --> 00:10:04,235
+             Come on, we can    
+         just be friends, right?
+
+193
+00:10:08,140 --> 00:10:09,207
+              No!               
+
+194
+00:10:13,512 --> 00:10:15,146
+ The princess will be mine!     
+
+195
+00:10:15,148 --> 00:10:16,681
+      The prophecy              
+will be fulfilled!              
+
+196
+00:10:16,683 --> 00:10:18,450
+ ( laughing )                   
+
+197
+00:10:18,452 --> 00:10:22,454
+       Demura, my love.         
+    We've got to save her.      
+
+198
+00:10:22,456 --> 00:10:25,390
+              You!              
+What should we do?              
+
+199
+00:10:25,392 --> 00:10:27,158
+ Yes, you.                      
+
+200
+00:10:27,160 --> 00:10:29,394
+     Only one brave enough      
+to conquer the insane labyrinth 
+
+201
+00:10:29,396 --> 00:10:31,262
+we set up to stop Bradley       
+    is heroic enough            
+
+202
+00:10:31,264 --> 00:10:33,698
+   to help save                 
+ Demura, right?                 
+
+203
+00:10:33,700 --> 00:10:36,735
+      I've always wanted        
+      to save a princess.       
+
+204
+00:10:37,703 --> 00:10:39,170
+          Okay, guys!           
+
+205
+00:10:39,172 --> 00:10:40,805
+     New bad guy, new plan.     
+
+206
+00:10:40,807 --> 00:10:42,374
+      We're going to need       
+          everybody's           
+
+207
+00:10:42,376 --> 00:10:44,542
+      individual talents        
+       to pull this off!        
+
+208
+00:10:44,544 --> 00:10:48,380
+          ALL: Yeah!            
+ We're all gonna have to work   
+     together, as a team.       
+
+209
+00:10:48,382 --> 00:10:49,814
+         Yeah!                  
+
+210
+00:10:49,816 --> 00:10:54,252
+            Today,              
+  we're all gonna be heroes!    
+
+211
+00:10:54,254 --> 00:10:55,320
+                 Yeah!          
+
+212
+00:10:57,390 --> 00:10:59,891
+    We're all collectively      
+ coming to save you, princess!  
+
+213
+00:11:01,460 --> 00:11:04,396
+       Guys, it's fine.         
+     I handled it myself.       
+
+214
+00:11:04,398 --> 00:11:07,365
+            Like I said,        
+this isn't a fairy tale.        
+
+215
+00:11:08,334 --> 00:11:10,335
+                  Yeah!         
+
+216
+00:11:10,337 --> 00:11:13,304
+     That's why I love her.     
+
+217
+00:11:20,246 --> 00:11:23,481
+        And they lived          
+      happily ever after.       
+
+218
+00:11:23,483 --> 00:11:24,949
+ Well, that's the plan,         
+
+219
+00:11:24,951 --> 00:11:27,452
+but real relationships          
+   take a lot of work.          
+
+220
+00:11:27,454 --> 00:11:29,754
+              However,          
+     if we listen, communicate, 
+
+221
+00:11:29,756 --> 00:11:31,890
+            and are sensitive   
+         to each other's needs--
+
+222
+00:11:31,892 --> 00:11:33,525
+      Happily ever after!       
+
+223
+00:11:33,527 --> 00:11:36,327
+      We kind of sort of        
+       saved a princess!        
+
+224
+00:11:36,329 --> 00:11:37,495
+       Wooooo!                  
+
+225
+00:11:46,972 --> 00:11:51,443
+Happy Birthday, Lord Hater!     
+
+226
+00:11:51,445 --> 00:11:53,311
+             So me and the guys 
+               all chipped in   
+
+227
+00:11:53,313 --> 00:11:54,946
+                 and got you    
+             a little something.
+
+228
+00:11:54,948 --> 00:11:56,314
+       Can you guess what it is?
+
+229
+00:11:56,316 --> 00:11:58,450
+      Is it a Doom Arena?       
+
+230
+00:11:58,452 --> 00:12:00,618
+              It's a Doom Arena!
+
+231
+00:12:00,620 --> 00:12:02,754
+          <i>♪ Doom Arena </i>         
+
+232
+00:12:04,557 --> 00:12:06,391
+I thought you might say that.   
+
+233
+00:12:06,393 --> 00:12:08,359
+  But don't worry,              
+because our next gift           
+
+234
+00:12:08,361 --> 00:12:11,329
+   is sure to put               
+a smile on your face.           
+
+235
+00:12:11,331 --> 00:12:13,498
+May I present to you...         
+
+236
+00:12:13,500 --> 00:12:17,335
+ your most despised enemies     
+
+237
+00:12:17,337 --> 00:12:21,639
+ Wander and Sylvia!             
+
+238
+00:12:21,641 --> 00:12:24,476
+    Boo! I hate those guys!     
+
+239
+00:12:24,478 --> 00:12:25,510
+      See, Sylvia?              
+
+240
+00:12:25,512 --> 00:12:27,378
+          I told you            
+it was a real party.            
+
+241
+00:12:27,380 --> 00:12:29,447
+                   Oh, look,    
+               it's Mr. Peepers!
+
+242
+00:12:29,449 --> 00:12:31,516
+                    Mr. Peepers!
+
+243
+00:12:31,518 --> 00:12:34,686
+   Thank you for the invitation 
+      to the birthday party!    
+
+244
+00:12:34,688 --> 00:12:36,454
+And you thought                 
+it was a trap.                  
+
+245
+00:12:37,790 --> 00:12:41,259
+                  Yes! Best!    
+             Birthday! Ever!    
+
+246
+00:12:41,261 --> 00:12:42,961
+   Not only do I get to watch   
+
+247
+00:12:42,963 --> 00:12:45,964
+     the destruction of my      
+     most despised enemy,       
+
+248
+00:12:45,966 --> 00:12:48,800
+       I get to see him         
+       cower before me!         
+
+249
+00:12:48,802 --> 00:12:54,038
+    To see that goofy grin      
+   replaced with pure fear.     
+
+250
+00:12:54,040 --> 00:12:55,573
+   Yes!                         
+
+251
+00:13:02,448 --> 00:13:04,082
+                 Peepers!       
+
+252
+00:13:04,084 --> 00:13:06,384
+     There is a distinct lack   
+   of cowering in my Doom Arena!
+
+253
+00:13:06,386 --> 00:13:08,319
+            That is contrary    
+              to the purpose    
+
+254
+00:13:08,321 --> 00:13:10,021
+             of the Doom arena! 
+
+255
+00:13:10,023 --> 00:13:11,956
+           Wander, we've got to 
+             get out of here.   
+
+256
+00:13:11,958 --> 00:13:14,859
+  Oh, come on, Sylvia,          
+the party's not that bad.       
+
+257
+00:13:14,861 --> 00:13:17,462
+Although it is poorly           
+     decorated.                 
+
+258
+00:13:17,464 --> 00:13:18,763
+And not very well attended.     
+
+259
+00:13:18,765 --> 00:13:20,965
+              And, worst of all,
+
+260
+00:13:20,967 --> 00:13:22,767
+               the birthday boy 
+                does not appear 
+
+261
+00:13:22,769 --> 00:13:25,970
+                to be enjoying  
+               the festivities. 
+
+262
+00:13:28,607 --> 00:13:31,075
+    Sylvia, we have to stay     
+     in order to see that       
+
+263
+00:13:31,077 --> 00:13:34,712
+   Hater has fun on his most    
+   special of special days.     
+
+264
+00:13:34,714 --> 00:13:37,448
+         It's up to us          
+   to see that sad old scowl    
+
+265
+00:13:37,450 --> 00:13:39,751
+ replaced with a big old smile! 
+
+266
+00:13:39,753 --> 00:13:44,522
+               <i>Pakow! Pakow!</i>    
+               <i>Thunder noise!</i>   
+
+267
+00:13:44,524 --> 00:13:45,757
+Don't worry, sir.               
+
+268
+00:13:45,759 --> 00:13:48,793
+One groveling do-gooder         
+   coming right up.             
+
+269
+00:13:53,465 --> 00:13:54,532
+             Yeah!              
+           Get 'em!!            
+
+270
+00:13:54,534 --> 00:13:55,600
+          ( cheering )          
+
+271
+00:13:55,602 --> 00:13:57,869
+       Finally!                 
+Some more party guests.         
+
+272
+00:13:57,871 --> 00:14:00,538
+But what are they               
+gonna do for fun?               
+
+273
+00:14:00,540 --> 00:14:02,507
+     Crush us into a fine paste?
+
+274
+00:14:02,509 --> 00:14:04,108
+     Oh, Sylvia.                
+
+275
+00:14:04,110 --> 00:14:07,478
+I have a sure-fire plan to put  
+   a smile on Hater's face.     
+
+276
+00:14:07,480 --> 00:14:08,980
+      All you need              
+to do is make sure              
+
+277
+00:14:08,982 --> 00:14:11,916
+    those gladiators            
+ can't see anything.            
+
+278
+00:14:11,918 --> 00:14:13,518
+         With pleasure.         
+
+279
+00:14:13,520 --> 00:14:15,620
+       Ladies? Shall we?        
+
+280
+00:14:16,422 --> 00:14:17,589
+              Yah!              
+
+281
+00:14:19,825 --> 00:14:22,660
+          Ah! My eye!           
+         My only eye!           
+
+282
+00:14:30,402 --> 00:14:33,104
+                I really wish   
+             I had a second eye!
+
+283
+00:14:33,106 --> 00:14:35,607
+        Put some glue,          
+          more glue.            
+
+284
+00:14:35,609 --> 00:14:37,508
+         Oh, glitter,           
+   definitely some glitter,     
+
+285
+00:14:37,510 --> 00:14:39,010
+   Hater loves glitter.         
+
+286
+00:14:40,479 --> 00:14:41,980
+                       Finished!
+
+287
+00:14:41,982 --> 00:14:44,515
+        Now, who wants          
+   to show Hater a good time    
+
+288
+00:14:44,517 --> 00:14:47,418
+    by bashing his face in?     
+
+289
+00:14:47,420 --> 00:14:50,622
+     Hey! The party's over here,
+          you optic nerds!      
+
+290
+00:14:58,397 --> 00:14:59,831
+   ( whooping ) Candy!          
+
+291
+00:14:59,833 --> 00:15:01,099
+          ( cheering )          
+
+292
+00:15:03,168 --> 00:15:04,702
+            Peepers,            
+
+293
+00:15:04,704 --> 00:15:06,537
+     Wander still appears       
+   to be enjoying himself...    
+
+294
+00:15:06,539 --> 00:15:09,574
+             now at the Expense 
+                 of my face!    
+
+295
+00:15:09,576 --> 00:15:10,708
+Don't worry, sir.               
+
+296
+00:15:10,710 --> 00:15:12,543
+     We have plenty             
+of terrifying traps left.       
+
+297
+00:15:12,545 --> 00:15:14,045
+Well, let's see,                
+meat tenderizer,                
+
+298
+00:15:14,047 --> 00:15:15,914
+ flame throwers,                
+flying tigers...                
+
+299
+00:15:15,916 --> 00:15:19,117
+    ( groans ) Hurry up already.
+
+300
+00:15:19,119 --> 00:15:22,453
+Sylvia, Hater is still          
+ not enjoying himself.          
+
+301
+00:15:22,455 --> 00:15:24,522
+The corners of his mouth        
+are still pointing south.       
+
+302
+00:15:24,524 --> 00:15:27,992
+We got to spin that gram        
+            into a grin.        
+
+303
+00:15:31,497 --> 00:15:32,764
+ Spin the bottle?               
+
+304
+00:15:32,766 --> 00:15:35,667
+           <i>Hater, you sassy man,</i>
+
+305
+00:15:35,669 --> 00:15:38,436
+             <i>you do want to get</i> 
+            <i>this party started.</i> 
+
+306
+00:15:42,207 --> 00:15:43,508
+           Little help?         
+
+307
+00:15:43,510 --> 00:15:44,809
+    Hi-yah!                     
+
+308
+00:15:50,683 --> 00:15:53,184
+      <i>Who's it going to be.</i>     
+
+309
+00:15:53,186 --> 00:15:54,852
+         <i>I'm so excited.</i>        
+
+310
+00:16:06,532 --> 00:16:09,133
+            Hater,              
+    I was hoping you'd win.     
+
+311
+00:16:09,135 --> 00:16:12,637
+        Now Pucker up,          
+   and let's see that smile!    
+
+312
+00:16:16,141 --> 00:16:18,509
+   ( Watchdogs gasp )           
+
+313
+00:16:18,511 --> 00:16:21,112
+   ( laughing )                 
+
+314
+00:16:21,114 --> 00:16:24,182
+     Oh, man, did you see       
+   the look on Hater's face?    
+
+315
+00:16:24,184 --> 00:16:27,552
+            I know.             
+  Isn't that awful?             
+
+316
+00:16:27,554 --> 00:16:30,254
+At this rate, we're never gonna 
+ get a smile out of that guy.   
+
+317
+00:16:30,256 --> 00:16:33,257
+Sir, I know this party          
+   isn't going as, uh,          
+
+318
+00:16:33,259 --> 00:16:35,259
+ perfectly as you'd like.       
+
+319
+00:16:35,261 --> 00:16:37,628
+So may I recommend              
+the big red button              
+
+320
+00:16:37,630 --> 00:16:39,931
+ in the upper right corner?     
+
+321
+00:16:45,838 --> 00:16:47,538
+     ( Watchdogs cheering )     
+
+322
+00:16:49,508 --> 00:16:51,609
+          ( roaring )           
+
+323
+00:16:51,611 --> 00:16:52,877
+Stand back, Wander!             
+
+324
+00:16:52,879 --> 00:16:54,846
+          This fella            
+ain't no party game.            
+
+325
+00:17:12,664 --> 00:17:13,664
+      ( Sylvia screaming )      
+
+326
+00:17:13,666 --> 00:17:15,066
+          ( laughing )          
+
+327
+00:17:15,068 --> 00:17:16,834
+ Hey, Wander.                   
+
+328
+00:17:16,836 --> 00:17:20,238
+Your precious protector         
+    Sylvia is gone.             
+
+329
+00:17:20,240 --> 00:17:23,608
+How you feeling?                
+         Scared?                
+
+330
+00:17:23,610 --> 00:17:26,944
+      ( monster roaring )       
+
+331
+00:17:26,946 --> 00:17:29,914
+                Yes,            
+here comes the fear.            
+
+332
+00:17:34,253 --> 00:17:37,989
+Any...moment...now.             
+
+333
+00:17:41,326 --> 00:17:43,594
+          ( purring )           
+
+334
+00:17:48,567 --> 00:17:51,702
+            Who's a hungry boy, 
+            who's a hungry boy? 
+
+335
+00:17:51,704 --> 00:17:54,705
+                   That's right,
+                     it's you.  
+
+336
+00:17:54,707 --> 00:17:57,275
+         Yes, it is. Yes, it is.
+
+337
+00:17:59,078 --> 00:18:01,913
+           <i>Happiness is a happy</i> 
+           <i>puppy, right, Hater?</i> 
+
+338
+00:18:01,915 --> 00:18:03,681
+          ( laughing )          
+
+339
+00:18:06,318 --> 00:18:09,854
+     I disapprove of this       
+        turn of events!         
+
+340
+00:18:09,856 --> 00:18:11,355
+Sir, come on,                   
+
+341
+00:18:11,357 --> 00:18:14,325
+        don't let Wander        
+ruin this party for you.        
+
+342
+00:18:14,327 --> 00:18:16,661
+What if we have him quietly     
+    vaporized out back,         
+
+343
+00:18:16,663 --> 00:18:17,795
+    then do cake?               
+
+344
+00:18:17,797 --> 00:18:18,996
+ Would that make you happy?     
+
+345
+00:18:18,998 --> 00:18:21,132
+              No!               
+
+346
+00:18:21,134 --> 00:18:23,067
+    I want it to be perfect.    
+
+347
+00:18:25,604 --> 00:18:27,839
+         All I wanted           
+        for my birthday         
+
+348
+00:18:27,841 --> 00:18:29,273
+          was to see            
+      my most hated enemy       
+
+349
+00:18:29,275 --> 00:18:32,009
+         cower in fear          
+   before his untimely doom!    
+
+350
+00:18:32,011 --> 00:18:33,911
+         Is that so much to ask?
+
+351
+00:18:33,913 --> 00:18:34,979
+        Oh.                     
+
+352
+00:18:34,981 --> 00:18:36,347
+         Party's over.          
+
+353
+00:18:41,253 --> 00:18:42,653
+       ( alarms blaring )       
+
+354
+00:18:42,655 --> 00:18:45,756
+        But apparently          
+  this pathetic "doom arena"    
+
+355
+00:18:45,758 --> 00:18:47,992
+     couldn't even terrify      
+     a trembling toddler.       
+
+356
+00:18:47,994 --> 00:18:50,294
+      I guess I'm just          
+going to have to do it          
+
+357
+00:18:50,296 --> 00:18:52,363
+my--self.                       
+
+358
+00:18:59,771 --> 00:19:00,938
+          ( whimpers )          
+
+359
+00:19:05,344 --> 00:19:06,878
+         ( screaming )          
+
+360
+00:19:12,317 --> 00:19:14,285
+          Here we go.           
+
+361
+00:19:15,988 --> 00:19:17,221
+        Hater,                  
+look at all this stuff.         
+
+362
+00:19:17,223 --> 00:19:18,422
+We're going to have             
+    so much fun                 
+
+363
+00:19:18,424 --> 00:19:19,824
+and you are going               
+ to be so happy!                
+
+364
+00:19:19,826 --> 00:19:21,292
+  <i>♪ Doom Arena </i>                 
+
+365
+00:19:23,729 --> 00:19:25,296
+ Limbo!                         
+
+366
+00:19:26,665 --> 00:19:28,733
+  <i>♪ Doom Arena </i>                 
+
+367
+00:19:30,202 --> 00:19:31,402
+ ( laughing )                   
+
+368
+00:19:33,338 --> 00:19:34,906
+     Hot potato!                
+
+369
+00:19:39,678 --> 00:19:42,980
+          <i>♪ Doom Arena </i>         
+
+370
+00:19:42,982 --> 00:19:45,383
+     Yeah. Whoo-whoo-whoo!      
+
+371
+00:19:45,385 --> 00:19:47,351
+        Musical chairs!         
+
+372
+00:19:51,223 --> 00:19:54,292
+      ( Hater screaming )       
+
+373
+00:19:54,294 --> 00:19:55,927
+Race you to the finish!         
+
+374
+00:20:03,068 --> 00:20:05,770
+     Aw, the birthday boy       
+   should win at least one.     
+
+375
+00:20:21,453 --> 00:20:22,853
+ Let me get that for you.       
+
+376
+00:20:22,855 --> 00:20:25,289
+                    What--      
+             How are you--      
+
+377
+00:20:25,291 --> 00:20:29,727
+      Did you see my doom arena?
+
+378
+00:20:29,729 --> 00:20:32,396
+              You should be     
+            totally afraid.     
+
+379
+00:20:32,398 --> 00:20:36,000
+          Oh, Hater.            
+         I am afraid.           
+
+380
+00:20:36,002 --> 00:20:42,373
+I'm afraid you aren't enjoying  
+     your birthday party.       
+
+381
+00:20:45,010 --> 00:20:46,410
+I got it!                       
+
+382
+00:20:46,412 --> 00:20:48,946
+I know what will                
+ save this party                
+
+383
+00:20:48,948 --> 00:20:52,316
+and finally put a smile         
+     on your face.              
+
+384
+00:21:02,194 --> 00:21:04,495
+  ♪ It's your happy birthday    
+
+385
+00:21:04,497 --> 00:21:06,931
+      ♪ Here's your happy       
+        birthday song ♪         
+
+386
+00:21:06,933 --> 00:21:09,467
+  ♪ And on your happy birthday  
+
+387
+00:21:09,469 --> 00:21:12,336
+        ♪ Nothing can go wrong  
+
+388
+00:21:12,338 --> 00:21:13,904
+         ♪ I can tell           
+   that you're all grumpy ♪     
+
+389
+00:21:13,906 --> 00:21:15,406
+     ♪ 'Cause you've been       
+        around awhile ♪         
+
+390
+00:21:15,408 --> 00:21:17,008
+        ♪ Just because          
+    you're old and frumpy ♪     
+
+391
+00:21:17,010 --> 00:21:18,409
+        ♪ Doesn't mean          
+     you shouldn't smile ♪      
+
+392
+00:21:18,411 --> 00:21:21,412
+           ♪ Because            
+  it's your happy birthday ♪    
+
+393
+00:21:21,414 --> 00:21:23,314
+         ♪ Here's your          
+     happy birthday song ♪      
+
+394
+00:21:23,316 --> 00:21:26,183
+♪ And your birthday             
+  best be happy ♪               
+
+395
+00:21:26,185 --> 00:21:28,486
+♪ 'Cause you won't be           
+  around for long ♪             
+
+396
+00:21:30,455 --> 00:21:33,291
+ ♪ So try not to be so sad      
+about your impending doom ♪     
+
+397
+00:21:33,293 --> 00:21:34,392
+♪ Some day we'll light          
+    birthday candles ♪          
+
+398
+00:21:34,394 --> 00:21:36,260
+♪ On your frigid tomb           
+
+399
+00:21:36,262 --> 00:21:39,330
+              ♪ Oh, it's your   
+             happy birthday ♪   
+
+400
+00:21:39,332 --> 00:21:41,465
+               ♪ Here's your    
+           happy birthday song ♪
+
+401
+00:21:41,467 --> 00:21:43,834
+      ♪ And your birthday       
+       won't be happy ♪         
+
+402
+00:21:43,836 --> 00:21:46,270
+  ♪ Till you all sing along     
+
+403
+00:21:46,272 --> 00:21:47,805
+           Everybody!           
+
+404
+00:21:47,807 --> 00:21:51,175
+        ♪ Oh, it's your         
+       happy birthday ♪         
+
+405
+00:21:51,177 --> 00:21:53,077
+         ♪ Here's your          
+     happy birthday song ♪      
+
+406
+00:21:53,079 --> 00:21:54,312
+        Just the pit monster!   
+
+407
+00:21:54,314 --> 00:21:59,150
+        ( singing               
+   indistinctly )               
+
+408
+00:21:59,152 --> 00:22:02,019
+       ♪ I can tell that        
+   you're all grumpy 'cause     
+  you've been around awhile ♪   
+
+409
+00:22:02,021 --> 00:22:06,257
+   ♪ Just because you're old    
+    and frumpy doesn't mean     
+      you shouldn't... ♪        
+
+410
+00:22:06,259 --> 00:22:08,092
+              What's that I see?
+
+411
+00:22:09,461 --> 00:22:11,462
+           ♪ Smile              
+           ♪ Smile              
+
+412
+00:22:11,464 --> 00:22:14,532
+          ( cheering )          
+
+413
+00:22:17,336 --> 00:22:19,470
+  WANDER: Happy birthday, Hater!
+
+414
+00:22:22,407 --> 00:22:25,476
+         ( whistling )          
+
+415
+00:22:28,613 --> 00:22:30,881
+          ( roaring )           
+
+416
+00:22:30,883 --> 00:22:32,583
+          ( sniffing )          
+
+417
+00:22:37,222 --> 00:22:39,123
+           ( purrs )            
+
+418
+00:22:43,929 --> 00:22:45,429
+              Aww!              
+
+419
+00:22:46,431 --> 00:22:47,531
+          ( groaning )          
+
