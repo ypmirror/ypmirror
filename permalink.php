@@ -111,6 +111,7 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = Videos/eqg/tables/eqg2lq" -->Equestria Girls 2: Rainbow Rocks (720P LQ)
 <!--#elif expr="$link = Videos/eqg/tables/eqg31080" -->Equestria Girls 3: Friendship Games (1080p)
 <!--#elif expr="$link = Videos/eqg/tables/eqg3720" -->Equestria Girls 3: Friendship Games (720p)
+<!--#elif expr="$link = Videos/eqg/tables/eqg41080" -->Equestria Girls 4: Legend of Equestria (1080p)
 
 <!--#elif expr="$link = Misc/tuto/tor" -->How to use the Tor Mirror
 

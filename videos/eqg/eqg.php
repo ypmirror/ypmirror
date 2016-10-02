@@ -75,12 +75,13 @@
                         <tr>
                             <td> I want to download: </td>
                             <td>
-                                <select size="5" name="Download">
+                                <select size="6" name="Download">
                                     <option value="eqg1">Equestria Girls (All versions)</option>
                                     <option value="eqg2720">Equestria Girls 2: Rainbow Rocks (720p)</option>
                                     <option value="eqg21080">Equestria Girls 2: Rainbow Rocks (1080p)</option>
                                     <option value="eqg3720">Equestria Girls 3: Friendship Games (720)</option>
-                                    <option value="eqg31080" selected>Equestria Girls 3: Friendship Games (1080p)</option>
+                                    <option value="eqg31080">Equestria Girls 3: Friendship Games (1080p)</option>
+									<option value="eqg41080" selected>Equestria Girls 4: Legend of Everfree (1080p)</option>
                                 </select>
                             </td>
                             <td>
@@ -125,6 +126,10 @@
                     <tr>
                         <td> <a href="/permalink.php?link=videos/eqg/tables/eqg31080">eqg31080</a> </td>
                         <td> Equestria Girls 3: Friendship Games (1080p) </td>
+                    </tr>
+                    <tr>
+                        <td> <a href="/permalink.php?link=videos/eqg/tables/eqg41080">eqg41080</a> </td>
+                        <td> Equestria Girls 4: Legend of Everfree (1080p) </td>
                     </tr>
                 </table>
             </div>
