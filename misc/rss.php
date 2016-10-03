@@ -4,7 +4,8 @@
               <p>&nbsp;</p>
               <p>LIST OF AVAILABLE TORRENTS RSS:<br />
               </p>
-              <p><a href="/videos/rss/1sct.rss">Show: 1080P Scootaloo Corrected HEVC</a><br />
+              <p><a href="/videos/rss/1st.rss">Show: 1080P Remastered x264</a><br />
+                <a href="/videos/rss/1sct.rss">Show: 1080P Scootaloo Corrected HEVC</a><br />
                 <a href="/videos/rss/1tt.rss">Show: 1080P TVRip</a><br />
                 <a href="/videos/rss/1it.rss">Show: iTunes Raw 1080P</a><br />
                 <a href="/videos/rss/7it.rss">Show: iTunes Raw 720P</a><br />

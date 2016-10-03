@@ -64,10 +64,14 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = videos/tables/7i6" -->iTunes US Season 6 (720p)
 
 <!--#elif expr="$link = videos/tables/1sc1" -->Scootaloo Corrected (x265/HEVC) Season 1 (1080p)
+<!--#elif expr="$link = videos/tables/1sc2" -->Scootaloo Corrected (x265/HEVC) Season 1 (1080p)
 <!--#elif expr="$link = videos/tables/1sc3" -->Scootaloo Corrected (x265/HEVC) Season 3 (1080p)
 <!--#elif expr="$link = videos/tables/1sc4" -->Scootaloo Corrected (x265/HEVC) Season 4 (1080p)
 <!--#elif expr="$link = videos/tables/1sc5" -->Scootaloo Corrected (x265/HEVC) Season 5 (1080p)
 <!--#elif expr="$link = videos/tables/1sc6" -->Scootaloo Corrected (x265/HEVC) Season 6 (1080p)
+
+<!--#elif expr="$link = videos/tables/1s1" -->Scootaloo Remastered (x264/H264) Season 1 (1080p)
+<!--#elif expr="$link = videos/tables/1s6" -->Scootaloo Remastered (x264/H264) Season 6 (1080p)
 
 <!--#elif expr="$link = videos/tables/1t1" -->TVRip by MENTOS Season 1 (1080p)
 <!--#elif expr="$link = videos/tables/1t2" -->TVRip by Spazz Season 2 (1080p)

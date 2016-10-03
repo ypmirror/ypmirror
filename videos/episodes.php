@@ -8,7 +8,7 @@
                     if ((source == 't' || source == 's' || source == 'sc') && resolution == '7') return false; // No 720p for TVrip or Scoot
                     if (resolution == '1' && (source == 'l' || source == 'lz')) return false; // No 1080p for LQ
                     if (source == 'a' && ! (season == '1' || season == '2')) return false; // No iTunes AU for seasons >= 3
-					if (source == 'sc' && ! (season == '1' || season == '3' || season == '4' || season == '5' || season == '6')) return false; // No Scoot HEVC for seasons 2 yet
+					if (source == 's' && ! (season == '1' || season == '6')) return false; // No Scoot H264 for seasons 2/3/4/5 yet
                     if (source == 'stv' && ! (season == '1' || season == '2' || season == '3')) return false // Scootaloo rip up to season 3
 
                     return true;
@@ -102,6 +102,7 @@
                             <td>
                                 <select size="8" name="DownloadSource" onchange="javascript:dynamicList();">
                                     <option value="i" selected>iTunes Raw US</option>
+                                    <option value="s">Scootaloo Remastered x264</option>
                                     <option value="sc">Scootaloo Corrected HEVC</option>
                                     <option value="a">iTunes Raw AU</option>
                                     <option value="z">Color Corrected by ZR</option>
@@ -268,12 +269,25 @@
                         <td> Season 6 (720p) </td>
                     </tr>
 
+                    <tr> <th colspan="2"> Scootaloo Remastered x264 </th> </tr>
+                    <tr>
+                        <td> <a href="/permalink.php?link=videos/tables/1s1">1s1</a> </td>
+                        <td> Season 1 (1080p) </td>
+                    </tr>
+                    <tr>
+                        <td> <a href="/permalink.php?link=videos/tables/1s6">1s6</a> </td>
+                        <td> Season 6 (1080p) </td>
+                    </tr>
+
                     <tr> <th colspan="2"> Scootaloo Corrected HEVC </th> </tr>
                     <tr>
                         <td> <a href="/permalink.php?link=videos/tables/1sc1">1sc1</a> </td>
                         <td> Season 1 (1080p) </td>
                     </tr>
-
+                    <tr>
+                        <td> <a href="/permalink.php?link=videos/tables/1sc2">1sc2</a> </td>
+                        <td> Season 2 (1080p) </td>
+                    </tr>
                     <tr>
                         <td> <a href="/permalink.php?link=videos/tables/1sc3">1sc3</a> </td>
                         <td> Season 3 (1080p) </td>
