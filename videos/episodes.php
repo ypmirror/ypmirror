@@ -55,6 +55,7 @@
                     // explicit...
                     var archiveNames = {
                         'i' : 'iTunes Raw',
+                        's' : 'Scootaloo Remastered H264',
                         'sc' : 'Scootaloo Corrected HEVC',
                         'a' : 'AUSTRALIAN iTunes Raw',
                         'z' : 'Color Corrected',
