@@ -660,6 +660,46 @@
                 <td>YP iTunes 1080P</td>
                 <td><a href="subtitles/YP-SU-1R-00x08.srt">Get</a></td>
             </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=560735&id=5778571&lid=7">Cooking with Lion</a></td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-00x08-real.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/78E9C8D2E9BE0B67C9289EF5E18448F8EF04C590.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:78E9C8D2E9BE0B67C9289EF5E18448F8EF04C590">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles/YP-SU-1R-00x08-real.srt">Get</a></td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=560735&id=5778572&lid=7">Gem Karaoke</a></td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-00x09.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/0341D02F8DC0084112B18CDC4E012D743C12B254.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:0341D02F8DC0084112B18CDC4E012D743C12B254">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles/YP-SU-1R-00x09.srt">Get</a></td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=560735&id=5778573&lid=7">Steven Reacts</a></td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-00x10.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/DACFA2F90E9450A81A3AFBC9E804BFD6EAEE5BC9.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:DACFA2F90E9450A81A3AFBC9E804BFD6EAEE5BC9">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles/YP-SU-1R-00x10.srt">Get</a></td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=560735&id=5778574&lid=7">Video Chat</a></td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-00x11.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/A5AFE3F6B00214E6AD7E3E1C96855D82153C8445.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:A5AFE3F6B00214E6AD7E3E1C96855D82153C8445">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles/YP-SU-1R-00x11.srt">Get</a></td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=560735&id=5778575&lid=7">Steven's Song Time</a></td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-00x12.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/41CB799429F6F79FB1DAF46B233BABE5A1B4F328.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:41CB799429F6F79FB1DAF46B233BABE5A1B4F328">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles/YP-SU-1R-00x12.srt">Get</a></td>
+            </tr>
         </tbody>
     </table>
 </center>
