@@ -8,7 +8,7 @@
                     if ((source == 't' || source == 's' || source == 'sc') && resolution == '7') return false; // No 720p for TVrip or Scoot
                     if (resolution == '1' && (source == 'l' || source == 'lz')) return false; // No 1080p for LQ
                     if (source == 'a' && ! (season == '1' || season == '2')) return false; // No iTunes AU for seasons >= 3
-					if (source == 's' && ! (season == '1' || season == '6')) return false; // No Scoot H264 for seasons 2/3/4/5 yet
+					if (source == 's' && ! (season == '1' || season == '2' || season == '3' || season == '5' || season == '6')) return false; // No Scoot H264 for seasons 2/3/4/5 yet
                     if (source == 'stv' && ! (season == '1' || season == '2' || season == '3')) return false // Scootaloo rip up to season 3
 
                     return true;
@@ -274,6 +274,18 @@
                     <tr>
                         <td> <a href="/permalink.php?link=videos/tables/1s1">1s1</a> </td>
                         <td> Season 1 (1080p) </td>
+                    </tr>
+                    <tr>
+                        <td> <a href="/permalink.php?link=videos/tables/1s2">1s2</a> </td>
+                        <td> Season 2 (1080p) </td>
+                    </tr>
+                    <tr>
+                        <td> <a href="/permalink.php?link=videos/tables/1s3">1s3</a> </td>
+                        <td> Season 3 (1080p) </td>
+                    </tr>
+                    <tr>
+                        <td> <a href="/permalink.php?link=videos/tables/1s5">1s5</a> </td>
+                        <td> Season 5 (1080p) </td>
                     </tr>
                     <tr>
                         <td> <a href="/permalink.php?link=videos/tables/1s6">1s6</a> </td>
