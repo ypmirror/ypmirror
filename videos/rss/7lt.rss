@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/7lt.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Oct 2016 22:57:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Oct 2016 20:45:18 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 06x24 - Top Bolt | 720p.WEB-DL LQ | YP-7LQ-06x24.mp4 | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-7LQ-06x24.mp4.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Top Bolt; Season: 6; Episode: 24</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-7LQ-06x24.mp4.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-7LQ-06x24.mp4.torrent" length="11486" type="application/x-bittorrent"/>
+      <pubDate>Sat, 15 Oct 2016 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-7LQ-06x24.mp4.torrent</torrent:filename>
+      <torrent:contentlength>142193510</torrent:contentlength>
+      <torrent:infohash>381C2C4D87672C4AF09AD4A89EBD7DE5C76002FD</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:381C2C4D87672C4AF09AD4A89EBD7DE5C76002FD</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 06x23 - Where the Apple Lies | 720p.WEB-DL LQ | YP-7LQ-06x23.mp4 | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-7LQ-06x23.mp4.torrent</link>
