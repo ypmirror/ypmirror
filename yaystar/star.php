@@ -6,7 +6,7 @@
   <p><a href="1it.rss">iTunes RSS</a><br />
     <a href="7tt.rss">Spazz TVRip RSS</a>  </p>
   <p>iTunes RAW Season 2:</p>
-  <table width="752" height="209" align="center">
+  <table width="752" height="275" align="center">
     <tbody>
       <tr>
         <th width="396" height="27">Name </th>
@@ -28,7 +28,7 @@
         <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665654&amp;lid=7">Episode 3</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665656&amp;lid=7">4</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665654&amp;lid=7">Mr. Candle Cares</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665656&amp;lid=7">Red Belt</a>)</td>
         <td><a href="https://mega.nz/#!GQhSSAoS!wdU5IPvVxfGaZmPZnbSkYhemRcNl6lYB_65ytTtuH28">1</a> 2 3</td>
         <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x03_04.mkv">1</a></td>
-        <td> <a href="/torrents/YP-SV-1R-02x03_04.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/A480DB9D1EE66B4C95769314A0E0BFB4890B06E8.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:A480DB9D1EE66B4C95769314A0E0BFB4890B06E8">6</a></td>
+        <td> <a href="torrents/YP-SV-1R-02x03_04.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/A480DB9D1EE66B4C95769314A0E0BFB4890B06E8.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:A480DB9D1EE66B4C95769314A0E0BFB4890B06E8">6</a></td>
         <td>YP iTunes 1080P</td>
         <td><a href="subtitles/YP-SV-1R-02x03_04.srt">Get</a></td>
       </tr>
@@ -44,7 +44,7 @@
         <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678094&amp;lid=7">Episode 7</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678097&amp;lid=7">8</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678094&amp;lid=7">Star vs. Echo Creek</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678097&amp;lid=7">Wand to Wand</a>)</td>
         <td><a href="https://mega.nz/#!hlkymTTZ!3b0qH1FQYOLE1IRGrBAZIdSHoBkX1zUh4EwnD7CwLBo">1</a> 2 3</td>
         <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x07_08.mkv">1</a></td>
-        <td><a href="/torrents/YP-SV-1R-02x07_08.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/F8CA8DADFF2AF58FB40E1B55D909357A01BDB872.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:F8CA8DADFF2AF58FB40E1B55D909357A01BDB872">6</a></td>
+        <td><a href="torrents/YP-SV-1R-02x07_08.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/F8CA8DADFF2AF58FB40E1B55D909357A01BDB872.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:F8CA8DADFF2AF58FB40E1B55D909357A01BDB872">6</a></td>
         <td>YP iTunes 1080P</td>
         <td><a href="subtitles/YP-SV-1R-02x07_08.srt">Get</a></td>
       </tr>
@@ -52,7 +52,7 @@
         <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678104&amp;lid=7">Episode 9</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678105&amp;lid=7">10</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678104&amp;lid=7">Starstruck</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678105&amp;lid=7">Camping Trip</a>)</td>
         <td><a href="https://mega.nz/#!QstUmRaS!BTguav3ovSRyZqIjP-IsUC6C-wLjwWN5_EiMHtxhcUw">1</a> 2 3</td>
         <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x09_10.mkv">1</a></td>
-        <td><a href="/torrents/YP-SV-1R-02x09_10.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/374EF8106099C3C7151991CCB17E7738F98B91E5.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:374EF8106099C3C7151991CCB17E7738F98B91E5">6</a></td>
+        <td><a href="torrents/YP-SV-1R-02x09_10.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/374EF8106099C3C7151991CCB17E7738F98B91E5.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:374EF8106099C3C7151991CCB17E7738F98B91E5">6</a></td>
         <td>YP iTunes 1080P</td>
         <td><a href="subtitles/YP-SV-1R-02x09_10.srt">Get</a></td>
       </tr>
@@ -60,7 +60,7 @@
         <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678106&amp;lid=7">Episode 11</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678107&amp;lid=7">12</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678106&amp;lid=7">Starsitting</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678107&amp;lid=7">On The Job</a>)</td>
         <td><a href="https://mega.nz/#!4lYRXBTR!u0sx87slD9VJ7SyopBRit6UxChsJ1hHIhRJfvAs6USw">1</a> 2 3</td>
         <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x11_12.mkv">1</a></td>
-        <td><a href="/torrents/YP-SV-1R-02x11_12.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/EE99D48872E428B5A1A7AE403AAA3B7D1F55BBDB.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:EE99D48872E428B5A1A7AE403AAA3B7D1F55BBDB">6</a></td>
+        <td><a href="torrents/YP-SV-1R-02x11_12.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/EE99D48872E428B5A1A7AE403AAA3B7D1F55BBDB.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:EE99D48872E428B5A1A7AE403AAA3B7D1F55BBDB">6</a></td>
         <td>YP iTunes 1080P</td>
         <td><a href="subtitles/YP-SV-1R-02x11_12.srt">Get</a></td>
       </tr>
@@ -68,7 +68,7 @@
         <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709764&amp;lid=7">Episode 13</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709765&amp;lid=7">14</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709764&amp;lid=7">Goblin Dogs</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709765&amp;lid=7">By the Book</a>)</td>
         <td><a href="https://mega.nz/#!Y8IGjLrS!uzslWyS6EdECdGHULlTrnl6VB7aM4aKsDzeOTjRBXJc">1</a> 2 3</td>
         <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x13_14.mkv">1</a></td>
-        <td><a href="/torrents/YP-SV-1R-02x13_14.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/1AD3A477FFEA15FA7C443AE92E0C75D021407AA8.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:1AD3A477FFEA15FA7C443AE92E0C75D021407AA8">6</a></td>
+        <td><a href="torrents/YP-SV-1R-02x13_14.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/1AD3A477FFEA15FA7C443AE92E0C75D021407AA8.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:1AD3A477FFEA15FA7C443AE92E0C75D021407AA8">6</a></td>
         <td>YP iTunes 1080P</td>
         <td><a href="subtitles/YP-SV-1R-02x13_14.srt">Get</a></td>
       </tr>
@@ -76,9 +76,33 @@
         <td height="20"> <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709766&amp;lid=7">Episode 15</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709767&amp;lid=7">16</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709766&amp;lid=7">Game of Flags</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709767&amp;lid=7">Girls' Day Out</a>)</td>
         <td><a href="https://mega.nz/#!h5RzXDRa!TA_UVIDU6C_O6Ka3FmTEDMgpIMv_V_YmB-HmCfq9ML0">1</a> 2 3</td>
         <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x15_16.mkv">1</a></td>
-        <td><a href="/torrents/YP-SV-1R-02x15_16.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/90A53AD9674C43FBC1955751412B7D066B53C65D.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:90A53AD9674C43FBC1955751412B7D066B53C65D">6</a></td>
+        <td><a href="torrents/YP-SV-1R-02x15_16.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/90A53AD9674C43FBC1955751412B7D066B53C65D.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:90A53AD9674C43FBC1955751412B7D066B53C65D">6</a></td>
         <td>YP iTunes 1080P</td>
         <td><a href="subtitles/YP-SV-1R-02x15_16.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709769&amp;lid=7">Episode 17</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709770&amp;lid=7">18</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709769&amp;lid=7">Sleepover</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709770&amp;lid=7">Gift of the Card</a>)</td>
+        <td><a href="https://mega.nz/#!9JUAFSbD!VEd4GUDOpfLPrmt872SihZtVgyDC1Nd1P0pwQGzV71o">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x17_18.mkv">1</a></td>
+        <td><a href="torrents/YP-SV-1R-02x17_18.mkv.torrent">1</a> 2 3 4 5 <a href="magnet:?xt=urn:btih:fa96eefb200085c0ecc76eb04dc6c318aca067a7">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x17_18.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5747577&amp;lid=7">Episode 19</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5747578&amp;lid=7">20</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5747577&amp;lid=7">Friendenemies</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5747578&amp;lid=7">Is Mystery</a>)</td>
+        <td><a href="https://mega.nz/#!0J0DUQib!RtGdHKSiTCpy2iQ1yUexaPHJu5kP-H9aoA_9BPs8WUY">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x19_20.mkv">1</a></td>
+        <td><a href="torrents/YP-SV-1R-02x19_20.mkv.torrent">1</a> 2 3 4 5 <a href="magnet:?xt=urn:btih:10e41c5e1bed582ab6208fd602608722d705260e">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x19_20.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5747579&amp;lid=7">Episode 21</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5747580&amp;lid=7">22</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5747579&amp;lid=7">Hungry Larry</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5747580&amp;lid=7">Spider with a Top Hat</a>)</td>
+        <td><a href="https://mega.nz/#!QNEEFZza!pFlROMhVUeURjYEsUgaE7CZj98AZ9dDrzCoB9vdh9kw">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x21_22.mkv">1</a></td>
+        <td><a href="torrents/YP-SV-1R-02x21_22.mkv.torrent">1</a> 2 3 4 5 <a href="magnet:?xt=urn:btih:02c1437c63fecefcaaeef1865096b898f987a201">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x21_22.srt">Get</a></td>
       </tr>
     </tbody>
   </table>
