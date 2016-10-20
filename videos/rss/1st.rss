@@ -7,7 +7,7 @@
     <atom:link href="/videos/rss/1st.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Oct 2016 17:59:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Oct 2016 18:14:18 +0000</lastBuildDate>
     <item>
       <title>My Little Pony, Friendship is Magic - 06x24 - Top Bolt | 1080p.WEB-DL SCOOT | YP-1S-06x24.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-1S-06x24.mkv.torrent</link>
@@ -811,18 +811,6 @@
       <torrent:contentlength>821726740</torrent:contentlength>
       <torrent:infohash>6A463BCAD0376D8A3C1C3EE38D6C3F32328729DC</torrent:infohash>
       <torrent:magneturi>magnet:?xt=urn:btih:6A463BCAD0376D8A3C1C3EE38D6C3F32328729DC</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 02x17 - Hearts and Hooves Day | 1080p.WEB-DL SCOOT | YP-1S-02x17.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1S-02x17.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Hearts and Hooves Day; Season: 2; Episode: 17</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S-02x17.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S-02x17.mkv.torrent" length="47138" type="application/x-bittorrent"/>
-      <pubDate>Sat, 11 Feb 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1S-02x17.mkv.torrent</torrent:filename>
-      <torrent:contentlength>609105925</torrent:contentlength>
-      <torrent:infohash>6C226306815B7AB2862A235C681F9B063BB2118D</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:6C226306815B7AB2862A235C681F9B063BB2118D</torrent:magneturi>
     </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 02x16 - Read It and Weep | 1080p.WEB-DL SCOOT | YP-1S-02x16.mkv | YayPonies</title>
