@@ -1,5 +1,5 @@
 <!--#include file="/resources/popup/header.php" -->
-<p>Scootaloo Remastered x264 are a remaster of iTunes US RAW by Scootaloo.    </p>
+<p>Scootaloo Remastered x264 are a remaster of the best available version of pony by Scootaloo.    </p>
 <p>Quality is better than iTunes raw thanks to Scootaloo color restoration process.<br />
   Quality is also better than the x265 Scootaloo right now.
 </p>
