@@ -7,7 +7,19 @@
     <atom:link href="http://yp1.yayponies.no/books/rss/comics-epub.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Sep 2016 15:32:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 17:42:34 +0000</lastBuildDate>
+    <item>
+      <title>Comics Main Series #47 | EPUB | YP-EPUB-COMIC47.epub | YayPonies</title>
+      <link>http://yp1.yayponies.no/books/torrents/EPUB/YP-EPUB-COMIC47.epub.torrent</link>
+      <description>Comic Name: Comics Main Series; #47</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/books/torrents/EPUB/YP-EPUB-COMIC47.epub.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/books/torrents/EPUB/YP-EPUB-COMIC47.epub.torrent" length="2952" type="application/x-bittorrent"/>
+      <pubDate>Sat, 05 Nov 2016 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-EPUB-COMIC47.epub.torrent</torrent:filename>
+      <torrent:contentlength>30469620</torrent:contentlength>
+      <torrent:infohash>580BBE1F2A364AD54250197376C69D3E73C24CCE</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:580BBE1F2A364AD54250197376C69D3E73C24CCE</torrent:magneturi>
+    </item>
     <item>
       <title>Comics Main Series #46 | EPUB | YP-EPUB-COMIC46.epub | YayPonies</title>
       <link>http://yp1.yayponies.no/books/torrents/EPUB/YP-EPUB-COMIC46.epub.torrent</link>

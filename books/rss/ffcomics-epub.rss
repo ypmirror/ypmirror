@@ -7,7 +7,19 @@
     <atom:link href="http://yp1.yayponies.no/books/rss/ffcomics-epub.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Sep 2016 15:33:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 17:42:45 +0000</lastBuildDate>
+    <item>
+      <title>Comics Friends Forever #33 | EPUB | YP-EPUB-FFCOMIC33.epub | YayPonies</title>
+      <link>http://yp1.yayponies.no/books/torrents/EPUB/YP-EPUB-FFCOMIC33.epub.torrent</link>
+      <description>Comic Name: Comics Friends Forever; #33</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/books/torrents/EPUB/YP-EPUB-FFCOMIC33.epub.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/books/torrents/EPUB/YP-EPUB-FFCOMIC33.epub.torrent" length="4094" type="application/x-bittorrent"/>
+      <pubDate>Sat, 05 Nov 2016 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-EPUB-FFCOMIC33.epub.torrent</torrent:filename>
+      <torrent:contentlength>45398576</torrent:contentlength>
+      <torrent:infohash>F7F656BB5CF9E3653E71B71BC9EC821E7104B040</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:F7F656BB5CF9E3653E71B71BC9EC821E7104B040</torrent:magneturi>
+    </item>
     <item>
       <title>Comics Friends Forever #32 | EPUB | YP-EPUB-FFCOMIC32.epub | YayPonies</title>
       <link>http://yp1.yayponies.no/books/torrents/EPUB/YP-EPUB-FFCOMIC32.epub.torrent</link>
