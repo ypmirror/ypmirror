@@ -594,6 +594,15 @@
                 <td></td>
                 <td><a href="subtitles/YP-SU-1R-04x07.srt">Get</a></td>
             </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5741803&lid=7">Episode 8</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5741803&lid=7">Gem Harvest</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td> <a href="torrents/YP-SU-1R-04x08.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/9F33D9E2E35BC470A7388F3905B0DA1D0F3D4A66.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:9F33D9E2E35BC470A7388F3905B0DA1D0F3D4A66">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-SU-1R-04x07.srt">Get</a></td>
+            </tr>
         </tbody>
     </table>
 </center>
