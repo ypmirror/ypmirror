@@ -6,7 +6,7 @@
   <p><a href="1it.rss">iTunes RSS</a><br />
     <a href="7tt.rss">Spazz TVRip RSS</a>  </p>
   <p>iTunes RAW Season 2:</p>
-  <table width="752" height="275" align="center">
+  <table width="752" height="341" align="center">
     <tbody>
       <tr>
         <th width="396" height="27">Name </th>
@@ -104,6 +104,30 @@
         <td>YP iTunes 1080P</td>
         <td><a href="subtitles/YP-SV-1R-02x21_22.srt">Get</a></td>
       </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5796192&amp;lid=7">Episode 23</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5796193&amp;lid=7">24</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5796192&amp;lid=7">Into the Wand</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5796193&amp;lid=7">Pizza Thing</a>)</td>
+        <td><a href="https://mega.nz/#!OI13zaAS!detAtireBQ8sUumZLHtcLCHCqByBF5qRV2YU8Q3GEQg">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x23_24.mkv">1</a></td>
+        <td><a href="torrents/YP-SV-1R-02x23_24.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/17A7E0EB229571EC2A767957880DE9CFAD016711.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:17A7E0EB229571EC2A767957880DE9CFAD016711">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x23_24.srt">Get</a></td>
+        </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5827336&amp;lid=7">Episode 25</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5827340&amp;lid=7">26</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5827336&amp;lid=7">Page Turner</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5827340&amp;lid=7">Naysaya</a>)</td>
+        <td><a href="https://mega.nz/#!aJ10HQgY!7jKzfedjnXAIIAUK7q0wvc6KSqZyKtyQjXs-4Do8-hs">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x25_26.mkv">1</a></td>
+        <td><a href="torrents/YP-SV-1R-02x25_26.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/36ECB082E0B2D57F4E97901A7A89C974B79F804E.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:36ECB082E0B2D57F4E97901A7A89C974B79F804E">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x25_26.srt">Get</a></td>
+        </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5827343&amp;lid=7">Episode 27 (Bon Bon the Birthday Clown)</a></td>
+        <td><a href="https://mega.nz/#!nVVzlKib!rXRc1MOfPOGtC45_ShYceRPXdimwMdvomb8RQHc6Vb8">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x27.mkv">1</a></td>
+        <td> <a href="torrents/YP-SV-1R-02x27.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/FC235357F61B46ACE10C3D9E7665D8BC42F07D58.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:FC235357F61B46ACE10C3D9E7665D8BC42F07D58">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x27.srt">Get</a></td>
+        </tr>
     </tbody>
   </table>
   <p>iTunes RAW Season 1:<br />
