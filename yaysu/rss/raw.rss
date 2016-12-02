@@ -7,7 +7,19 @@
     <atom:link href="http://yp1.yayponies.no/yaysu/rss/raw.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Nov 2016 13:21:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Dec 2016 10:02:21 +0000</lastBuildDate>
+    <item>
+      <title>Steven Universe - 04x09 - Three Gems and a Baby | 1080P.WEB-DL | YP-SU-1R-04x09.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-04x09.mkv.torrent</link>
+      <description>Show Name: Steven Universe; Episode Title: Three Gems and a Baby; Season: 4; Episode: 09</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-04x09.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-04x09.mkv.torrent" length="35993" type="application/x-bittorrent"/>
+      <pubDate>Fri, 02 Dec 2016 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-SU-1R-04x09.mkv.torrent</torrent:filename>
+      <torrent:contentlength>463238225</torrent:contentlength>
+      <torrent:infohash>32B75BCC14619EDD2A541634C576169A711EF9B6</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:32B75BCC14619EDD2A541634C576169A711EF9B6</torrent:magneturi>
+    </item>
     <item>
       <title>Steven Universe - 04x08 - Gem Harvest | 1080P.WEB-DL | YP-SU-1R-04x08.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-04x08.mkv.torrent</link>
