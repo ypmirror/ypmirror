@@ -1,13 +1,13 @@
 <!--#include file="/resources/header.php" -->
             <div id="links">
-                <table width="700" height="483" align="center">
+                <table width="710" height="531" align="center">
                     <tbody>
                         <tr>
-                            <th width="260" height="20">Name</th>
-                            <th width="101">Format</th>
-                            <th width="117">Downloads</th>
-                            <th width="65">Torrents</th>
-                            <th width="133">Info</th>
+                            <th width="275" height="20">Name</th>
+                            <th width="113">Format</th>
+                            <th width="118">Downloads</th>
+                            <th width="70">Torrents</th>
+                            <th width="110">Info</th>
                         </tr>
                         <tr>
                             <td height="20">Tara Strong - Take My Hand (MP3)</td>
@@ -88,7 +88,7 @@
                           <td>By YayPonies</td>
                         </tr>
                         <tr>
-                          <td height="20">My Little Pony - A Pony Kind of Christmas Album </td>
+                          <td height="20">My Little Pony - A Pony Kind of Christmas Album (2015)</td>
                           <td>MP3 Amazon</td>
                           <td><a href="https://yp.coco-pommel.org/ypmusic/YP-MP3-XMAS.zip">DIRECT</a> or <a href="https://mega.nz/#!M14mABLT!8KSRAtsFxWWdeuxnXLvVAy3UJSSvGLzKxUf9Ic6XN74">1</a> 2 3</td>
                           <td><a href="/music/torrents/YP-MP3-XMAS.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/1E76BFB246F1934BE8394727ACA0DD9F902AE9A4.torrent">4</a> <a href="http://torcache.net/torrent/1E76BFB246F1934BE8394727ACA0DD9F902AE9A4.torrent">5</a> <a href="magnet:?xt=urn:btih:1E76BFB246F1934BE8394727ACA0DD9F902AE9A4">6</a></td>
@@ -120,8 +120,21 @@
                           <td>MP3 Scootaloo</td>
                           <td><a href="https://yp.coco-pommel.org/ypmusic/YP-MP3-ALBUM_EQGLOE.zip">DIRECT</a> or <a href="https://mega.nz/#!ss4DhbpZ!FwOfzYJGeNgm4S4uWxAZWuilqJQNaxNWc8Hyc7feMkw">1</a> 2 3</td>
                           <td><a href="/music/torrents/YP-MP3-ALBUM_EQGLOE.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/6509E99A82AD72C7FA928648F54D3A02FF27F279.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:6509E99A82AD72C7FA928648F54D3A02FF27F279">6</a></td>
-                          <td>RECOMMENDED!<br />
-                          By Scootaloo</td>
+                          <td>By Scootaloo</td>
+                        </tr>
+                        <tr>
+                          <td height="41">My Little Pony, A Pony Kind Of Christmas (2016)</td>
+                          <td>FLAC </td>
+                          <td><a href="https://yp.coco-pommel.org/ypmusic/YP-FLAC-IAPKOC16-V0.zip">DIRECT</a> or <a href="https://mega.nz/#!TFliCYzB!XUBAcq5vxL7ojQ4q36pMdDwC2P_j1SrkepanHzSOzb4">1</a> 2 3</td>
+                          <td><a href="/music/torrents/YP-FLAC-IAPKOC16-V0.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/3A360EDF3416F0C860ECA916516C25327DBF7F89.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:3A360EDF3416F0C860ECA916516C25327DBF7F89">6</a></td>
+                          <td><p>By YayPonies / V0</p></td>
+                        </tr>
+                        <tr>
+                          <td height="41">My Little Pony, A Pony Kind Of Christmas (2016)</td>
+                          <td>MP3 YayPonies</td>
+                          <td><a href="https://yp.coco-pommel.org/ypmusic/YP-MP3-IAPKOC16-V0.zip">DIRECT</a> or <a href="https://mega.nz/#!OIU3CJzS!VIZWH1cleHwWJzp-erN6sF2PHDh5qOawm66v6cZFte8">1</a> 2 3</td>
+                          <td><a href="/music/torrents/YP-MP3-IAPKOC16-V0.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/DC7294C2B2E06405539417546CC664035B79D651.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:DC7294C2B2E06405539417546CC664035B79D651">6</a></td>
+                          <td>By YayPonies / V0</td>
                         </tr>
                     </tbody>
                 </table>
