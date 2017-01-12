@@ -7,7 +7,19 @@
     <atom:link href="http://yp1.yayponies.no/books/rss/ffcomics-pdf.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Nov 2016 16:37:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jan 2017 09:07:05 +0000</lastBuildDate>
+    <item>
+      <title>Comics Friends Forever #35 | PDF | YP-PDF-FFCOMIC35.pdf | YayPonies</title>
+      <link>http://yp1.yayponies.no/books/torrents/PDF/YP-PDF-FFCOMIC35.pdf.torrent</link>
+      <description>Comic Name: Comics Friends Forever; #35</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/books/torrents/PDF/YP-PDF-FFCOMIC35.pdf.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/books/torrents/PDF/YP-PDF-FFCOMIC35.pdf.torrent" length="10392" type="application/x-bittorrent"/>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-PDF-FFCOMIC35.pdf.torrent</torrent:filename>
+      <torrent:contentlength>127947453</torrent:contentlength>
+      <torrent:infohash>8D38FB6C7B57CE0B55AB45453B2473FF3C92112E</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:8D38FB6C7B57CE0B55AB45453B2473FF3C92112E</torrent:magneturi>
+    </item>
     <item>
       <title>Comics Friends Forever #34 | PDF | YP-PDF-FFCOMIC34.pdf | YayPonies</title>
       <link>http://yp1.yayponies.no/books/torrents/PDF/YP-PDF-FFCOMIC34.pdf.torrent</link>

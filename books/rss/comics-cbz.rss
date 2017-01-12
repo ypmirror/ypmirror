@@ -7,7 +7,19 @@
     <atom:link href="http://yp1.yayponies.no/books/rss/comics-cbz.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Nov 2016 16:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jan 2017 09:06:57 +0000</lastBuildDate>
+    <item>
+      <title>Comics Main Series #49 | CBZ | YP-CBZ-COMIC49.cbz | YayPonies</title>
+      <link>http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-COMIC49.cbz.torrent</link>
+      <description>Comic Name: Comics Main Series; #49</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-COMIC49.cbz.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-COMIC49.cbz.torrent" length="4429" type="application/x-bittorrent"/>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-CBZ-COMIC49.cbz.torrent</torrent:filename>
+      <torrent:contentlength>49880175</torrent:contentlength>
+      <torrent:infohash>3746B2BD05D807CBD51B0C90BBEB1A597A14894C</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:3746B2BD05D807CBD51B0C90BBEB1A597A14894C</torrent:magneturi>
+    </item>
     <item>
       <title>Comics Main Series #48 | CBZ | YP-CBZ-COMIC48.cbz | YayPonies</title>
       <link>http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-COMIC48.cbz.torrent</link>
