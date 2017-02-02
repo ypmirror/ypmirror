@@ -612,6 +612,15 @@
                 <td></td>
                 <td><a href="subtitles/YP-SU-1R-04x09.srt">Get</a></td>
             </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5890644&lid=7">Episode 10</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5892260&lid=7">11</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5890644&lid=7">Steven's Dream</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5892260&lid=7">Adventures in Light Distortion</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-04x10_11.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/6F4E70EC617D0B3A80599BDFEC8C4A4BE8A55B24.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:6F4E70EC617D0B3A80599BDFEC8C4A4BE8A55B24">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-SU-1R-04x10_11.srt">Get</a></td>
+            </tr>
         </tbody>
     </table>
 </center>
@@ -861,15 +870,6 @@
                 <td><a href="torrents/YP-SU-1TV-03x29-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/F8C7D7FD536EC7094A82CADFA1C27938485EFC1C.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:F8C7D7FD536EC7094A82CADFA1C27938485EFC1C">6</a></td>
                 <td>TV Spazz 1080P</td>
                 <td>embedded</td>
-            </tr>
-            <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5890644&lid=7">Episode 10</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5892260&lid=7">11</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5890644&lid=7">Steven's Dream</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5892260&lid=7">Adventures in Light Distortion</a>)</td>
-                <td>1 2 3</td>
-                <td>nope</td>
-                <td><a href="torrents/YP-SU-1R-04x10_11.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/6F4E70EC617D0B3A80599BDFEC8C4A4BE8A55B24.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:6F4E70EC617D0B3A80599BDFEC8C4A4BE8A55B24">6</a></td>
-                <td>YP iTunes 1080P</td>
-                <td></td>
-                <td><a href="subtitles/YP-SU-1R-04x10_11.srt">Get</a></td>
             </tr>
         </tbody>
     </table>
