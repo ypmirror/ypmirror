@@ -616,10 +616,19 @@
                 <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5890644&lid=7">Episode 10</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5892260&lid=7">11</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5890644&lid=7">Steven's Dream</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5892260&lid=7">Adventures in Light Distortion</a>)</td>
                 <td>1 2 3</td>
                 <td>nope</td>
-                <td><a href="torrents/YP-SU-1R-04x10_11.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/6F4E70EC617D0B3A80599BDFEC8C4A4BE8A55B24.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:6F4E70EC617D0B3A80599BDFEC8C4A4BE8A55B24">6</a></td>
+                <td><a href="torrents/YP-SU-1R-04x10_11-v2.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/A4B45961B00833BF1FFE31E8415971956A153245.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:A4B45961B00833BF1FFE31E8415971956A153245">6</a></td>
                 <td>YP iTunes 1080P</td>
                 <td></td>
-                <td><a href="subtitles/YP-SU-1R-04x10_11.srt">Get</a></td>
+                <td><a href="subtitles/YP-SU-1R-04x10_11-v2.srt">Get</a></td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5892261&lid=7">Episode 12</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5892262&lid=7">13</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5892261&lid=7">Gem Heist</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5892262&lid=7">The Zoo</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-04x12_13.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/7FCBF7202D548A21C304E443552DBC1EE5C15B13.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:7FCBF7202D548A21C304E443552DBC1EE5C15B13">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-SU-1R-04x12_13.srt">Get</a></td>
             </tr>
         </tbody>
     </table>
