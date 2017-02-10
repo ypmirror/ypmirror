@@ -2,3 +2,4 @@ nogit/
 gitcommit
 .well-known/
 OLD/
+.rsync-excludes
