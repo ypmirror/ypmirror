@@ -630,6 +630,15 @@
                 <td></td>
                 <td><a href="subtitles/YP-SU-1R-04x12_13.srt">Get</a></td>
             </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5892263&lid=7">Episode 14</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5954497&lid=7">15</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5892263&lid=7">That Will Be All</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5954497&lid=7">The New Crystal Gem</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-04x14_15.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/DC9569A057629B0A3D68062990A0A04B969E0249.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:DC9569A057629B0A3D68062990A0A04B969E0249">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-SU-1R-04x14_15.srt">Get</a></td>
+            </tr>
         </tbody>
     </table>
 </center>
