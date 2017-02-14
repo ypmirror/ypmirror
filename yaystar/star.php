@@ -6,7 +6,7 @@
   <p><a href="1it.rss">iTunes RSS</a><br />
     <a href="7tt.rss">Spazz TVRip RSS</a>  </p>
   <p>iTunes RAW Season 2:</p>
-  <table width="752" height="341" align="center">
+  <table width="752" height="363" align="center">
     <tbody>
       <tr>
         <th width="396" height="27">Name </th>
@@ -128,6 +128,14 @@
         <td>YP iTunes 1080P</td>
         <td><a href="subtitles/YP-SV-1R-02x27.srt">Get</a></td>
         </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5860837&amp;lid=7">Episode 28</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942775&amp;lid=7">29</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5860837&amp;lid=7">Raid the Cave</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942775&amp;lid=7">Trickstar</a>)</td>
+        <td><a href="https://mega.nz/#!IUtizTrK!cEVp_dmiLOA-episxss7cEFAC_KWvQm1KTZcfv4B4sc">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x28_29.mkv">1</a></td>
+        <td><a href="torrents/YP-SV-1R-02x28_29.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/CB021E6E5B33072982783DA98816CC6F42CF7B6C.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:CB021E6E5B33072982783DA98816CC6F42CF7B6C">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x28_29.srt">Get</a></td>
+      </tr>
     </tbody>
   </table>
   <p>iTunes RAW Season 1:<br />

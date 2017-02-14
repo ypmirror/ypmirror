@@ -7,7 +7,19 @@
     <atom:link href="http://yp1.yayponies.no/books/rss/ffcomics-cbz.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Jan 2017 09:07:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Feb 2017 13:06:47 +0000</lastBuildDate>
+    <item>
+      <title>Comics Friends Forever #36 | CBZ | YP-CBZ-FFCOMIC36.cbz | YayPonies</title>
+      <link>http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-FFCOMIC36.cbz.torrent</link>
+      <description>Comic Name: Comics Friends Forever; #36</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-FFCOMIC36.cbz.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-FFCOMIC36.cbz.torrent" length="4627" type="application/x-bittorrent"/>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-CBZ-FFCOMIC36.cbz.torrent</torrent:filename>
+      <torrent:contentlength>44115230</torrent:contentlength>
+      <torrent:infohash>39932E9B09B0C6C02453886389B794E5ABF65B6C</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:39932E9B09B0C6C02453886389B794E5ABF65B6C</torrent:magneturi>
+    </item>
     <item>
       <title>Comics Friends Forever #35 | CBZ | YP-CBZ-FFCOMIC35.cbz | YayPonies</title>
       <link>http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-FFCOMIC35.cbz.torrent</link>
