@@ -639,6 +639,15 @@
                 <td></td>
                 <td><a href="subtitles/YP-SU-1R-04x14_15.srt">Get</a></td>
             </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5954498&lid=7">Episode 16</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5954499&lid=7">17</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5954498&lid=7">Storm in the Room</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5954499&lid=7">The New Crystal Gem</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-04x16_17.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/AC2ED8E46F54A841759489F8DD9BEFB575AAB434.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:AC2ED8E46F54A841759489F8DD9BEFB575AAB434">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-SU-1R-04x16_17.srt">Get</a></td>
+            </tr>
         </tbody>
     </table>
 </center>
