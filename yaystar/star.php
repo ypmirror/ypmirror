@@ -6,7 +6,7 @@
   <p><a href="1it.rss">iTunes RSS</a><br />
     <a href="7tt.rss">Spazz TVRip RSS</a>  </p>
   <p>iTunes RAW Season 2:</p>
-  <table width="752" height="363" align="center">
+  <table width="752" height="517" align="center">
     <tbody>
       <tr>
         <th width="396" height="27">Name </th>
@@ -135,6 +135,62 @@
         <td><a href="torrents/YP-SV-1R-02x28_29.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/CB021E6E5B33072982783DA98816CC6F42CF7B6C.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:CB021E6E5B33072982783DA98816CC6F42CF7B6C">6</a></td>
         <td>YP iTunes 1080P</td>
         <td><a href="subtitles/YP-SV-1R-02x28_29.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942776&amp;lid=7">Episode 30</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942777&amp;lid=7">31</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942776&amp;lid=7">Baby</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942777&amp;lid=7">Running with Scissors</a>)</td>
+        <td><a href="https://mega.nz/#!D8IXWbKB!b_9YecQLzY5pCaX4RvcHbbhetmkZ_HVXhGVkGJmc0bs">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x30_31.mkv">1</a></td>
+        <td><a href="torrents/YP-SV-1R-02x30_31.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/BF4387FB3BCBED20F202337AEA9659F02FE8B0E4.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:BF4387FB3BCBED20F202337AEA9659F02FE8B0E4">6</a> </td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x30_31.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942778&amp;lid=7">Episode 32</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942779&amp;lid=7">33</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942778&amp;lid=7">Mathmagic</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942779&amp;lid=7">The Bounce Lounge</a>)</td>
+        <td><a href="https://mega.nz/#!rhoHTKaa!FMg6uU12Zc-OCosg7fOQZm8blX5f_ixE-naD1qoXn2M">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x32_33.mkv">1</a></td>
+        <td><a href="torrents/YP-SV-1R-02x32_33.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/F0BFAC050758AFECAEB255D1B5BA9BDF96B687E5.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:F0BFAC050758AFECAEB255D1B5BA9BDF96B687E5">6</a> </td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x32_33.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942780&amp;lid=7">Episode 34</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942781&amp;lid=7">35</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942780&amp;lid=7">Crystal Clear</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942781&amp;lid=7">The Hard Way</a>)</td>
+        <td><a href="https://mega.nz/#!W5BHEbbI!iz-39leTO-ZyO1Q04GphnQCnDWq_dpE9niDwZfx1OBE">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x34_35.mkv">1</a></td>
+        <td><a href="torrents/YP-SV-1R-02x34_35.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/84C7461D96206CF9E9A6F3AF965F70C9E3A2446C.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:84C7461D96206CF9E9A6F3AF965F70C9E3A2446C">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x34_35.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942782&amp;lid=7">Episode 36</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942783&amp;lid=7">37</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942782&amp;lid=7">Heinous</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942783&amp;lid=7">All Belts are Off</a>)</td>
+        <td><a href="https://mega.nz/#!nlJjBKTT!nutphWyLCHvSqhw5CecVJt6zvX7Suf0aPKu095NIxZY">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x36_37.mkv">1</a></td>
+        <td><a href="torrents/YP-SV-1R-02x36_37.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/CCEEF649471283489D29B12EB0A1D6C29A076394.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:CCEEF649471283489D29B12EB0A1D6C29A076394">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x36_37.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942784&amp;lid=7">Episode 38</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942785&amp;lid=7">39</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942784&amp;lid=7">Collateral Damage</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942785&amp;lid=7">Just Friends</a>)</td>
+        <td><a href="https://mega.nz/#!GwoBVRbA!xp2vXPMLuM6ErlM1gz2G6LSSJXuueKqlk4l0Ux1tn7c">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x38_39.mkv">1</a></td>
+        <td><a href="torrents/YP-SV-1R-02x38_39.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/20E435CF98FF8E9474E9A942B154F7030F50FEF2.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:20E435CF98FF8E9474E9A942B154F7030F50FEF2">6</a> </td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x38_39.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942786&amp;lid=7">Episode 40 (Face the Music)</a></td>
+        <td><a href="https://mega.nz/#!LoB2RbyB!uYEJRQ05wvrr1ZAIP8dQ8odZbRKR4eXwFrWL0JzvpKg">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x40.mkv">1</a></td>
+        <td><a href="torrents/YP-SV-1R-02x40.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/26C30BD7E18D62BB64E175D69C9C756C532EE5D4.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:26C30BD7E18D62BB64E175D69C9C756C532EE5D4">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x40.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942787&amp;lid=7">Episode 41 (Starcrushed)</a></td>
+        <td><a href="https://mega.nz/#!KhYRjYzQ!js_35OW5lhgCDZQpMKV1SxRsjsHCb0UR0dNb2QUwteg">1</a> 2 3</td>
+        <td><a href="https://yp.coco-pommel.org/ypstar/YP-SV-1R-02x41.mkv">1</a></td>
+        <td><a href="torrents/YP-SV-1R-02x41.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/D32A9709102326CF1E89DF89F89243A7935000E0.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:D32A9709102326CF1E89DF89F89243A7935000E0">6</a></td>
+        <td>YP iTunes 1080P</td>
+        <td><a href="subtitles/YP-SV-1R-02x41.srt">Get</a></td>
       </tr>
     </tbody>
   </table>
