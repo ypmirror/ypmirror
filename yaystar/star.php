@@ -2,7 +2,7 @@
 <p>
 </p>
 <center>
-  <p>Welcome to the download page for Star vs The Forces of Evil. Direct links are hosted by <a href="http://coco-pommel.org/">Coco Pommel</a>, our sincerest thanks to you awesome people! If you have are facing difficulties in using the direct download with the direct link, right click on the link and click on &quot;Save link as...&quot; in the list, </p>
+  <p>Welcome to the download page for Star vs The Forces of Evil</p>
   <p><a href="1it.rss">iTunes RSS</a><br />
     <a href="7tt.rss">Spazz TVRip RSS</a>  </p>
   <p>iTunes RAW Season 2:</p>
