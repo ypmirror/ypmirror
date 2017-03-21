@@ -69,6 +69,13 @@
                             <td><a href="/fan/torrents/trotmania/TrotMania_Euphorius-Courses_Only.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/3E361F747396A382C91320D2E35A8BF592B23E00.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:3E361F747396A382C91320D2E35A8BF592B23E00">6</a> </td>
                             <td>Courses Only</td>
                         </tr>
+                        <tr>
+                          <td height="20">TrotMania - Euphorius - Update 1</td>
+                          <td><a href="https://mega.nz/#!cEMhhZRT!w7bDjvl2FfPa3pJH5CgojVzNcLkZP9pdFgckVlBZKfE">1</a> 2 3</td>
+                          <td><a href="https://yp.coco-pommel.org/ypfan/trotmania/TrotMania_Euphorius-Payload_2_Package.zip">1</a></td>
+                          <td><a href="/fan/torrents/trotmania/TrotMania_Euphorius-Payload_2_Package.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/4D058614AAE175471D28A788F4F338498EB04C83.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:4D058614AAE175471D28A788F4F338498EB04C83">6</a></td>
+                          <td>Trotmania Update</td>
+                        </tr>
 
                     </tbody>
                 </table>
