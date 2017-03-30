@@ -7,7 +7,31 @@
     <atom:link href="http://yp1.yayponies.no/books/rss/comics-pdf.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Feb 2017 13:05:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Mar 2017 00:09:26 +0000</lastBuildDate>
+    <item>
+      <title>Comics Main Series #52 | PDF | YP-PDF-COMIC52.pdf | YayPonies</title>
+      <link>http://yp1.yayponies.no/books/torrents/PDF/YP-PDF-COMIC52.pdf.torrent</link>
+      <description>Comic Name: Comics Main Series; #52</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/books/torrents/PDF/YP-PDF-COMIC52.pdf.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/books/torrents/PDF/YP-PDF-COMIC52.pdf.torrent" length="10146" type="application/x-bittorrent"/>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-PDF-COMIC52.pdf.torrent</torrent:filename>
+      <torrent:contentlength>116427920</torrent:contentlength>
+      <torrent:infohash>97876604431C296C86919FE55FA2D932DC5A8B18</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:97876604431C296C86919FE55FA2D932DC5A8B18</torrent:magneturi>
+    </item>
+    <item>
+      <title>Comics Main Series #51 | PDF | YP-PDF-COMIC51.pdf | YayPonies</title>
+      <link>http://yp1.yayponies.no/books/torrents/PDF/YP-PDF-COMIC51.pdf.torrent</link>
+      <description>Comic Name: Comics Main Series; #51</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/books/torrents/PDF/YP-PDF-COMIC51.pdf.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/books/torrents/PDF/YP-PDF-COMIC51.pdf.torrent" length="10326" type="application/x-bittorrent"/>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-PDF-COMIC51.pdf.torrent</torrent:filename>
+      <torrent:contentlength>118770214</torrent:contentlength>
+      <torrent:infohash>D745C1BD04B95C797AEF6A546C045812B77532E8</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:D745C1BD04B95C797AEF6A546C045812B77532E8</torrent:magneturi>
+    </item>
     <item>
       <title>Comics Main Series #50 | PDF | YP-PDF-COMIC50.pdf | YayPonies</title>
       <link>http://yp1.yayponies.no/books/torrents/PDF/YP-PDF-COMIC50.pdf.torrent</link>

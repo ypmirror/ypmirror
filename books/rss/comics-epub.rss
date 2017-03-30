@@ -7,7 +7,31 @@
     <atom:link href="http://yp1.yayponies.no/books/rss/comics-epub.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Feb 2017 13:05:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Mar 2017 00:09:23 +0000</lastBuildDate>
+    <item>
+      <title>Comics Main Series #52 | EPUB | YP-EPUB-COMIC52.epub | YayPonies</title>
+      <link>http://yp1.yayponies.no/books/torrents/EPUB/YP-EPUB-COMIC52.epub.torrent</link>
+      <description>Comic Name: Comics Main Series; #52</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/books/torrents/EPUB/YP-EPUB-COMIC52.epub.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/books/torrents/EPUB/YP-EPUB-COMIC52.epub.torrent" length="4068" type="application/x-bittorrent"/>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-EPUB-COMIC52.epub.torrent</torrent:filename>
+      <torrent:contentlength>36845636</torrent:contentlength>
+      <torrent:infohash>2DB1AB13FC8BB2764F9898433ECF934EB33E7048</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:2DB1AB13FC8BB2764F9898433ECF934EB33E7048</torrent:magneturi>
+    </item>
+    <item>
+      <title>Comics Main Series #51 | EPUB | YP-EPUB-COMIC51.epub | YayPonies</title>
+      <link>http://yp1.yayponies.no/books/torrents/EPUB/YP-EPUB-COMIC51.epub.torrent</link>
+      <description>Comic Name: Comics Main Series; #51</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/books/torrents/EPUB/YP-EPUB-COMIC51.epub.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/books/torrents/EPUB/YP-EPUB-COMIC51.epub.torrent" length="4128" type="application/x-bittorrent"/>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-EPUB-COMIC51.epub.torrent</torrent:filename>
+      <torrent:contentlength>37519983</torrent:contentlength>
+      <torrent:infohash>9C797D3D3AD98F5C7DA681C276316FA0C1B74252</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:9C797D3D3AD98F5C7DA681C276316FA0C1B74252</torrent:magneturi>
+    </item>
     <item>
       <title>Comics Main Series #50 | EPUB | YP-EPUB-COMIC50.epub | YayPonies</title>
       <link>http://yp1.yayponies.no/books/torrents/EPUB/YP-EPUB-COMIC50.epub.torrent</link>

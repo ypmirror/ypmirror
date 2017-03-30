@@ -7,7 +7,31 @@
     <atom:link href="http://yp1.yayponies.no/books/rss/comics-cbz.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Feb 2017 13:06:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Mar 2017 00:09:29 +0000</lastBuildDate>
+    <item>
+      <title>Comics Main Series #52 | CBZ | YP-CBZ-COMIC52.cbz | YayPonies</title>
+      <link>http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-COMIC52.cbz.torrent</link>
+      <description>Comic Name: Comics Main Series; #52</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-COMIC52.cbz.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-COMIC52.cbz.torrent" length="4045" type="application/x-bittorrent"/>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-CBZ-COMIC52.cbz.torrent</torrent:filename>
+      <torrent:contentlength>36594222</torrent:contentlength>
+      <torrent:infohash>A9BA4D7AC2EDD5CC6FB763B965C2F374EC534789</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:A9BA4D7AC2EDD5CC6FB763B965C2F374EC534789</torrent:magneturi>
+    </item>
+    <item>
+      <title>Comics Main Series #51 | CBZ | YP-CBZ-COMIC51.cbz | YayPonies</title>
+      <link>http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-COMIC51.cbz.torrent</link>
+      <description>Comic Name: Comics Main Series; #51</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-COMIC51.cbz.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-COMIC51.cbz.torrent" length="4085" type="application/x-bittorrent"/>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-CBZ-COMIC51.cbz.torrent</torrent:filename>
+      <torrent:contentlength>37148662</torrent:contentlength>
+      <torrent:infohash>FA6D903C9F50B5346805CDCF3EA9291DC237D2ED</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:FA6D903C9F50B5346805CDCF3EA9291DC237D2ED</torrent:magneturi>
+    </item>
     <item>
       <title>Comics Main Series #50 | CBZ | YP-CBZ-COMIC50.cbz | YayPonies</title>
       <link>http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-COMIC50.cbz.torrent</link>
