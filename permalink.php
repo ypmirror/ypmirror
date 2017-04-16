@@ -43,12 +43,15 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = videos/tables/1z4" -->Color Corrected by ZR Season 4 (1080p)
 <!--#elif expr="$link = videos/tables/1z5" -->Color Corrected by ZR Season 5 (1080p)
 <!--#elif expr="$link = videos/tables/1z6" -->Color Corrected by ZR Season 6 (1080p)
+<!--#elif expr="$link = videos/tables/1z7" -->Color Corrected by ZR Season 7 (1080p)
 <!--#elif expr="$link = videos/tables/7z1" -->Color Corrected by ZR Season 1 (720p)
 <!--#elif expr="$link = videos/tables/7z2" -->Color Corrected by ZR Season 2 (720p)
 <!--#elif expr="$link = videos/tables/7z3" -->Color Corrected by ZR Season 3 (720p)
 <!--#elif expr="$link = videos/tables/7z4" -->Color Corrected by ZR Season 4 (720p)
 <!--#elif expr="$link = videos/tables/7z5" -->Color Corrected by ZR Season 5 (720p)
 <!--#elif expr="$link = videos/tables/7z6" -->Color Corrected by ZR Season 6 (720p)
+<!--#elif expr="$link = videos/tables/7z7" -->Color Corrected by ZR Season 7 (720p)
+
 
 <!--#elif expr="$link = videos/tables/1i1" -->iTunes US Season 1 (1080p)
 <!--#elif expr="$link = videos/tables/1i2" -->iTunes US Season 2 (1080p)
@@ -56,12 +59,15 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = videos/tables/1i4" -->iTunes US Season 4 (1080p)
 <!--#elif expr="$link = videos/tables/1i5" -->iTunes US Season 5 (1080p)
 <!--#elif expr="$link = videos/tables/1i6" -->iTunes US Season 6 (1080p)
+<!--#elif expr="$link = videos/tables/1i7" -->iTunes US Season 7 (1080p)
 <!--#elif expr="$link = videos/tables/7i1" -->iTunes US Season 1 (720p)
 <!--#elif expr="$link = videos/tables/7i2" -->iTunes US Season 2 (720p)
 <!--#elif expr="$link = videos/tables/7i3" -->iTunes US Season 3 (720p)
 <!--#elif expr="$link = videos/tables/7i4" -->iTunes US Season 4 (720p)
 <!--#elif expr="$link = videos/tables/7i5" -->iTunes US Season 5 (720p)
 <!--#elif expr="$link = videos/tables/7i6" -->iTunes US Season 6 (720p)
+<!--#elif expr="$link = videos/tables/7i7" -->iTunes US Season 7 (720p)
+
 
 <!--#elif expr="$link = videos/tables/1sc1" -->Scootaloo Corrected (x265/HEVC) Season 1 (1080p)
 <!--#elif expr="$link = videos/tables/1sc2" -->Scootaloo Corrected (x265/HEVC) Season 1 (1080p)
@@ -69,6 +75,8 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = videos/tables/1sc4" -->Scootaloo Corrected (x265/HEVC) Season 4 (1080p)
 <!--#elif expr="$link = videos/tables/1sc5" -->Scootaloo Corrected (x265/HEVC) Season 5 (1080p)
 <!--#elif expr="$link = videos/tables/1sc6" -->Scootaloo Corrected (x265/HEVC) Season 6 (1080p)
+<!--#elif expr="$link = videos/tables/1sc7" -->Scootaloo Corrected (x265/HEVC) Season 7 (1080p)
+
 
 <!--#elif expr="$link = videos/tables/1s1" -->Scootaloo Remastered (x264/H264) Season 1 (1080p)
 <!--#elif expr="$link = videos/tables/1s2" -->Scootaloo Remastered (x264/H264) Season 2 (1080p)
@@ -76,6 +84,8 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = videos/tables/1s4" -->Scootaloo Remastered (x264/H264) Season 4 (1080p)
 <!--#elif expr="$link = videos/tables/1s5" -->Scootaloo Remastered (x264/H264) Season 5 (1080p)
 <!--#elif expr="$link = videos/tables/1s6" -->Scootaloo Remastered (x264/H264) Season 6 (1080p)
+<!--#elif expr="$link = videos/tables/1s7" -->Scootaloo Remastered (x264/H264) Season 7 (1080p)
+
 
 <!--#elif expr="$link = videos/tables/1t1" -->TVRip by MENTOS Season 1 (1080p)
 <!--#elif expr="$link = videos/tables/1t2" -->TVRip by Spazz Season 2 (1080p)
@@ -90,12 +100,16 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = videos/tables/7l4" -->Low quality encode, Season 4 (720p)
 <!--#elif expr="$link = videos/tables/7l5" -->Low quality encode, Season 5 (720p)
 <!--#elif expr="$link = videos/tables/7l6" -->Low quality encode, Season 6 (720p)
+<!--#elif expr="$link = videos/tables/7l7" -->Low quality encode, Season 7 (720p)
+
 <!--#elif expr="$link = videos/tables/7lz1" -->Low quality encode, color corrected, Season 1 (720p)
 <!--#elif expr="$link = videos/tables/7lz2" -->Low quality encode, color corrected, Season 2 (720p)
 <!--#elif expr="$link = videos/tables/7lz3" -->Low quality encode, color corrected, Season 3 (720p)
 <!--#elif expr="$link = videos/tables/7lz4" -->Low quality encode, color corrected, Season 4 (720p)
 <!--#elif expr="$link = videos/tables/7lz5" -->Low quality encode, color corrected, Season 5 (720p)
 <!--#elif expr="$link = videos/tables/7lz6" -->Low quality encode, color corrected, Season 6 (720p)
+<!--#elif expr="$link = videos/tables/7lz7" -->Low quality encode, color corrected, Season 7 (720p)
+
 
 <!--#elif expr="$link = videos/tables/1stv1" -->TVRip by Scootaloo Season 1 (1080p)
 <!--#elif expr="$link = videos/tables/1stv2" -->TVRip by Scootaloo Season 2 (1080p)
