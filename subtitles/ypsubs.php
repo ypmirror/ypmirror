@@ -29,7 +29,7 @@
                         <tr>
                             <td> I want to download: </td>
                             <td>
-                                <select size="8" name="Download">
+                                <select size="9" name="Download">
 									<option value="ypsub1"> MLP FiM Season 1</option>
                                     <option value="ypsub2"> MLP FiM Season 2</option>
                                     <option value="ypsub3"> MLP FiM Season 3</option>
@@ -37,7 +37,9 @@
                                     <option value="ypsub4"> MLP FiM Season 4</option>
                                     <option value="ypsubeqg2"> Equestria Girls, Rainbow Rocks</option>
                                     <option value="ypsub5"> MLP FiM Season 5</option>
-                                    <option value="ypsub6" selected> MLP FiM Season 6</option>
+                                    <option value="ypsub6"> MLP FiM Season 6</option>
+                                    <option value="ypsub7" selected> MLP FiM Season 7</option>
+
                                 </select>
                             </td>
                             <td>
