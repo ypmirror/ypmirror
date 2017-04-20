@@ -1,0 +1,1448 @@
+﻿1
+00:00:21,895 --> 00:00:23,975
+Let's do this.
+
+2
+00:00:32,015 --> 00:00:36,285
+Happy! Sad.
+Happy! Sad.
+
+3
+00:00:36,285 --> 00:00:38,835
+Open, shut.
+Open, shut.
+
+4
+00:01:08,745 --> 00:01:10,085
+Nailed it!
+
+5
+00:01:14,025 --> 00:01:19,025
+
+6
+00:01:19,125 --> 00:01:24,125
+
+7
+00:01:42,545 --> 00:01:47,025
+
+8
+00:01:56,105 --> 00:01:57,395
+Morning, Daisy Jo!
+
+9
+00:01:57,395 --> 00:01:59,385
+You here to pick up some cookies
+to go with your milk?
+
+10
+00:01:59,385 --> 00:02:01,475
+Oh ya, Pinkie, don'tcha know?
+
+11
+00:02:01,475 --> 00:02:04,835
+Well, Mrs. Cake just baked a fresh batch
+of your favorite oatmeal.
+
+12
+00:02:05,855 --> 00:02:07,725
+Sounds delightful!
+
+13
+00:02:09,725 --> 00:02:12,525
+Rose, your calla lilies look even better
+than last year!
+
+14
+00:02:12,525 --> 00:02:15,035
+I bet you'll take first prize
+at the flower show again.
+
+15
+00:02:15,035 --> 00:02:17,105
+Thanks, Pinkie.
+Would you like one?
+
+16
+00:02:17,105 --> 00:02:18,525
+Absolutely!
+
+17
+00:02:24,785 --> 00:02:26,755
+Looking fit as a fiddle, Mr. Waddle.
+
+18
+00:02:26,755 --> 00:02:28,925
+And you're wearing my favorite tie!
+
+19
+00:02:28,925 --> 00:02:32,535
+Aw shucks Miss Pinkie,
+you flatterer you.
+
+20
+00:02:33,885 --> 00:02:36,155
+Well, happy birthday, Cheerilee.
+
+21
+00:02:36,155 --> 00:02:37,965
+Thank you, Pinkie.
+
+22
+00:02:37,965 --> 00:02:40,505
+Happy day-after-your-birthday, Zecora!
+
+23
+00:02:40,505 --> 00:02:43,115
+What a lovely hi, Miss Pinkie Pie!
+
+24
+00:02:43,115 --> 00:02:45,825
+And Miss Matilda, happy birthday to you...
+
+25
+00:02:47,105 --> 00:02:49,225
+...in one hundred and thirty two days!
+
+26
+00:02:49,505 --> 00:02:54,445
+Pinkie Pie, how do you remember
+everything about everypony?
+
+27
+00:02:54,605 --> 00:02:59,855
+'Cause everypony's my friend
+and I love to see my friends smile!
+
+28
+00:03:05,425 --> 00:03:08,585
+<i>My name is Pinkie Pie
+(Hello!)</i>
+
+29
+00:03:08,585 --> 00:03:11,815
+<i>And I am here to say
+(How ya doin?)</i>
+
+30
+00:03:11,815 --> 00:03:14,225
+<i>I'm gonna make you smile</i>
+
+31
+00:03:14,225 --> 00:03:17,845
+<i>And I will brighten up your day!</i>
+
+32
+00:03:17,845 --> 00:03:20,975
+<i>It doesn't matter now
+(What's up?)</i>
+
+33
+00:03:20,975 --> 00:03:23,945
+<i>If you are sad or blue
+(Howdy!)</i>
+
+34
+00:03:23,945 --> 00:03:26,475
+<i>'Cuz cheering up my friends</i>
+
+35
+00:03:26,475 --> 00:03:30,185
+<i>Is just what Pinkie's here to do!</i>
+
+36
+00:03:30,185 --> 00:03:36,155
+<i>'Cuz I love to make you smile, smile, smile!
+(Yes I do!)</i>
+
+37
+00:03:36,155 --> 00:03:42,565
+<i>It fills my heart with sunshine all the while!
+(Yes it does!)</i>
+
+38
+00:03:42,565 --> 00:03:47,115
+<i>'Cuz all I really need's a
+smile, smile, smile!</i>
+
+39
+00:03:47,115 --> 00:03:49,925
+<i>From these happy friends of mine!</i>
+
+40
+00:03:51,805 --> 00:03:54,865
+<i>I like to see you grin!
+(Awesome!)</i>
+
+41
+00:03:54,875 --> 00:03:57,745
+<i>I love to see you beam!
+(Rock on!)</i>
+
+42
+00:03:57,745 --> 00:04:01,015
+<i>The corners of your mouth turned up</i>
+
+43
+00:04:01,015 --> 00:04:04,085
+<i>Is always Pinkie's dream!
+(Hoof bump!)</i>
+
+44
+00:04:04,085 --> 00:04:06,815
+<i>But if you're kind of worried</i>
+
+45
+00:04:06,815 --> 00:04:10,035
+<i>And your face is made of frown</i>
+
+46
+00:04:10,045 --> 00:04:13,295
+<i>I'll work your heart and do my best</i>
+
+47
+00:04:13,295 --> 00:04:17,655
+<i>To turn that sad frown upside down!</i>
+
+48
+00:04:17,655 --> 00:04:23,665
+<i>'Cuz I love to make you grin, grin, grin!
+(Yes I do!)</i>
+
+49
+00:04:23,665 --> 00:04:29,135
+<i>Busted out from ear to ear, let it begin!</i>
+
+50
+00:04:30,255 --> 00:04:34,875
+<i>Just give me a joyful
+grin, grin, grin!</i>
+
+51
+00:04:34,875 --> 00:04:37,125
+<i>And you fill me with good cheer!</i>
+
+52
+00:04:37,125 --> 00:04:41,595
+<i>It's true, some days are dark and lonely</i>
+
+53
+00:04:41,595 --> 00:04:44,105
+<i>And maybe you feel sad</i>
+
+54
+00:04:44,105 --> 00:04:48,615
+<i>But Pinkie will be there to show you
+that it isn't that bad!</i>
+
+55
+00:04:48,615 --> 00:04:51,125
+<i>There is one thing that makes me happy</i>
+
+56
+00:04:51,135 --> 00:04:54,775
+<i>And makes my whole life worthwhile</i>
+
+57
+00:04:54,775 --> 00:05:00,645
+<i>And that's when I talk to my friends
+and get them to smile!</i>
+
+58
+00:05:00,945 --> 00:05:03,985
+<i>I really am so happy!</i>
+
+59
+00:05:03,985 --> 00:05:06,715
+<i>Your smile fills me with glee!</i>
+
+60
+00:05:06,715 --> 00:05:10,175
+<i>I give a smile, I get a smile</i>
+
+61
+00:05:10,175 --> 00:05:12,715
+<i>And that's so special to me!</i>
+
+62
+00:05:13,115 --> 00:05:18,955
+<i>'Cuz I love to see you beam, beam, beam!
+(Yes I do!)</i>
+
+63
+00:05:18,965 --> 00:05:25,385
+<i>Tell me what more can I say to make you see
+(That I do!)</i>
+
+64
+00:05:25,385 --> 00:05:30,195
+<i>It makes me happy when you
+beam, beam, beam!</i>
+
+65
+00:05:30,195 --> 00:05:33,515
+<i>Yes, it always makes my day!</i>
+
+66
+00:05:33,515 --> 00:05:36,415
+<i>Come on everypony, smile, smile smile!</i>
+
+67
+00:05:36,415 --> 00:05:39,725
+<i>Fill my heart up with sunshine, sunshine!</i>
+
+68
+00:05:39,725 --> 00:05:42,625
+<i>All I really need's a
+smile, smile, smile!</i>
+
+69
+00:05:42,625 --> 00:05:45,725
+<i>From these happy friends of mine!</i>
+
+70
+00:05:45,725 --> 00:05:48,685
+<i>Come on everypony, smile, smile, smile!</i>
+
+71
+00:05:48,685 --> 00:05:51,805
+<i>Fill my heart up with sunshine, sunshine!</i>
+
+72
+00:05:51,805 --> 00:05:54,685
+<i>All I really need's a
+smile, smile, smile!</i>
+
+73
+00:05:54,685 --> 00:05:57,765
+<i>From these happy friends of mine!</i>
+
+74
+00:05:57,765 --> 00:06:00,835
+<i>That's the perfect gift for me!
+(Come on everypony, smile, smile, smile!)</i>
+
+75
+00:06:00,835 --> 00:06:03,995
+<i>It's a smile as wide as a mile!
+(Fill my heart up with sunshine, sunshine!)</i>
+
+76
+00:06:04,005 --> 00:06:06,775
+<i>To make me happy as can be!
+(All I really need's a smile, smile, smile!)</i>
+
+77
+00:06:06,775 --> 00:06:08,315
+<i>To make me happy as can be!
+(From these happy friends of...)</i>
+
+78
+00:06:08,315 --> 00:06:16,135
+<i>Smile! Smile! Smile! Smile! Smiiiiiile!</i>
+
+79
+00:06:16,135 --> 00:06:19,125
+<i>Come on and smile!
+(Smile!)</i>
+
+80
+00:06:19,125 --> 00:06:21,175
+<i>Come on and smile!</i>
+
+81
+00:06:24,315 --> 00:06:26,465
+I've never seen you before.
+
+82
+00:06:26,465 --> 00:06:28,735
+Kid, you're smarter than you look.
+
+83
+00:06:28,745 --> 00:06:31,485
+Thanks! I'm Pinkie Pie.
+What's your name?
+
+84
+00:06:36,115 --> 00:06:37,885
+"Property of C.D.D."
+
+85
+00:06:37,885 --> 00:06:40,065
+I'm guessing that last "D"
+is for Donkey.
+
+86
+00:06:40,115 --> 00:06:41,575
+Quick as a whip, kid.
+
+87
+00:06:41,605 --> 00:06:43,535
+Now, how about that C...
+
+88
+00:06:44,755 --> 00:06:50,425
+Calvin? Calhoun? Caleb? Carl? Carmine?
+Carlo? Charlie? Chester? Chico?
+
+89
+00:06:50,425 --> 00:06:55,505
+Claudio? Cleetus? Clifford? Coraline?
+Cornelius? Cortez? Crank? Christopher?
+
+90
+00:06:55,505 --> 00:06:57,735
+Cranky! It's Cranky, alright?!
+
+91
+00:06:58,215 --> 00:06:59,315
+And your middle name?
+
+92
+00:07:00,315 --> 00:07:00,965
+Doodle.
+
+93
+00:07:00,965 --> 00:07:02,565
+- I'm sorry?
+- Doodle.
+
+94
+00:07:02,565 --> 00:07:04,005
+One more time!
+
+95
+00:07:06,125 --> 00:07:07,215
+Doodle.
+
+96
+00:07:08,465 --> 00:07:11,585
+So you're a Cranky Doodle Donkey?
+
+97
+00:07:11,785 --> 00:07:13,885
+<i>You're a Cranky Doodle Donkey guy</i>
+
+98
+00:07:13,885 --> 00:07:15,825
+<i>A Cranky Doodle Donkey</i>
+
+99
+00:07:15,825 --> 00:07:17,625
+<i>I've never met you,
+but you're my new friend</i>
+
+100
+00:07:17,625 --> 00:07:19,785
+<i>And I'm your best friend Pinkie Pie!</i>
+
+101
+00:07:20,265 --> 00:07:23,555
+C'mon now, Doodle. Give a smile!
+
+102
+00:07:25,605 --> 00:07:28,515
+Nopony calls me Doodle!
+
+103
+00:07:33,535 --> 00:07:35,695
+What just happened?
+
+104
+00:07:37,055 --> 00:07:39,005
+<i>Meet somepony new, check.</i>
+
+105
+00:07:39,005 --> 00:07:40,695
+<i>Introduce myself, check.</i>
+
+106
+00:07:40,695 --> 00:07:43,165
+<i>Sing random song outta nowhere, check.</i>
+
+107
+00:07:43,175 --> 00:07:46,335
+<i>Become instant best friends... uncheck.</i>
+
+108
+00:07:47,285 --> 00:07:51,005
+I don't get it, how can somepony
+not become instant best friends with me?
+
+109
+00:07:51,005 --> 00:07:54,865
+Was it something I said?
+Was it something I sang?
+
+110
+00:07:56,805 --> 00:07:59,015
+This is no time for the blame game,
+Pinkie!
+
+111
+00:07:59,015 --> 00:08:02,805
+There's somepony new in town,
+and you need to win him over!
+
+112
+00:08:02,915 --> 00:08:06,905
+"Try everything you can to make
+Cranky smile and be your friend".
+
+113
+00:08:07,805 --> 00:08:08,785
+Check!
+
+114
+00:08:17,195 --> 00:08:18,235
+Alright, Pinkie.
+
+115
+00:08:18,235 --> 00:08:21,725
+If you're gonna win Cranky's friendship,
+you're gonna have to bring your A game!
+
+116
+00:08:22,035 --> 00:08:23,555
+Let's do this.
+
+117
+00:08:26,945 --> 00:08:29,085
+Howdy doody, Cranky Doodle!
+
+118
+00:08:33,155 --> 00:08:37,195
+So... are you moving to Ponyville,
+Cranky?
+
+119
+00:08:37,195 --> 00:08:39,155
+What gave you the hint there, kid?
+
+120
+00:08:39,155 --> 00:08:40,775
+The cart full of stuff, maybe?
+
+121
+00:08:40,815 --> 00:08:42,545
+Well, I'd be happy to show you around.
+
+122
+00:08:42,555 --> 00:08:44,745
+It's the least a new friend can do.
+
+123
+00:08:45,925 --> 00:08:50,275
+Listen, kid, I traveled around Equestria
+my entire life.
+
+124
+00:08:50,285 --> 00:08:53,765
+I've made many friends.
+I don't need any more.
+
+125
+00:08:53,765 --> 00:08:56,875
+Gosh! I could never have
+too many friends!
+
+126
+00:08:56,875 --> 00:08:59,655
+Well, why don't you go
+and make some more?
+
+127
+00:08:59,855 --> 00:09:04,255
+But I don't need to go,
+when I can stay and make friends...
+
+128
+00:09:04,255 --> 00:09:05,555
+...with you.
+
+129
+00:09:07,985 --> 00:09:09,135
+Look, kid...
+
+130
+00:09:09,135 --> 00:09:14,155
+Oh, Cranky, you can call me Pinkie.
+All of my friends do.
+
+131
+00:09:14,555 --> 00:09:16,615
+Look, kid,
+
+132
+00:09:16,715 --> 00:09:20,875
+I came to Ponyville for some peace
+and quiet and privacy,
+
+133
+00:09:20,875 --> 00:09:22,785
+to be alone with my memories.
+
+134
+00:09:22,795 --> 00:09:26,665
+All I want is to get to my new home
+and unpack my stuff.
+
+135
+00:09:27,495 --> 00:09:29,765
+What does this bauble do?
+
+136
+00:09:30,455 --> 00:09:31,675
+Don't touch that!
+
+137
+00:09:32,985 --> 00:09:33,955
+What's this?
+
+138
+00:09:35,835 --> 00:09:37,375
+Please, don't!
+
+139
+00:09:37,875 --> 00:09:38,915
+Look at these!
+
+140
+00:09:42,765 --> 00:09:46,455
+Pinkie! Keep your hooves off my wagon!
+
+141
+00:09:47,015 --> 00:09:48,585
+Okay, Cranky.
+
+142
+00:09:55,025 --> 00:09:57,345
+I promised not to touch your wagon
+so I brought one of my own!
+
+143
+00:09:57,775 --> 00:09:59,595
+I use it to welcome folks!
+
+144
+00:09:59,595 --> 00:09:59,735
+Who'da guessed...
+I use it to welcome folks!
+
+145
+00:09:59,735 --> 00:10:01,035
+Who'da guessed...
+
+146
+00:10:01,035 --> 00:10:03,635
+Maybe we can be wagon buddies?
+
+147
+00:10:05,425 --> 00:10:08,235
+Well, you've gotta at least let me
+give you the special welcome
+
+148
+00:10:08,235 --> 00:10:09,875
+that comes with it...
+
+149
+00:10:14,085 --> 00:10:16,615
+Let's get this over with.
+
+150
+00:10:16,615 --> 00:10:18,015
+That's the spirit!
+
+151
+00:10:23,365 --> 00:10:25,015
+<i>Welcome welcome welcome</i>
+
+152
+00:10:25,015 --> 00:10:26,845
+<i>A fine welcome to you</i>
+
+153
+00:10:26,845 --> 00:10:30,555
+<i>Welcome welcome welcome
+I say how do you do?</i>
+
+154
+00:10:30,565 --> 00:10:34,065
+<i>Welcome welcome welcome
+I say hip hip hurray</i>
+
+155
+00:10:34,065 --> 00:10:39,855
+<i>Welcome welcome welcome
+to Ponyville today!</i>
+
+156
+00:10:41,025 --> 00:10:42,455
+Wait for it!
+
+157
+00:10:49,935 --> 00:10:51,355
+Oh, silly me!
+
+158
+00:10:51,355 --> 00:10:54,915
+I must've put the confetti in the oven
+and the cake in the confetti cannons!
+
+159
+00:10:54,915 --> 00:10:56,015
+Again!
+
+160
+00:10:59,835 --> 00:11:02,045
+Still delicious!
+Try some, Cranky.
+
+161
+00:11:02,045 --> 00:11:03,835
+It's sure to make you smile.
+
+162
+00:11:05,055 --> 00:11:06,865
+Where is it, where is it?
+
+163
+00:11:06,865 --> 00:11:07,955
+Where is what?
+
+164
+00:11:09,945 --> 00:11:11,495
+Spider! Big hairy spider!
+
+165
+00:11:16,095 --> 00:11:17,565
+Stop, stop, stop!
+
+166
+00:11:20,635 --> 00:11:21,995
+Was that your wig?
+
+167
+00:11:22,555 --> 00:11:24,175
+I can fix this, I can fix this!
+
+168
+00:11:25,175 --> 00:11:28,675
+Hey, everypony!
+Does anypony have a toupee?
+
+169
+00:11:32,095 --> 00:11:36,195
+This donkey is really, really, bald!
+
+170
+00:11:40,415 --> 00:11:43,875
+What's so funny?
+This is serious business, everypony!
+
+171
+00:11:43,875 --> 00:11:47,475
+Cranky needs a new wig
+to cover his hairless head!
+
+172
+00:11:47,475 --> 00:11:49,525
+I have had enough!
+
+173
+00:11:54,075 --> 00:11:55,285
+You're losing him, Pinkie.
+
+174
+00:11:55,745 --> 00:11:59,815
+Wait, Cranky, please!
+Let me make it up to you...
+
+175
+00:11:59,815 --> 00:12:00,615
+No!
+
+176
+00:12:00,615 --> 00:12:03,395
+Please! Please please please...
+
+177
+00:12:03,895 --> 00:12:06,105
+Ladies, this is a spa emergency.
+
+178
+00:12:06,105 --> 00:12:07,575
+Cranky needs help, STAT.
+
+179
+00:12:21,975 --> 00:12:24,145
+Hi, Cranky, I have a gift for you!
+
+180
+00:12:24,145 --> 00:12:26,225
+The spa treatment was gift enough.
+
+181
+00:12:26,225 --> 00:12:28,515
+It's not going to
+explode or anything, promise.
+
+182
+00:12:28,515 --> 00:12:29,515
+Just open it!
+
+183
+00:12:32,355 --> 00:12:33,795
+It's a new toupee!
+
+184
+00:12:33,795 --> 00:12:35,455
+I had my friend Rarity make it.
+
+185
+00:12:35,455 --> 00:12:37,995
+She calls it the "dreamboat special".
+
+186
+00:12:42,245 --> 00:12:45,425
+This is wonderful.
+Thanks, kid.
+
+187
+00:12:49,695 --> 00:12:53,065
+He's starting to warm up,
+but still no smile.
+
+188
+00:12:57,005 --> 00:12:59,755
+Hey! Whatcha doing there,
+ol' buddy ol' pal?
+
+189
+00:12:59,765 --> 00:13:00,965
+What's it look like?
+
+190
+00:13:00,965 --> 00:13:02,735
+Looks like a yard sale.
+
+191
+00:13:03,135 --> 00:13:05,005
+I'll give you two bits for this!
+
+192
+00:13:07,325 --> 00:13:09,995
+I'm not selling, kid.
+I'm unpacking.
+
+193
+00:13:10,795 --> 00:13:12,495
+Why didn't you say so?
+
+194
+00:13:12,495 --> 00:13:14,485
+I thought I had.
+
+195
+00:13:15,765 --> 00:13:18,635
+This is so pretty!
+Where'd you get it?
+
+196
+00:13:18,635 --> 00:13:21,645
+Manehattan, now put it down, gently.
+
+197
+00:13:21,645 --> 00:13:23,895
+Really? What were you doin' there?
+
+198
+00:13:23,895 --> 00:13:25,855
+Trying to find a friend...
+
+199
+00:13:26,845 --> 00:13:29,375
+I'm always trying to find friends,
+and today I found you.
+
+200
+00:13:29,375 --> 00:13:30,675
+See how good I am at it?
+
+201
+00:13:30,775 --> 00:13:32,805
+This was a special friend.
+
+202
+00:13:32,805 --> 00:13:36,695
+- Like me?
+- No, you're extra special, kid.
+
+203
+00:13:37,905 --> 00:13:39,455
+Yes, I'm in!
+
+204
+00:13:41,945 --> 00:13:44,675
+Where in Equestria did you get this,
+Cranky?
+
+205
+00:13:44,685 --> 00:13:45,785
+Fillydelphia.
+
+206
+00:13:45,925 --> 00:13:47,875
+It's awfully pretty.
+
+207
+00:13:48,645 --> 00:13:50,355
+Yes, she was.
+
+208
+00:13:51,385 --> 00:13:53,245
+I mean, it was. I mean, it is.
+
+209
+00:13:53,245 --> 00:13:55,355
+Yes, it's pretty, now put it down!
+
+210
+00:13:59,415 --> 00:14:01,725
+I wonder where Cranky got this.
+
+211
+00:14:03,515 --> 00:14:05,225
+Will you look at that?
+
+212
+00:14:05,725 --> 00:14:08,055
+Hey, Cranky!
+Can I ask you about...
+
+213
+00:14:10,675 --> 00:14:11,505
+Oh no!
+
+214
+00:14:11,515 --> 00:14:13,855
+What did you sa-yayayayay!
+
+215
+00:14:13,855 --> 00:14:15,595
+What have you done?!
+
+216
+00:14:20,635 --> 00:14:23,105
+There!
+All better?
+
+217
+00:14:23,105 --> 00:14:27,555
+No, not all better, all soggy!
+
+218
+00:14:27,555 --> 00:14:29,045
+I'm sorry, Cranky!
+
+219
+00:14:29,045 --> 00:14:33,115
+Oh, you're sorry, well, then,
+everything is fine!
+
+220
+00:14:34,555 --> 00:14:37,275
+- It is?
+- No! It isn't!
+
+221
+00:14:37,285 --> 00:14:40,605
+Listen to me, kid,
+I will never be your friend!
+
+222
+00:14:41,015 --> 00:14:43,235
+Never, or never-ever?
+
+223
+00:14:43,235 --> 00:14:45,895
+Never, ever, ever, ever, ever!
+
+224
+00:14:48,795 --> 00:14:54,595
+That's four "ever"s.
+That's like... forever!
+
+225
+00:14:56,845 --> 00:14:58,605
+I just can't believe it.
+
+226
+00:14:58,615 --> 00:15:02,615
+Cranky said he would never forever
+be my friend.
+
+227
+00:15:03,495 --> 00:15:05,085
+It was horrible.
+
+228
+00:15:05,085 --> 00:15:09,285
+I know this is hard for you, Pinkie.
+Seeing that you're friends with everypony.
+
+229
+00:15:09,295 --> 00:15:12,635
+But you just have to accept that Cranky
+is gonna be an exception.
+
+230
+00:15:12,935 --> 00:15:15,045
+He just... doesn't want to be bothered.
+
+231
+00:15:15,245 --> 00:15:19,075
+Yeah, he doesn't want to be bothered
+by your over-the-top super-hyper antics.
+
+232
+00:15:19,075 --> 00:15:20,075
+Rainbow!
+
+233
+00:15:20,075 --> 00:15:24,095
+No, no, it's okay, Twilight.
+I get what you're saying.
+
+234
+00:15:24,095 --> 00:15:25,745
+What you're both saying.
+
+235
+00:15:25,745 --> 00:15:29,055
+And I guess... I can leave Cranky alone.
+
+236
+00:15:29,055 --> 00:15:32,535
+Right after he accepts my apology!
+
+237
+00:15:40,805 --> 00:15:41,945
+Cranky!
+
+238
+00:15:41,945 --> 00:15:45,345
+No! No!
+Leave me alone!
+
+239
+00:15:46,205 --> 00:15:47,015
+Wait!
+
+240
+00:15:47,515 --> 00:15:49,805
+I understand that you don't want me
+as a friend!
+
+241
+00:15:49,805 --> 00:15:51,415
+No, I don't!
+
+242
+00:15:51,415 --> 00:15:53,835
+So I just wanted to say "I'm sorry"!
+
+243
+00:15:53,835 --> 00:15:55,485
+Fine! You said it!
+
+244
+00:15:55,485 --> 00:15:57,105
+But do you accept my apology?
+
+245
+00:15:57,105 --> 00:15:57,905
+No!
+
+246
+00:15:58,545 --> 00:16:01,885
+Oh Cranky! Please accept my apology!
+Please!
+
+247
+00:16:01,885 --> 00:16:02,685
+No!
+
+248
+00:16:02,685 --> 00:16:05,125
+But I'm really, really, really...
+
+249
+00:16:06,025 --> 00:16:07,905
+Really, really...
+
+250
+00:16:12,575 --> 00:16:14,735
+Really, really, really...
+
+251
+00:16:17,485 --> 00:16:19,475
+Really, really, really...
+
+252
+00:16:20,695 --> 00:16:22,455
+Really, really, really...
+
+253
+00:16:25,065 --> 00:16:27,265
+Really, really, really,really...
+
+254
+00:16:27,265 --> 00:16:32,455
+Really. Really. Really. Really.
+Really. Really. Really. Really...
+
+255
+00:16:32,455 --> 00:16:34,005
+Sorry!
+
+256
+00:16:45,225 --> 00:16:49,275
+Cranky, please, please accept my apology!
+
+257
+00:16:50,725 --> 00:16:53,645
+I'd do anything to make it up to you!
+
+258
+00:16:53,645 --> 00:16:55,555
+But there's nothing you can do!
+
+259
+00:16:55,555 --> 00:16:56,975
+You ruined my book!
+
+260
+00:16:56,975 --> 00:17:00,125
+You destroyed all I have
+to remember her by!
+
+261
+00:17:00,125 --> 00:17:02,245
+Her?
+Her who?
+
+262
+00:17:02,245 --> 00:17:03,995
+The special friend?
+
+263
+00:17:03,995 --> 00:17:05,785
+Go away, Pinkie!
+
+264
+00:17:16,045 --> 00:17:18,185
+Cranky? It's me again.
+
+265
+00:17:18,185 --> 00:17:22,025
+I understand that you don't wanna
+be my friend or accept my apology...
+
+266
+00:17:22,025 --> 00:17:24,115
+Before I leave you alone forever,
+
+267
+00:17:24,115 --> 00:17:27,945
+I have something to at least try
+to make up for ruining your book.
+
+268
+00:17:27,945 --> 00:17:30,195
+No, I don't want it, kid!
+
+269
+00:17:30,195 --> 00:17:34,035
+Anything you would give me is sure
+to lead to some sort of disaster!
+
+270
+00:17:34,035 --> 00:17:37,575
+Goodness, you really are cranky.
+
+271
+00:17:47,035 --> 00:17:51,345
+It can't be... is it really you?
+
+272
+00:17:51,345 --> 00:17:54,095
+It can, and it is.
+
+273
+00:17:54,095 --> 00:17:57,135
+Matilda! But how?
+
+274
+00:17:57,675 --> 00:17:58,825
+Pinkie.
+
+275
+00:17:59,535 --> 00:18:02,315
+But... I never told you about her!
+
+276
+00:18:02,315 --> 00:18:03,575
+You didn't have to.
+
+277
+00:18:03,585 --> 00:18:07,655
+I put two and two and two together
+and it added up to Matilda.
+
+278
+00:18:07,655 --> 00:18:08,455
+What?
+
+279
+00:18:08,455 --> 00:18:10,635
+Well when you were talking about
+your souvenirs,
+
+280
+00:18:10,635 --> 00:18:12,995
+you said something about trying to find
+a special friend!
+
+281
+00:18:14,215 --> 00:18:16,855
+And y'know, I wasn't just born yesterday.
+
+282
+00:18:16,855 --> 00:18:19,775
+My birthday isn't for
+another seventy five days!
+
+283
+00:18:20,895 --> 00:18:24,755
+And then, in your scrapbook,
+there was a flower, an old ticket,
+
+284
+00:18:24,765 --> 00:18:26,915
+and a menu from the Grand Galloping Gala!
+
+285
+00:18:26,925 --> 00:18:29,555
+And I knew I recognized all these things.
+
+286
+00:18:29,555 --> 00:18:32,205
+But how could you have
+ever seen them before?
+
+287
+00:18:32,205 --> 00:18:35,795
+Because I also have them in my scrapbook.
+
+288
+00:18:35,795 --> 00:18:38,965
+And I'd seen them in Matilda's book!
+
+289
+00:18:41,745 --> 00:18:43,505
+Oh, Matilda.
+
+290
+00:18:43,505 --> 00:18:47,325
+The night we met at the gala
+was the most magical night of my life.
+
+291
+00:18:56,255 --> 00:18:58,525
+<i>I couldn't wait to see you again.</i>
+
+292
+00:18:59,025 --> 00:19:02,825
+<i>But when I came to your room
+the next day, you were gone.</i>
+
+293
+00:19:02,825 --> 00:19:04,415
+<i>Didn't you get my note?</i>
+
+294
+00:19:04,415 --> 00:19:06,905
+<i>No, I never got it.</i>
+
+295
+00:19:08,625 --> 00:19:11,595
+<i>Ever since that day,
+I've gone from town...</i>
+
+296
+00:19:11,605 --> 00:19:14,715
+<i>to town... to town...</i>
+
+297
+00:19:14,715 --> 00:19:17,295
+<i>Searching all over Equestria for you.</i>
+
+298
+00:19:17,295 --> 00:19:19,745
+Until finally I gave up.
+
+299
+00:19:19,745 --> 00:19:22,975
+I came to Ponyville
+to retire from my search.
+
+300
+00:19:22,975 --> 00:19:26,335
+I was living in Ponyville
+the whole time.
+
+301
+00:19:26,335 --> 00:19:30,675
+I always hoped that some day
+you would come and find me.
+
+302
+00:19:30,675 --> 00:19:31,675
+Doodle.
+
+303
+00:19:33,065 --> 00:19:35,695
+Matilda?
+Nopony calls him Doodle...
+
+304
+00:19:35,695 --> 00:19:38,675
+Nopony... but Matilda.
+
+305
+00:19:44,695 --> 00:19:48,205
+Doodle, I'm so happy to see you.
+
+306
+00:20:02,795 --> 00:20:05,065
+So does this mean
+that you accept my apology?
+
+307
+00:20:05,065 --> 00:20:07,955
+Yes, Pinkie, I accept your apology.
+
+308
+00:20:07,955 --> 00:20:11,535
+And, I am honored to call you my friend.
+
+309
+00:20:19,565 --> 00:20:21,895
+This is just fantastic!
+
+310
+00:20:22,525 --> 00:20:25,665
+Now we can hang out together,
+and chat, and sing songs, and...
+
+311
+00:20:25,665 --> 00:20:26,665
+party!
+
+312
+00:20:26,665 --> 00:20:28,775
+I can throw you guys a big party!
+
+313
+00:20:28,775 --> 00:20:31,495
+It'll be called "Welcome to Ponyville,
+I found my lost love...
+
+314
+00:20:31,495 --> 00:20:33,665
+I'm BFF's with Pinkie Pie" Party!
+
+315
+00:20:35,825 --> 00:20:38,925
+Or maybe something less over-the-top
+and not so super-hyper.
+
+316
+00:20:38,925 --> 00:20:42,515
+Pinkie, we're eternally
+grateful to you, but...
+
+317
+00:20:42,515 --> 00:20:47,315
+Matilda and I just want to spend some
+time together in peace and quiet.
+
+318
+00:20:48,525 --> 00:20:49,755
+But we're still friends?
+
+319
+00:20:49,755 --> 00:20:54,085
+Pinkie, you went way, way, way
+out of your way to make me happy.
+
+320
+00:20:54,085 --> 00:20:56,045
+Of course we're friends.
+
+321
+00:20:57,165 --> 00:20:58,005
+Great!
+
+322
+00:21:00,155 --> 00:21:01,755
+<i>Dear Princess Celestia,</i>
+
+323
+00:21:01,755 --> 00:21:03,455
+<i>there are many different kinds of friends,</i>
+
+324
+00:21:03,455 --> 00:21:05,675
+<i>and many ways to express friendship.</i>
+
+325
+00:21:05,675 --> 00:21:08,725
+Some friends like to run and laugh
+and play together.
+
+326
+00:21:08,725 --> 00:21:12,245
+<i>But others just like to be left alone,
+and that's fine too.</i>
+
+327
+00:21:12,245 --> 00:21:17,075
+<i>But the best thing about friendship
+is being able to make your friends smile.</i>
+
+328
+00:21:17,275 --> 00:21:21,145
+<i>He had a Cranky Doodle sweetheart</i>
+
+329
+00:21:21,145 --> 00:21:24,295
+<i>She's his Cranky Doodle joy</i>
+
+330
+00:21:24,295 --> 00:21:27,265
+<i>I helped a Cranky Doodle boy, yeah</i>
+
+331
+00:21:27,265 --> 00:21:29,735
+<i>I helped a Cranky Doodle boy</i>
+
+332
+00:21:29,735 --> 00:21:30,935
+Pinkie!
+
+333
+00:21:31,035 --> 00:21:33,145
+Oops, privacy, sorry.
+
