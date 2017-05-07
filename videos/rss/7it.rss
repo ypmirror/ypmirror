@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/7it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 May 2017 08:24:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 May 2017 07:34:20 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x05 - Fluttershy Leans In | 720p.WEB-DL | YP-7T-07x05.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-7T-07x05.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Fluttershy Leans In; Season: 7; Episode: 05</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-7T-07x05.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-7T-07x05.mkv.torrent" length="59224" type="application/x-bittorrent"/>
+      <pubDate>Sat, 06 May 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-7T-07x05.mkv.torrent</torrent:filename>
+      <torrent:contentlength>759446753</torrent:contentlength>
+      <torrent:infohash>EA80A9C8092A74D313B42D4F1936A9FC478DB143</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:EA80A9C8092A74D313B42D4F1936A9FC478DB143</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 07x04 - Rock Solid Friendship | 720p.WEB-DL | YP-7T-07x04.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-7T-07x04.mkv.torrent</link>
