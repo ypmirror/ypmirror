@@ -2,7 +2,7 @@
 <p>
 </p>
 <center>
-    <p>Welcome to the download page for Steven Universe. You can get the episodes via direct download (thanks <a href="https://www.sandpox.org/">SandPox</a> for hosting!), via provided third part services or via torrent.</p>
+    <p>Welcome to the download page for Steven Universe. For now, the files are only available by torrent.</p>
     <p>If you are impatient and want to get new files as soon as they are ready, check out our <a href="https://ponychat.net/webchat/?autojoin=%23yayponies">IRC chan</a>, since website is somtimes updated several hours after the actual file release.</p>
     <p>Season 1 iTunes RAW :</p>
     <table width="752" align="center">
@@ -656,6 +656,15 @@
                 <td>YP iTunes 1080P</td>
                 <td></td>
                 <td><a href="subtitles/YP-SU-1R-04x18_19.srt">Get</a></td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5989947&lid=7">Episode 20</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=6048188&lid=7">21</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=5989947&lid=7">Lion 4: Alternate Ending</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=6048188&lid=7">Doug Out</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-04x20_21.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/64214C3DEAC60A43FC6657848CE88A7533A3B58D.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:64214C3DEAC60A43FC6657848CE88A7533A3B58D">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-SU-1R-04x20_21.srt">Get</a></td>
             </tr>
         </tbody>
     </table>
