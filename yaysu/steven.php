@@ -666,6 +666,24 @@
                 <td></td>
                 <td><a href="subtitles/YP-SU-1R-04x20_21.srt">Get</a></td>
             </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=6048189&lid=7">Episode 22</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=6048190&lid=7">23</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=6048189&lid=7">The Good Lars</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=6048190&lid=7">Are You My Dad?</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-04x22_23.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/F5EBD1F87B85E42167A698190D6AC5B418D3780C.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:F5EBD1F87B85E42167A698190D6AC5B418D3780C">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-SU-1R-04x22_23.srt">Get</a></td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=6048191&lid=7">Episode 24</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=679976&id=6048191&lid=7">I Am My Mom</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-04x24.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/BEB6DD640EC980BDABF270D9171AE1376FEAFCD7.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:BEB6DD640EC980BDABF270D9171AE1376FEAFCD7">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-SU-1R-04x24.srt">Get</a></td>
+            </tr>
         </tbody>
     </table>
 </center>

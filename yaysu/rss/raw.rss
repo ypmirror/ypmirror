@@ -7,7 +7,31 @@
     <atom:link href="http://yp1.yayponies.no/yaysu/rss/raw.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 May 2017 11:18:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 12:02:30 +0000</lastBuildDate>
+    <item>
+      <title>Steven Universe - 04x24 - I Am My Mom | 1080P.WEB-DL | YP-SU-1R-04x24.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-04x24.mkv.torrent</link>
+      <description>Show Name: Steven Universe; Episode Title: I Am My Mom; Season: 4; Episode: 24</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-04x24.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-04x24.mkv.torrent" length="36680" type="application/x-bittorrent"/>
+      <pubDate>Fri, 12 May 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-SU-1R-04x24.mkv.torrent</torrent:filename>
+      <torrent:contentlength>464735633</torrent:contentlength>
+      <torrent:infohash>BEB6DD640EC980BDABF270D9171AE1376FEAFCD7</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:BEB6DD640EC980BDABF270D9171AE1376FEAFCD7</torrent:magneturi>
+    </item>
+    <item>
+      <title>Steven Universe - 04x22_23 - The Good Lars - Are You My Dad? | 1080P.WEB-DL | YP-SU-1R-04x22_23.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-04x22_23.mkv.torrent</link>
+      <description>Show Name: Steven Universe; Episode Title: The Good Lars - Are You My Dad?; Season: 4; Episode: 22_23</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-04x22_23.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-04x22_23.mkv.torrent" length="69763" type="application/x-bittorrent"/>
+      <pubDate>Thu, 11 May 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-SU-1R-04x22_23.mkv.torrent</torrent:filename>
+      <torrent:contentlength>898362884</torrent:contentlength>
+      <torrent:infohash>F5EBD1F87B85E42167A698190D6AC5B418D3780C</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:F5EBD1F87B85E42167A698190D6AC5B418D3780C</torrent:magneturi>
+    </item>
     <item>
       <title>Steven Universe - 04x20_21 - Lion 4: Alternate Ending - Doug Out | 1080P.WEB-DL | YP-SU-1R-04x20_21.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-04x20_21.mkv.torrent</link>
