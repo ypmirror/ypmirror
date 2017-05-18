@@ -7,7 +7,19 @@
     <atom:link href="http://yp1.yayponies.no/books/rss/comics-cbz.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Mar 2017 00:09:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2017 21:12:40 +0000</lastBuildDate>
+    <item>
+      <title>Comics Main Series #53 | CBZ | YP-CBZ-COMIC53.cbz | YayPonies</title>
+      <link>http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-COMIC53.cbz.torrent</link>
+      <description>Comic Name: Comics Main Series; #53</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-COMIC53.cbz.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-COMIC53.cbz.torrent" length="5045" type="application/x-bittorrent"/>
+      <pubDate>Thu, 18 May 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-CBZ-COMIC53.cbz.torrent</torrent:filename>
+      <torrent:contentlength>49585060</torrent:contentlength>
+      <torrent:infohash>038440850887359D45799199F2F083A8D3E598C1</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:038440850887359D45799199F2F083A8D3E598C1</torrent:magneturi>
+    </item>
     <item>
       <title>Comics Main Series #52 | CBZ | YP-CBZ-COMIC52.cbz | YayPonies</title>
       <link>http://yp1.yayponies.no/books/torrents/CBZ/YP-CBZ-COMIC52.cbz.torrent</link>
