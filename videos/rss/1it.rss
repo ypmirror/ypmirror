@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/1it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 May 2017 07:43:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 May 2017 07:44:53 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x08 - Hard to Say Anything | 1080p.WEB-DL | YP-1T-07x08.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1T-07x08.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Hard to Say Anything; Season: 7; Episode: 08</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1T-07x08.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1T-07x08.mkv.torrent" length="73225" type="application/x-bittorrent"/>
+      <pubDate>Sat, 27 May 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1T-07x08.mkv.torrent</torrent:filename>
+      <torrent:contentlength>942983682</torrent:contentlength>
+      <torrent:infohash>CD2737CFB448D6062263E8A3AEC1513D4232F5A6</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:CD2737CFB448D6062263E8A3AEC1513D4232F5A6</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 07x07 - Parental Glideance | 1080p.WEB-DL | YP-1T-07x07.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-1T-07x07.mkv.torrent</link>
