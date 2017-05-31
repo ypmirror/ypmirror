@@ -688,7 +688,40 @@
     </table>
 </center>
 
-
+<center>
+    <p>Season 4 iTunes RAW :</p>
+    <table width="752" align="center">
+        <tbody>
+            <tr>
+                <th width="380" height="27">Name</th>
+                <th width="66">Download</th>
+                <th width="57">Direct Download</th>
+                <th width="73">Torrents</th>
+                <th width="92">Info</th>
+                <th width="16">Original EP num</th>
+                <th width="28">Subs</th>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6085516&lid=7">Episode 1</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6085517&lid=7">2</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6085516&lid=7">Stuck Together</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6085517&lid=7">The Trial</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-05x01_02.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/D6E3100DFB92365920935210A792CBE197A8FEC8.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:D6E3100DFB92365920935210A792CBE197A8FEC8">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-SU-1R-05x01_02.srt">Get</a></td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6085518&lid=7">Episode 1</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6085519&lid=7">2</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6085518&lid=7">Off Colors</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6085519&lid=7">Lars' Head</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-05x03_04.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/0647C3FDAD55E7BD35D0FF7472D94111EBA68A1F.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:0647C3FDAD55E7BD35D0FF7472D94111EBA68A1F">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-SU-1R-05x03_04.srt">Get</a></td>
+            </tr>
+        </tbody>
+    </table>
+</center>
 
 <center>
     <p>Specials + Minisodes iTunes RAW :</p>
