@@ -689,7 +689,7 @@
 </center>
 
 <center>
-    <p>Season 4 iTunes RAW :</p>
+    <p>Season 5 iTunes RAW :</p>
     <table width="752" align="center">
         <tbody>
             <tr>
@@ -711,7 +711,7 @@
                 <td><a href="subtitles/YP-SU-1R-05x01_02.srt">Get</a></td>
             </tr>
             <tr>
-                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6085518&lid=7">Episode 1</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6085519&lid=7">2</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6085518&lid=7">Off Colors</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6085519&lid=7">Lars' Head</a>)</td>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6085518&lid=7">Episode 3</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6085519&lid=7">4</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6085518&lid=7">Off Colors</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6085519&lid=7">Lars' Head</a>)</td>
                 <td>1 2 3</td>
                 <td>nope</td>
                 <td><a href="torrents/YP-SU-1R-05x03_04.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/0647C3FDAD55E7BD35D0FF7472D94111EBA68A1F.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:0647C3FDAD55E7BD35D0FF7472D94111EBA68A1F">6</a></td>
@@ -827,6 +827,28 @@
     </table>
 </center>
 
+<center>
+    <p>Other downloads</p>
+    <table width="752" align="center">
+        <tbody>
+            <tr>
+                <th width="396" height="27">Name</th>
+                <th width="66">Download</th>
+                <th width="57">Direct Download</th>
+                <th width="73">Torrents</th>
+                <th width="120">Info</th>
+            </tr>
+            <tr>
+                <td height="20">Steven Universe OST (vol. 1)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-FLAC-OST01.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/D218E90899B10931C8F8F97B376A31DB0FFE3A8E.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:D218E90899B10931C8F8F97B376A31DB0FFE3A8E">6</a></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+            
 
 <center>
     <p>Season 2 TVRips :</p>
