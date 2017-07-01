@@ -2,10 +2,203 @@
 <p>
 </p>
 <center>
-  <p>Welcome to the download page for Star vs The Forces of Evil</p>
+  <p>Welcome to the download page for the Season 2 of Star vs The Forces of Evil<br />
+    <a href="stars1.php">Season 1</a> | <a href="star.php">Season 2</a></p>
   <p><a href="1it.rss">iTunes RSS</a><br />
-    <a href="7tt.rss">Spazz TVRip RSS</a>  </p>
-  <p>iTunes RAW Season 2:</p>
+  </p>
+  <p>Scootaloo 1080P H264 Remastered:<br />
+    </p>
+  <table width="752" height="517" align="center">
+    <tbody>
+      <tr>
+        <th width="396" height="27">Name </th>
+        <th width="76">Download </th>
+        <th width="57">Direct Download </th>
+        <th width="73">Torrents </th>
+        <th width="82">Info</th>
+        <th width="28">Subs</th>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5632039&amp;lid=7">Episode 1</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665653&amp;lid=7">2</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5632039&amp;lid=7">My New Wand!</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665653&amp;lid=7">Ludo in the Wild</a>)</td>
+        <td><a href="https://mega.nz/#!Vbp3zBKT!zISFOnX3r2dq7BsID5K2YBcJYMM_Eu1m2G9ePuIkVJY">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x01_02.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/241279D475902226AC1E1D95F00442A1F38F3543.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:241279D475902226AC1E1D95F00442A1F38F3543">6</a></td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x01_02.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665654&amp;lid=7">Episode 3</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665656&amp;lid=7">4</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665654&amp;lid=7">Mr. Candle Cares</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665656&amp;lid=7">Red Belt</a>)</td>
+        <td><a href="https://mega.nz/#!FKp0mBoS!FQzmKiSJY5igzX7eQwAlUKlQLVOA-0TYyfBbcxynVjM">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x03_04.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/BDE6F7D920F4050865EFE2C61D2D09F0F308CFD0.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:BDE6F7D920F4050865EFE2C61D2D09F0F308CFD0">6</a> </td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x03_04.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665656&amp;lid=7">Episode 5</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665657&amp;lid=7">6</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665656&amp;lid=7">Star on Wheels</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5665657&amp;lid=7">Fetch</a>)</td>
+        <td><a href="https://mega.nz/#!wSRkyJAK!WdTzVAGj0W8ECJZpfblglNFWaZfMof-3F2JjRPev9nA">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x05_06.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/4AA46EB60EB06D25164EC407EC3189178A3413DA.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:4AA46EB60EB06D25164EC407EC3189178A3413DA">6</a> </td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x05_06.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678094&amp;lid=7">Episode 7</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678097&amp;lid=7">8</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678094&amp;lid=7">Star vs. Echo Creek</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678097&amp;lid=7">Wand to Wand</a>)</td>
+        <td><a href="https://mega.nz/#!pPYCGTBQ!K2RN-5ZnBxkyUgircW8ILj1rI5a_FwjNQe4RpuwZDVs">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x07_08.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/BA01E5B206815F7B386E164AB29A223ECC0D887B.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:BA01E5B206815F7B386E164AB29A223ECC0D887B">6</a> </td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x07_08.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678104&amp;lid=7">Episode 9</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678105&amp;lid=7">10</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678104&amp;lid=7">Starstruck</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678105&amp;lid=7">Camping Trip</a>)</td>
+        <td><a href="https://mega.nz/#!gbZQiCKK!djJuUxBLeNHnr877rD2o3Lb28dAVb8qtRZDvxbbeIuM">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x09_10.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/AA27A1AF99FF4325735834AFD3C486296C9B6401.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:AA27A1AF99FF4325735834AFD3C486296C9B6401">6</a></td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x09_10.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678106&amp;lid=7">Episode 11</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678107&amp;lid=7">12</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678106&amp;lid=7">Starsitting</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5678107&amp;lid=7">On The Job</a>)</td>
+        <td><a href="https://mega.nz/#!4bgkwYDT!3FWO_Mq8irafLGKmX6wTkyCYj4i7f_w3IKkvkocRS7w">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x11_12.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/362A05A53AC8235F4376A771EA635237D539E2C4.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:362A05A53AC8235F4376A771EA635237D539E2C4">6</a></td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x11_12.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709764&amp;lid=7">Episode 13</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709765&amp;lid=7">14</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709764&amp;lid=7">Goblin Dogs</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709765&amp;lid=7">By the Book</a>)</td>
+        <td><a href="https://mega.nz/#!YO4xkQTS!rAcxDX5c7XfwSPA_1NKy1m2B4FmaV2ouaF8z2q5glMk">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x13_14.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/01CBF3843388584E42A73558C0C0F42DCCE28058.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:01CBF3843388584E42A73558C0C0F42DCCE28058">6</a> </td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x13_14.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709766&amp;lid=7">Episode 15</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709767&amp;lid=7">16</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709766&amp;lid=7">Game of Flags</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709767&amp;lid=7">Girls' Day Out</a>)</td>
+        <td><a href="https://mega.nz/#!hfh33L5Z!z1J4xt8ME5WGPE5B_MX7RIUIJqIe-ebFCW5lxR7-1z8">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x15_16.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/C02B2264010D5DC1D33F782B003B5248BCF76110.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:C02B2264010D5DC1D33F782B003B5248BCF76110">6</a> </td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x15_16.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709769&amp;lid=7">Episode 17</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709770&amp;lid=7">18</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709769&amp;lid=7">Sleepover</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5709770&amp;lid=7">Gift of the Card</a>)</td>
+        <td><a href="https://mega.nz/#!tCoF2DxS!Gq2R7yecIbyV6Ugn21iItLmKdsCQ7JfMwBJADS9HV80">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x17_18.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/DE20E237543E53EFD098D1E7B189E8602BB0CC21.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:DE20E237543E53EFD098D1E7B189E8602BB0CC21">6</a></td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x17_18.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5747577&amp;lid=7">Episode 19</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5747578&amp;lid=7">20</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5747577&amp;lid=7">Friendenemies</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5747578&amp;lid=7">Is Mystery</a>)</td>
+        <td><a href="https://mega.nz/#!oCxiDKKS!Wij3cD76FqNRoi472YpRKrswdCOlksHU7K4Dh2OkuxQ">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x19_20.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/25995F075FED68EAE1CC98048C482AF00BDFE9FD.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:25995F075FED68EAE1CC98048C482AF00BDFE9FD">6</a></td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x19_20.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5747579&amp;lid=7">Episode 21</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5747580&amp;lid=7">22</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5747579&amp;lid=7">Hungry Larry</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5747580&amp;lid=7">Spider with a Top Hat</a>)</td>
+        <td><a href="https://mega.nz/#!FbQQzAxC!CoFo-BAzZVQQcm3Do2zEeXimpL4lr_LmsJ2sYWaExIw">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x21_22.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/88B0BF379FE4D8D4373B7A7A44397BB2974A2BA9.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:88B0BF379FE4D8D4373B7A7A44397BB2974A2BA9">6</a></td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x21_22.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5796192&amp;lid=7">Episode 23</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5796193&amp;lid=7">24</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5796192&amp;lid=7">Into the Wand</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5796193&amp;lid=7">Pizza Thing</a>)</td>
+        <td><a href="https://mega.nz/#!EHwSgBxa!q5o5aY8sX5AYWdsx1qi2x3NXd1mKrsMeG179J1vVXPo">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x23_24.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/45DB1AB37D19FF13BF031914984CCBB42310F1A5.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:45DB1AB37D19FF13BF031914984CCBB42310F1A5">6</a> </td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x23_24.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5827336&amp;lid=7">Episode 25</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5827340&amp;lid=7">26</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5827336&amp;lid=7">Page Turner</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5827340&amp;lid=7">Naysaya</a>)</td>
+        <td><a href="https://mega.nz/#!NDQF3CBB!T5jU5WE8JETGJkqzhzJz4FHHXHf5eF7vK8ghocR-5ug">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x25_26.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/240E975F5AB455CB8799064FC86BE3CEC03F6070.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:240E975F5AB455CB8799064FC86BE3CEC03F6070">6</a> </td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x25_26.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5827343&amp;lid=7">Episode 27 (Bon Bon the Birthday Clown)</a></td>
+        <td><a href="https://mega.nz/#!VawDxBiZ!sfTyBKn8S1m49l8sbaTgdqf_qBNj6zBEMM4lTgVwmK0">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x27.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/9DE0FCBCD5BC9ABA420045B047B49938EA5420CA.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:9DE0FCBCD5BC9ABA420045B047B49938EA5420CA">6</a> </td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x27.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5860837&amp;lid=7">Episode 28</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942775&amp;lid=7">29</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5860837&amp;lid=7">Raid the Cave</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942775&amp;lid=7">Trickstar</a>)</td>
+        <td><a href="https://mega.nz/#!gK4UkTzB!MwkC_AWJ_qCqbyPK43d3SR4PgB4s_RtR4UI1ua5qRrU">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x28_29.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/18CC7B8ED76E7F9721C107AAB1156E91D5D61281.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:18CC7B8ED76E7F9721C107AAB1156E91D5D61281">6</a></td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x28_29.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942776&amp;lid=7">Episode 30</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942777&amp;lid=7">31</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942776&amp;lid=7">Baby</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942777&amp;lid=7">Running with Scissors</a>)</td>
+        <td><a href="https://mega.nz/#!tXY21JxA!eLJA9avBmnwsxq07c-dWriPp4wWm6RV2UlOuNLL8nW4">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x30_31.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/C05A69B9FEDF87E7BA6FFE1B2A8D82373D6D0034.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:C05A69B9FEDF87E7BA6FFE1B2A8D82373D6D0034">6</a> </td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x30_31.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942778&amp;lid=7">Episode 32</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942779&amp;lid=7">33</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942778&amp;lid=7">Mathmagic</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942779&amp;lid=7">The Bounce Lounge</a>)</td>
+        <td><a href="https://mega.nz/#!EGZQFJwC!BuNxOddUgJ_56T8w3Y2atQ2de75aGU9tTY8UpuO3nWY">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x32_33.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/7F67365A49DC8A182AF415D646A2FD40EB8C2F1E.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:7F67365A49DC8A182AF415D646A2FD40EB8C2F1E">6</a> </td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x32_33.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942780&amp;lid=7">Episode 34</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942781&amp;lid=7">35</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942780&amp;lid=7">Crystal Clear</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942781&amp;lid=7">The Hard Way</a>)</td>
+        <td><a href="https://mega.nz/#!QHIwlZBD!FWM91o5PGDUtIV0VKx9zNwlPrer1nmOj32s_hYy-2yM">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x34_35.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/3F769C1C4DCD34629770797D31583C996217EBBF.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:3F769C1C4DCD34629770797D31583C996217EBBF">6</a></td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x34_35.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942782&amp;lid=7">Episode 36</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942783&amp;lid=7">37</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942782&amp;lid=7">Heinous</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942783&amp;lid=7">All Belts are Off</a>)</td>
+        <td> <a href="https://mega.nz/#!lfZ1iYpK!TbOgoh94d3H75nK2ZcE0ePT1QOHUOW5UZvkQXu68bRE">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x36_37.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/22E997AF1AA721BC70A0CEC8660860FA431E7E50.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:22E997AF1AA721BC70A0CEC8660860FA431E7E50">6</a> </td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x36_37.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942784&amp;lid=7">Episode 38</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942785&amp;lid=7">39</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942784&amp;lid=7">Collateral Damage</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942785&amp;lid=7">Just Friends</a>)</td>
+        <td><a href="https://mega.nz/#!dCYXDaxK!7uWCPBT987tS0NQj5tCfenyUyFK_vWaAA-M_zTsjcQ4">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x38_39.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/3DEDC28ACA9B2740D590A54942A1ED4D1E1E2AF4.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:3DEDC28ACA9B2740D590A54942A1ED4D1E1E2AF4">6</a> </td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x38_39.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942786&amp;lid=7">Episode 40 (Face the Music)</a></td>
+        <td><a href="https://mega.nz/#!0aRGxIIZ!4nIKq30LSbPRQI69wOTtcYD2wMBktncFh8hcTPz_h2s">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x40.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/75BAC86DEB53006C11F4FA6A30F5F3A1BD6033BE.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:75BAC86DEB53006C11F4FA6A30F5F3A1BD6033BE">6</a> </td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x40.srt">Get</a></td>
+      </tr>
+      <tr>
+        <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=668960&amp;id=5942787&amp;lid=7">Episode 41 (Starcrushed)</a></td>
+        <td><a href="https://mega.nz/#!ceo0WKQT!xjNTp3-ZBp9ZleeavU5dFmEj9TvdD0jhdbQAfprtiJM">1</a> 2 3</td>
+        <td>&nbsp;</td>
+        <td><a href="torrents/YP-SV-1S-02x41.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/8776A6DCA9B05E2C3265BE78A38552818281CAD8.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:8776A6DCA9B05E2C3265BE78A38552818281CAD8">6</a></td>
+        <td>Scootaloo </td>
+        <td><a href="subtitles/YP-SV-1R-02x41.srt">Get</a></td>
+      </tr>
+    </tbody>
+  </table>
+  <p><br />
+  </p>
+  <p>iTunes RAW :</p>
   <table width="752" height="517" align="center">
     <tbody>
       <tr>
@@ -194,222 +387,8 @@
       </tr>
     </tbody>
   </table>
-  <p>iTunes RAW Season 1:<br />
-</p>
 </center>
 <center>
-  <table width="752" height="319" align="center">
-    <tbody>
-      <tr>
-        <th width="396" height="27">Name </th>
-        <th width="76">Download </th>
-        <th width="57">Direct Download </th>
-        <th width="73">Torrents </th>
-        <th width="82">Info</th>
-        <th width="28">Subs</th>
-      </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5090203&amp;lid=7">Episode 1</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5090204&amp;lid=7">2</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5090203&amp;lid=7">Star Comes to Earth</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5090204&amp;lid=7">Party With a Pony</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-1R-01x01_02.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/E95B02112AA2D4864DB7B751C4B41005B05E28CB.torrent">4</a> <a href="http://torcache.net/torrent/E95B02112AA2D4864DB7B751C4B41005B05E28CB.torrent">5</a> <a href="magnet:?xt=urn:btih:E95B02112AA2D4864DB7B751C4B41005B05E28CB">6</a></td>
-        <td>YP iTunes 1080P</td>
-        <td><a href="subtitles/YP-SV-1R-01x01_02.srt">Get</a></td>
-      </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5141243&amp;lid=7">Episode 3</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173460&amp;lid=7">4</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5141243&amp;lid=7">Match Maker</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173460&amp;lid=7">School Spirit</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-1R-01x03_04.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/FB83264325B1EA474B795048C7286A74AA04C14E.torrent">4</a> <a href="http://torcache.net/torrent/FB83264325B1EA474B795048C7286A74AA04C14E.torrent">5</a> <a href="magnet:?xt=urn:btih:FB83264325B1EA474B795048C7286A74AA04C14E">6</a></td>
-        <td>YP iTunes 1080P</td>
-        <td><a href="subtitles/YP-SV-1R-01x03_04.srt">Get</a></td>
-      </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173461&amp;lid=7">Episode 5</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173462&amp;lid=7">6</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173461&amp;lid=7">Monster Arm</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173462&amp;lid=7">The Other Exchange Student</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-1R-01x05_06.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/A08B062AFDB11120805CF41C6011233DD577BDAC.torrent">4</a> <a href="http://torcache.net/torrent/A08B062AFDB11120805CF41C6011233DD577BDAC.torrent">5</a> <a href="magnet:?xt=urn:btih:A08B062AFDB11120805CF41C6011233DD577BDAC">6</a></td>
-        <td>YP iTunes 1080P</td>
-        <td><a href="subtitles/YP-SV-1R-01x05_06.srt">Get</a></td>
-      </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173463&amp;lid=7">Episode 7</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173464&amp;lid=7">8</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173463&amp;lid=7">Cheer Up Star</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173464&amp;lid=7">Quest Buy</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-1R-01x07_08.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/8B1CB6079FA3AFFD1EA7CBDF4CF4AEE307D2FB09.torrent">4</a> <a href="http://torcache.net/torrent/8B1CB6079FA3AFFD1EA7CBDF4CF4AEE307D2FB09.torrent">5</a> <a href="magnet:?xt=urn:btih:8B1CB6079FA3AFFD1EA7CBDF4CF4AEE307D2FB09">6</a></td>
-        <td>YP iTunes 1080P</td>
-        <td><a href="subtitles/YP-SV-1R-01x07_08.srt">Get</a></td>
-      </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173465&amp;lid=7">Episode 9</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173466&amp;lid=7">10</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173465&amp;lid=7">Diaz Family Vacation</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173466&amp;lid=7">Brittney's Party</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-1R-01x09_10.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/86C13263E43372D22D5CD10B7F18841EFE1F27B0.torrent">4</a> <a href="http://torcache.net/torrent/86C13263E43372D22D5CD10B7F18841EFE1F27B0.torrent">5</a> <a href="magnet:?xt=urn:btih:86C13263E43372D22D5CD10B7F18841EFE1F27B0">6</a> </td>
-        <td>YP iTunes 1080P</td>
-        <td><a href="subtitles/YP-SV-1R-01x09_10.srt">Get</a></td>
-      </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5242892&amp;lid=7">Episode 11</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5242893&amp;lid=7">12</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5242892&amp;lid=7">Mewberty</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5242893&amp;lid=7">Pixtopia</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-1R-01x11_12.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/7EAE602559959E8BFB927435BB68D19A81BC675C.torrent">4</a> <a href="http://torcache.net/torrent/7EAE602559959E8BFB927435BB68D19A81BC675C.torrent">5</a> <a href="magnet:?xt=urn:btih:7EAE602559959E8BFB927435BB68D19A81BC675C">6</a></td>
-        <td>YP iTunes 1080P</td>
-        <td><a href="subtitles/YP-SV-1R-01x11_12.srt">Get</a></td>
-      </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5242894&amp;lid=7">Episode 13</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5242895&amp;lid=7">14</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5242894&amp;lid=7">Lobster Claws</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5242895&amp;lid=7">Sleep Spells</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-1R-01x13_14.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/D0A9217CCA3A9BA30D5F09ABE9711536DA3F0386.torrent">4</a> <a href="http://torcache.net/torrent/D0A9217CCA3A9BA30D5F09ABE9711536DA3F0386.torrent">5</a> <a href="magnet:?xt=urn:btih:D0A9217CCA3A9BA30D5F09ABE9711536DA3F0386">6</a> </td>
-        <td>YP iTunes 1080P</td>
-        <td><a href="subtitles/YP-SV-1R-01x13_14.srt">Get</a></td>
-      </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5259807&amp;lid=7">Episode 15</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5259808&amp;lid=7">16</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5259807&amp;lid=7">Blood Moon Ball</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5259808&amp;lid=7">Fortune Cookies</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-1R-01x15_16.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/25F0E20AAF59A5C5656BFD34E38FDBA4261953ED.torrent">4</a> <a href="http://torcache.net/torrent/25F0E20AAF59A5C5656BFD34E38FDBA4261953ED.torrent">5</a> <a href="magnet:?xt=urn:btih:25F0E20AAF59A5C5656BFD34E38FDBA4261953ED">6</a></td>
-        <td>YP iTunes 1080P</td>
-        <td><a href="subtitles/YP-SV-1R-01x15_16.srt">Get</a></td>
-      </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5259809&amp;lid=7">Episode 17</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5259810&amp;lid=7">18</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5259809&amp;lid=7">Freeze Day</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5259810&amp;lid=7">Royal Pain</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-1R-01x17_18.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/07DAEA2D54BB09CD15241D21CD670331C4DC0C24.torrent">4</a> <a href="http://torcache.net/torrent/07DAEA2D54BB09CD15241D21CD670331C4DC0C24.torrent">5</a> <a href="magnet:?xt=urn:btih:07DAEA2D54BB09CD15241D21CD670331C4DC0C24">6</a></td>
-        <td>YP iTunes 1080P</td>
-        <td><a href="subtitles/YP-SV-1R-01x17_18.srt">Get</a></td>
-      </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5293346&amp;lid=7">Episode 19 (St. Olga's Reform School for Wayward Princesses)</a></td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-1R-01x19.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/B3B3ECB698CDBF5F83CF9CDEF7966DAFD87A15B2.torrent">4</a> <a href="http://torcache.net/torrent/B3B3ECB698CDBF5F83CF9CDEF7966DAFD87A15B2.torrent">5</a> <a href="magnet:?xt=urn:btih:B3B3ECB698CDBF5F83CF9CDEF7966DAFD87A15B2">6</a></td>
-        <td>YP iTunes 1080P</td>
-        <td><a href="subtitles/YP-SV-1R-01x19.srt">Get</a></td>
-      </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5293347&amp;lid=7">Episode 20</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5293348&amp;lid=7">21</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5293347&amp;lid=7">Mewnipendance Day</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5293348&amp;lid=7">The Banagic Incident</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-1R-01x20_21.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/C9C45A3324E04F55DF6DF4BD7E465D10B9619681.torrent">4</a> <a href="http://torcache.net/torrent/C9C45A3324E04F55DF6DF4BD7E465D10B9619681.torrent">5</a> <a href="magnet:?xt=urn:btih:C9C45A3324E04F55DF6DF4BD7E465D10B9619681">6</a></td>
-        <td>YP iTunes 1080P</td>
-        <td><a href="subtitles/YP-SV-1R-01x20_21.srt">Get</a></td>
-      </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5293349&amp;lid=7">Episode 22</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5313320&amp;lid=7">23</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5293349&amp;lid=7">Interdimensional Field Trip</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5313320&amp;lid=7">Marco Grows A Beard</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-1R-01x22_23.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/0E021C69A31C5B0A230E06D9A809CFECB6501E70.torrent">4</a> <a href="http://torcache.net/torrent/0E021C69A31C5B0A230E06D9A809CFECB6501E70.torrent">5</a> <a href="magnet:?xt=urn:btih:0E021C69A31C5B0A230E06D9A809CFECB6501E70">6</a></td>
-        <td>YP iTunes 1080P</td>
-        <td><a href="subtitles/YP-SV-1R-01x22_23.srt">Get</a></td>
-      </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5313321&amp;lid=7">Episode 24 (Storm the Castle)</a></td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-1R-01x24.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/02691A4871BD087954F96F125177034DADE0E2A9.torrent">4</a> <a href="http://torcache.net/torrent/02691A4871BD087954F96F125177034DADE0E2A9.torrent">5</a> <a href="magnet:?xt=urn:btih:02691A4871BD087954F96F125177034DADE0E2A9">6</a></td>
-        <td>YP iTunes 1080P</td>
-        <td><a href="subtitles/YP-SV-1R-01x24.srt">Get</a></td>
-      </tr>
-    </tbody>
-  </table>
-  <p>Spazz TVRip Season 1:</p>
-  <table width="728" height="297" align="center">
-    <tbody>
-      <tr>
-        <th width="396" height="27">Name </th>
-        <th width="86">Download </th>
-        <th width="57">Direct Download </th>
-        <th width="73">Torrents </th>
-        <th width="82">Info</th>
-        </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5090203&amp;lid=7">Episode 1</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5090204&amp;lid=7">2</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5090203&amp;lid=7">Star Comes to Earth</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5090204&amp;lid=7">Party With a Pony</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-1TV-01x01_02-Spazz.mp4.torrent">1</a> 2 3 <a href="http://thetorrent.org/FF78A90B79F49CC5840FAC05F86E4E96888B83E1.torrent">4</a> <a href="http://torcache.net/torrent/FF78A90B79F49CC5840FAC05F86E4E96888B83E1.torrent">5</a> <a href="magnet:?xt=urn:btih:FF78A90B79F49CC5840FAC05F86E4E96888B83E1">6</a></td>
-        <td>TV Spazz 1080P </td>
-        </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5141243&amp;lid=7">Episode 3</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173460&amp;lid=7">4</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5141243&amp;lid=7">Match Maker</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173460&amp;lid=7">School Spirit</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-7TV-01x03_04-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/8E98EF879C9845FB84EC5CD2EABDA65F131DA65A.torrent">4</a> <a href="http://torcache.net/torrent/8E98EF879C9845FB84EC5CD2EABDA65F131DA65A.torrent">5</a> <a href="magnet:?xt=urn:btih:8E98EF879C9845FB84EC5CD2EABDA65F131DA65A">6</a></td>
-        <td>TV Spazz 720P </td>
-        </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173461&amp;lid=7">Episode 5</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173462&amp;lid=7">6</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173461&amp;lid=7">Monster Arm</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173462&amp;lid=7">The Other Exchange Student</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-7TV-01x05_06-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/423D866B26FFD7DFD72B0584DFBA7B70CA02579E.torrent">4</a> <a href="http://torcache.net/torrent/423D866B26FFD7DFD72B0584DFBA7B70CA02579E.torrent">5</a> <a href="magnet:?xt=urn:btih:423D866B26FFD7DFD72B0584DFBA7B70CA02579E">6</a></td>
-        <td>TV Spazz 720P </td>
-        </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173463&amp;lid=7">Episode 7</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173464&amp;lid=7">8</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173463&amp;lid=7">Cheer Up Star</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173464&amp;lid=7">Quest Buy</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-7TV-01x07_08-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/719DC22067AD59E52B8E4657F034B2391595263D.torrent">4</a> <a href="http://torcache.net/torrent/719DC22067AD59E52B8E4657F034B2391595263D.torrent">5</a> <a href="magnet:?xt=urn:btih:719DC22067AD59E52B8E4657F034B2391595263D">6</a></td>
-        <td>TV Spazz 720P </td>
-        </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173465&amp;lid=7">Episode 9</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173466&amp;lid=7">10</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173465&amp;lid=7">Diaz Family Vacation</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5173466&amp;lid=7">Brittney's Party</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-7TV-01x09_10-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/89FF44C7E11ECCDEA26FDCC407054FCB7D3A4B38.torrent">4</a> <a href="http://torcache.net/torrent/89FF44C7E11ECCDEA26FDCC407054FCB7D3A4B38.torrent">5</a> <a href="magnet:?xt=urn:btih:89FF44C7E11ECCDEA26FDCC407054FCB7D3A4B38">6</a></td>
-        <td>TV Spazz 720P </td>
-        </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5242892&amp;lid=7">Episode 11</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5242893&amp;lid=7">12</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5242892&amp;lid=7">Mewberty</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5242893&amp;lid=7">Pixtopia</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-7TV-01x11_12-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/A9BC0E3EE3D59F5953E60D458E3B6A9BF328E56D.torrent">4</a> <a href="http://torcache.net/torrent/A9BC0E3EE3D59F5953E60D458E3B6A9BF328E56D.torrent">5</a> <a href="magnet:?xt=urn:btih:A9BC0E3EE3D59F5953E60D458E3B6A9BF328E56D">6</a></td>
-        <td>TV Spazz 720P </td>
-        </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5242894&amp;lid=7">Episode 13</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5242895&amp;lid=7">14</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5242894&amp;lid=7">Lobster Claws</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5242895&amp;lid=7">Sleep Spells</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-7TV-01x13_14-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/82C276C405DF1369D26DE209AECDE93C7A93225C.torrent">4</a> <a href="http://torcache.net/torrent/82C276C405DF1369D26DE209AECDE93C7A93225C.torrent">5</a> <a href="magnet:?xt=urn:btih:82C276C405DF1369D26DE209AECDE93C7A93225C">6</a></td>
-        <td>TV Spazz 720P </td>
-        </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5259807&amp;lid=7">Episode 15</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5259808&amp;lid=7">16</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5259807&amp;lid=7">Blood Moon Ball</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5259808&amp;lid=7">Fortune Cookies</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-7TV-01x15_16-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/9B857F1A5549E16B7BBC3EBEF0CC11D0169C016E.torrent">4</a> <a href="http://torcache.net/torrent/9B857F1A5549E16B7BBC3EBEF0CC11D0169C016E.torrent">5</a> <a href="magnet:?xt=urn:btih:9B857F1A5549E16B7BBC3EBEF0CC11D0169C016E">6</a></td>
-        <td>TV Spazz 720P </td>
-        </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5259809&amp;lid=7">Episode 17</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5259810&amp;lid=7">18</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5259809&amp;lid=7">Freeze Day</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5259810&amp;lid=7">Royal Pain</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-7TV-01x17_18-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/D7A6AF33BA0F8AE47AD1C93F6B6BE8B72D04504A.torrent">4</a> <a href="http://torcache.net/torrent/D7A6AF33BA0F8AE47AD1C93F6B6BE8B72D04504A.torrent">5</a> <a href="magnet:?xt=urn:btih:D7A6AF33BA0F8AE47AD1C93F6B6BE8B72D04504A">6</a></td>
-        <td>TV Spazz 720P </td>
-        </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5293346&amp;lid=7">Episode 19 (St. Olga's Reform School for Wayward Princesses)</a></td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-7TV-01x19-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/8545D153B22255C6CBB9210474A27ACDE675B41B.torrent">4</a> <a href="http://torcache.net/torrent/8545D153B22255C6CBB9210474A27ACDE675B41B.torrent">5</a> <a href="magnet:?xt=urn:btih:8545D153B22255C6CBB9210474A27ACDE675B41B">6</a></td>
-        <td>TV Spazz 720P </td>
-        </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5293347&amp;lid=7">Episode 20</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5293348&amp;lid=7">21</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5293347&amp;lid=7">Mewnipendance Day</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5293348&amp;lid=7">The Banagic Incident</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-7TV-01x20_21-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/0E795D087D4ED6955DF0B7606578CA405C22904B.torrent">4</a> <a href="http://torcache.net/torrent/0E795D087D4ED6955DF0B7606578CA405C22904B.torrent">5</a> <a href="magnet:?xt=urn:btih:0E795D087D4ED6955DF0B7606578CA405C22904B">6</a></td>
-        <td>TV Spazz 720P </td>
-        </tr>
-      <tr>
-        <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5293349&amp;lid=7">Episode 22</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5313320&amp;lid=7">23</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5293349&amp;lid=7">Interdimensional Field Trip</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=282994&amp;seasonid=588899&amp;id=5313320&amp;lid=7">Marco Grows A Beard</a>)</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td><a href="torrents/YP-SV-7TV-01x22_23-Spazz.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/92012738A60746F4E7F82ED576745DD8F26A7BBE.torrent">4</a> <a href="http://torcache.net/torrent/92012738A60746F4E7F82ED576745DD8F26A7BBE.torrent">5</a> <a href="magnet:?xt=urn:btih:92012738A60746F4E7F82ED576745DD8F26A7BBE">6</a></td>
-        <td>TV Spazz 720P </td>
-        </tr>
-    </tbody>
-  </table>
   <p>&nbsp;</p>
   <p>For the latest news on Star vs The Forces of Evil visit <a href="http://star.derpynews.com/">Derpy News!</a></p>
 </center></div>
