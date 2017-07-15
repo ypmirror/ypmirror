@@ -55,7 +55,7 @@
                     var archiveNames = {
                         'i' : 'iTunes Raw',
                         's' : 'Scootaloo Remastered H264',
-                        'sc' : 'Scootaloo Corrected HEVC',
+                        'sc' : 'Scootaloo Definitive HEVC',
                         'a' : 'AUSTRALIAN iTunes Raw',
                         'z' : 'Color Corrected',
                         'tt' : 'MENTOS TVRip',
@@ -105,7 +105,7 @@
                                 <select size="8" name="DownloadSource" onchange="javascript:dynamicList();">
                                     <option value="i" selected>iTunes Raw US</option>
                                     <option value="s">Scootaloo Remastered x264</option>
-                                    <option value="sc">Scootaloo Corrected HEVC</option>
+                                    <option value="sc">Scootaloo Definitive HEVC</option>
                                     <option value="a">iTunes Raw AU</option>
                                     <option value="z">Color Corrected by ZR</option>
                                     <option value="t">TVRips (Spazz or Mentos)</option>
@@ -317,7 +317,7 @@
                         <td> Season 7 (1080p) </td>
                     </tr>
 
-                    <tr> <th colspan="2"> Scootaloo Corrected HEVC </th> </tr>
+                    <tr> <th colspan="2"> Scootaloo Definitive HEVC </th> </tr>
                     <tr>
                         <td> <a href="/permalink.php?link=videos/tables/1sc1">1sc1</a> </td>
                         <td> Season 1 (1080p) </td>

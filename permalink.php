@@ -69,13 +69,13 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = videos/tables/7i7" -->iTunes US Season 7 (720p)
 
 
-<!--#elif expr="$link = videos/tables/1sc1" -->Scootaloo Corrected (x265/HEVC) Season 1 (1080p)
-<!--#elif expr="$link = videos/tables/1sc2" -->Scootaloo Corrected (x265/HEVC) Season 1 (1080p)
-<!--#elif expr="$link = videos/tables/1sc3" -->Scootaloo Corrected (x265/HEVC) Season 3 (1080p)
-<!--#elif expr="$link = videos/tables/1sc4" -->Scootaloo Corrected (x265/HEVC) Season 4 (1080p)
-<!--#elif expr="$link = videos/tables/1sc5" -->Scootaloo Corrected (x265/HEVC) Season 5 (1080p)
-<!--#elif expr="$link = videos/tables/1sc6" -->Scootaloo Corrected (x265/HEVC) Season 6 (1080p)
-<!--#elif expr="$link = videos/tables/1sc7" -->Scootaloo Corrected (x265/HEVC) Season 7 (1080p)
+<!--#elif expr="$link = videos/tables/1sc1" -->Scootaloo Definitive (x265/HEVC) Season 1 (1080p)
+<!--#elif expr="$link = videos/tables/1sc2" -->Scootaloo Definitive (x265/HEVC) Season 1 (1080p)
+<!--#elif expr="$link = videos/tables/1sc3" -->Scootaloo Definitive (x265/HEVC) Season 3 (1080p)
+<!--#elif expr="$link = videos/tables/1sc4" -->Scootaloo Definitive (x265/HEVC) Season 4 (1080p)
+<!--#elif expr="$link = videos/tables/1sc5" -->Scootaloo Definitive (x265/HEVC) Season 5 (1080p)
+<!--#elif expr="$link = videos/tables/1sc6" -->Scootaloo Definitive (x265/HEVC) Season 6 (1080p)
+<!--#elif expr="$link = videos/tables/1sc7" -->Scootaloo Definitive (x265/HEVC) Season 7 (1080p)
 
 
 <!--#elif expr="$link = videos/tables/1s1" -->Scootaloo Remastered (x264/H264) Season 1 (1080p)
