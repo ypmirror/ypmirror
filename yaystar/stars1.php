@@ -2,7 +2,7 @@
 <p>
 </p>
 <center>
-  <p>Welcome to the download page for the Season 1 of Star vs The Forces of Evil - <a href="star.php">Want Season 2 instead?</a></p>
+  <p>Welcome to the download page for the Season 1 of Star vs The Forces of Evil - <a href="stars2.php">Want Season 2 instead?</a>, or <a href="star.php">maybe Season 3?</a></p>
   <p><a href="1it.rss">iTunes RSS</a></p>
   <p>Scootaloo 1080P H264 Remastered:<br />
   </p>
