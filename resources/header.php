@@ -78,7 +78,8 @@
             <p style="font-size: 130%; text-align: center">
                 <a href="/index.php">Index</a> |
                 <a href="/misc/FAQ.php">FAQ</a> |
-                <a href="https://ponychat.net/webchat/?autojoin=%23yayponies">Chat with US!</a> |
+                <a href="https://ponychat.net/webchat/?autojoin=%23yayponies">IRC</a> |
+				<a href="https://discord.gg/UVwPwpB">Discord</a> |
                 <a href="https://twitter.com/#!/YayPonies_eu">Twitter</a> |
                 <a href="/videos/episodes.php">Episodes</a> |
                 <a href="/oldergen/prevgen.php">G1/G2/G3 Episodes</a> |
