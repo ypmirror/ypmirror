@@ -81,7 +81,8 @@
                                     <option value="eqg21080">Equestria Girls 2: Rainbow Rocks (1080p)</option>
                                     <option value="eqg3720">Equestria Girls 3: Friendship Games (720)</option>
                                     <option value="eqg31080">Equestria Girls 3: Friendship Games (1080p)</option>
-									<option value="eqg41080" selected>Equestria Girls 4: Legend of Everfree (1080p)</option>
+									<option value="eqg41080">Equestria Girls 4: Legend of Everfree (1080p)</option>
+									<option value="eqgspe" selected>Equestria Girls Specials</option>
                                 </select>
                             </td>
                             <td>
@@ -130,6 +131,10 @@
                     <tr>
                         <td> <a href="/permalink.php?link=videos/eqg/tables/eqg41080">eqg41080</a> </td>
                         <td> Equestria Girls 4: Legend of Everfree (1080p) </td>
+                    </tr>
+					<tr>
+                        <td> <a href="/permalink.php?link=videos/eqg/tables/eqgspe">eqgspe</a> </td>
+                        <td> Equestria Girls Specials </td>
                     </tr>
                 </table>
             </div>
