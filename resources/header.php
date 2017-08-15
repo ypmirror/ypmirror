@@ -91,10 +91,11 @@
                 <a href="/yaysu/">YaySteven</a> |
                 <a href="/yaywoy/">YayWander</a> |
 				<a href="/yaystar/">YayStar</a> |
+				<a href="/yayducks/">YayDucks</a> |
                 <a href="/fan/fan.php">Fan Works</a> |
-                <a href="/others/other.php">Others</a> | 
-				<a href="/fan/broniesii.php">Bronies II</a>
+                <a href="/others/other.php">Others</a> 
                 <br />
+				<a href="/fan/broniesii.php">Bronies II</a>
 				<a href="/misc/tutorial.php">Tutorials</a> |
                 <a href="/misc/rss.php">RSS</a> |
                 <a href="/misc/othersubs.php">Multilanguage Subtitles</a> |
