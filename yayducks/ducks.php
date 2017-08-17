@@ -21,7 +21,7 @@
                 <td>nope</td>
                 <td><a href="torrents/YP-DT-1R-01x01.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/A7940AF3C3EDED8B8A13F66F33F4E9E8E12AAA21.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:A7940AF3C3EDED8B8A13F66F33F4E9E8E12AAA21">6</a></td>
                 <td>YP iTunes 1080P</td>
-                <td><a href="subtitles/YP-1R-1R-01x01.srt">Get</a></td>
+                <td><a href="subtitles/YP-DT-1R-01x01.srt">Get</a></td>
             </tr>
         </tbody>
     </table>
