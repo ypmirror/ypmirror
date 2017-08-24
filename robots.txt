@@ -2,36 +2,43 @@ User-agent: Googlebot
 Disallow: /yaywoy/
 Disallow: /yaystar/
 Disallow: /yaysu/
+Disallow: /yayducks/
 
 User-agent: Googlebot-*
 Disallow: /yaywoy/
 Disallow: /yaystar/
 Disallow: /yaysu/
+Disallow: /yayducks/
 
 User-agent: Adsbot-Google
 Disallow: /yaywoy/
 Disallow: /yaystar/
 Disallow: /yaysu/
+Disallow: /yayducks/
 
 User-agent: Mediapartners-Google
 Disallow: /yaywoy/
 Disallow: /yaystar/
 Disallow: /yaysu/
+Disallow: /yayducks/
 
 User-Agent: bingbot
 Disallow: /yaywoy/
 Disallow: /yaystar/
 Disallow: /yaysu/
+Disallow: /yayducks/
 
 User-agent: msnbot
 Disallow: /yaywoy/
 Disallow: /yaystar/
 Disallow: /yaysu/
+Disallow: /yayducks/
 
 User-agent: Slurp
 Disallow: /yaywoy/
 Disallow: /yaystar/
 Disallow: /yaysu/
+Disallow: /yayducks/
 
 User-agent: *
 Disallow: /nogit/
