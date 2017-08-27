@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/1sct.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Aug 2017 08:23:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 21:30:55 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x15 - Triple Threat | 1080p.WEB-DL SCOOT | YP-1STB-07x15.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x15.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Triple Threat; Season: 7; Episode: 15</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x15.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x15.mkv.torrent" length="34530" type="application/x-bittorrent"/>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1STB-07x15.mkv.torrent</torrent:filename>
+      <torrent:contentlength>435224298</torrent:contentlength>
+      <torrent:infohash>0C482A95A548676CEAEC34C600335F946EA2563B</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:0C482A95A548676CEAEC34C600335F946EA2563B</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 07x14 - Fame and Misfortune | 1080p.WEB-DL SCOOT | YP-1STB-07x14.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x14.mkv.torrent</link>
