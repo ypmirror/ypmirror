@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/1it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Aug 2017 22:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Sep 2017 12:42:17 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x17 - To Change a Changeling | 1080p.WEB-DL | YP-1T-07x17.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1T-07x17.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: To Change a Changeling; Season: 7; Episode: 17</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1T-07x17.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1T-07x17.mkv.torrent" length="73018" type="application/x-bittorrent"/>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1T-07x17.mkv.torrent</torrent:filename>
+      <torrent:contentlength>940375635</torrent:contentlength>
+      <torrent:infohash>00656D3B5480A14967DBCD64FD8AE6B36F4304F3</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:00656D3B5480A14967DBCD64FD8AE6B36F4304F3</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 07x16 - Campfire Tales | 1080p.WEB-DL | YP-1R-07x16.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-1R-07x16.mkv.torrent</link>
