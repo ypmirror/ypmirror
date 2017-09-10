@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/7it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Sep 2017 04:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2017 07:28:28 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x18 - Daring Done | 720p.WEB-DL | YP-7T-07x18.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-7T-07x18.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Daring Done; Season: 7; Episode: 18</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-7T-07x18.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-7T-07x18.mkv.torrent" length="59017" type="application/x-bittorrent"/>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-7T-07x18.mkv.torrent</torrent:filename>
+      <torrent:contentlength>757002759</torrent:contentlength>
+      <torrent:infohash>BD0EE91CEA05B037CF216AAC6A31FF84F54FAAE9</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:BD0EE91CEA05B037CF216AAC6A31FF84F54FAAE9</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 07x17 - To Change a Changeling | 720p.WEB-DL | YP-7R-07x17.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-7R-07x17.mkv.torrent</link>
