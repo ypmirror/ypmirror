@@ -1,0 +1,4156 @@
+﻿1
+00:00:00,134 --> 00:00:02,835
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h
+
+2
+00:00:06,674 --> 00:00:08,240
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(caws)\h\h\h\h\h\h
+
+3
+00:00:20,721 --> 00:00:22,621
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hHey!\h\h\h\h\h\h\h\h
+
+4
+00:00:22,623 --> 00:00:23,622
+\h\h\h\h\h\h\h\h\h\h\h\hEh!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+5
+00:00:23,624 --> 00:00:24,790
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hGo!\h\h\h\h\h\h\h\h\h
+
+6
+00:00:28,729 --> 00:00:30,729
+\h\h\h\h\h\h\h\h\h\h\h(murmurs)\h\h\h\h\h\h\h\h\h\h\h\h
+
+7
+00:00:30,731 --> 00:00:33,065
+\h\h\h\h\h\h\h\h\h\h\h(thumping)\h\h\h\h\h\h\h\h\h\h\h
+
+8
+00:00:33,067 --> 00:00:34,133
+\h\h\h\h\h\h\h\h\h\h\h\h(clamor)\h\h\h\h\h\h\h\h\h\h\h\h
+
+9
+00:00:34,135 --> 00:00:36,035
+\h\h\h\h(sputtering)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+10
+00:00:36,037 --> 00:00:37,903
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hGood\hmorning,\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hUncle\hDonald.\h\h\h
+
+11
+00:00:37,905 --> 00:00:40,706
+\h\h\h\h\h\h\h\hYou\hcan't\hwear\hthis\h\h\h\h\h
+\h\h\h\h\h\h\h\hto\hyour\hjob\hinterview.\h\h
+
+12
+00:00:40,708 --> 00:00:43,142
+\h\h\h\h(sputtering)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hMy\huniform!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+13
+00:00:43,144 --> 00:00:45,310
+\h\h\h\h\h\h\h\hYou\hgotta\hdress\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hfor\hthe\hjob\hyou\hwant,\h\h\h
+
+14
+00:00:45,312 --> 00:00:48,147
+\h\h\h\h\h\h\h\hnot\hthe\hjob\hyou\hhave,\h\h\h
+\h\h\h\h\h\h\h\hwhich\his\hno\hjob.\h\h\h\h\h\h\h\h
+
+15
+00:00:48,149 --> 00:00:50,649
+\h\h\h\h\h\h\h\hWah!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+16
+00:00:50,651 --> 00:00:53,886
+Huey,\hdon't\htouch\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+the\hstove.\hIt's\hhot!\h\h\h\h\h\h\h\h\h\h\h\h
+
+17
+00:00:53,888 --> 00:00:55,854
+\h\h\h\h\h\h\h\hBut\hit's\ha\hbig\hday,\h\h\h\h\h
+\h\h\h\h\h\h\h\hand\ha\hbig\hday\h\h\h\h\h\h\h\h\h\h\h
+
+18
+00:00:55,856 --> 00:00:57,589
+\h\h\h\hcalls\hfor\ha\hbig\hbreakfast!\h\h
+
+19
+00:00:57,591 --> 00:01:00,025
+\h\h\h\h\h\h\h\h(deflating\hsound)\h\h\h\h\h\h\h
+
+20
+00:01:00,027 --> 00:01:01,326
+\h\h\h\hBleh!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+21
+00:01:01,328 --> 00:01:03,929
+\h\h\h\h\h\h\h\hI'll\hget\hthe\hiron.\h\h\h\h\h\h
+
+22
+00:01:03,931 --> 00:01:06,165
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOuch!\hOoch.\h\h\h\h\h
+
+23
+00:01:06,167 --> 00:01:08,600
+\h\h\h\h\h\h\h\h\h\h\h\h(sputtering)\h\h\h\h\h\h\h\h
+
+24
+00:01:08,602 --> 00:01:10,936
+Stop\hhelping\hme.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+And\hput\hon\hyour\hlife\hvests!\h\h\h\h\h
+
+25
+00:01:10,938 --> 00:01:14,106
+What\hif\hthe\hboat\hgoes\hdown\h\h\h\h\h\h
+while\hthe\hbabysitter's\hhere?\h\h\h\h
+
+26
+00:01:14,108 --> 00:01:15,507
+\h\h\h\h\h\h\h\hBOTH:\hYes,\hUncle\hDonald.
+
+27
+00:01:19,013 --> 00:01:21,380
+Where\his\hthat\hbabysitter?\h\h\h\h\h\h\h
+
+28
+00:01:21,382 --> 00:01:22,915
+\h\h\h\hWhere\hare\hyou?!\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+29
+00:01:22,917 --> 00:01:24,716
+\h\h\h\h\h\h\h\hWhat?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+30
+00:01:24,718 --> 00:01:27,786
+I\hdidn't\hgive\hyou\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+a\hnew\haddress.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+31
+00:01:27,788 --> 00:01:29,955
+\hWell,\hwhat\htime\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+<i>can</i>\hyou\hget\hhere?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+32
+00:01:29,957 --> 00:01:33,292
+\h\h\h\h\h\h\h\h\h\h\h\hI...\hdon't\hknow.\h\h\h\h
+
+33
+00:01:33,294 --> 00:01:34,793
+Crazy\hold\hbird.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+34
+00:01:34,795 --> 00:01:37,729
+Where\hcan\hI\hfind\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+another\hbabysitter\hat\h10:00?\h\h\h\h
+
+35
+00:01:37,731 --> 00:01:39,865
+\h\h\h\h\h\h\h\h\h\h\h\h-10:00?!\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h-You\hgotta\hgo!\h\h\h\h\h\h\h\h\h
+
+36
+00:01:40,901 --> 00:01:42,034
+\h\h\h\h\h\h\h\hAah!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+37
+00:01:42,036 --> 00:01:44,636
+\h\h\h\hI\hcan't\hjust\hleave\hyou!\h\h\h\h\h
+
+38
+00:01:44,638 --> 00:01:47,539
+\h\h\h\h\h\h\h\hWe\hcan\hsurvive\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hfor\ha\hcouple\hof\hhours!\h\h
+
+39
+00:01:47,541 --> 00:01:50,943
+A\hcouple\hof\hhours.\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Uh...\hwell,\hokay.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+40
+00:01:50,945 --> 00:01:53,979
+But\hjust\hkeep\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+those\hlife\hvests\hon!\h\h\h\h\h\h\h\h\h\h\h\h
+
+41
+00:01:53,981 --> 00:01:56,548
+\h\h\h\h\h\h\h\h(engine\hstarts)\h\h\h\h\h\h\h\h\h
+
+42
+00:01:56,550 --> 00:01:59,017
+\h\h\h\h\h\h\h\h-Where's\hDewey?\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h-Sleeping.\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h-Who's\hDewey?\h\h\h\h\h\h\h\h\h\h\h
+
+43
+00:02:02,656 --> 00:02:04,890
+Who's\hDewey?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+44
+00:02:04,892 --> 00:02:07,826
+\h\h\hAll\hright,\hboys,\hwe'll\hget\h\h\h
+\h\h\h\hto\hCape\hSuzette\hand\hback\h\h\h\h
+
+45
+00:02:07,828 --> 00:02:09,995
+\h\h\h\h\hbefore\hanyone\hrealizes\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\hwe're\hgone.\h\h\h\h\h\h\h\h\h\h\h
+
+46
+00:02:09,997 --> 00:02:12,965
+\h\h\h\h\h\h\hSo\hlong,\hDorkburg!\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hHello...\h\h\h\h\h\h\h\h\h\h\h\h
+
+47
+00:02:12,967 --> 00:02:14,733
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hUncle\hDonald?\h\h\h
+
+48
+00:02:14,735 --> 00:02:16,435
+\h\h\h\h\h\h\hWhat--\hWhat's\hup?\h\h\h\h\h\h\h\h
+
+49
+00:02:16,437 --> 00:02:18,904
+\h\h\h\h\h\h\h\hI\hcan't\hleave\hyou\hboys\h\h
+\h\h\h\h\h\h\h\halone\hfor\hone\hminute!\h\h\h
+
+50
+00:02:18,906 --> 00:02:21,640
+You\hwere\hsupposed\hto\hget\h\h\h\h\h\h\h\h
+him\hout\hby\h10:00,\hHubert!\h\h\h\h\h\h\h
+
+51
+00:02:21,642 --> 00:02:24,977
+\h\h\h\h\h\hYou\hwere\hsupposed\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\hto\hsignal\hbefore\hyou\h\h\h\h\h\h
+\h\h\h\h\h\hstarted\hthe\hboat,\hDewford!
+
+52
+00:02:24,979 --> 00:02:27,112
+\h\h\h\h\h\h\h\h\h\hWe\hnever\hget\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hto\hdo\hanything!\h\h\h\h\h\h\h\h\h
+
+53
+00:02:27,114 --> 00:02:30,415
+\h\h\h\hBoys,\hif\hwe\hwant\hto\hkeep\h\h\h\h
+\h\h\h\h\h\h\h\hour\hhome\hafloat,\h\h\h\h\h\h\h\h
+
+54
+00:02:30,417 --> 00:02:34,653
+\h\h\hwe've\hall\hgot\hto\hdo\hthings\h\h\h
+\h\h\h\h\h\hwe\hdon't\hwant\hto\hdo.\h\h\h\h\h\h
+
+55
+00:02:34,655 --> 00:02:35,821
+\h\h\h\h\h\h\h\h\h\h\h\h(beeps)\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+56
+00:02:35,823 --> 00:02:38,023
+\h\h\h\h\h\h\h\h<i>\hDestination:</i>\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h<i>\hMcDuck\hManor.</i>\h\h\h\h\h\h\h\h\h\h
+
+57
+00:02:38,025 --> 00:02:40,692
+\h\h\h\h\h\h\h\hMcDuck\hManor?\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hAs\hin\hScrooge\hMcDuck?\h\h\h
+
+58
+00:02:40,694 --> 00:02:42,594
+The\hbajillionaire?\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+59
+00:02:42,596 --> 00:02:44,196
+\h\h\h\h\h\h\h\hYou're\hfinally\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hgonna\hsell\hus.\h\h\h\h\h\h\h\h\h\h
+
+60
+00:02:44,198 --> 00:02:47,799
+\h\h\h\h\h\h\h\h\h\h\h\hI'm\hnot\hgonna\hsell--
+\h\h\h\h\h\h\h\h\h\h\h\hHe\howes\hme.\h\h\h\h\h\h\h\h\h
+
+61
+00:02:47,801 --> 00:02:49,668
+We're\hgonna\hmeet\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Scrooge\hMcDuck?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+62
+00:02:49,670 --> 00:02:51,170
+\h\h\h\h\h\h-That\hguy's\hamazing!\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h-What!\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+63
+00:02:51,172 --> 00:02:53,705
+I\hheard\hhe's\hso\hepic\h\h\h\h\h\h\h\h\h\h\h\h
+he\hdefeated\ha\hrock\hgiant\h\h\h\h\h\h\h\h
+
+64
+00:02:53,707 --> 00:02:56,608
+and\hcarved\ha\hstatue\h\h\h\h\h\h\h\h\h\h\h\h\h
+of\hhimself\hout\hof\hits\hlegs!\h\h\h\h\h
+
+65
+00:02:56,610 --> 00:02:59,845
+\h\h\h\h\h\h\h\hI\hheard\hhe's\hso\hsmart\h\h\h
+\h\h\h\h\h\h\h\hhe\hsolved\hthe\hmystery\h\h\h
+\h\h\h\h\h\h\h\hof\hthe\hchupacabra.\h\h\h\h\h\h
+
+66
+00:02:59,847 --> 00:03:01,513
+\h\h\h\h\h\h\h\hTurns\hout\hit\hwas\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hjust\ha\hshaved\hbear!\h\h\h\h\h
+
+67
+00:03:01,515 --> 00:03:04,983
+I\hheard\hthat\hhe's\hso\hrich\h\h\h\h\h\h\h
+he\honly\hhunts\hfor\htreasure\h\h\h\h\h\h
+
+68
+00:03:04,985 --> 00:03:07,052
+to\hswim\hin\hit!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+69
+00:03:07,054 --> 00:03:09,721
+\h\h\h\h\h\h\hAll\hright,\htake\hit\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\hdown\ha\hnotch.\h\h\h\h\h\h\h\h\h\h
+
+70
+00:03:09,723 --> 00:03:11,723
+\h\h\h\hIt's\honly\ha\hcouple\hof\hhours.
+
+71
+00:03:11,725 --> 00:03:16,028
+A\hcouple\hof\hhours\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+with\hthe\hmost\hexciting\hduck\h\h\h\h\h
+in\hthe\hworld!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+72
+00:03:16,030 --> 00:03:18,864
+\h\h\h\hWith\hbusiness\hexpanding\h\h\h\h\h
+\h\h\h\h\h\hin\hthe\hSpoonerville\h\h\h\h\h\h\h
+
+73
+00:03:18,866 --> 00:03:24,169
+\h\h\h\hand\hSt.\hCanard\hmarkets,\h\h\h\h\h
+noted\hin\hAppendices\hC,\hG\hand\h5F,
+
+74
+00:03:24,171 --> 00:03:27,072
+\h\h\hwe're\halso\hcutting\hfunding\h\h\h
+\h\hto\hunnecessary\hdepartments:\h\h\h
+
+75
+00:03:27,074 --> 00:03:29,508
+\h\h\h\h\h\hHistorical\hResearch,\h\h\h\h\h\h
+\h\h\h\h\h\h\hExperimental\hTech,\h\h\h\h\h\h\h
+
+76
+00:03:29,510 --> 00:03:31,176
+\h\h\h\hDeep\hSea\hExploration...\h\h\h\h\h
+
+77
+00:03:31,178 --> 00:03:33,912
+\h\h\h\h\h\h\h\h\h\h\hFantastic.\h\h\h\h\h\h\h\h\h\h\h
+
+78
+00:03:38,886 --> 00:03:40,552
+\h\h\h\hBack\hin\hthe\hbin\hwith\hya.\h\h\h\h
+
+79
+00:03:40,554 --> 00:03:42,754
+\h\h\h\h\h\h\hSee\hyou\htomorrow.\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h(sighs)\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+80
+00:03:42,756 --> 00:03:43,755
+\h\h\h\h\h\h\h\h\h\h\h\h(clinks)\h\h\h\h\h\h\h\h\h\h\h\h
+
+81
+00:03:48,696 --> 00:03:50,295
+\h\h\h\h\h\h\h\h\h\h\h\h\h(grunting)\h\h\h\h\h\h\h\h\h
+
+82
+00:03:59,273 --> 00:04:03,108
+\h\h\h\h\h\h\h\h(tires\hsquealing)\h\h\h\h\h\h\h
+
+83
+00:04:03,110 --> 00:04:04,509
+\h\h\h\h\h\h(barking)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+84
+00:04:05,879 --> 00:04:09,214
+Just\hanother\hday\hat\hthe\hoffice,\h
+eh,\hMr.\hMcD?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+85
+00:04:09,216 --> 00:04:10,749
+(laughs)\hBeen\hthere.\h\h\h\h\h\h\h\h\h\h\h\h
+
+86
+00:04:10,751 --> 00:04:12,384
+I\hdon't\hhave\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+an\hoffice,\hper\hse,\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+87
+00:04:12,386 --> 00:04:15,187
+but\hin\hsome\hways\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+the\hroad\his\hmy\hoffice.\h\h\h\h\h\h\h\h\h\h
+
+88
+00:04:15,189 --> 00:04:18,790
+Hey,\hthat's\hdeep.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+I\hgotta\hwrite\hthat\hdown.\h\h\h\h\h\h\h\h
+
+89
+00:04:18,792 --> 00:04:21,026
+\h\h\h\h\h\h\h\h\h\h\h\h(crash)\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+90
+00:04:22,863 --> 00:04:25,397
+Geh!\hEyes\hon\hthe\hroad,\hMcQuack!\h
+
+91
+00:04:25,399 --> 00:04:27,799
+Every\hdent\his\hcoming\h\h\h\h\h\h\h\h\h\h\h\h
+out\hof\hyour\hsalary.\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+92
+00:04:27,801 --> 00:04:30,135
+\h\h\h\h\h\h\h\hAbsolutely.\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hHey,\hya\hread\habout\h\h\h\h\h\h
+
+93
+00:04:30,137 --> 00:04:33,138
+\h\h\h\hthat\hcrazy\hsnowstorm\h\h\h\h\h\h\h\h
+\h\h\h\hon\hthe\hDrake\hBarrier\hReef?\h\h
+
+94
+00:04:33,140 --> 00:04:35,574
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hI'd\hhate\hto\hfly\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hinto\hthat\hone.\h\h
+
+95
+00:04:35,576 --> 00:04:38,910
+\h\h\h\hSee,\hI'm\ha\hbit\hof\ha\hpilot,\h\h
+\h\h\h\hand,\huh--\hOh,\hokay.\h\h\h\h\h\h\h\h\h
+
+96
+00:04:38,912 --> 00:04:41,480
+Divider--\hthere\hyou\hgo.\h\h\h\h\h\h\h\h\h
+
+97
+00:04:44,652 --> 00:04:46,818
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hHit\hthe\hbrakes!\h
+
+98
+00:04:46,820 --> 00:04:48,120
+\h\h\h\h\h\h\h(tires\hsquealing)\h\h\h\h\h\h\h\h
+
+99
+00:04:49,156 --> 00:04:50,155
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hEch.\h\h\h\h\h\h\h\h\h\h\h
+
+100
+00:04:50,157 --> 00:04:51,290
+\h\h\h\h\h\h\h\hWhy\haren't\hwe\hmoving?\h\h\h
+
+101
+00:04:51,292 --> 00:04:52,991
+Mrs.\hB.,\hopen\hup!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+102
+00:04:52,993 --> 00:04:54,826
+I\hneed\hto\hget\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+out\hof\hhere\hbefore--\h\h\h\h\h\h\h\h\h\h\h\h
+
+103
+00:04:54,828 --> 00:04:56,094
+\h\h\h\h\h\h\h\h\h\h\h\h(honking)\h\h\h\h\h\h\h\h\h\h\h
+
+104
+00:04:56,096 --> 00:04:57,963
+...he\hshows\hup.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+105
+00:04:57,965 --> 00:04:59,998
+\h\h\h\hHey!\hJettison\hthat\hjalopy\h\h\h
+
+106
+00:05:00,000 --> 00:05:03,502
+\h\h\h\hfrom\hmy\hdriveway\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hthis\hinstant,\hya\hdeadbeat!\h\h
+
+107
+00:05:08,609 --> 00:05:10,275
+\h\h\h\hDonald\hDuck.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+108
+00:05:10,277 --> 00:05:11,843
+\h\h\h\h\h\h\h\hUncle\hScrooge.\h\h\h\h\h\h\h\h\h\h
+
+109
+00:05:11,845 --> 00:05:17,516
+\h\h\h\h\h\h\h\h\h\h\h\hUncle\hScrooge!\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h(all\hjeering)\h\h\h\h\h\h\h
+
+110
+00:05:19,953 --> 00:05:22,020
+\h\h\h\h\h\h\h\hSo,\hyou're\hlooking\hgood.
+
+111
+00:05:22,022 --> 00:05:24,856
+\h\h\h\hStill\hliving\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hon\hthat\hboat?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+112
+00:05:24,858 --> 00:05:27,926
+\h\h\h\h\h\hYup.\hStill\ha\htrillionaire?
+
+113
+00:05:28,829 --> 00:05:30,696
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(bird\hcalls)\h\h\h\h
+
+114
+00:05:30,698 --> 00:05:33,098
+\h\h\h\h\h\hGood,\hgood.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+115
+00:05:33,100 --> 00:05:34,199
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSo...\h\h\h\h\h\h\h
+
+116
+00:05:34,201 --> 00:05:35,801
+\h\h\h\hSo...\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+117
+00:05:35,803 --> 00:05:37,169
+Jettison\hthat\hjalopy\h\h\h\h\h\h\h\h\h\h\h\h
+
+118
+00:05:37,171 --> 00:05:40,972
+from\hmy\hdriveway\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+this\hinstant,\hyou\hdeadbeat!\h\h\h\h\h
+
+119
+00:05:40,974 --> 00:05:42,841
+\h\h\h\hOh,\hhere\hwe\hgo!\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+120
+00:05:42,843 --> 00:05:45,377
+\h\h\h\hGiving\horders\hlike\hhe's\h\h\h\h\h
+\hthe\hrichest\hduck\hin\hthe\hworld!\h
+
+121
+00:05:45,379 --> 00:05:47,279
+I\ham\hthe\hrichest\hduck\h\h\h\h\h\h\h\h\h\h\h
+in\hthe\hworld!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+122
+00:05:47,281 --> 00:05:48,280
+Now\hmove!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+123
+00:05:48,282 --> 00:05:49,681
+\h\h\h\h\h\h\h\h\h\h\h\hI\hwould\hlove\hto!\h\h\h\h
+
+124
+00:05:49,683 --> 00:05:51,983
+\h\h\h\h\h\h\h\hIt\hjust\hso\hhappens\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hI\hhave\ha\hjob\hinterview.\h
+
+125
+00:05:51,985 --> 00:05:54,019
+So\hwhy\hare\hyou\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+standing\hthere\hyelling?\h\h\h\h\h\h\h\h\h
+
+126
+00:05:54,021 --> 00:05:56,621
+\h\h\h\h\h\h\h\hMrs.\hB.\hsaid\hthat\hyou\h\h\h
+\h\h\h\h\h\h\h\hwould\hwatch\hthe\hboys!\h\h\h
+
+127
+00:05:56,623 --> 00:05:59,191
+\h\h\h\h\h\h\h\hCan\hyou\hdo\hthat\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hwithout\hlosing\hthem?!\h\h\h
+
+128
+00:05:59,193 --> 00:06:01,293
+\h\h\h\h\h\h\h-Of\hcourse\hI\hcan!\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h-Fantastic!\h\h\h\h\h\h\h\h\h\h\h
+
+129
+00:06:01,295 --> 00:06:04,062
+\h\h\h\h\h\h\hThank\hyou\hso\hmuch!\h\h\h\h\h\h\h
+
+130
+00:06:04,064 --> 00:06:05,864
+You're\hwelcome!\hWait,\hwhat\hnow?\h
+
+131
+00:06:05,866 --> 00:06:07,165
+\h\h\h\h\h\h\h\h(car\hdoor\hslams)\h\h\h\h\h\h\h\h
+
+132
+00:06:07,167 --> 00:06:10,369
+\h\h\h\h\h\h\h\hHuey,\hDewey,\hLouie,\h\h\h\h\h
+\h\h\h\h\h\h\h\hmeet\hScrooge\hMcDuck.\h\h\h\h
+
+133
+00:06:10,371 --> 00:06:13,872
+\h\h\h\h\h\h\h\hRemember,\hno\htricks,\h\h\h\h
+\h\h\h\h\h\h\h\hno\hlies,\hno\htrouble.\h\h\h\h
+
+134
+00:06:13,874 --> 00:06:15,974
+\h\h\h\h\h\h\h\hALL:\hYes,\hUncle\hDonald.\h
+
+135
+00:06:15,976 --> 00:06:18,110
+\h\h\h\h\h\h\h\hI\hwasn't\htalking\hto\hyou.
+
+136
+00:06:35,896 --> 00:06:37,562
+\h\h\h\h\h\h\h\hWhoa!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+137
+00:06:40,367 --> 00:06:43,068
+\h\h\h\h\h\h\h\hTalk\hto\hyour\hnephews.\h\h\h
+
+138
+00:06:45,105 --> 00:06:46,905
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hEw.\h\h\h\h\h\h\h\h\h
+
+139
+00:06:48,375 --> 00:06:49,741
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(startles)\h\h
+
+140
+00:06:49,743 --> 00:06:54,579
+\h\h\h\hSo,\hdo\hchildren\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hstill\hlike\hmarbles\hor...?\h\h\h
+
+141
+00:06:54,581 --> 00:06:57,716
+\h\h\h\h-Are\hyou\hreally\hour\huncle?\h\h
+\h\h\h\h-How\hold\hare\hyou?\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h-What's\hyour\hnet\hworth?\h\h\h\h\h
+
+142
+00:06:57,718 --> 00:06:58,950
+What's\hthe\hdeal\hwith\hyou\h\h\h\h\h\h\h\h
+and\hUncle\hDonald?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+143
+00:06:58,952 --> 00:07:01,186
+\h\h\h\h\h\h\hIs\hthat\hfork\hreal\hsilver?
+\h\h\h\h\h\h\hCan\hI\hhave\hit?\h\h\h\h\h\h\h\h\h\h\h
+
+144
+00:07:01,188 --> 00:07:03,889
+\h\h\h\h-How\hcome\hyou\hnever\hvisit?\h\h
+\h\h\h\h-'Cause\hyou're\hso\hold\h\h\h\h\h\h\h
+\h\h\h\h\hand\hmoving\his\hso\hhard?\h\h\h\h\h
+
+145
+00:07:03,891 --> 00:07:05,357
+You\howe\hus,\hlike,\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+a\hlot\hof\hbirthday\hpresents.\h\h\h\h\h
+
+146
+00:07:05,359 --> 00:07:09,394
+You\hused\hto\hbe\ha\hbig\hdeal!\h\h\h\h\h\h
+Whatever\hhappened\hto\hyou?\h\h\h\h\h\h\h
+
+147
+00:07:09,396 --> 00:07:11,062
+\h\h\h\h\h\h\h\h\h\h\h\hBeakley!\h\h\h\h\h\h\h\h\h\h\h\h
+
+148
+00:07:11,064 --> 00:07:12,798
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hAah!\h\h\h\h\h\h\h\h\h\h\h\h
+
+149
+00:07:12,800 --> 00:07:13,965
+\h\h\h\h\h\h\hYou\hagreed\hto\hwatch\hthem.
+
+150
+00:07:13,967 --> 00:07:15,634
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWatch\hthem.\h\h\h\h\h
+
+151
+00:07:15,636 --> 00:07:19,838
+\h\h\h\h\h\h\h\h\h\hHuey,\hLouie,\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hthe\hthird\hone...\h\h\h\h\h\h\h\h
+
+152
+00:07:21,809 --> 00:07:25,444
+\h\h\h\h\h\hPlease\hdo\hnot\hleave\h\h\h\h\h\h\h
+\h\h\hthe\hdesignated\hplay\harea.\h\h\h\h
+
+153
+00:07:25,446 --> 00:07:27,813
+\h\h\h\h\h\h\h\h\h\h\h-(clinks)\h\h\h\h\h\h\h\h\h\h\h\h
+\h-A\hgift\hfrom\hyour\hgreat-uncle.\h
+
+154
+00:07:27,815 --> 00:07:29,614
+\h\h\h\hYou\hwill\hreturn\hthem\h\h\h\h\h\h\h\h
+\h\h\h\hupon\hyour\hdeparture.\h\h\h\h\h\h\h\h
+
+155
+00:07:29,616 --> 00:07:31,950
+\h\h\h\h\h\h\hHe's\hcounted\hthem.\h\h\h\h\h\h\h
+
+156
+00:07:31,952 --> 00:07:33,051
+\h\h\h\h\h\h\h\h\h(lock\hclicks)\h\h\h\h\h\h\h\h\h\h
+
+157
+00:07:33,053 --> 00:07:35,153
+\h\h\h\h\h\h\h\hGreat.\hNow\hwe've\hgot\h\h\h\h
+\h\h\h\h\h\h\h\htwo\hboring\huncles.\h\h\h\h\h\h
+
+158
+00:07:35,155 --> 00:07:37,289
+So,\hwe're\htotally\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+ditching\hthis\hroom,\hright?\h\h\h\h\h\h
+
+159
+00:07:37,291 --> 00:07:40,792
+\h\h\h\h\h\h\h\hYup,\hand\hI\hknow\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\hjust\hhow\hto\hdo\hit.\h\h\h\h\h\h\h
+
+160
+00:07:40,794 --> 00:07:41,960
+\h\h\h\h(gasps)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+161
+00:07:51,738 --> 00:07:53,605
+\h\h\h\h\h\h\h\h\h\h(grumbling)\h\h\h\h\h\h\h\h\h\h\h
+
+162
+00:07:53,607 --> 00:07:56,608
+\h\h\h\h"Used\hto\hbe\ha\hbig\hdeal."\h\h\h\h
+
+163
+00:07:56,610 --> 00:07:58,143
+\h\h\h\h\h\h\h\h\h\h\h(beating)\h\h\h\h\h\h\h\h\h\h\h\h
+
+164
+00:07:58,145 --> 00:08:01,079
+\h\h\h\h\h\h\h\hStupid\hdoorknob,\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\hcome\hoff!\h\h\h\h\h\h\h\h\h\h\h\h
+
+165
+00:08:01,081 --> 00:08:02,180
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hNailed\hit!\h\h\h\h\h
+
+166
+00:08:02,182 --> 00:08:04,182
+\h\h\h\hCan't\hbelieve\hthat\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hwas\hyour\hbest\hplan.\h\h\h\h\h\h\h\h\h
+
+167
+00:08:04,184 --> 00:08:08,286
+\hCome\hon,\hguys,\hlet's\hgo\htouch\h\h
+\h\h\h\h\hsome\hexpensive\hstuff.\h\h\h\h\h\h
+
+168
+00:08:08,288 --> 00:08:11,022
+\h\h\h\h\h\h\h\h\h\h\h\h\h-Aah!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h-Dewey!\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+169
+00:08:11,024 --> 00:08:12,691
+\h\h\h\h\h\h\h\h\h\h\hBOTH:\hAah!\h\h\h\h\h\h\h\h\h\h\h
+
+170
+00:08:13,994 --> 00:08:16,161
+\h\h\hI'll\hput\hthe\hmarbles\hback,\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hI\hswear!\h\h\h\h\h\h\h\h\h\h\h\h
+
+171
+00:08:16,163 --> 00:08:19,197
+Who\hsent\hyou?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Ma\hBeagle?\hGlomgold?\h\h\h\h\h\h\h\h\h\h\h\h
+
+172
+00:08:19,199 --> 00:08:20,298
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hAnswer\hme!\h\h
+
+173
+00:08:20,300 --> 00:08:24,936
+(sobbing)\hUncle\hScrooge!\h\h\h\h\h\h\h\h
+
+174
+00:08:24,938 --> 00:08:26,371
+\h\h\h\h\h\h\h\h\h\h\h\h<i>\hUncle</i>\hScrooge?\h\h\h\h\h
+
+175
+00:08:26,373 --> 00:08:29,274
+\h\h\h\h\h\h\h\h\h\h\h\hOh,\hmy\hgosh,\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hthe\hnephews!\h\h\h\h\h\h\h\h
+
+176
+00:08:29,276 --> 00:08:32,444
+\h\h\h\h\h\h\h\h-Wait,\hyou\hknow\hus?\h\h\h\h\h
+\h\h\h\h\h\h\h\h-(grunting)\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+177
+00:08:32,446 --> 00:08:36,047
+\h\h\h\hOf\hcourse!\hResearching\h\h\h\h\h\h
+\h\h\h\hMr.\hMcDuck\hand\hhis\hfamily\h\h\h
+\h\h\h\his\hkind\hof\hmy\hhobby.\h\h\h\h\h\h\h\h
+
+178
+00:08:36,049 --> 00:08:38,149
+\h\h\h\h\h\h\h\h\h\h\h\h\h-What?\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h-What\hare\hyour\hblood\htypes?\h\h\h
+
+179
+00:08:38,151 --> 00:08:40,619
+What's\hDonald\hreally\hlike?\h\h\h\h\h\h
+Who's\hthe\hevil\htriplet?\h\h\h\h\h\h\h\h\h
+
+180
+00:08:40,621 --> 00:08:41,853
+\h\h\h\h\h\h\h\h\h\h\h\h-Louie.\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h-Eh.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+181
+00:08:41,855 --> 00:08:43,822
+Tell\hme\heverything!\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+182
+00:08:43,824 --> 00:08:45,624
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hUm,\hwe\hlive\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hwith\hour\huncle?\h
+
+183
+00:08:45,626 --> 00:08:46,992
+\h\h\h\h\h\h\h\h\h\h\h\hOn\ha\hboat?\h\h\h\h\h\h\h\h\h\h
+
+184
+00:08:46,994 --> 00:08:48,393
+Go\hon.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+185
+00:08:48,395 --> 00:08:49,694
+\h\h\h\hKinda\hit.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+186
+00:08:49,696 --> 00:08:51,363
+We're\hjust\ha\hnormal,\h\h\h\h\h\h\h\h\h\h\h\h
+boring\hfamily.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+187
+00:08:51,365 --> 00:08:54,399
+\h\h\h\h\h\h\h\hNormal,\hboring?\hHah!\h\h\h\h
+
+188
+00:08:54,401 --> 00:08:56,835
+\h\h\h\h\h\h\h\h\h\h\hALL:\hOhh!\h\h\h\h\h\h\h\h\h\h\h\h
+
+189
+00:08:56,837 --> 00:08:59,237
+\h\h\h\h\h\h\h\h\h\h\h\h\hWhoa!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+190
+00:08:59,239 --> 00:09:01,072
+Huey,\hDewey,\hand\hLouie\hDuck,\h\h\h\h
+
+191
+00:09:01,074 --> 00:09:03,508
+Scrooge\hMcDuck's\hgreat-nephews\h\h
+on\hhis\hsister\hHortense's\hside\h\h\h
+
+192
+00:09:03,510 --> 00:09:05,043
+\h\h\h\h\h\hwith\hQuackmore\hDuck\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\htwice\hremoved!\h\h\h\h\h\h\h\h\h
+
+193
+00:09:05,045 --> 00:09:07,012
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hAnd\hyou\hare?\h\h\h\h
+
+194
+00:09:07,014 --> 00:09:09,214
+Oh,\hright.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Webby\hvan\hder\hQuack.\h\h\h\h\h\h\h\h\h\h\h\h
+
+195
+00:09:09,216 --> 00:09:10,715
+My\hgranny's\hthe\hhousekeeper.\h\h\h\h
+
+196
+00:09:10,717 --> 00:09:13,184
+Wait!\hAre\hwe...\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+friends\hnow?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+197
+00:09:13,186 --> 00:09:15,086
+\h\h\h\h\h\h\h\hIf\hwe\hsay\hyes,\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hwill\hyou\hlet\hus\hlive?\h\h\h
+
+198
+00:09:15,088 --> 00:09:17,155
+(scoffs)\hGood\hone,\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+new\hbest\hfriend!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+199
+00:09:20,327 --> 00:09:24,362
+\h\h\h\h\h\h\h\hSo,\hfriend,\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hwhat\hdo\hyou\hdo\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hfor\hfun\haround\hhere?\h\h\h\h
+
+200
+00:09:24,364 --> 00:09:26,164
+Oh!\hI'm\hthe\hbest\hat\hfun.\h\h\h\h\h\h\h\h
+
+201
+00:09:26,166 --> 00:09:28,433
+Um...\hyah!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+202
+00:09:30,203 --> 00:09:32,571
+\h\h\h\h\h\h\h\hAt\hleast\hit's\hnot\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hthe\hmarble\hroom.\h\h\h\h\h\h\h\h
+
+203
+00:09:32,573 --> 00:09:35,240
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(grunting)\h\h\h\h\h
+
+204
+00:09:39,546 --> 00:09:41,680
+\h\h\h\h\hCome\hon,\hyou\hblaggert.\h\h\h\h\h
+
+205
+00:09:41,682 --> 00:09:44,182
+\h\h\h\h\hYou\hwon't\hget\hthe\hbest\h\h\h\h\h
+\h\h\h\h\h\h\hof\hScrooge\hMcDuck!\h\h\h\h\h\h\h
+
+206
+00:09:44,184 --> 00:09:46,117
+Hmm.\hA\hlittle\hspring\hcleaning?\h\h
+
+207
+00:09:46,119 --> 00:09:48,587
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMaybe.\hMaybe\hnot.
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hRead\hthis.\h\h\h\h\h\h\h
+
+208
+00:09:49,523 --> 00:09:52,123
+Snow\hon\hthe\hDrake\hBarrier\hReef.\h
+
+209
+00:09:52,125 --> 00:09:54,059
+\h\h\h\hFirst\htime\hin\h50\hyears.\h\h\h\h\h
+
+210
+00:09:54,061 --> 00:09:56,094
+\h\h\h\hThat\hweather\hreport\h\h\h\h\h\h\h\h\h
+\h\h\h\haligns\hperfectly\h\h\h\h\h\h\h\h\h\h\h\h
+
+211
+00:09:56,096 --> 00:09:57,929
+\h\h\h\h\h\h\h\hwith\hthe\hPapia\hProphecy.
+
+212
+00:09:57,931 --> 00:10:03,134
+A\hshift\hin\hcurrents\hmay\hpresent\h
+\h\h\h\ha\hpathway\hto\hAtlantis,\h\h\h\h\h\h
+
+213
+00:10:03,136 --> 00:10:05,904
+\h\h\h\h\h\h\h\hlost\hcity\hunder\hthe\hsea!
+
+214
+00:10:05,906 --> 00:10:08,573
+This\his\hbecause\hsome\hchildren\h\h\h
+made\hfun\hof\hyou,\hisn't\hit?\h\h\h\h\h\h
+
+215
+00:10:08,575 --> 00:10:11,977
+\h\h\h\hNonsense!\hI'm\hno\hhas-been.\h\h
+\h\h\h\hThey're\hthe\hhas-beens.\h\h\h\h\h\h
+
+216
+00:10:11,979 --> 00:10:13,945
+\h\h\h\h\h\h\h\h\h\h\h\hI\ham\han\ham-now.\h\h\h\h\h
+
+217
+00:10:13,947 --> 00:10:15,080
+Make\ha\hlist!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+218
+00:10:15,082 --> 00:10:16,448
+Four\hoxygen\htanks,\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+219
+00:10:16,450 --> 00:10:18,149
+two\hpressure\hgauges,\h\h\h\h\h\h\h\h\h\h\h\h
+a\hpilot--\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+220
+00:10:18,151 --> 00:10:20,118
+\h\h\h\h\h\h\h\h\h-I'm\ha\hpilot.\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h-...a\hweek's\hprovisions,\h\h\h\h
+
+221
+00:10:20,120 --> 00:10:22,287
+-an\hexperimental\hdeep-sea\hsub...
+\h\h\h\h\h\h\h\h\h-I'm\ha\hpilot.\h\h\h\h\h\h\h\h\h\h
+
+222
+00:10:22,289 --> 00:10:24,322
+And\hone\hsecretary\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+for\han\hold\hman\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+223
+00:10:24,324 --> 00:10:28,326
+who\hseems\hto\hhave\hforgotten\h\h\h\h\h
+that\hI\ham\hnot\hhis\hsecretary!\h\h\h\h
+
+224
+00:10:29,930 --> 00:10:33,732
+\h\h\h\h\h\h\h\hSo,\heh,\hnot\hinterested?\h
+
+225
+00:10:33,734 --> 00:10:36,067
+\h\h\h\hI\hhave\henough\hexcitement\h\h\h\h
+\h\h\h\h\h\h\hcaring\hfor\hWebby.\h\h\h\h\h\h\h\h
+
+226
+00:10:36,069 --> 00:10:38,737
+\h\h\h\hPerhaps\hyou\hshould\hspend\h\h\h\h
+\h\hsome\htime\hwith\hyour\hfamily.\h\h\h
+
+227
+00:10:38,739 --> 00:10:43,308
+Oh,\hhang\hup\hmy\hspats,\h\h\h\h\h\h\h\h\h\h\h
+become\hthe\hdoddering\hold\hrelic\h\h
+everyone\hthinks\hI\ham,\h\h\h\h\h\h\h\h\h\h\h
+
+228
+00:10:43,310 --> 00:10:45,677
+spinning\hyarns\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+to\hthose\hloud-mouth\hyoung'uns\h\h\h
+
+229
+00:10:45,679 --> 00:10:47,278
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\habout\hthe\hman\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hI\hused\hto\hbe?\h\h\h
+
+230
+00:10:47,280 --> 00:10:50,448
+You\hhave\havoided\hthem\h\h\h\h\h\h\h\h\h\h\h
+for\hten\hyears!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+231
+00:10:50,450 --> 00:10:53,852
+\h\h\h\h\h\h\h\hBecause\hfamily\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\his\hnothing\hbut\htrouble!\h
+
+232
+00:10:53,854 --> 00:10:56,221
+\h\h\h\h\h\h\h\h(gasps)\hOh.\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+233
+00:10:57,457 --> 00:10:59,124
+\h\h\h\h\h\h\h\h\h\h\h\hI'm\hScrooge\hMcDuck.\h
+
+234
+00:10:59,126 --> 00:11:01,926
+\h\h\h\h\h\h\hI\hmade\hmy\hname\hbeing\h\h\h\h\h
+\h\h\h\h\h\h\htougher\hthan\hthe\htoughies
+
+235
+00:11:01,928 --> 00:11:03,828
+\h\h\h\h\h\h\h\h\h\h\h\hand\hsmarter\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hthan\hthe\hsmarties.\h\h
+
+236
+00:11:03,830 --> 00:11:06,965
+\h\h\h\h\h\h\h\h\h\h\h\hAnd\hI\hmade\hmy\hmoney\h
+\h\h\h\h\h\h\h\h\h\h\h\hsquare,\hon\hmy\hown,\h\h
+
+237
+00:11:06,967 --> 00:11:10,201
+\h\h\h\h\h\h\h\hno\hnephews,\hno\hfamily,\h\h
+\h\h\h\h\h\h\h\hno\hone\hhelped\hme\hthere,\h
+
+238
+00:11:10,203 --> 00:11:12,203
+\h\h\h\h\h\h\h\h\h\h\h\hand\hI\hdon't\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hneed\hhelp\hnow,\hand--
+
+239
+00:11:12,205 --> 00:11:14,172
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(clattering)\h\h\h\h
+
+240
+00:11:14,174 --> 00:11:15,774
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hBeakley,\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\ha\hlittle\hhelp.\h\h
+
+241
+00:11:19,446 --> 00:11:21,246
+\h\h\h\h\h\h\h\hMaybe\hthey're\hright.\h\h\h\h
+
+242
+00:11:24,284 --> 00:11:26,151
+\h\h\h\hWhoo!\hVent\hcrawl!\h\h\h\h\h\h\h\h\h\h\h
+
+243
+00:11:26,153 --> 00:11:27,619
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(both\hgroan)
+
+244
+00:11:27,621 --> 00:11:29,654
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hYou\hdon't\hget\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hout\hmuch,\hdo\hyou?
+
+245
+00:11:29,656 --> 00:11:31,890
+Eh,\hGranny's\ha\hbit\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+overprotective.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+246
+00:11:31,892 --> 00:11:33,958
+She\htrains\hme\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+to\hbe\hready\hfor\hanything,\h\h\h\h\h\h\h
+
+247
+00:11:33,960 --> 00:11:36,294
+but\hthen\hshe\hsays\hI've\hgot\h\h\h\h\h\h
+everything\hI\hneed\hin\hhere.\h\h\h\h\h\h
+
+248
+00:11:36,296 --> 00:11:39,164
+\h\h\h\h\h\h\h\h\h\hBut\hone\hday,\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hI'm\hgonna\hsee\hthe\hworld.\h\h\h\h
+
+249
+00:11:39,166 --> 00:11:43,334
+\h\h\h\hI'm\hgonna\hbe\han\hexplorer!\h\h\h
+\h\h\h\hI'm\hgonna\heat\ha\hhamburger.\h\h
+
+250
+00:11:43,336 --> 00:11:45,236
+\h\h\h\h\h\h\hWe\hcould\hbring\hyou\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\ha\hhamburger.\h\h\h\h\h\h\h\h\h\h
+
+251
+00:11:45,238 --> 00:11:47,238
+You\hreally\hare\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+my\hbest\hfriends.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+252
+00:11:50,377 --> 00:11:54,879
+\h\h\h\h\h\h\h\h\h\h\h\hWelcome\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hto\hthe\hWing\hof\hSecrets!\h\h\h\h\h
+
+253
+00:12:03,690 --> 00:12:05,557
+\h\h\h\h\h\h\h\h\h\h\hI\hknew\hit!\h\h\h\h\h\h\h\h\h\h\h
+
+254
+00:12:05,559 --> 00:12:07,258
+\h\h\h\h\h\h\h\hDewey,\hcheck\hit\hout!\h\h\h\h
+
+255
+00:12:07,260 --> 00:12:09,994
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hYeah,\hwhatever.\h
+
+256
+00:12:09,996 --> 00:12:12,397
+\h\h\h\h\h\h\h\hThe\hGong\hof\hPicchu.\h\h\h\h\h
+
+257
+00:12:12,399 --> 00:12:17,335
+\h\h\h\h\h\h\hHit\hit\hthree\htimes\h\h\h\h\h\h\h
+\h\hto\hunleash\hunspeakable\hevil.\h\h
+
+258
+00:12:20,006 --> 00:12:21,439
+\h\h\h\h\h\h\h\hUh,\hwhat\hare\hyou\hdoing?\h
+
+259
+00:12:21,441 --> 00:12:23,675
+Calling\hdibs\hon\hstuff!\h\h\h\h\h\h\h\h\h\h
+
+260
+00:12:23,677 --> 00:12:26,411
+\h\h\h\hWhat?\hScrooge\his,\hlike,\h\h\h\h\h
+\h\h\h\hhe's,\hlike,\hsuper\hold.\h\h\h\h\h\h
+
+261
+00:12:26,413 --> 00:12:28,513
+Oh,\hcareful!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Medusa\hgauntlet.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+262
+00:12:28,515 --> 00:12:31,583
+One\htouch\hcan\hturn\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+organic\hmatter\hto\hstone.\h\h\h\h\h\h\h\h
+
+263
+00:12:31,585 --> 00:12:33,418
+(imitates\hsolidifying)\h\h\h\h\h\h\h\h\h\h
+
+264
+00:12:33,420 --> 00:12:35,253
+\h\h\h\h\h\h\h\h\h\h\h\hI'm\hgonna\hcall\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hthis\hone\ha\hmaybe.\h\h\h
+
+265
+00:12:35,255 --> 00:12:37,288
+\h\h\h\h\h\h\hThis\hplace\his\hincredible!
+
+266
+00:12:37,290 --> 00:12:38,590
+\h\h\h\hIt's\hfake.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+267
+00:12:41,895 --> 00:12:44,028
+\h\h\h\h\h\h\h\hIs\hthat\hUncle\hDonald?\h\h\h
+
+268
+00:12:44,030 --> 00:12:46,631
+\h\h\h\h\h\h\h\hOh,\hyeah,\hhe\hwas\h\h\h\h\h\h\h\h
+\h\h\h\h\hMr.\hMcDuck's\hsidekick!\h\h\h\h\h
+
+269
+00:12:46,633 --> 00:12:49,400
+\h\h\h\h\h\h\h\h-Dewey's\hright.\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h-Totally\hfake.\h\h\h\h\h\h\h\h\h\h
+
+270
+00:12:49,402 --> 00:12:51,569
+Uncle\hDonald\hhas\hnever\h\h\h\h\h\h\h\h\h\h
+done\hanything\hcool.\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+271
+00:12:51,571 --> 00:12:56,875
+\h\h\h\hWhat?\hDonald\hDuck\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\his\hone\hof\hthe\hmost\hdaring\h\h\h
+\h\h\h\hadventurers\hof\hall\htime!\h\h\h\h
+
+272
+00:12:56,877 --> 00:12:59,043
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(stuttering)\h\h\h\h
+
+273
+00:12:59,045 --> 00:13:01,079
+\h\h\h\h\h\h\h\h(phone\hrings)\h\h\h\h\h\h\h\h\h\h\h
+
+274
+00:13:01,081 --> 00:13:02,380
+\h\h\h\h\h\h\h\h\h\h\h\h(shiny\hring)\h\h\h\h\h\h\h\h
+
+275
+00:13:06,787 --> 00:13:08,319
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hBop\hbop.
+
+276
+00:13:08,321 --> 00:13:10,088
+\h\h\h\h\h\h\h\h\h\h\h\h\h\hBop.\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+277
+00:13:10,090 --> 00:13:11,556
+\h\h\h\h\h\h\h\hYo,\hchung\hchung!\h\h\h\h\h\h\h\h
+
+278
+00:13:11,558 --> 00:13:12,891
+\h\h\h\h\h\h\h\h\h\h\h\hBop\hbop!\h\h\h\h\h\h\h\h\h\h\h\h
+
+279
+00:13:12,893 --> 00:13:16,995
+\h\h\h\h\h\h\h\h\h\h(exclaiming)\h\h\h\h\h\h\h\h\h\h
+
+280
+00:13:19,566 --> 00:13:22,300
+\h\h\h\h\h\h\h\h\h\h\h(yelling)\h\h\h\h\h\h\h\h\h\h\h\h
+
+281
+00:13:23,970 --> 00:13:25,570
+\h\h\h\hThis\hhas\hgot\hto\hbe\ha\hfake.\h\h
+
+282
+00:13:25,572 --> 00:13:27,672
+\h\h\h\h\h\h\h\h\h\h\hAnd\hI\hbet\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\heverything\helse\his,\htoo.\h\h\h\h
+
+283
+00:13:27,674 --> 00:13:29,107
+That's\hnot\htrue!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+284
+00:13:29,109 --> 00:13:31,409
+What\habout\hthis\hpicture\h\h\h\h\h\h\h\h\h
+with\hchupacabra?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+285
+00:13:31,411 --> 00:13:34,512
+\h\h\h\h\h\h\h\h\h\h-Photoshop.\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h-This\htreasure\hchest?\h\h\h\h\h\h
+
+286
+00:13:34,514 --> 00:13:36,514
+Probably\hbought\hit\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+at\han\hauction.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+287
+00:13:36,516 --> 00:13:39,417
+\h\h\h\h\h\h\h\h\h\h\h\hThis...\hg-ghost?\h\h\h\h
+
+288
+00:13:39,419 --> 00:13:42,654
+You\hmean\hthis\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Halloween\hdecoration?\h\h\h\h\h\h\h\h\h\h\h
+
+289
+00:13:45,458 --> 00:13:48,426
+\h\h\h\h\h\h\h\h\h\h\hCurse\hye,\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hye\hscurvy\hlife-lubbers!\h\h\h\h\h
+
+290
+00:13:48,428 --> 00:13:51,763
+\h\h\h\h\hIt's\hCaptain\hPeghook,\h\h\h\h\h\h
+\hthe\hscourge\hof\hthe\hRiver\hStyx!\h
+
+291
+00:13:51,765 --> 00:13:55,300
+\h\h\h\h\h\h\h\h\h\h\hIt's\hreal.\h\h\h\h\h\h\h\h\h\h\h
+\h\h\hIt's\hreally,\hreally\hreal!\h\h\h\h
+
+292
+00:13:55,302 --> 00:13:56,668
+\h\h\h\h\h\h\h\h(evil\hlaughter)\h\h\h\h\h\h\h\h\h
+
+293
+00:13:56,670 --> 00:13:58,536
+\h\h\h\h\h\hThe\hDeus\hExcalibur!\h\h\h\h\h\h\h
+
+294
+00:13:58,538 --> 00:14:00,638
+\h\h\h\h\h\h\h\h\hIt\hwon't\hrest\h\h\h\h\h\h\h\h\h\h
+\h\h\huntil\hits\htarget's\hslain!\h\h\h\h
+
+295
+00:14:00,640 --> 00:14:03,308
+\h\h\h\h\hBut\hhe's\halready\hdead!\h\h\h\h\h
+
+296
+00:14:03,310 --> 00:14:05,710
+\h\h\h\h\h\h\h\h\h\h(gong\hrings)\h\h\h\h\h\h\h\h\h\h
+
+297
+00:14:05,712 --> 00:14:08,379
+(gasps)\hDo\hnot\hlet\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+anything\helse\hhit\hthat\hgong!\h\h\h\h
+
+298
+00:14:08,381 --> 00:14:10,481
+\h\h\h\h\h\h\h\h\h\h\h\hYep,\hI'm\hgonna\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hsit\hthis\hone\hout.\h\h\h
+
+299
+00:14:10,483 --> 00:14:12,183
+\h\h\h\h\h\h\h\h-Whoa!\hAah!\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h-(whinnies)\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+300
+00:14:12,185 --> 00:14:13,484
+\h\h\h\h\h\h\h\h\h\h\h\h(exclaims)\h\h\h\h\h\h\h\h\h\h
+
+301
+00:14:13,486 --> 00:14:15,520
+\h\h\h\h\h\h\h\hThe\hheadless\hman-horse!\h
+
+302
+00:14:15,522 --> 00:14:17,455
+\h\h\h\h\h\h\h\h\h\h\h\hThat\hone\hfeels\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hself-explanatory.\h\h\h
+
+303
+00:14:17,457 --> 00:14:19,357
+\h\h\h\h\h\h\h\h\h\h\h\h(rings)\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+304
+00:14:19,359 --> 00:14:20,558
+\h\h\h\hThat's\htwice!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+305
+00:14:20,560 --> 00:14:23,027
+\h\h\h\h\h\h\h\hOne\hmore,\hand\hsomething\h
+\h\h\h\h\h\h\h\hterrible\hcould\hhappen!\h\h
+
+306
+00:14:23,029 --> 00:14:25,463
+What\hcould\hbe\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+worse\hthan\hthis?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+307
+00:14:25,465 --> 00:14:28,399
+\h\h\h\h\h\h\h\hWhat\hin\hdismal\hdowns\h\h\h\h
+\h\h\h\h\h\h\h\his\hgoing\hon\hin\hhere?\h\h\h\h
+
+308
+00:14:28,401 --> 00:14:31,269
+\h\h\h\h\h\h\hALL:\hThere\hit\his.\h\h\h\h\h\h\h\h
+
+309
+00:14:33,707 --> 00:14:35,473
+Why\haren't\hyou\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+in\hyour\hrooms?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+310
+00:14:35,475 --> 00:14:36,908
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(screaming)\h\h\h\h\h
+
+311
+00:14:36,910 --> 00:14:38,142
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hRrrawgh!\h\h\h\h\h\h\h\h
+
+312
+00:14:38,144 --> 00:14:40,645
+\h\h\h\h\h\h\h\h\h\h\h\h\h-Aah!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h-(evil\hlaughter)\h\h\h\h\h\h\h\h
+
+313
+00:14:40,647 --> 00:14:42,480
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(grunts)
+
+314
+00:14:43,717 --> 00:14:45,049
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(neighs)
+
+315
+00:14:48,388 --> 00:14:49,654
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWe've\hgot\hthis.\h
+
+316
+00:14:49,656 --> 00:14:51,422
+\h\h\h\h\h\h\h\h\h\h\h\hThere\hare\hfour\hof\hus
+\h\h\h\h\h\h\h\h\h\h\h\hand\hthree\hof\hthem.\h\h
+
+317
+00:14:51,424 --> 00:14:53,491
+\h\h\h\hIf\hwe--\hwait,\hnever\hmind.\h\h\h
+\h\h\h\hThey\hteamed\hup.\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+318
+00:14:53,493 --> 00:14:55,526
+\h\h\h\h\h\h\h\h(evil\hlaughter)\h\h\h\h\h\h\h\h\h
+
+319
+00:14:55,528 --> 00:14:58,096
+\h\h\h\h\h\hAh,\hgood,\hthat\hmeans\h\h\h\h\h\h
+\h\h\h\h\h\h\h\honly\hone\htarget.\h\h\h\h\h\h\h\h
+
+320
+00:14:58,098 --> 00:15:00,365
+\h\h\h\h\h\h\h\h\hNo,\hget\hback!\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\hYou're\hold!\h\h\h\h\h\h\h\h\h\h\h
+
+321
+00:15:00,367 --> 00:15:05,003
+\h\h\h\hOi,\hbeastie!\hWhat's\hit\hgonna
+\h\h\h\htake\hto\hshuffle\hyou\hoff\h\h\h\h\h
+\h\h\h\hto\hthe\hafterlife?\h\h\h\h\h\h\h\h\h\h\h
+
+322
+00:15:05,005 --> 00:15:08,773
+The\hhead\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+of\hScrooge\hMcDuck!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+323
+00:15:08,775 --> 00:15:10,575
+\h\h\h\h\h\h\h\h\h\h\h\h(cracking)\h\h\h\h\h\h\h\h\h\h
+
+324
+00:15:10,577 --> 00:15:13,444
+\h\h\h\h\h\h\h\h\h\h\h\hWould\hyou\hsettle\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hfor\hhis\hhat?\h\h\h\h\h\h\h\h
+
+325
+00:15:13,446 --> 00:15:14,445
+\h\h\h\h\h\h\h\h(roaring)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+326
+00:15:16,216 --> 00:15:17,982
+\h\h\h\h\h\h\h\h\h\h\h\h(groans)\h\h\h\h\h\h\h\h\h\h\h\h
+
+327
+00:15:22,522 --> 00:15:24,589
+\h\h\h\h\h\h\h\h(blade\hrings)\h\h\h\h\h\h\h\h\h\h\h
+
+328
+00:15:26,059 --> 00:15:28,526
+\h\h\h\hThere's\hyour\hhead.\h\h\h\h\h\h\h\h\h\h
+
+329
+00:15:30,030 --> 00:15:33,831
+\h\h\h\h\h\h\h\h\h\h\h\hI\hshould've\hbeen\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hmore\hspecific!\h\h\h\h\h\h
+
+330
+00:15:42,075 --> 00:15:43,541
+\h\h\h\h\h\h\h\h\h\h\h(whinnies)\h\h\h\h\h\h\h\h\h\h\h
+
+331
+00:15:43,543 --> 00:15:47,478
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(celebrating)\h\h\h\h
+
+332
+00:15:47,480 --> 00:15:48,880
+\h\h\h\h\h\h\h\h\h\h\h\h(pounds)\h\h\h\h\h\h\h\h\h\h\h\h
+
+333
+00:15:48,882 --> 00:15:50,548
+\h\h\h\hWe\hcan\hexplain.\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+334
+00:15:50,550 --> 00:15:53,551
+\h\h\h\h\h\h\h\hWe\hcame\hdown\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hto\hyour\hsecret\hmuseum\h\h\h
+\h\h\h\h\h\h\h\hto\hlook\hfor\hyou,\h\h\h\h\h\h\h\h
+
+335
+00:15:53,553 --> 00:15:56,254
+\h\h\h\h\h\h\h\hbecause\hwe\hlove\hyou?\h\h\h\h
+
+336
+00:15:56,256 --> 00:15:58,089
+\h\h\h\hSecret\hmuseum?\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+337
+00:15:58,091 --> 00:15:59,958
+\h\h\h\h\h\hThis\his\hthe\hgar-age!\h\h\h\h\h\h
+
+338
+00:16:01,594 --> 00:16:02,660
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hThe\hwhat?\h\h\h\h\h\h\h
+
+339
+00:16:02,662 --> 00:16:04,262
+Do\hyou\hmean\h"garage"?\h\h\h\h\h\h\h\h\h\h\h
+
+340
+00:16:04,264 --> 00:16:05,897
+No,\hthat's\hridiculous.\h\h\h\h\h\h\h\h\h\h
+
+341
+00:16:05,899 --> 00:16:08,633
+If\hthis\his\ha\hgarage,\h\h\h\h\h\h\h\h\h\h\h\h
+then\hhow\hdo\hyou\hexplain\h\h\h\h\h\h\h\h\h
+
+342
+00:16:08,635 --> 00:16:10,501
+all\hthis\hamazing\hstuff?\h\h\h\h\h\h\h\h\h
+
+343
+00:16:10,503 --> 00:16:13,571
+Like\hthe\hgarden\hhose\h\h\h\h\h\h\h\h\h\h\h\h
+of\hdestiny?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+344
+00:16:13,573 --> 00:16:16,507
+Or\hMontezuma's\hstack\h\h\h\h\h\h\h\h\h\h\h\h
+of\hold\hmagazines?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+345
+00:16:16,509 --> 00:16:20,078
+Or--\hOh,\hyeah,\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+it's\ha\hgarage.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+346
+00:16:20,080 --> 00:16:23,414
+\h\h\h\h\h\h\h\h\hUnbelievable.\h\h\h\h\h\h\h\h\h\h
+\h\hI\hinvite\hyou\hinto\hmy\hhome--\h\h\h
+
+347
+00:16:23,416 --> 00:16:25,183
+\h\h\h\hYou\hlocked\hus\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hin\ha\hroom!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+348
+00:16:25,185 --> 00:16:26,484
+\h\h\h\h\h\hI\hgave\hyou\hmarbles!\h\h\h\h\h\h\h
+
+349
+00:16:26,486 --> 00:16:28,152
+\h\h\h\h\h\h\h\h\hAll\hwe\hwanted\h\h\h\h\h\h\h\h\h\h
+\h\h\hwas\hto\hhand\hout\hwith\hyou!\h\h\h\h
+
+350
+00:16:28,154 --> 00:16:29,420
+\h\h\h\h\h\hWell,\hnow\hyou\hhave,\h\h\h\h\h\h\h
+
+351
+00:16:29,422 --> 00:16:30,855
+\h\h\h\hand\hlook\hat\hthe\hmess\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hit's\hgot\hme!\h\h\h\h\h\h\h\h\h\h\h\h
+
+352
+00:16:30,857 --> 00:16:34,759
+\h\h\h\hI\hguess\hfamily\his\hnothing\h\h\h
+\h\h\h\hbut\htrouble,\hright,\hScrooge?
+
+353
+00:16:34,761 --> 00:16:38,296
+\h\h\h\h\h\h\h\hEverybody\hout!\h\h\h\h\h\h\h\h\h\h
+
+354
+00:16:38,298 --> 00:16:39,764
+\h\h\h\h\h\h\h\h\h\h-But\hwe're--\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h-Out!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+355
+00:16:39,766 --> 00:16:42,033
+\h\h\h\h\h\h\hWell,\hwhat\hare\hyou\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\hgaping\hat?\h\h\h\h\h\h\h\h\h\h\h
+
+356
+00:16:42,035 --> 00:16:44,969
+\h\hThe\hcurse\his\honly\hactivated\h\h\h
+if\hyou\hring\hthe\hgong\hthree\htimes
+
+357
+00:16:44,971 --> 00:16:48,172
+\h\h\h\hand--\hyou\halready\hhit\hit\h\h\h\h
+\h\h\h\h\htwo\htimes,\hdidn't\hyou?\h\h\h\h\h
+
+358
+00:16:48,174 --> 00:16:49,440
+\h\h\h\h\h\h\h\h\h\h(crackling)\h\h\h\h\h\h\h\h\h\h\h
+
+359
+00:16:56,883 --> 00:16:59,550
+\h\h\h\h\h\h\h\h\h\h\h\h\hPixiu,\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\hthe\hGold-Hunting\hDragon...\h\h\h
+
+360
+00:16:59,552 --> 00:17:01,519
+Gold\hhunting?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Sounds\hgreat!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+361
+00:17:01,521 --> 00:17:04,789
+\h\h\hNot\hwhen\hyou're\hDuckburg's\h\h\h
+\h\h\hsingle\hlargest\howner\hof\hgold!
+
+362
+00:17:04,791 --> 00:17:06,357
+(sniffing)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+363
+00:17:06,359 --> 00:17:08,626
+\h\h\h\h\h\h\h\hAah!\hMe\hmoney\hbin!\h\h\h\h\h\h
+
+364
+00:17:10,630 --> 00:17:13,731
+\h\h\h\h\h\h\h\hTo\hyour\hrooms!\h\h\h\h\h\h\h\h\h\h
+
+365
+00:17:18,171 --> 00:17:19,670
+\h\h\h\h\h\h\h\h\h\h\h\hWhere\hare\hyou\hgoing?
+
+366
+00:17:19,672 --> 00:17:22,473
+\h\h\h\h\h\h\h\hI'm\hgonna\hgo\heat\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\ha\hhamburger!\h\h\h\h\h\h\h\h\h\h\h\h
+
+367
+00:17:22,475 --> 00:17:24,042
+We're\hin!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+368
+00:17:24,044 --> 00:17:25,743
+\h\h\h\h\h\h\h\hCool.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+369
+00:17:25,745 --> 00:17:27,578
+To\hbe\hclear,\hI'm\hgonna\h\h\h\h\h\h\h\h\h\h
+go\hcatch\hthe\hdragon.\h\h\h\h\h\h\h\h\h\h\h\h
+
+370
+00:17:27,580 --> 00:17:29,747
+The\hhamburger\hwas\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+a\hmetaphor\hfrom\hbefore.\h\h\h\h\h\h\h\h\h
+
+371
+00:17:29,749 --> 00:17:31,416
+\h\h\hYeah,\hyeah,\hno,\hwe\hget\hit.\h\h\h
+\h\h\h\h\h\h\h\h\h\h\hWe\hget\hit.\h\h\h\h\h\h\h\h\h\h\h
+
+372
+00:17:31,418 --> 00:17:33,151
+\h\h\h\h\h\h\h\h\hBut\hhow\hare\hwe\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\hgonna\hget\hup\hthere?\h\h\h\h\h\h\h
+
+373
+00:17:33,153 --> 00:17:34,419
+\h\h\h\h\h\h\h\h\h\h\h\hI'm\ha\hpilot.\h\h\h\h\h\h\h\h
+
+374
+00:17:43,830 --> 00:17:45,730
+\h\h\h\h\h\h\hOoh!\hYeah!\hHa\hha!\h\h\h\h\h\h\h\h
+
+375
+00:17:45,732 --> 00:17:48,433
+\h\h\h\h\h\h\h\hIt'll\htake\hmore\h\h\h\h\h\h\h\h\h
+\h\h\h\h\hthan\hsome\hfancy\hflying\h\h\h\h\h
+
+376
+00:17:48,435 --> 00:17:52,336
+\h\h\h\h\hto\hshake\hold\hScrooge,\h\h\h\h\h\h
+\h\h\h\hyou\hcash\hcannibal!\hWhoo!\h\h\h\h
+
+377
+00:17:52,338 --> 00:17:55,606
+\h\h\h\h\h\h\h\h\h\hOh!\hOw!\hUgh!\h\h\h\h\h\h\h\h\h\h
+
+378
+00:17:56,843 --> 00:17:59,744
+\h\h\h\h\h\h\h\hIt'll\htake\hmore\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hthan\ha\hbruised\hspine\h\h\h\h
+
+379
+00:17:59,746 --> 00:18:01,746
+\h\h\h\h\h\h\h\hto\hshake\hold\hScrooge,\h\h\h
+
+380
+00:18:01,748 --> 00:18:03,981
+\h\h\h\h\h\h\h\hyou\hbad\hdragon-dog!\h\h\h\h\h
+
+381
+00:18:09,089 --> 00:18:11,422
+\h\h\h\h\h\h\h\h\h\h\hTake\hthat!\h\h\h\h\h\h\h\h\h\h\h
+
+382
+00:18:13,593 --> 00:18:18,463
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hNo!\h\h\h\h\h\h\h\h\h
+
+383
+00:18:22,102 --> 00:18:24,035
+\h\h\h\h\h\h\h\h\h\h\h\h(straining)\h\h\h\h\h\h\h\h\h
+
+384
+00:18:26,306 --> 00:18:27,538
+Whoo-hoo!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+385
+00:18:27,540 --> 00:18:29,607
+\h\h\h\h\h\h\h\h\h\h\h\hI\hthought\hI\htold\hyou
+\h\h\h\h\h\h\h\h\h\h\h\hto\hgo\hto\hyour--\h\h\h\h\h
+
+386
+00:18:29,609 --> 00:18:30,875
+\h\h\h\h\h\h\h\h\h\h\h\hNo\htime.\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\hWe\hgotta\hwork\hfast.\h\h\h\h\h\h\h
+
+387
+00:18:30,877 --> 00:18:32,877
+Webby,\hhow\hdo\hwe\hstop\hit?\h\h\h\h\h\h\h
+
+388
+00:18:32,879 --> 00:18:35,213
+\h\h\h\h\h\h\h\h\hIt's\hmystical,\h\h\h\h\h\h\h\h\h
+\hso\hwe\hneed\ha\hmystical\hdevice,\h\h
+
+389
+00:18:35,215 --> 00:18:38,316
+\h\h\h\hlike\han\hoblivion\hmirror\h\h\h\h\h
+\h\h\hor\ha\hmedusa\hgauntlet,\hor--\h\h\h
+
+390
+00:18:38,318 --> 00:18:40,551
+\h\h\h\h\h\h\h\h\h\h-Like\hthis?\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h-Grr.\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+391
+00:18:40,553 --> 00:18:42,320
+\h\h\h\h\h\h\hWhat?\hI\hwas\hgonna\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\hgive\hit\hback.\h\h\h\h\h\h\h\h\h\h
+
+392
+00:18:44,657 --> 00:18:46,724
+\h\h\h\h\h\h\h\h\h\h\h\hNow,\hhow\hdo\hwe\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hget\hhim\hdown\hthere?\h
+
+393
+00:18:46,726 --> 00:18:48,659
+Garden\hhose\hof\hdestiny!\h\h\h\h\h\h\h\h\h
+
+394
+00:18:48,661 --> 00:18:50,962
+\h\h\h\hLaunchpad,\hwe\hneed\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hto\hswing\hhim\hout.\h\h\h\h\h\h\h\h\h\h\h
+
+395
+00:18:50,964 --> 00:18:53,798
+\h\h\h\hNosedive\htowards\hthe\hbin\h\h\h\h
+\h\h\h\hand\hget\hready\hto\hpull\hup!\h\h\h
+
+396
+00:18:53,800 --> 00:18:55,566
+\h\h\h\h\h\h\h\h\h\h\h\hYes,\hsir,\hrandom\hkid
+\h\h\h\h\h\h\h\h\h\h\h\hI\hjust\hmet!\h\h\h\h\h\h\h\h\h
+
+397
+00:18:57,770 --> 00:19:01,305
+\h\h\h\h-Any\hquestions?\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h-Since\hwhen\his\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\hLaunchpad\ha\hpilot?\h\h\h\h\h\h\h\h\h
+
+398
+00:19:01,307 --> 00:19:02,740
+\h\h\h\h\h\h\h\h\h\h\h\h(clinks)\h\h\h\h\h\h\h\h\h\h\h\h
+
+399
+00:19:09,682 --> 00:19:12,817
+\h\h\h\h\h\h\h\h\h\h\hYou\hguys,\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\hour\hfamily\his\hawesome!\h\h\h\h\h
+
+400
+00:19:19,492 --> 00:19:20,825
+\h\h\h\h\h\h\h\h\hALL:\hScrooge!\h\h\h\h\h\h\h\h\h\h
+
+401
+00:19:33,773 --> 00:19:34,839
+\h\h\h\h\h\h\h\h\h\h\h(gasping)\h\h\h\h\h\h\h\h\h\h\h\h
+
+402
+00:19:37,677 --> 00:19:39,677
+\h\h\h\h\h\h\h\h\h\h\h(cheering)\h\h\h\h\h\h\h\h\h\h\h
+
+403
+00:19:39,679 --> 00:19:41,779
+NEPHEW:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Money!\hI\hknew\hit!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+404
+00:19:41,781 --> 00:19:45,183
+\h\h\h\h\h\hAw.\hFamily\htruly\his\h\h\h\h\h\h\h
+\h\hthe\hgreatest\hadventure\hof--\h\h\h
+
+405
+00:19:45,185 --> 00:19:46,951
+\h\h\h\h\h\hOh,\hno,\hthe\hground!\h\h\h\h\h\h\h
+
+406
+00:19:46,953 --> 00:19:48,052
+\h\h\h\h\h\h\h\h\h\h\h(crashing)\h\h\h\h\h\h\h\h\h\h\h
+
+407
+00:19:50,790 --> 00:19:52,890
+\h\h\h\h\h\h\hIn\hthe\hshort\htime\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hI've\hknown\hyou,\h\h\h\h\h\h\h\h\h
+
+408
+00:19:52,892 --> 00:19:55,059
+\h\h\h\h\hyou've\hwrecked\hmy\hhome\h\h\h\h\h
+\h\h\h\h\h\h\hand\hmy\hmoney\hbin,\h\h\h\h\h\h\h\h
+
+409
+00:19:55,061 --> 00:20:00,164
+\h\h\h\h\h\h\hunleashed\hseveral\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\hancient\hevils,\h\h\h\h\h\h\h\h\h
+
+410
+00:20:00,166 --> 00:20:03,701
+\h\h\h\hFour\htimes\hif\hyou\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hcount\heach\hmonster\h\h\h\h\h\h\h\h\h\h
+\h\h\h\has\han\hindividual\htime...\h\h\h\h
+
+411
+00:20:03,703 --> 00:20:09,140
+\h\h\h\h\h\h\h\h\h\h(laughter)\h\h\h\h\h\h\h\h\h\h\h\h
+
+412
+00:20:09,142 --> 00:20:11,142
+\h\h\h\h\h\h\h\hThat\hwas\hincredible!\h\h\h\h
+
+413
+00:20:11,144 --> 00:20:12,743
+\h\h\h\h\h\h\hWhen\hyou\hpulled\hme\h\h\h\h\h\h\h
+\h\h\h\h\h\h\hinto\hthe\hairplane\h\h\h\h\h\h\h\h
+
+414
+00:20:12,745 --> 00:20:14,345
+\h\h\h\h\h\h\hand\hsaid\h"No\htime!"\h\h\h\h\h\h
+
+415
+00:20:14,347 --> 00:20:15,746
+\h\h\hAnd\hwho\hwould\hhave\hthought\h\h\h
+
+416
+00:20:15,748 --> 00:20:17,915
+\h\h\h\h\hof\ha\hMedusa\hGauntlet?!\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\hBrilliant!\h\h\h\h\h\h\h\h\h\h\h
+
+417
+00:20:17,917 --> 00:20:19,884
+\h\h\h\h\h\h\h\h\h\hOh,\hand\hthen\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hyou\hswung\hme\hout\h\h\h\h\h\h\h\h
+
+418
+00:20:19,886 --> 00:20:22,320
+\h\h\h\h\h\h\h\h\hand\hpulled\hup\h\h\h\h\h\h\h\h\h\h
+\h\hjust\hin\htime\hand\h(laughter)\h\h\h
+
+419
+00:20:22,322 --> 00:20:24,755
+You\hkids\hare\hnothing\h\h\h\h\h\h\h\h\h\h\h\h
+but\htrouble!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+420
+00:20:24,757 --> 00:20:28,893
+Curse\hme\hkilts,\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+have\hI\hmissed\htrouble!\h\h\h\h\h\h\h\h\h\h
+
+421
+00:20:28,895 --> 00:20:32,163
+\h\h\h\h\h\hI\hsuppose\hI'll\hhave\h\h\h\h\h\h\h
+\h\h\h\h\hto\hkeep\han\heye\hon\hyou\h\h\h\h\h\h
+
+422
+00:20:32,165 --> 00:20:35,566
+\h\h\h\hto\hteach\hyou\hhow\hto\hget\h\h\h\h\h
+\h\h\h\hinto\htrouble\hproperly.\h\h\h\h\h\h
+
+423
+00:20:35,568 --> 00:20:37,034
+\h\h\h\h\h\h\h\h-(phone\hringing)\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h-You\hmean--?\h\h\h\h\h\h\h\h\h\h
+
+424
+00:20:37,036 --> 00:20:39,170
+Beakley!\hClear\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+my\hschedule!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+425
+00:20:39,172 --> 00:20:42,173
+I'm\htaking\hthe\hwee\hones\h\h\h\h\h\h\h\h\h
+on\ha\hfield\htrip.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+426
+00:20:42,175 --> 00:20:45,910
+\h\h<i>\hAbout\htime.\hAnd\honce\hagain,</i>\h\h
+\h\h\h\h\h<i>\hI\ham\hnot\hyour\hsecre--</i>\h\h\h\h\h
+
+427
+00:20:45,912 --> 00:20:50,581
+\h\h\h\h\h\h\hNow,\hlet's\hgo\hfind\h\h\h\h\h\h\h
+\h\h\hthe\hlost\hcity\hof\hAtlantis!\h\h\h
+
+428
+00:20:50,583 --> 00:20:51,916
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hALL:\hYeah!\h\h\h\h\h\h
+
+429
+00:20:51,918 --> 00:20:54,852
+\h\h\h\h\h\h\h\hAnd\hno\hone\htell\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\hyour\huncle\hDonald!\h\h\h\h\h\h\h
+
+430
+00:20:54,854 --> 00:20:56,254
+\h\h\h\h\h\h\h\h\h\h\hALL:\hYeah!\h\h\h\h\h\h\h\h\h\h\h
+
+431
+00:20:56,256 --> 00:20:58,055
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWho\his\hthat?\h\h
+
+432
+00:20:58,057 --> 00:20:59,624
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(struggling)\h\h\h\h
+
+433
+00:20:59,626 --> 00:21:00,925
+You've\hgot\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+the\hjob,\hDuck!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+434
+00:21:00,927 --> 00:21:02,426
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSeriously?\h\h
+
+435
+00:21:02,428 --> 00:21:03,794
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOh,\hboy!\h\h\h\h
+
+436
+00:21:03,796 --> 00:21:05,896
+\h\h\h\h\h\h\h\h\h\hI'm\ha\hreal\haccountant!
+
+437
+00:21:05,898 --> 00:21:08,299
+Accountant?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+That\hwas\hfilled\hyesterday.\h\h\h\h\h\h
+
+438
+00:21:08,301 --> 00:21:10,368
+You're\hour\hnew\hsailor!\h\h\h\h\h\h\h\h\h\h
+
+439
+00:21:12,305 --> 00:21:14,972
+Welcome\hto\hGlomgold\hIndustries!\h
+
+440
+00:21:14,974 --> 00:21:19,677
+Now,\hwhat\hdo\hyou\hknow\h\h\h\h\h\h\h\h\h\h\h
+about\hAtlantis?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+441
+00:21:23,449 --> 00:21:26,550
+\h\h<i>\h♪\hLife\his\hlike\ha\hhurricane\h♪</i>\h
+
+442
+00:21:26,552 --> 00:21:29,053
+\h\h\h\h\h\h<i>\h♪\hHere\hin\hDuckburg\h♪</i>\h\h\h\h\h
+
+443
+00:21:29,055 --> 00:21:31,822
+\h\h\h\h\h\h\h\h\h\h<i>\h♪\hRacecars,</i>\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h<i>\hlaser,\hairplanes\h♪</i>\h\h\h\h\h\h
+
+444
+00:21:31,824 --> 00:21:34,492
+\h\h\h\h\h\h<i>\h♪\hIt's\ha\hDuckburg\h♪</i>\h\h\h\h\h\h
+
+445
+00:21:34,494 --> 00:21:36,994
+\h\h\h\h\h\h\h\h<i>\h♪\hWe\hmight\hsolve</i>\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h<i>\hthe\hmystery\h♪</i>\h\h\h\h\h\h\h\h\h
+
+446
+00:21:36,996 --> 00:21:39,597
+\h\h\h<i>\h♪\hWe'll\hrewrite\hhistory\h♪</i>\h\h\h
+
+447
+00:21:39,599 --> 00:21:41,899
+\h\h\h\h\h\h\h\h\h<i>\h♪\hDucktales\h♪</i>\h\h\h\h\h\h\h\h\h
+
+448
+00:21:41,901 --> 00:21:46,003
+\h<i>\h♪\hEvery\hday\hthey're\hout\hthere</i>\h
+\h\h\h\h\h\h\h<i>\hmaking\hducktales\h♪</i>\h\h\h\h\h\h
+
+449
+00:21:46,005 --> 00:21:47,238
+\h\h\h\h\h\h\h\h\h\h<i>\h♪\hWhoo-ooh\h♪</i>\h\h\h\h\h\h\h\h\h
+
+450
+00:21:47,240 --> 00:21:48,939
+\h\h\h\h\h<i>\h♪\hTales\hof\hdaring-do\h♪</i>\h\h\h\h
+
+451
+00:21:48,941 --> 00:21:52,310
+\h\h\h\h<i>\h♪\hAnd\hgood-luck\htales\h♪</i>\h\h\h\h
+
+452
+00:21:52,312 --> 00:21:55,346
+\h\h\h\h\h\h\h\h\h<i>\h♪\hT-t-t-teaser</i>\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h<i>\hgrows\hbehind\hyou\h♪</i>\h\h\h\h\h\h
+
+453
+00:21:55,348 --> 00:21:58,015
+\h\h\h\h\h\h\h\h<i>\h♪\hGot\ha\hstranger</i>\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h<i>\hout\hto\hfind\hyou\h♪</i>\h\h\h\h\h\h\h
+
+454
+00:21:58,017 --> 00:22:01,519
+\h\h\h\h<i>\h♪\hWhat\hto\hdo,\hjust\hclimb</i>\h\h\h
+\h\h\h\h\h<i>\honto\hsome\hducktales\h♪</i>\h\h\h\h\h
+
+455
+00:22:01,521 --> 00:22:03,254
+\h\h\h\h\h\h\h\h\h\h<i>\h♪\hWhoo-ooh\h♪</i>\h\h\h\h\h\h\h\h\h
+
+456
+00:22:03,256 --> 00:22:08,025
+<i>♪\hEvery\hday\hthey're\hout\hthere</i>\h\h\h
+\h\h\h\h<i>\hmaking\hducktales\h♪</i>\h\h\h\h\h\h\h\h\h
+
+457
+00:22:08,027 --> 00:22:11,095
+\h\h\h\h\h\h\h<i>\h♪\hTales\hof\htarries</i>\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h<i>\hbad\hand\hgood\h♪</i>\h\h\h\h\h\h\h\h
+
+458
+00:22:11,097 --> 00:22:15,333
+\h\h\h\h\h\h\h<i>\h♪\hNot\hphony\htales</i>\h\h\h\h\h\h\h
+\h\h<i>\hso\hcome\hinto\hthe\hDucktales\h♪</i>\h
+
+459
+00:22:21,374 --> 00:22:23,841
+\h\h\h\h\h\h<i>\hGlomgold\hIndustries!</i>\h\h\h\h\h
+
+460
+00:22:23,843 --> 00:22:26,277
+\h\h\h\h\h\h\h\h\h<i>\hTake\han\hidea.</i>\h\h\h\h\h\h\h\h\h
+
+461
+00:22:26,279 --> 00:22:27,678
+\h\h\h\h\h\h\h<i>\hMake\hit\hyour\hown.</i>\h\h\h\h\h\h\h
+
+462
+00:22:27,680 --> 00:22:30,781
+\h\h\h\h<i>\hBetter,\hfaster,\hcheaper.</i>\h\h\h
+
+463
+00:22:32,018 --> 00:22:33,718
+\h\h\h\h\h\h\h\h<i>\hThat's\hthe\hmotto</i>\h\h\h\h\h\h\h
+
+464
+00:22:33,720 --> 00:22:37,021
+\h\h\h\h<i>\hof\hthe\hworld's\hmost\hbeloved</i>
+\h\h\h\h<i>\hScottish\hbillionaire\hduck!</i>\h
+
+465
+00:22:37,023 --> 00:22:40,391
+\h\h\h\h<i>\hFlintheart\hGlomgold!</i>\h\h\h\h\h\h\h
+
+466
+00:22:40,393 --> 00:22:42,560
+\h\h\h\hWelcome,\hnew\hemployees,\h\h\h\h\h
+
+467
+00:22:42,562 --> 00:22:44,061
+\h\h\h\hto\hGlomgold\hIndustries,\h\h\h\h\h
+
+468
+00:22:44,063 --> 00:22:45,863
+\h\h\h\h\h\hwhere\hour\hemployees\h\h\h\h\h\h\h
+
+469
+00:22:45,865 --> 00:22:50,067
+\h\h\hare\hthe\hgreatest\htreasure\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hof\hall!\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+470
+00:22:51,170 --> 00:22:52,870
+\h\h\h\h(clapping)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+471
+00:22:52,872 --> 00:22:54,972
+\h\h\h\h\h\h\h\hGlomgold!\hGlomgold!\h\h\h\h\h
+
+472
+00:22:54,974 --> 00:22:57,007
+\h\h\h\h\h\h\h\h\h\h\h\hGlom--\hFine.\h\h\h\h\h\h\h\h
+
+473
+00:22:57,009 --> 00:22:58,876
+\h\h\h\h\h\h\h\h\h\h\h\hEnough\hglad-handing.
+
+474
+00:22:58,878 --> 00:23:01,645
+\h\h\h\hYou're\hhere\hbecause\hyou're\h\h
+\h\h\h\hthe\hbest\hof\hthe\hcheapest.\h\h\h
+
+475
+00:23:01,647 --> 00:23:06,317
+With\hyour\hhelp\hand\hmy\hcarefully\h
+\h\h\h\h\h\hcrafted\hmaster\hplan,\h\h\h\h\h\h
+
+476
+00:23:06,319 --> 00:23:09,920
+\h\h\h\hwe'll\hfind\hthe\hfabled\h\h\h\h\h\h\h
+\h\h\h\hlost\hJewel\hof\hAtlantis\h\h\h\h\h\h
+
+477
+00:23:09,922 --> 00:23:14,091
+\h\h\h\h\h\hand\hfinally\hmake\hme\h\h\h\h\h\h\h
+\hthe\hrichest\hduck\hin\hthe\hworld!\h
+
+478
+00:23:14,093 --> 00:23:15,893
+\h\h\h\h\h\h\h\h(evil\hlaughter)\h\h\h\h\h\h\h\h\h
+
+479
+00:23:17,096 --> 00:23:19,764
+\h\h\h\h\h\h\h\hBut\hfirst,\hhere\hare\h\h\h\h\h
+\h\h\h\h\h\h\h\hyour\hcompany\hIDs,\h\h\h\h\h\h\h
+
+480
+00:23:19,766 --> 00:23:23,667
+\h\h\h\h\h\h\h\halso\hgood\hfor\h40%\hoff\h\h\h
+\h\h\h\h\h\h\h\hlife\hvest\hrental\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hin\hcase\hof\hemergency.\h\h\h
+
+481
+00:23:23,669 --> 00:23:25,569
+\h\h\h\h\h\hGabby\hMcStabberson.\h\h\h\h\h\h\h
+
+482
+00:23:25,571 --> 00:23:27,938
+\h\h\hHack\hand\hSlash\hSmashkinov.\h\h\h
+
+483
+00:23:27,940 --> 00:23:30,107
+\h\h\h\h\h\h\h\h\h\hDonald\hDuck.\h\h\h\h\h\h\h\h\h\h
+
+484
+00:23:30,109 --> 00:23:31,575
+\h\h\h\h\h\h\h\h\h\h\h\h\hDuck?\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+485
+00:23:31,577 --> 00:23:33,444
+\h\h\h\h\h\h\h\h\h\h\h\h\hDuck?!\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+486
+00:23:33,446 --> 00:23:36,347
+\h\h\h\h\h\h\hHa!\hNow\hremember,\h\h\h\h\h\h\h\h
+\h\h\h\h\h\hbedtime\his\hat\h9:00.\h\h\h\h\h\h\h
+
+487
+00:23:36,349 --> 00:23:39,083
+\h\h\h\hAnd\hno\hsugar\hafter\h7:00.\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\hOh,\hand--\h\h\h\h\h\h\h\h\h\h\h\h
+
+488
+00:23:39,085 --> 00:23:41,752
+\hI\hrun\ha\hmulti-trillion\hdollar\h\h
+\h\h\h\h\h\h\h\h\h\h\hbusiness.\h\h\h\h\h\h\h\h\h\h\h\h
+
+489
+00:23:41,754 --> 00:23:43,954
+\h\hI\hcan\hhandle\ha\hfew\hjuveniles\h\h
+\h\h\h\h\h\h\h\hfor\hthe\hweekend.\h\h\h\h\h\h\h\h
+
+490
+00:23:43,956 --> 00:23:46,090
+\h\h\h\h\h\h\h\h\hYou\hjust\hfocus\h\h\h\h\h\h\h\h\h
+\h\h\hon\hthis\hnew\hjob\hof\hyours.\h\h\h\h
+
+491
+00:23:46,092 --> 00:23:49,093
+\h\h\h\h\h\h\hBesides,\hwe've\hgot\h\h\h\h\h\h\h
+\ha\hpretty\hlow-key\hday\hplanned.\h\h
+
+492
+00:23:49,095 --> 00:23:50,928
+Hoist\hthe\hmainsail!\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+493
+00:23:50,930 --> 00:23:54,064
+Other\hboat\hwords,\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+to\hAtlantis!\hDive!\hDive!\h\h\h\h\h\h\h\h
+
+494
+00:23:54,066 --> 00:23:56,300
+\h\h\h\h\h\h\h\h\h-No,\hno,\hwait!\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h-Aye\haye!\h\h\h\h\h\h\h\h\h\h\h\h
+
+495
+00:23:56,302 --> 00:24:01,138
+\h\h\h\h\h\h\h\h\h\h\hLaunchpad,\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\hthe\hhatch.\hStop\hthe--\h\h\h\h\h\h
+
+496
+00:24:05,878 --> 00:24:07,111
+\h\h\h\h\h\h\h\h\h\h\hWhoo-hoo!\h\h\h\h\h\h\h\h\h\h\h\h
+
+497
+00:24:09,582 --> 00:24:11,549
+Talk\hto\hyour\huncle.\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+498
+00:24:11,551 --> 00:24:13,050
+\h\h\h\h\h\h\h\h\h\h\h\hHey,\hUncle\hDonald.\h\h
+
+499
+00:24:13,052 --> 00:24:14,585
+\h\h\h\h\h\h\h\h\h\h\h\hNope,\hyeah,\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hpretty\hboring.\h\h\h\h\h\h
+
+500
+00:24:14,587 --> 00:24:16,620
+\h\h\h\h\h\h\h\h\h\h\h\hWe\hnapped,\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hrubbed\hointment\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hon\hour\hjoints,\h\h\h\h\h\h
+
+501
+00:24:16,622 --> 00:24:17,755
+\h\h\h\h\h\h\h\h\h\h\h\hold\hpeople\hstuff.\h\h\h
+
+502
+00:24:17,757 --> 00:24:18,989
+Oh,\hwhat\habout\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+the\hdragon?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+503
+00:24:18,991 --> 00:24:20,324
+And\hthe\hplane\hcrash?\h\h\h\h\h\h\h\h\h\h\h\h
+
+504
+00:24:20,326 --> 00:24:23,294
+\h\h\h\h\h\h\h\hWhoops,\h3:00\hpm.\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hTime\hfor\hdinner.\hBye!\h\h\h
+
+505
+00:24:23,296 --> 00:24:25,296
+Why\hdidn't\hyou\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+tell\hhim\hthe\htruth?\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+506
+00:24:25,298 --> 00:24:27,298
+\h\h\h\hYou\hdidn't\htell\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hyour\hgrandma\hwe\hwere\hgoing\h\h
+
+507
+00:24:27,300 --> 00:24:29,233
+\h\h\h\hto\ha\hdangerous\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hunderwater\hcity,\hdid\hyou?\h\h\h
+
+508
+00:24:29,235 --> 00:24:31,502
+I\hkinda\hsorta...\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+didn't\htell\hher\hanything?\h\h\h\h\h\h\h
+
+509
+00:24:31,504 --> 00:24:33,170
+\h\h\h\hWebby,\hthat's\hirresponsible!
+
+510
+00:24:33,172 --> 00:24:35,773
+\h\h\h\h\h\h\h\hShe'll\hbe\hworried\hsick!\h
+
+511
+00:24:35,775 --> 00:24:38,075
+\h\h\h\h\h\h\h\hCall\hyour\hgrandma\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hthis\hinstant\h\h\h\h\h\h\h\h\h\h\h\h
+
+512
+00:24:38,077 --> 00:24:41,412
+\h\h\h\hand\htell\hher\hthat\hyou\h\h\h\h\h\h\h
+\h\h\h\hare\hspending\hthe\hnight\h\h\h\h\h\h
+\h\h\h\hat\ha\hfriend's\hhouse,\hokay?\h\h
+
+513
+00:24:41,414 --> 00:24:44,515
+\h\h\h\h\h\h\h\h\h\h\h\h\hLying:\hit's\h\h\h\h\h\h\h\h
+\h\h\h\hthe\hresponsible\hthing\hto\hdo.
+
+514
+00:24:47,153 --> 00:24:51,188
+\h\h\h\h\h\h\h\hLaunchpad,\hhave\hyou\hever
+\h\h\h\h\h\h\h\hpiloted\ha\hsub\hbefore?\h\h\h
+
+515
+00:24:51,190 --> 00:24:53,157
+I\hsunk\ha\hhelicopter\h\h\h\h\h\h\h\h\h\h\h\h\h
+in\ha\hwave\hpool\honce.\h\h\h\h\h\h\h\h\h\h\h\h
+
+516
+00:24:53,159 --> 00:24:55,526
+\h\h\h\h\h\h\h\h\h\h-Same\hthing?\h\h\h\h\h\h\h\h\h\h
+\h\h\h-I've\hdone\hmore\hwith\hless.\h\h\h
+
+517
+00:24:55,528 --> 00:24:59,129
+\h\h\h\h\h\h\h\hNo\hmatter,\hI'm\hback!\h\h\h\h
+\h\h\h\h\h\h\h\hUnchartered\hterritory.\h\h
+
+518
+00:24:59,131 --> 00:25:01,165
+\h\h\h\h\h\h\h\hBold\hnew\hdiscoveries!\h\h\h
+
+519
+00:25:01,167 --> 00:25:03,667
+\h\h\h\h\h\h\h\hHello,\hbingo!\h\h\h\h\h\h\h\h\h\h\h
+
+520
+00:25:03,669 --> 00:25:05,669
+\h\h\h\h\h\h\hI\hlove\hroad\htrips!\h\h\h\h\h\h\h
+
+521
+00:25:05,671 --> 00:25:08,472
+\h\hI've\hgot\hsnacks,\ha\hplaylist\h\h\h
+\h\hof\htraditional\hsea\hchanties,\h\h
+
+522
+00:25:08,474 --> 00:25:10,274
+\h\h\h\h\h\h\h\hmatching\hfamily\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\hroad\htrip\hshirts!\h\h\h\h\h\h\h\h
+
+523
+00:25:10,276 --> 00:25:13,711
+\h\hI\happreciate\hthe\henthusiasm,\h\h
+\h\h\h\h\h\hbut\hthere's\hno\htime.\h\h\h\h\h\h
+
+524
+00:25:13,713 --> 00:25:16,647
+\h\h\h\h-But\haccording\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\hto\hthe\htravel\hitinerary--\h\h
+\h\h\h\h-Boo!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+525
+00:25:16,649 --> 00:25:20,184
+Adventure\hisn't\habout\hplanning,\h
+it's\habout\hdoing!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+526
+00:25:20,186 --> 00:25:22,620
+\h\h\h\h\h\h\h\h\hSo,\hwhat\hcan\hI\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hbe\hin\hcharge\hof?\h\h\h\h\h\h\h\h
+
+527
+00:25:22,622 --> 00:25:23,721
+\h\h\h\h\h\h\h-The\hbuzzsaw\harm?\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h-No!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+528
+00:25:23,723 --> 00:25:25,122
+\h\h\h\h\h\h\h\h-Sonic\hcannons?\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h-No!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+529
+00:25:25,124 --> 00:25:26,891
+\h\h\h\h\hHyper-dense\hzero-point\h\h\h\h\h
+\h\h\h\h\h\h\h\henergy\hmissiles\h\h\h\h\h\h\h\h\h
+
+530
+00:25:26,893 --> 00:25:28,626
+\h\h\h\hto\hpierce\hthe\hscaly\hhide\h\h\h\h
+\h\h\h\h\h\h\h\h\hof\ha\hKraken?!\h\h\h\h\h\h\h\h\h\h
+
+531
+00:25:28,628 --> 00:25:30,461
+\h\h\h\h\h\h\h\h\h\h\h\hNone\hof\hthose\hthings
+\h\h\h\h\h\h\h\h\h\h\h\hare\hreal\hthings!\h\h\h\h
+
+532
+00:25:30,463 --> 00:25:32,196
+\h\h\h\h\h\h\h\h\h\h\h\hThis\his\hyour\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hfirst\hexpedition,\h\h\h
+
+533
+00:25:32,198 --> 00:25:35,032
+\h\h\h\h\h\h\h\h\h\h\h\hso\hjust\hstand\hback\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hand\hwatch\han\hold\hpro
+
+534
+00:25:35,034 --> 00:25:36,667
+\h\h\h\h\h\h\h\hfrom\ha\hsafe\hdistance.\h\h\h
+
+535
+00:25:36,669 --> 00:25:39,136
+So\hwhat\his\hthis\hsubmarine\h\h\h\h\h\h\h
+equipped\hwith?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+536
+00:25:39,138 --> 00:25:40,571
+\h\h\h\h\h\h\h\h\h\h\h\h\h(whirs)\h\h\h\h\h\h\h\h\h\h\h\h
+
+537
+00:25:40,573 --> 00:25:42,039
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSeatbelts.\h\h\h\h\h\h
+
+538
+00:25:42,041 --> 00:25:43,240
+\h\h\h\h\h\h\h\h(laughing)\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+539
+00:25:43,242 --> 00:25:44,875
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hHa!\hGood\hone.\h\h\h
+
+540
+00:25:46,212 --> 00:25:48,012
+\hClassic\hScrooge-Dewey\hbanter,\h\h
+
+541
+00:25:48,014 --> 00:25:49,647
+the\hseasoned-but-tired\hexplorer\h
+
+542
+00:25:49,649 --> 00:25:52,082
+\h\h\h\h\h\h\hpassing\hthe\htorch\h\h\h\h\h\h\h\h
+\hto\hhis\hcocky\hyoung\hsuccessor.\h\h
+
+543
+00:25:52,084 --> 00:25:54,652
+\h\h\h\hI'm\hpretty\hsure\hhe\hdoesn't\h\h
+\h\h\h\hactually\hknow\hour\hnames.\h\h\h\h
+
+544
+00:25:54,654 --> 00:25:56,220
+Don't\hbe\hridiculous!\h\h\h\h\h\h\h\h\h\h\h\h
+
+545
+00:25:56,222 --> 00:25:58,822
+Hey,\hScrooge!\hWhen\hare\hwe\h\h\h\h\h\h\h
+gonna\hset\hsail,\hScrooge?\h\h\h\h\h\h\h\h
+
+546
+00:25:58,824 --> 00:26:00,591
+\h\h\h\h\h\h\h\h\h\hIn\ha\hmoment,\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\hSonny\hJim.\h\h\h\h\h\h\h\h\h\h\h
+
+547
+00:26:00,593 --> 00:26:03,994
+I\hwill\hcram\hit\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+down\hyour\hthroat.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+548
+00:26:03,996 --> 00:26:07,097
+\h\h\h\h\h\h\hGuys,\hlighten\hup!\h\h\h\h\h\h\h\h
+\hWe're\hon\ha\hdeep-sea\hexpedition\h
+
+549
+00:26:07,099 --> 00:26:09,433
+\h\h\h\h\h\hwith\hScrooge\hMcDuck!\h\h\h\h\h\h
+
+550
+00:26:12,705 --> 00:26:15,205
+\h\h\h\h\h\h\h\h\h\hMr.\hMcQuack,\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hchart\ha\hcourse.\h\h\h\h\h\h\h\h\h
+
+551
+00:26:15,207 --> 00:26:20,177
+Next\hstop,\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+the\hlost\hCity\hof\hAtlantis!\h\h\h\h\h\h
+
+552
+00:26:20,179 --> 00:26:21,579
+\h\h\h\h\h\h\h\h\h\h\h\h(cheering)\h\h\h\h\h\h\h\h\h\h
+
+553
+00:26:21,581 --> 00:26:24,582
+At\habout\h16:00\hhours!\h\h\h\h\h\h\h\h\h\h\h
+
+554
+00:26:24,584 --> 00:26:27,084
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hShanty\htime!
+
+555
+00:26:28,220 --> 00:26:29,587
+<i>♪\hWe\hlove\hto\hsail\hthe\hocean\h♪</i>\h\h\h
+
+556
+00:26:29,589 --> 00:26:31,088
+\h\h\h\h\h<i>\h♪\hWe\hlove\hto\hsail...\h♪</i>\h\h\h\h
+
+557
+00:26:31,090 --> 00:26:32,856
+\h\h\h\h<i>\h♪\hTraveled\hall\hacross</i>\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h<i>\hthe\hocean\h♪</i>\h\h\h\h\h\h\h\h\h\h\h\h
+
+558
+00:26:32,858 --> 00:26:35,059
+\h\h\h\h\h\h\h\h<i>\h(singing\hin\hGerman)</i>\h\h\h\h
+
+559
+00:26:35,061 --> 00:26:38,195
+\h<i>\h♪\h...never\hhave\hI\hbeen\hlucky\h♪</i>
+
+560
+00:26:38,197 --> 00:26:39,430
+\h\h\h\h(snoring)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+561
+00:26:39,432 --> 00:26:40,898
+Driving!\hPiloting.\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+562
+00:26:40,900 --> 00:26:43,701
+Driving,\hright?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+563
+00:26:45,271 --> 00:26:47,304
+\h\h\h\h\h\h\h\hHey,\hScrooge,\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hFirst\hMate\hDewey\hhere.\h\h
+
+564
+00:26:47,306 --> 00:26:49,073
+\h\h\h\h\h\h\h\hYour\hmap's\hgot\hus\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hgoing\hthe\hlong\hway.\h\h\h\h\h
+
+565
+00:26:49,075 --> 00:26:51,275
+\h\hI\hcan\hprobably\hfind\ha\hshortcut
+\h\hif\hyou\hjust\hlet\hme--\h\h\h\h\h\h\h\h\h\h
+
+566
+00:26:51,277 --> 00:26:53,777
+Uh-uh,\hlad.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+The\hshortest\hdistance\h\h\h\h\h\h\h\h\h\h\h
+between\htwo\hpoints\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+567
+00:26:53,779 --> 00:26:55,746
+isn't\halways\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+a\hstraight\hline.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+568
+00:26:55,748 --> 00:27:01,218
+\h\h\h\h\h\h\h\hOkay,\hbut\hyes,\hit\his,\h\h\h
+\h\h\h\h\h\h\h\hso\hif\hyou\hjust\hgo--\h\h\h\h\h
+
+569
+00:27:03,255 --> 00:27:06,156
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(snoring)\h\h\h\h\h\h\h
+
+570
+00:27:06,158 --> 00:27:07,458
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hDriving!\h\h\h\h\h\h\h\h
+
+571
+00:27:12,131 --> 00:27:13,430
+\h\h\h\h\h\h\h\h\h\h\h\h(beep)\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+572
+00:27:13,432 --> 00:27:14,865
+\h\h\h\h\h\h\h\hHuh?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+573
+00:27:16,802 --> 00:27:18,135
+\h\h\h\hShortcut\hachieved!\h\h\h\h\h\h\h\h\h\h
+
+574
+00:27:18,137 --> 00:27:20,170
+\h\h\h\hHe'll\hthank\hme\hlater.\h\h\h\h\h\h\h
+
+575
+00:27:20,172 --> 00:27:22,640
+\h\h\h\h\h\h\h\h\h\h(screaming)\h\h\h\h\h\h\h\h\h\h\h
+
+576
+00:27:22,642 --> 00:27:26,243
+\h\h\h\h\h\h\h\h\h\h\h(roaring)\h\h\h\h\h\h\h\h\h\h\h\h
+
+577
+00:27:26,245 --> 00:27:29,146
+\h\h\h\h\h\h\hOh,\hyou\hkids'll\hbe\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hthe\hdeath\hof\hme.\h\h\h\h\h\h\h\h
+
+578
+00:27:29,148 --> 00:27:33,217
+\h\h\h\h\h\hDewey!\hDewey\hwill\hbe\h\h\h\h\h\h
+\h\h\h\h\h\h\hthe\hdeath\hof\hyou!\h\h\h\h\h\h\h\h
+
+579
+00:27:34,186 --> 00:27:36,020
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hCan\hwe\hmake\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\ha\hpit\hstop?\h
+
+580
+00:27:36,022 --> 00:27:38,088
+\h\h\h\hI\hhave\hto\huse\hthe\hbathroom,\h
+\h\h\h\hbut\hit's,\hum...\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+581
+00:27:38,090 --> 00:27:39,423
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOccupied?\h\h\h
+
+582
+00:27:39,425 --> 00:27:41,625
+For\hthe\hlove\hof--\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+It's\hthe\hmiddle\hof\hthe\hocean!\h\h\h
+
+583
+00:27:41,627 --> 00:27:43,494
+There\hare\hno\hpit\hstops.\h\h\h\h\h\h\h\h\h
+
+584
+00:27:43,496 --> 00:27:46,330
+\h\hHow\h'bout\hthat\hconspicuously\h\h
+\h\h\h\h\h\h\h\hunmarked\htanker?\h\h\h\h\h\h\h\h
+
+585
+00:27:46,332 --> 00:27:49,800
+\h\h\h\h\h\h\h\hAh,\hlittle\hDewey's\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hfirst\hsteps.\h\h\h\h\h\h\h\h\h\h\h\h
+
+586
+00:27:49,802 --> 00:27:51,802
+\h\h\h\h\h\h\h\hAnd\hthat's\hHuey\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hin\hthe\hplayoffs.\h\h\h\h\h\h\h\h
+
+587
+00:27:51,804 --> 00:27:53,270
+\h\h\h\h\h\h\h\hHe\hwas\hthe\hwaterboy.\h\h\h\h
+
+588
+00:27:55,207 --> 00:27:59,309
+Oh,\hlook!\hThat's\hus\h\h\h\h\h\h\h\h\h\h\h\h\h
+climbing\hthe\hGrand\hCanyon...\h\h\h\h
+
+589
+00:27:59,311 --> 00:28:02,146
+display\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+at\hthe\hsupermarket.\hAh...\h\h\h\h\h\h\h
+
+590
+00:28:02,148 --> 00:28:04,715
+Ah,\hI\hmiss\hthem\hso\hmuch,\h\h\h\h\h\h\h\h
+
+591
+00:28:04,717 --> 00:28:06,884
+but\hwe\hneed\hthis\hjob.\h\h\h\h\h\h\h\h\h\h\h
+
+592
+00:28:06,886 --> 00:28:09,386
+So,\htell\hme\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+about\hyour\hfamily.\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+593
+00:28:09,388 --> 00:28:11,355
+\h\h\h\h\h\h\h\h\h\h\h\hI\hwas\hraised\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hby\hwarrior\hmonks\h\h\h\h
+
+594
+00:28:11,357 --> 00:28:13,891
+\h\h\h\h\h\hwho\hspoke\honly\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\hthe\hlanguage\hof\hthe\hblade.
+
+595
+00:28:17,063 --> 00:28:18,328
+\h\h\h\hUh...\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+596
+00:28:18,330 --> 00:28:19,563
+(beeping)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+597
+00:28:20,633 --> 00:28:21,865
+\h\h\h\h\h\hWe've\hgot\hintruders!\h\h\h\h\h\h
+
+598
+00:28:23,402 --> 00:28:26,203
+\h\h\h\h\h\h\hScrooge?!\hWhat\his\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\hhe\hdoing\hhere?\h\h\h\h\h\h\h\h\h
+
+599
+00:28:26,205 --> 00:28:27,805
+Strange\hweather\hpatterns\h\h\h\h\h\h\h\h
+
+600
+00:28:27,807 --> 00:28:30,240
+in\ha\hmysterious\hlocation\h\h\h\h\h\h\h\h
+near\htreasure.\hHa\hha!\h\h\h\h\h\h\h\h\h\h\h
+
+601
+00:28:30,242 --> 00:28:32,342
+I\hknew\hhe\hcouldn't\hresist!\h\h\h\h\h\h
+
+602
+00:28:32,344 --> 00:28:35,212
+\h\h\h\h\h\h\h\hHack,\htriangulate\h\h\h\h\h\h\h
+\h\h\h\h\h\h\htheir\hsub's\hcourse!\h\h\h\h\h\h
+
+603
+00:28:35,214 --> 00:28:36,680
+\h\h\h\h\h\h\h\hWe'll\htail\hScrooge\h\h\h\h\h\h
+
+604
+00:28:36,682 --> 00:28:39,216
+\h\h\h\h\h\h\h\hand\hsteal\hthe\hjewel\h\h\h\h\h
+\h\h\h\h\h\h\h\hout\hfrom\hunder\hhim!\h\h\h\h\h
+
+605
+00:28:39,218 --> 00:28:40,851
+\h\h\h\h\h\h\h\h\h\h\h\hThe\hboys?!\h\h\h\h\h\h\h\h\h\h
+
+606
+00:28:40,853 --> 00:28:43,587
+\h\h\h\hWhy,\hyou\hget\hyour\hhands--\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h(squawking\h)\h\h\h\h\h\h\h\h\h
+
+607
+00:28:43,589 --> 00:28:45,856
+\h\h\h\h\h\h\h\hI'm\hgonna\hkill\hhim!\h\h\h\h\h
+
+608
+00:28:45,858 --> 00:28:47,491
+Ooh,\hbetter\hidea!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+609
+00:28:47,493 --> 00:28:50,060
+Nab\hthe\hjewel\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+and\hkill\hthem\hall!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+610
+00:28:50,062 --> 00:28:53,397
+Somebody's\hangling\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+for\hemployee\hof\hthe\hmonth.\h\h\h\h\h\h
+
+611
+00:28:53,399 --> 00:28:56,233
+\h\h\h\h(laughing)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+612
+00:28:58,037 --> 00:29:02,206
+\h\h\h\h\h\h\h\h(thunder\hcrashing)\h\h\h\h\h\h
+
+613
+00:29:02,208 --> 00:29:03,373
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h♪♪\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+614
+00:29:03,375 --> 00:29:05,743
+\h\h\h\h\h\h\h\h\h\h\h\hSCROOGE:\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hThe\hDrake\hBarrier\hReef.\h\h\h\h\h
+
+615
+00:29:05,745 --> 00:29:08,345
+\h\h\h\h\h\h\hPowerful\hcurrents\h\h\h\h\h\h\h\h
+\h\hcombined\hwith\hrocky\hterrain\h\h\h
+
+616
+00:29:08,347 --> 00:29:11,381
+\h\h\hmake\hit\hnearly\himpossible\h\h\h\h
+\h\h\h\h\h\h\h\h\h\hto\hnavigate,\h\h\h\h\h\h\h\h\h\h
+
+617
+00:29:11,383 --> 00:29:14,284
+\h\h\hbut\hon\hthat\hrare\hoccasion\h\h\h\h
+\h\h\h\h\h\h\h\hwhen\hsnow\hfalls\h\h\h\h\h\h\h\h\h
+
+618
+00:29:14,286 --> 00:29:16,887
+\h\h\h\h\h\h\h\habove\hthe\hreef,\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\hthe\hcurrents\hcool,\h\h\h\h\h\h\h
+
+619
+00:29:16,889 --> 00:29:20,357
+\h\h\hallowing\hsafe\hpassage\hto--\h\h\h
+
+620
+00:29:20,359 --> 00:29:21,358
+\h\h\h\h\h\h(snoring,\hstartling)\h\h\h\h\h\h
+
+621
+00:29:21,360 --> 00:29:22,960
+Are\hwe\hthere\hyet?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+622
+00:29:22,962 --> 00:29:24,728
+\h\h\h\h-I\hwas\hjust\habout\hto--\h\h\h\h\h\h
+-Right\hside\hor\hthe\hleft\hside?\h\h\h
+
+623
+00:29:24,730 --> 00:29:26,964
+\h\h\h\h-If\hyou'd\hjust\hlet\hme--\h\h\h\h\h
+\h\h-Look!\hThere\hthat\hthing\his!\h\h\h
+
+624
+00:29:26,966 --> 00:29:28,198
+\h\h\h\h\h\h\h\h\h\hWe\hfound\hit!\h\h\h\h\h\h\h\h\h\h
+
+625
+00:29:33,439 --> 00:29:35,539
+\h\h\h\h\h\h\h\h\h\h\h\h\hWhoa!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+626
+00:29:35,541 --> 00:29:37,574
+Yes,\hgood.\hAtlantis.\h\h\h\h\h\h\h\h\h\h\h\h
+
+627
+00:29:37,576 --> 00:29:40,077
+"Ooh!\hAah!"\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+628
+00:29:40,079 --> 00:29:41,879
+Thanks\hfor\hspoiling\h\h\h\h\h\h\h\h\h\h\h\h\h
+the\hmoment.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+629
+00:29:41,881 --> 00:29:44,281
+\h\h\h\h\h\h\h\hThe\hwhole\hplace\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\his\hupside\hdown!\h\h\h\h\h\h\h\h\h
+
+630
+00:29:44,283 --> 00:29:46,483
+\h\hOh,\hwell,\hthat's\ha\hnew\hone.\h\h\h
+
+631
+00:29:56,061 --> 00:29:57,294
+\h\h\h\h\h\h\h\hWhoa!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+632
+00:30:03,969 --> 00:30:06,303
+\h\h\h\h\h\h\h\hJust\hcall\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hyour\hgrandma\halready!\h\h\h
+\h\h\h\h\h\h\h\hIt's\hno\hbig\hdeal.\h\h\h\h\h\h\h
+
+633
+00:30:06,305 --> 00:30:07,337
+\h\h\h\h(dialing)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+634
+00:30:07,339 --> 00:30:08,939
+\h\h\h\hAah!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+635
+00:30:08,941 --> 00:30:10,974
+\h\h\h\hRemember,\hyou're\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hat\ha\hfriend's\hhouse,\hokay?\h\h
+
+636
+00:30:10,976 --> 00:30:12,509
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hYou\hgot\hthis.\h\h\h
+
+637
+00:30:12,511 --> 00:30:14,344
+(rapidly)\hHi,\hGranny,\h\h\h\h\h\h\h\h\h\h\h
+I'm\hspending\hthe\hnight\h\h\h\h\h\h\h\h\h\h
+
+638
+00:30:14,346 --> 00:30:15,946
+at\ha\hfriend's\hhouse\h\h\h\h\h\h\h\h\h\h\h\h\h
+so\hnothing\his\hwrong!\h\h\h\h\h\h\h\h\h\h\h\h
+
+639
+00:30:15,948 --> 00:30:17,581
+\h\h\h\h\h\h\h\hOh,\hyou\hdon't\hgot\hthis.\h
+
+640
+00:30:17,583 --> 00:30:21,518
+\h\h\h\h\h\h\h\hAh-ha!\hWell,\haccording\h\h
+\h\h\h\h\h\h\h\hto\hthese\hmarkings,\h\h\h\h\h\h
+
+641
+00:30:21,520 --> 00:30:23,187
+\h\h\h\h\h\h\h\hthe\hAtlantines\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hwere\hso\heager\h\h\h\h\h\h\h\h\h\h\h
+
+642
+00:30:23,189 --> 00:30:26,256
+\h\h\h\h\h\h\hto\hbuild\han\hepic\hcity\h\h\h\h
+\h\h\h\hof\hwonders\hand\hdeath\htraps,\h
+
+643
+00:30:26,258 --> 00:30:29,092
+\hthey\hdidn't\hstop\hto\hfigure\hout\h
+\h\ha\hproper\hsupport\hstructure,\h\h\h
+
+644
+00:30:29,094 --> 00:30:31,161
+\h\h\h\h\h\h\h\hand\hthe\hwhole\hthing\h\h\h\h\h
+\h\h\h\h\h\h\h\hfell\hinto\hthe\hsea!\h\h\h\h\h\h
+
+645
+00:30:31,163 --> 00:30:33,630
+\h\h\h\h\h\h\hYou\hkids\hbest\hstay\h\h\h\h\h\h\h
+by\hthe\hsub\hwhile\hI\hscout\hahead.\h
+
+646
+00:30:33,632 --> 00:30:35,833
+Dewey\hran\hin\has\hsoon\h\h\h\h\h\h\h\h\h\h\h\h
+as\hyou\hsaid\h"death\htraps."\h\h\h\h\h\h
+
+647
+00:30:35,835 --> 00:30:37,968
+\h\h\h\hDEWEY:\hCome\hon,\hScrooge!\h\h\h\h
+\h\h\h\h\h\h\h\h\h\hWe\hgot\hthis.\h\h\h\h\h\h\h\h\h\h
+
+648
+00:30:37,970 --> 00:30:41,405
+\h\h\h\h\hBoy!\h(sighs,\hmutters)\h\h\h\h\h\h
+
+649
+00:30:44,977 --> 00:30:46,476
+\h\h\h\h\h\h\h\h\h-(blade\hrings)\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h-(Donald\hsquawks)\h\h\h\h\h\h\h\h
+
+650
+00:30:46,478 --> 00:30:48,145
+\h\h\h\h\h\h\h\h\h\h\h\hOopsie!\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+651
+00:30:48,147 --> 00:30:49,146
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(grunts)\h\h\h\h\h\h\h\h
+
+652
+00:30:49,148 --> 00:30:51,348
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hHmm?\h\h\h\h\h\h\h\h
+
+653
+00:30:51,350 --> 00:30:52,716
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMeh.\h\h\h\h\h\h\h\h
+
+654
+00:30:54,720 --> 00:30:56,987
+You\hmade\hme\hmiss!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+655
+00:30:56,989 --> 00:31:00,490
+\h\h\h\h\h\h\h\h\h\h\h\hUh...\hif\hwe\hget\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hrid\hof\hthem\hnow,\h\h\h\h
+
+656
+00:31:00,492 --> 00:31:03,026
+\h\h\h\h\h\h\h\h\h\h\h\hwe\hcan't\htorture\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hthem\hlater!\h\h\h\h\h\h\h\h\h
+
+657
+00:31:03,028 --> 00:31:06,029
+\h\h\h\h\h\h\h\hBrilliant!\hI\hwant\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hScrooge\halive\h\h\h\h\h\h\h\h\h\h\h
+
+658
+00:31:06,031 --> 00:31:10,033
+\h\h\hwhen\hI\hshove\hthe\hJewel\h\h\h\h\h\h\h
+\h\h\hof\hAtlantis\hin\hhis\hsmug\hface!
+
+659
+00:31:10,035 --> 00:31:12,703
+\h\h\h\h\h\h\h\hHe\hthinks\hhis\hso\hrich\h\h\h
+\h\h\h\h\h\h\h\hand\hso\hScottish,\h\h\h\h\h\h\h\h
+
+660
+00:31:12,705 --> 00:31:16,607
+\h\h\h\h\h\h\h\hbut\hI'm\hwearing\ha\hkilt,\h
+\h\h\h\h\h\h\h\hMcDuck,\ha\hkilt!\h\h\h\h\h\h\h\h\h
+
+661
+00:31:20,579 --> 00:31:22,546
+\h\h\h\h\h\h\h\h\h\h\h\hDah!\hLad!\h\h\h\h\h\h\h\h\h\h\h
+
+662
+00:31:22,548 --> 00:31:25,482
+\h\h\h\h\h\hI\hthought\hthe\htraps\h\h\h\h\h\h\h
+\h\h\h\hwould\hget\hyou\hfor\hsure!\h\h\h\h\h
+
+663
+00:31:25,484 --> 00:31:27,017
+\h\h\h\h\h\h\h\h\h\h\h(whirring)\h\h\h\h\h\h\h\h\h\h\h
+
+664
+00:31:27,019 --> 00:31:29,152
+\h\h\hStupid\hupside-down\htemple!\h\h\h
+
+665
+00:31:29,154 --> 00:31:31,488
+\h\h\h\h\h\h\hNothing\hcool\habout\h\h\h\h\h\h\h
+\h\h\h\hwalking<i>\hunder</i>\hbuzzsaws!\h\h\h\h\h
+
+666
+00:31:31,490 --> 00:31:36,493
+\h\h\h\h\h\h\h\h\h\hFrom\hnow\hon,\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\hdon't\htouch\hanything!\h\h\h\h\h\h
+
+667
+00:31:38,397 --> 00:31:39,997
+\h\h\h\h\h\h\h\h\h\h\h\h(grunts)\h\h\h\h\h\h\h\h\h\h\h\h
+
+668
+00:31:44,103 --> 00:31:45,836
+\h\h\h\h\h\h\h\h\h\h(screaming)\h\h\h\h\h\h\h\h\h\h\h
+
+669
+00:31:47,439 --> 00:31:48,605
+\h\h\h\h\h\h\h\h\h(cracks\hspine)\h\h\h\h\h\h\h\h\h
+
+670
+00:31:48,607 --> 00:31:51,541
+\h\h\h\h\h\h\h\hMaybe\hAtlantis\hwas\h\h\h\h\h\h
+\h\h\h\han\hambitious\hfirst\houting.\h\h
+
+671
+00:31:51,543 --> 00:31:52,743
+\h\h\h\h\h\h\h\h\h\h\h\h(ringing)\h\h\h\h\h\h\h\h\h\h\h
+
+672
+00:31:52,745 --> 00:31:53,744
+(grunting)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+673
+00:31:53,746 --> 00:31:55,112
+\h\h\h\h\h\h\h\h\h\h\h\hHi\hagain,\hGranny!\h\h\h
+
+674
+00:31:55,114 --> 00:31:57,114
+\h\h\h\h\h\hStill\hat\ha\hfriend's\hhouse.
+
+675
+00:31:57,116 --> 00:32:00,217
+\h\h\h\h\h\h\hUh,\hher\hname?\hSub...\hina!
+
+676
+00:32:00,219 --> 00:32:03,420
+\h\h\hA\htotally\hreal\hname\h\h\h\h\h\h\h\h\h\h
+\h\h\hfor\ha\hdefinitely\hreal\hperson!
+
+677
+00:32:03,422 --> 00:32:04,688
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(beep)\h\h\h\h\h\h
+
+678
+00:32:04,690 --> 00:32:05,923
+Uh,\hgood\htry.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+679
+00:32:05,925 --> 00:32:08,525
+\h\h\h\h\h\h\h\h\h\h\h\h-(grunts)\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h-Launchpad,\hare\hyou\hokay?\h\h\h
+
+680
+00:32:08,527 --> 00:32:09,693
+\h\h\h\h(mumbling)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+681
+00:32:09,695 --> 00:32:13,530
+Ah,\ha\hlittle\hsnake\hvenom\h\h\h\h\h\h\h\h
+never...\h(gibbering)\h\h\h\h\h\h\h\h\h\h\h\h
+
+682
+00:32:14,967 --> 00:32:16,400
+Hi,\hnice\hto\hmeet\hyou!\h\h\h\h\h\h\h\h\h\h\h
+
+683
+00:32:16,402 --> 00:32:18,235
+I'm\heverybody's\hfriend!\h\h\h\h\h\h\h\h\h
+
+684
+00:32:18,237 --> 00:32:20,203
+\h\h\h\h\h\h\h\h(screaming)\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+685
+00:32:20,205 --> 00:32:23,407
+Um,\hI've\hgot\hto\hgo\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+to\hthe\hbathroom.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+686
+00:32:23,409 --> 00:32:25,542
+I'll\hbe\hright\hback!\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+687
+00:32:25,544 --> 00:32:27,811
+\h\h\h\h\h\h\h\h(groaning)\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+688
+00:32:27,813 --> 00:32:29,179
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(grunts)\h\h\h\h\h\h\h\h
+
+689
+00:32:30,449 --> 00:32:32,716
+\h\h\h\h\h\h\h\hWhoa!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+690
+00:32:32,718 --> 00:32:35,986
+Suspension\hbridge?\hChasm?\h\h\h\h\h\h\h
+Glowing\hblue\hmystical\hlasers?\h\h\h
+
+691
+00:32:35,988 --> 00:32:38,121
+\h\h\h\h\h\h\h\h\h\h\h\hClassic!\h\h\h\h\h\h\h\h\h\h\h\h
+
+692
+00:32:38,123 --> 00:32:40,791
+(muttering)\h...Scrooge.\h\h\h\h\h\h\h\h\h
+Wait\htill\hI\hget\hmy\hhands\hon\hhim.
+
+693
+00:32:45,497 --> 00:32:48,966
+\h\h\h\hEven\ha\hbasic\hdeath\htrap\h\h\h\h\h
+\h\h\h\hstill\hhas\hthe\hword\h"death"\h\h
+\h\h\h\hin\hthe\htitle.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+694
+00:32:51,236 --> 00:32:54,037
+\h\h\h\h\h\h\h\h\h\h\h\h(squawking)\h\h\h\h\h\h\h\h\h
+
+695
+00:32:59,078 --> 00:33:00,177
+\h\h\h\h\h\h\h\h\h\h\h\hOh,\hno.\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+696
+00:33:00,179 --> 00:33:01,611
+\h\h\h\hWe'll\hfind\hanother\hroute.\h\h\h
+
+697
+00:33:01,613 --> 00:33:03,780
+\h\h\h\hIt's\hnot\hsafe\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\hfor\hamateur\hadventurers.\h\h\h\h
+
+698
+00:33:03,782 --> 00:33:05,449
+That\hsounds\hlike\ha\hchallenge!\h\h\h
+
+699
+00:33:05,451 --> 00:33:08,352
+\h\h\h\h\h\h\h\hI\hhave\hto\hstress\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hthat\his\hnot\ha\hchallenge.
+
+700
+00:33:08,354 --> 00:33:10,988
+...is\hexactly\hwhat\hyou\hsay\h\h\h\h\h\h
+to\hdissuade\hthe\hweak\hof\hheart\h\h\h
+
+701
+00:33:10,990 --> 00:33:12,789
+from\haccepting\hthe\hchallenge!\h\h\h
+
+702
+00:33:12,791 --> 00:33:14,358
+Well,\hchallenge\haccepted!\h\h\h\h\h\h\h
+
+703
+00:33:14,360 --> 00:33:15,759
+\h\h\h\h\h\h\h\hThere's\hno\hchallenge!\h\h\h
+
+704
+00:33:17,162 --> 00:33:18,829
+\h\h\h\h\h\h\h\h\h\h\h\hDewey!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+705
+00:33:20,666 --> 00:33:22,165
+\h\h\h\h\h\h\h\h\h\h\h♪\hDew--\h♪\h\h\h\h\h\h\h\h\h\h\h\h
+
+706
+00:33:22,167 --> 00:33:23,533
+\h\h\h\h\h\h\h\h\h\h(screaming)\h\h\h\h\h\h\h\h\h\h\h
+
+707
+00:33:23,535 --> 00:33:25,702
+\h♪\hDewey,\hDewey,\hDewey,\hDewey\h♪\h
+
+708
+00:33:25,704 --> 00:33:27,504
+\h\h\h\h\h\h\h\h\h\h\hHuh?\hAah!\h\h\h\h\h\h\h\h\h\h\h\h
+
+709
+00:33:27,506 --> 00:33:28,939
+\h\h\h\h\h\h\h♪\hDew,\huh,\hDewey,\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\hDewey,\hDewey\h♪\h\h\h\h\h\h\h\h\h
+
+710
+00:33:28,941 --> 00:33:30,674
+\h\h\h\h\h\h\h(quacks,\hscreams)\h\h\h\h\h\h\h\h
+
+711
+00:33:30,676 --> 00:33:31,708
+\h\h\h\h\h\h\h\h\h\h\h\h♪\hDew\h♪\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+712
+00:33:31,710 --> 00:33:32,843
+\h\h\h\h\h\h\h\h\h\h\h\hOh,\hno!\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+713
+00:33:32,845 --> 00:33:34,177
+\h\h\h♪\hHow\hdoes\hhe\hDewey\hit?\h♪\h\h\h\h
+
+714
+00:33:34,179 --> 00:33:35,178
+\h\h\h\h\h\h\h\h♪\hI\hdon't\hknow\h♪\h\h\h\h\h\h\h\h
+
+715
+00:33:35,180 --> 00:33:38,281
+\h\h\h\h\h\h\h\h\h\h\h(riffing)\h\h\h\h\h\h\h\h\h\h\h\h
+
+716
+00:33:38,283 --> 00:33:40,484
+\h\h\h\h\h\h\h\h(quacking)\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+717
+00:33:40,486 --> 00:33:43,687
+\h\h\h♪\hDew!\hAnd\hnow\hyou\hknow\h♪\h\h\h\h
+
+718
+00:33:45,691 --> 00:33:48,458
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hNailed\hit!\h\h\h\h\h
+
+719
+00:33:53,065 --> 00:33:55,866
+Sure,\hif\hyou\hwant\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+to\hdo\hit\hthe\heasy\hway.\h\h\h\h\h\h\h\h\h\h
+
+720
+00:33:55,868 --> 00:33:58,568
+\h\h\h\h\h\h\h\hWhy\hwouldn't\hyou\hwant\h\h\h
+\h\h\h\h\h\h\h\hto\hdo\hit\hthe\heasy\hway?\h\h
+
+721
+00:33:58,570 --> 00:34:01,738
+\h\h\h\hYou've\hgot\hto\hwork\hsmarter,\h
+\h\h\h\hlad,\hnot\hharder.\h\h\h\h\h\h\h\h\h\h\h\h
+
+722
+00:34:01,740 --> 00:34:02,739
+\h\h\h\h\h\h\h\h\h\h\h\hAah!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+723
+00:34:02,741 --> 00:34:04,474
+Ugh,\h"lad."\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+724
+00:34:04,476 --> 00:34:07,811
+I\hdon't\hcall\hyou\h"old\hman"\h\h\h\h\h\h
+or\h"Scotty\hMcTophat."\h\h\h\h\h\h\h\h\h\h\h
+
+725
+00:34:07,813 --> 00:34:09,146
+\h\h\h\h\h\h\h\h\h\h\h\hRespect\hyour\helder.\h
+
+726
+00:34:09,148 --> 00:34:10,914
+\h\h\h\h\h\h\h\hWhen\hyou\hadventure\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hwith\hScrooge\hMcDuck--\h\h\h
+
+727
+00:34:10,916 --> 00:34:12,582
+But\hI'm\hnot.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+728
+00:34:12,584 --> 00:34:14,651
+You\hwant\hme\hto\hadventure\h\h\h\h\h\h\h\h
+<i>behind</i>\hScrooge\hMcDuck,\h\h\h\h\h\h\h\h\h\h
+
+729
+00:34:14,653 --> 00:34:16,019
+or\hwait\hby\hthe\hsub!\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+730
+00:34:16,021 --> 00:34:18,155
+I\hmight\has\hwell\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+be\hback\hon\hthe\hhouseboat!\h\h\h\h\h\h\h
+
+731
+00:34:18,157 --> 00:34:20,557
+\h\h\h\h\h\h\h\hBecause\hyou\hhave\hno\hidea
+\h\h\h\h\h\h\h\hwhat\hyou're\hdoing!\h\h\h\h\h\h
+
+732
+00:34:20,559 --> 00:34:21,825
+So\hshow\hme!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+733
+00:34:21,827 --> 00:34:23,393
+Give\hme\ha\hchance\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+instead\hof\hlumping\hus\h\h\h\h\h\h\h\h\h\h\h
+
+734
+00:34:23,395 --> 00:34:25,195
+all\htogether\hin\hthe\hback\hseat\h\h\h
+while\hyou\hdrive!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+735
+00:34:25,197 --> 00:34:27,731
+\h\h\h\h\h\h\h\h\h\h\h\hI'm\hnot\hlumping\hyou\h
+\h\h\h\h\h\h\h\h\h\h\h\hall\htogether.\h\h\h\h\h\h\h
+
+736
+00:34:27,733 --> 00:34:28,999
+Oh,\hreally?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+737
+00:34:29,001 --> 00:34:30,000
+Which\htriplet\ham\hI?\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+738
+00:34:30,002 --> 00:34:34,204
+\h\h\h\h\h\h\h\h\h\h\h\hIt's...\hBluey?\h\h\h\h\h\h
+
+739
+00:34:34,206 --> 00:34:36,173
+\h\h\h\hAah!\hOw!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+740
+00:34:39,611 --> 00:34:42,045
+\h\h\h\hUgh!\hFantastic.\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+741
+00:34:42,047 --> 00:34:45,048
+You\hsee\hwhat\hI'm\htalking\habout?\h
+
+742
+00:34:45,050 --> 00:34:46,750
+\h\h\h\h\h\h\h\h\hYou\hfour\hfind\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\hanother\hway\h'round!\h\h\h\h\h\h\h
+
+743
+00:34:46,752 --> 00:34:49,719
+\h\h\h\h\h\h\hWe're\hgoing\hto...\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\hpush\honward,\h\h\h\h\h\h\h\h\h\h
+
+744
+00:34:49,721 --> 00:34:52,022
+\h\h\h\h\h\h\h\h\h\happarently.\h\h\h\h\h\h\h\h\h\h\h
+
+745
+00:34:52,024 --> 00:34:54,291
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(grunting)\h\h
+
+746
+00:34:54,293 --> 00:34:57,027
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(sighs)\h\h\h\h\h\h\h\h\h
+
+747
+00:34:57,029 --> 00:34:59,963
+Why,\hthis\his\hno\hbathroom!\h\h\h\h\h\h\h
+
+748
+00:34:59,965 --> 00:35:02,799
+This\hshortcuts\hleads\h\h\h\h\h\h\h\h\h\h\h\h
+right\hto\hthe\htreasure\hchamber!\h\h
+
+749
+00:35:02,801 --> 00:35:05,202
+\hI\hdon't\heven\hknow\hwhy\hI\hhired\h\h
+\h\h\h\h\h\h\h\hthe\hrest\hof\hyou!\h\h\h\h\h\h\h\h
+
+750
+00:35:05,204 --> 00:35:06,470
+\h\h\h\h\h\h\h\h\h\hHelp\hhim\hup!\h\h\h\h\h\h\h\h\h\h
+
+751
+00:35:08,874 --> 00:35:13,710
+\h\h\h\h\h\h\h\h\h\h\hOw.\hOuch!\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\hOwie!\hOwie!\h\h\h\h\h\h\h\h\h\h\h
+
+752
+00:35:16,882 --> 00:35:20,050
+\h\h\h\h\h\h\hMaybe\hI\hcould\hjust\h\h\h\h\h\h\h
+\h\h\h\h\h\h\hhire\hsome\hfamily.\h\h\h\h\h\h\h\h
+
+753
+00:35:20,052 --> 00:35:22,686
+\h\h\h\h\h\h\h\hThen\hthey'd\hhave\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hto\hlisten\hto\hme.\h\h\h\h\h\h\h\h
+
+754
+00:35:25,457 --> 00:35:30,260
+\h\h\h\h\h(laughs)\hThere\hshe\his,\h\h\h\h\h
+\h\h\h\h\hthe\hJewel\hof\hAtlantis!\h\h\h\h\h
+
+755
+00:35:30,262 --> 00:35:32,796
+\h\h\h\h\h\h\h\h\h\h\h(cackling)\h\h\h\h\h\h\h\h\h\h\h
+
+756
+00:35:32,798 --> 00:35:36,066
+\h\h\h\h\h\h\h\h\h\h-Who's\hthat?\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h-Flintheart\hGlomgold,\h\h\h\h\h\h
+
+757
+00:35:36,068 --> 00:35:38,635
+the\hpoor\hman's\hversion\hof\hme,\h\h\h
+
+758
+00:35:38,637 --> 00:35:41,671
+which,\hto\hbe\hfair,\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+still\hmakes\hhim\hinsanely\hrich.\h\h
+
+759
+00:35:41,673 --> 00:35:43,607
+\h\h\h\h\h\h\h\h\h\h\h(cackling)\h\h\h\h\h\h\h\h\h\h\h
+
+760
+00:35:43,609 --> 00:35:44,674
+\h\h\h\h\h\h\h\hLoad\hup\hthe\hsub.\h\h\h\h\h\h\h\h
+
+761
+00:35:44,676 --> 00:35:46,510
+\h\h\h\h\h\h\hThey've\hgot\hUncle\hDonald?
+
+762
+00:35:46,512 --> 00:35:47,711
+\h\h\h\hWhat?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+763
+00:35:50,182 --> 00:35:52,782
+Let\hgo\hof\hmy\huncle!\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+764
+00:35:52,784 --> 00:35:55,552
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h-No.\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h-I\hwasn't\hprepared\hfor\hthat.\h\h
+
+765
+00:35:59,691 --> 00:36:01,791
+\h\h\h\h\h\h\h\h\h\h\h\hWhat\hare\hyou\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hdoing\hhere,\hFlinty?\h
+
+766
+00:36:01,793 --> 00:36:03,860
+\h\h\h\h\h\h\h\h\h\hWhat\hare\hyou\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\hdoing\hhere,\hScrooge?\h\h\h\h\h\h
+
+767
+00:36:03,862 --> 00:36:06,163
+\h\h\h\h\h\h\h\h\h\h\hI\htold\hyou\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\hto\hkeep\hthe\hboys\hsafe!\h\h\h\h\h
+
+768
+00:36:06,165 --> 00:36:07,831
+Ah,\hthey're\hperfectly\hfine.\h\h\h\h\h
+
+769
+00:36:07,833 --> 00:36:09,933
+\h\h\h\h\h\h\h\h\h\h\h\hOh,\hyeah?\hWhere\hare\h
+\h\h\h\h\h\h\h\h\h\h\h\hthe\hother\htwo?\h\h\h\h\h\h
+
+770
+00:36:09,935 --> 00:36:12,169
+Back\hsafe\hin\hthe\hroom\h\h\h\h\h\h\h\h\h\h\h
+with\hthe\hfire\hand\hthe\hsnakes.\h\h\h
+
+771
+00:36:12,171 --> 00:36:14,771
+\h\h\h\h\h\h\h\h\h\h\h\h\h-What?\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h-Ah,\hScroogy.\h\h\h\h\h\h\h\h\h\h
+
+772
+00:36:14,773 --> 00:36:17,140
+\h\h\h\h\h\h\h\h\hI\hsee\hyou\hknow\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\hmy\hnewest\hemployee.\h\h\h\h\h\h\h
+
+773
+00:36:17,142 --> 00:36:21,344
+\h\h\h\h\h\h\h\h\h\hYour\hnew\hjob\h\h\h\h\h\h\h\h\h\h
+\h\h\h\his\hwith\hmy\hsworn\henemy?\h\h\h\h\h
+
+774
+00:36:21,346 --> 00:36:24,881
+\h\h\h\h\h\h\hI\hcan't\hkeep\htrack\h\h\h\h\h\h\h
+\h\h\hof\hall\hyour\hsworn\henemies!\h\h\h
+
+775
+00:36:24,883 --> 00:36:28,385
+\h\h\hNow,\hnow,\hDonald\hhas\hbeen\h\h\h\h
+\h\h\h\h\h\h\ha\hmodel\hemployee,\h\h\h\h\h\h\h\h
+
+776
+00:36:28,387 --> 00:36:30,887
+\h\h\hand\han\hexcellent\hprisoner.\h\h\h
+
+777
+00:36:30,889 --> 00:36:32,956
+\h\h\h\h\h\h\hYeah!\hWait,\hwhat?\h\h\h\h\h\h\h\h
+
+778
+00:36:36,695 --> 00:36:39,796
+\h\h\h\h\h\hHiring\hmy\hown\hnephew\h\h\h\h\h\h
+in\horder\hto\huse\hhim\hagainst\hme?\h
+
+779
+00:36:39,798 --> 00:36:41,631
+\h\h\h\h\hNow,\hthat\his\hgood\hplanning.
+
+780
+00:36:47,139 --> 00:36:49,739
+\h\h\h\hHave\hfun\hbeing\hthe\hsecond\h\h\h
+\h\h\h\hrichest\hduck\hin\hthe\hworld...
+
+781
+00:36:49,741 --> 00:36:52,175
+\h\h\h\hfor\hthe\hnext\hfive\hminutes.\h\h
+
+782
+00:36:52,177 --> 00:36:54,911
+\h\h\h\h\h\h\h\h\h\h\h(cackling)\h\h\h\h\h\h\h\h\h\h\h
+
+783
+00:36:58,717 --> 00:37:02,319
+I'd\hlike\hto\hpoint\hout\h\h\h\h\h\h\h\h\h\h\h
+that\hthis\htrap\hwas\hnot\hmy\hfault.
+
+784
+00:37:03,922 --> 00:37:05,922
+Junior\hWoodchuck\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Rule\h841:\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+785
+00:37:05,924 --> 00:37:08,558
+There's\halways\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+another\hway\haround.\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+786
+00:37:08,560 --> 00:37:09,859
+\h\h\h\hHup!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+787
+00:37:09,861 --> 00:37:11,228
+\h\h\h\h\h\h\h\h\h\h\h-(ringing)\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h-Hup!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+788
+00:37:11,230 --> 00:37:12,429
+Oh,\hno,\hno,\hno,\hno!\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+789
+00:37:12,431 --> 00:37:14,231
+\h\h\h\h\h\h\h\hOh,\hlook!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hUncle\hHampus\his\hhere,\h\h\h
+
+790
+00:37:14,233 --> 00:37:16,166
+\h\h\h\hand\hhe\honly\hspeaks\hSwedish.\h
+
+791
+00:37:16,168 --> 00:37:18,935
+\h\h\h\hWe\hdon't\hwant\hto\hbe\hrude,\h\h\h
+\h\h\h\hso...\hgood-bye?\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+792
+00:37:18,937 --> 00:37:20,770
+And\hyou're\hdone.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+793
+00:37:20,772 --> 00:37:23,106
+Yeah,\hyou're\hnever\hgonna\h\h\h\h\h\h\h\h
+be\hable\hto\hback\hup\hthat\hlie.\h\h\h\h
+
+794
+00:37:23,108 --> 00:37:24,241
+That\hwas\hcrazy!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+795
+00:37:24,243 --> 00:37:25,408
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWhoa!\h\h\h
+
+796
+00:37:25,410 --> 00:37:26,876
+\h\h\h\h\h\h\h\h\h\h\h\hOh,<i>\hhej,</i>\hBeakley!\h\h\h
+
+797
+00:37:26,878 --> 00:37:29,746
+\h\h\h\h\h\h\h\h\h\h\h\hSubina...\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h(speaking\hSwedish)\h\h
+
+798
+00:37:29,748 --> 00:37:31,681
+\h\h\h\h\h\h(Glomgold\hcackling)\h\h\h\h\h\h\h
+
+799
+00:37:31,683 --> 00:37:34,251
+\h\h\h\h\h\h\h\h\hTake\h'em\hdown!\h\h\h\h\h\h\h\h\h
+
+800
+00:37:34,253 --> 00:37:35,452
+\h\h\h\h\h\h\h\h\h\h\h\h\h<i>\hOjda.</i>\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+801
+00:37:36,755 --> 00:37:38,822
+\h\h\h\h\h\h\h\hWe\hgotta\hstop\hthe\hwater!
+
+802
+00:37:44,596 --> 00:37:47,631
+\h\h\h\h\h\h\h\h\h\h\h(quacking)\h\h\h\h\h\h\h\h\h\h\h
+
+803
+00:37:47,633 --> 00:37:48,765
+\h\h\h\h\h\h\h\h\h\h\h\hOh,\hno.\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+804
+00:37:53,238 --> 00:37:55,538
+\h\h\h\h\h\h\h(sighs)\hI\hknew\hit!\h\h\h\h\h\h\h
+
+805
+00:37:55,540 --> 00:37:57,974
+\h\h\h\hI\hknew\hI\hcouldn't\htrust\h\h\h\h\h
+\h\h\h\h\h\h\hyou\hwith\hthe\hboys!\h\h\h\h\h\h\h
+
+806
+00:37:57,976 --> 00:37:58,808
+\h\h\h\h\hNot\hthe\htime,\hDonald.\h\h\h\h\h\h
+
+807
+00:37:58,810 --> 00:38:00,577
+\h\h\h\h\h\h\h\h\hCrazy\hold\hman!\h\h\h\h\h\h\h\h\h
+
+808
+00:38:00,579 --> 00:38:02,979
+\h\h\h\h\h\h\hAll\hyou\hcare\habout\h\h\h\h\h\h\h
+\h\h\h\his\hyour\hnext\hadventure.\h\h\h\h\h
+
+809
+00:38:02,981 --> 00:38:06,082
+\h\hThis\his\hthe\hSpear\hof\hSelene\h\h\h
+\h\h\h\h\h\h\h\hall\hover\hagain!\h\h\h\h\h\h\h\h\h
+
+810
+00:38:06,084 --> 00:38:09,552
+\h\h\h\h\hI\hwas\hNOT\hresponsible\h\h\h\h\h\h
+\h\h\h\hfor\hthe\hSpear\hof\hSelene!\h\h\h\h
+
+811
+00:38:09,554 --> 00:38:13,256
+Stop!\hScrooge\hwas\htrying\h\h\h\h\h\h\h\h
+to\hkeep\hme\hout\hof\htrouble,\h\h\h\h\h\h
+
+812
+00:38:13,258 --> 00:38:15,492
+but\hI\hwas\hso\hcaught\hup\hin--\h\h\h\h\h
+
+813
+00:38:15,494 --> 00:38:16,793
+Why\his\hthere\ha\hlamp\h\h\h\h\h\h\h\h\h\h\h\h\h
+on\hthe\hfloor?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+814
+00:38:16,795 --> 00:38:17,994
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWhat?\h\h\h\h\h\h\h\h\h\h\h
+
+815
+00:38:17,996 --> 00:38:19,896
+Atlantis\his\hupside\hdown.\h\h\h\h\h\h\h\h
+
+816
+00:38:19,898 --> 00:38:22,265
+That\hmeans\hthat\hlamp\h\h\h\h\h\h\h\h\h\h\h\h
+was\hsupposed\hto\hbe\hon\hthe\hfloor\h
+
+817
+00:38:22,267 --> 00:38:23,967
+surrounded\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+by\hall\hthis\htreasure.\h\h\h\h\h\h\h\h\h\h\h
+
+818
+00:38:23,969 --> 00:38:25,935
+\h\h\h\hAttaboy,\hlad.\hKeep\hgoing.\h\h\h
+
+819
+00:38:25,937 --> 00:38:29,072
+But\hwhy\hwould\hyou\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+surround\hthat\hthing\h\h\h\h\h\h\h\h\h\h\h\h\h
+with\htreasure\hunless--\h\h\h\h\h\h\h\h\h\h
+
+820
+00:38:29,074 --> 00:38:32,909
+\h\h\h\h\h\h\h\hBOTH:\h...that's\h\h\h\h\h\h\h\h\h
+\h\hthe\hreal\hJewel\hof\hAtlantis!\h\h\h
+
+821
+00:38:32,911 --> 00:38:35,011
+That\hthing\hlit\hup\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+when\hthe\htrap\hwas\hsprung.\h\h\h\h\h\h\h
+
+822
+00:38:35,013 --> 00:38:38,915
+I\hbet\hmy\hbottom\hdollar\h\h\h\h\h\h\h\h\h\h
+it's\hthe\hpower\hsource\h\h\h\h\h\h\h\h\h\h\h
+that\hruns\hthe\hcity!\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+823
+00:38:38,917 --> 00:38:41,184
+\h\h\h\hUncle\hDonald,\hyou\hgotta\h\h\h\h\h
+\h\h\h\h\h\h\hlet\hthe\hroom\hflood\h\h\h\h\h\h\h
+
+824
+00:38:41,186 --> 00:38:42,319
+\h\h\h\hso\hI\hcan\hgrab\hthe\hjewel.\h\h\h\h
+
+825
+00:38:42,321 --> 00:38:43,653
+\h\h\h\h\h\h\h\h\h\h\h\hThat's\hcrazy!\h\h\h\h\h\h\h
+
+826
+00:38:43,655 --> 00:38:46,256
+\h\h\h\h\h\h\h\h\h\h\h\hI'm\hsupposed\hto,\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hwhat,\hlet\hgo?\h\h\h\h\h\h\h
+
+827
+00:38:46,258 --> 00:38:47,691
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTrust\hyou?\h\h\h\h\h\h
+
+828
+00:38:47,693 --> 00:38:50,827
+Well,\hyeah,\hthat's\hkind\hof\h\h\h\h\h\h
+\h\h\h\hall\hyou\hcan\hdo.\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+829
+00:38:50,829 --> 00:38:53,863
+This\his\ha\hsurprisingly\h\h\h\h\h\h\h\h\h\h
+insightful\hdeath\htrap!\h\h\h\h\h\h\h\h\h\h
+
+830
+00:39:06,011 --> 00:39:07,444
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(quacks)\h\h\h\h
+
+831
+00:39:13,552 --> 00:39:16,353
+\h\h\h\h\h\h\h\h\h\h\h(grunting)\h\h\h\h\h\h\h\h\h\h\h
+
+832
+00:39:25,897 --> 00:39:28,431
+\h\h\h\h\h\h\h\h\h\h\h(panting)\h\h\h\h\h\h\h\h\h\h\h\h
+
+833
+00:39:29,968 --> 00:39:32,869
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hHey!\hWe're\hgonna
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hbe\hokay!\h\h\h\h\h\h\h\h
+
+834
+00:39:34,072 --> 00:39:36,139
+\h\h\h\h\h\h\h\h\h\h\h(grunting)\h\h\h\h\h\h\h\h\h\h\h
+
+835
+00:39:36,141 --> 00:39:39,075
+\h\h\h\h(screaming)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+836
+00:39:39,077 --> 00:39:43,179
+\h\h\h\h\h\h\h\h\h\h\hOh,\hyeah,\hthose\hguys.
+
+837
+00:39:43,181 --> 00:39:46,015
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hHuey\hand\hLouie!
+
+838
+00:39:46,017 --> 00:39:48,084
+\h\h\h\h\h\h\h\h...are\hdoing\hokay!\h\h\h\h\h\h
+
+839
+00:39:48,086 --> 00:39:50,320
+\h\h\h\h\h\h\h\h(grunting)\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+840
+00:39:50,322 --> 00:39:52,989
+Wait!\hWhere's\hGlomgold?\h\h\h\h\h\h\h\h\h
+
+841
+00:39:52,991 --> 00:39:54,491
+\h\h\h\h\h\h\h\h(walkie-talkie\hcrackles)
+
+842
+00:39:54,493 --> 00:39:56,726
+\h\h\h\h\hGLOMGOLD:<i>\hHey,\hteam.</i>\h\h\h\h\h\h\h
+\h\h\h\h<i>\hWanted\hto\hthank\hyou</i>\h\h\h\h\h\h\h\h
+
+843
+00:39:56,728 --> 00:39:58,094
+\h\h\h\h\h\h\h\h\h\hfor\hkeeping\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\hScrooge's\hkin\hbusy\h\h\h\h\h\h\h
+
+844
+00:39:58,096 --> 00:40:00,997
+while\hI\hescape\hwith\hthe\hjewel\h\h\h
+\h\h\h\hand\hblow\hup\hAtlantis\h\h\h\h\h\h\h\h
+
+845
+00:40:00,999 --> 00:40:03,032
+\h\h\h\h<i>\hwith\hmy\hmost\hhated\hrival</i>\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h<i>\hinside.</i>\h\h\h\h\h\h\h\h\h\h\h\h
+
+846
+00:40:03,034 --> 00:40:06,002
+\h\hBut\hI\hthought\hemployees\h\h\h\h\h\h\h
+\h\hwere\hgreatest\htreasure\hof\hall!
+
+847
+00:40:06,004 --> 00:40:07,103
+\h\h\h\h\h\h<i>\hDon't\hbe\hridiculous!</i>\h\h\h\h\h
+
+848
+00:40:07,105 --> 00:40:08,905
+\h\h\h\h\h\h\h\hTreasure\his\h\h\h\h\h\h\h\h\h\h\h\h\h
+the\hgreatest\htreasure\hof\hall.\h\h\h
+
+849
+00:40:08,907 --> 00:40:11,741
+That's\hwhy\hit's\hcalled\htreasure!
+\h\h\h\h\h\h\h\h\hGlomgold\hout!\h\h\h\h\h\h\h\h\h\h
+
+850
+00:40:12,944 --> 00:40:14,611
+\h\h\h\hWe\hhave\hto\hgo!\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+851
+00:40:20,752 --> 00:40:22,118
+\h\h\h\h\h\h\h\h\h\h\h\h\h-Huh?\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h-Mr.\hDuck.\h\h\h\h\h\h\h\h\h\h\h
+
+852
+00:40:22,120 --> 00:40:24,254
+\h\h\h\hCould\hwe,\hum,\hmaybe\hbum\h\h\h\h\h
+\h\h\h\h\h\h\h\ha\hride\hwith\hyou?\h\h\h\h\h\h\h\h
+
+853
+00:40:34,132 --> 00:40:36,766
+\h\h\hThat\hwas\hsome\hquick\hthinking.
+
+854
+00:40:36,768 --> 00:40:39,936
+\h\h\h\h\h\h\hYou\hjust\hmay\hbe\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\han\hadventurer\hyet,\hDewey.
+
+855
+00:40:42,441 --> 00:40:46,443
+\h\h\h\h\h(reporters\hclamoring)\h\h\h\h\h\h
+
+856
+00:40:46,445 --> 00:40:48,945
+\h\h\h\h\h\h\h\hAye,\haye.\hOkay.\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\hSettle\hdown.\h\h\h\h\h\h\h\h\h\h
+
+857
+00:40:48,947 --> 00:40:51,915
+\h\h\h\h\h\h\h\h\hHa\hha!\hLadies\h\h\h\h\h\h\h\h\h\h
+\h\hand\hgentlemen\hof\hthe\hpress,\h\h\h
+
+858
+00:40:51,917 --> 00:40:57,287
+it\his\hwith\hgreat\hpride\hthat\hI,\h\h
+Flintheart\hGlomgold,\hpresent--\h\h
+
+859
+00:40:57,289 --> 00:41:00,423
+\h\h\h...the\hJewel\hof\hAtlantis!\h\h\h\h
+
+860
+00:41:00,425 --> 00:41:01,491
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWhat?!\h\h\h
+
+861
+00:41:01,493 --> 00:41:03,259
+\h\h\h\h\h\h\h\h\hIs\hthat\hScrooge\hMcDuck?
+
+862
+00:41:03,261 --> 00:41:06,362
+\h\h\h\h\h\h\h\h\h-Mr.\hMcDuck...\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h-(clamor\hresumes)\h\h\h\h\h\h\h\h
+
+863
+00:41:07,999 --> 00:41:10,633
+\h\h\h\h\h\h\h\h\hAn\hefficient,\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\hclean\hsource\hof\henergy\h\h\h\h\h
+
+864
+00:41:10,635 --> 00:41:13,770
+\h\h\hthat\hcould\hpower\hDuckburg\h\h\h\h
+\h\h\h\h\h\h\h\h\hfor\h50\hyears,\h\h\h\h\h\h\h\h\h\h
+
+865
+00:41:13,772 --> 00:41:17,640
+\h\h\h\hcourtesy\hof\hyour\hfriends\h\h\h\h
+\hat\hMcDuck\hWater\hand\hElectric.\h\h
+
+866
+00:41:17,642 --> 00:41:19,976
+\h\h\h\h\h\h\h\hOoh,\hMr.\hMcDuck,\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hhow\hdo\hyou\hrespond\h\h\h\h\h\h
+
+867
+00:41:19,978 --> 00:41:22,445
+\h\h\h\h\h\h\h\hto\hclaims\hby\hother\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hScottish\hbillionaires\h\h\h
+
+868
+00:41:22,447 --> 00:41:24,147
+\h\h\h\h\h\h\h\hthat\hthey\hhave\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\hthe\hreal\hjewel?\h\h\h\h\h\h\h\h\h
+
+869
+00:41:24,149 --> 00:41:25,849
+That\hbauble?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+870
+00:41:25,851 --> 00:41:28,785
+That's\hnice,\hbut\hit's\h\h\h\h\h\h\h\h\h\h\h
+obviously\hsuper\hcursed.\h\h\h\h\h\h\h\h\h
+
+871
+00:41:28,787 --> 00:41:30,019
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hNo,\hit's\hnot!\h\h\h
+
+872
+00:41:30,021 --> 00:41:31,421
+\h\h\h\h\h\h\h\h\h\h(splashing)\h\h\h\h\h\h\h\h\h\h\h
+
+873
+00:41:31,423 --> 00:41:34,324
+\h\h\h\h\h\h\h\h\h\h\h(roaring)\h\h\h\h\h\h\h\h\h\h\h\h
+
+874
+00:41:34,326 --> 00:41:38,228
+\h\h(screams)\hCurse\hyou,\hMcDuck!\h\h
+
+875
+00:41:41,800 --> 00:41:45,168
+\h\h\h\h\h-Webby.\hUncle\hHampus.\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h-How\hlong?\h\h\h\h\h\h\h\h\h\h\h
+
+876
+00:41:45,170 --> 00:41:46,436
+\h\h\h\h\h\h\h\hWhole\htime.\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+877
+00:41:46,438 --> 00:41:48,972
+\h\h\h\hGranny,\hI\hcan\hexplain.\h\h\h\h\h\h
+
+878
+00:41:48,974 --> 00:41:52,509
+Dear,\hyou\hare\hsafer\h\h\h\h\h\h\h\h\h\h\h\h\h
+in\ha\hsunken\hcity\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+with\hScrooge\hMcDuck\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+879
+00:41:52,511 --> 00:41:55,211
+than\hyou\hare\hlocked\h\h\h\h\h\h\h\h\h\h\h\h\h
+in\ha\hvault\hin\hFort\hKnox.\h\h\h\h\h\h\h\h
+
+880
+00:41:55,213 --> 00:41:57,447
+No\hmore\hlies...\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+881
+00:41:57,449 --> 00:41:59,516
+and\hyou\hcan\hgo\hwith\hhim\h\h\h\h\h\h\h\h\h
+wherever\hyou\hlike.\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+882
+00:42:02,220 --> 00:42:04,320
+\h\h\h\h\h-Now,\hDonald,\hdon't--\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h\h-Stop.\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+883
+00:42:04,322 --> 00:42:07,056
+I\hadmit\hI'm\ha\hlittle\h\h\h\h\h\h\h\h\h\h\h\h
+overprotective.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+884
+00:42:07,058 --> 00:42:08,858
+\h\h\h\h\h\h\hLOUIE:\hA\hlittle?!\h\h\h\h\h\h\h\h
+
+885
+00:42:10,061 --> 00:42:11,394
+No\hmatter\hwhat\hI\hdo,\h\h\h\h\h\h\h\h\h\h\h\h
+
+886
+00:42:11,396 --> 00:42:13,663
+these\hboys\hwill\hget\h\h\h\h\h\h\h\h\h\h\h\h\h
+into\htrouble,\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+887
+00:42:13,665 --> 00:42:18,067
+so\hmaybe\hyou\hcould\hteach\hthem\h\h\h
+how\hto\hget<i>\hout</i>\hof\htrouble.\h\h\h\h\h\h
+
+888
+00:42:18,069 --> 00:42:19,202
+\h\h\h\h\h\h\h\h\h\h\h\hUncle\hDonald?\h\h\h\h\h\h\h
+
+889
+00:42:19,204 --> 00:42:20,837
+It\hmight\hbe\hokay\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+890
+00:42:20,839 --> 00:42:23,239
+if\hthe\hboys\hsaw\hyou\h\h\h\h\h\h\h\h\h\h\h\h\h
+every\honce\hin\ha\hwhile.\h\h\h\h\h\h\h\h\h\h
+
+891
+00:42:23,241 --> 00:42:25,008
+\h\h\h\h\h\h\h\h(cheering)\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+892
+00:42:25,010 --> 00:42:29,045
+Sometimes,\hlike\hbirthdays\h\h\h\h\h\h\h
+or\hfederal\hholidays.\h\h\h\h\h\h\h\h\h\h\h\h
+
+893
+00:42:29,047 --> 00:42:31,080
+\h\h\h\h\h\h\h\h-Nothing\htoo...\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h\h-(bang)\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+894
+00:42:33,852 --> 00:42:37,220
+Ooh!\hI\hmay\hhave\hleft\h\h\h\h\h\h\h\h\h\h\h\h
+the\hengine\hrunning\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+in\hthe\hhouseboat.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+895
+00:42:37,222 --> 00:42:41,057
+\h\h\h\h\h\h\h\h\h\h\h\hI\hmay\hhave\ha\hdozen\h\h
+\h\h\h\h\h\h\h\h\h\h\h\hor\hso\hspare\hbedrooms
+
+896
+00:42:41,059 --> 00:42:43,860
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hin\hthe\hmansion.\h
+
+897
+00:42:43,862 --> 00:42:45,395
+\h\h\h\h\h\h\h\h(chuckles)\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+898
+00:42:45,397 --> 00:42:47,263
+(cheering)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+899
+00:42:50,035 --> 00:42:51,434
+There\hyou\hhave\hit.\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+900
+00:42:51,436 --> 00:42:55,004
+Reclusive\hadventure\hcapitalist\h\h
+Scrooge\hMcDuck\his\hback,\h\h\h\h\h\h\h\h\h
+
+901
+00:42:55,006 --> 00:42:56,839
+with\hfamily\hin\htow,\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+902
+00:42:56,841 --> 00:43:00,109
+solving\hmysteries\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+and\hrewriting\hhistory.\h\h\h\h\h\h\h\h\h\h
+
+903
+00:43:00,111 --> 00:43:03,212
+\h\h\h\h\h\h\h\h\hDONALD:\hEasy.\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\hA\hlittle\hto\hthe\hleft.\h\h\h\h\h\h
+
+904
+00:43:03,214 --> 00:43:05,014
+\h\h\h\h\h\h\h\hNo,\hno,\hno,\hno!\h\h\h\h\h\h\h\h\h
+
+905
+00:43:05,016 --> 00:43:07,016
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hDid\hI\hdo\hit\hgood?
+
+906
+00:43:07,018 --> 00:43:09,786
+\h\h\h\h\h\h\h\h\h\h\h(laughter)\h\h\h\h\h\h\h\h\h\h\h
+
+907
+00:43:09,788 --> 00:43:11,020
+\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h(screams)\h\h\h
+
+908
+00:43:30,542 --> 00:43:32,609
+\h\h\h\h\h\h\h\h\h\h\h\hMom?\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+909
+00:44:08,279 --> 00:44:11,114
+\h\h\h\h\h\h\h\h\h\h(\hpanting\h)\h\h\h\h\h\h\h\h\h\h\h
+
+910
+00:44:11,116 --> 00:44:13,182
+\h\h\h\h\h\h\h\h\h\h\hTake\hthat!\h\h\h\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h(\hlaughing\h)\h\h\h\h\h\h\h\h\h\h
+
+911
+00:44:16,321 --> 00:44:20,423
+Dewey,\hdon't\hyell\hat\hyour\htarget
+\h\h\h\h\h\h\h\hbefore\hyou\hfire.\h\h\h\h\h\h\h\h
+
+912
+00:44:20,425 --> 00:44:24,160
+\h\h\h\hYou'll\hlose\hthe\helement\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\hof\hsurprise.\h\h\h\h\h\h\h\h\h\h
+
+913
+00:44:24,162 --> 00:44:26,696
+\h\h\h\h\h-<i>\hYou'd\hbetter\hduck.\h</i>\h\h\h\h\h\h
+\h\h\h\h\h-\h(\hyelling\h)\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+
+914
+00:44:26,698 --> 00:44:30,199
+\h\h\h\h\h\h\h-\hAhh!\h(\hgrunts\h)\h\h\h\h\h\h\h\h
+\h\h\h\h\h\h\h-\h(\hlaughter\h)\h\h\h\h\h\h\h\h\h\h\h
+
+915
+00:44:30,201 --> 00:44:32,135
+\h\h\h\h\h\h\h\h\h\h<i>\h"DuckTales,"</i>\h\h\h\h\h\h\h\h\h
+\h<i>\hAll\hnew\hSaturday,\hSeptember\h23</i>
+
+916
+00:44:32,137 --> 00:44:33,569
+\h\h\h\h\h\h\h<i>\hanywhere\hyou\hwatch</i>\h\h\h\h\h\h
+\h\h\h\h\h\h\h\h\h\h\h<i>\hDisney\hXD.</i>\h\h\h\h\h\h\h\h\h\h
+
