@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/1st.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Sep 2017 06:47:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2017 11:46:55 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x20 - A Health of Information | 1080p.WEB-DL SCOOT | YP-1S-07x20.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S-07x20.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: A Health of Information; Season: 7; Episode: 20</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S-07x20.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S-07x20.mkv.torrent" length="51113" type="application/x-bittorrent"/>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1S-07x20.mkv.torrent</torrent:filename>
+      <torrent:contentlength>652884225</torrent:contentlength>
+      <torrent:infohash>4D60004F4BAAF78E6A0131A2DAED48EBD624412C</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:4D60004F4BAAF78E6A0131A2DAED48EBD624412C</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 07x19 - It Isn't the Mane Thing About You | 1080p.WEB-DL SCOOT | YP-1S-07x19-V2.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-1S-07x19-V2.mkv.torrent</link>
@@ -1185,9 +1197,9 @@
       <torrent:magneturi>magnet:?xt=urn:btih:89890AE526A40DB2AA8BEBCC565B1796ED1CB29C</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 03x12 - Games Ponies Play | 1080p.WEB-DL SCOOT | YP-1S-03x12.mkv | YayPonies</title>
+      <title>My Little Pony, Friendship is Magic - 03x12 - Games Ponies Play (Part 1 of 2) | 1080p.WEB-DL SCOOT | YP-1S-03x12.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-1S-03x12.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Games Ponies Play; Season: 3; Episode: 12</description>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Games Ponies Play (Part 1 of 2); Season: 3; Episode: 12</description>
       <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S-03x12.mkv.torrent</guid>
       <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S-03x12.mkv.torrent" length="55838" type="application/x-bittorrent"/>
       <pubDate>Sat, 09 Feb 2013 00:00:00 -0600</pubDate>
@@ -1197,9 +1209,9 @@
       <torrent:magneturi>magnet:?xt=urn:btih:0BDCC932728D402BE56FF7DAD49C4018EC22FF71</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 03x11 - Just for Sidekicks | 1080p.WEB-DL SCOOT | YP-1S-03x11.mkv | YayPonies</title>
+      <title>My Little Pony, Friendship is Magic - 03x11 - Just for Sidekicks (Part 2 of 2) | 1080p.WEB-DL SCOOT | YP-1S-03x11.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-1S-03x11.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Just for Sidekicks; Season: 3; Episode: 11</description>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Just for Sidekicks (Part 2 of 2); Season: 3; Episode: 11</description>
       <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S-03x11.mkv.torrent</guid>
       <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S-03x11.mkv.torrent" length="51498" type="application/x-bittorrent"/>
       <pubDate>Sat, 26 Jan 2013 00:00:00 -0600</pubDate>
