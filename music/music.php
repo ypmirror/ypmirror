@@ -136,6 +136,13 @@
                           <td><a href="/music/torrents/YP-MP3-IAPKOC16-V0.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/DC7294C2B2E06405539417546CC664035B79D651.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:DC7294C2B2E06405539417546CC664035B79D651">6</a></td>
                           <td>By YayPonies / V0</td>
                         </tr>
+						  <tr>
+                          <td height="41">My Little Pony The Movie OST</td>
+                          <td>FLAC / Scootaloo</td>
+                          <td><a href="https://yp.coco-pommel.org/ypmusic/YP-FLAC-MovieOST-Scoot.zip">DIRECT</a> or <a href="https://mega.nz/#!56JmmJyb!Ca6zyhj1FBw_cRwJ17wFP89A35QHfyD4BDNMrCPuf40">1</a> 2 3</td>
+                          <td><a href="/music/torrents/YP-FLAC-MovieOST-Scoot.zip.torrent">1</a> 2 3 <a href="http://thetorrent.org/d5886266e6d6dac278114029027f48babe71c023.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:d5886266e6d6dac278114029027f48babe71c023">6</a></td>
+                          <td>FLAC / Scootaloo</td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
