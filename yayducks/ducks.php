@@ -40,6 +40,14 @@
                 <td>YP iTunes 1080P</td>
                 <td><a href="subtitles-raw/YP-DT-1R-01x03.srt">RAW</a></td>
             </tr>
+            <tr>
+                <td height="20"><a href="https://www.thetvdb.com/?tab=episode&seriesid=330134&seasonid=716277&id=6253688&lid=7">Episode 4</a> (<a href="https://www.thetvdb.com/?tab=episode&seriesid=330134&seasonid=716277&id=6253688&lid=7">The The Beagle Birthday Massacre!</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-DT-1R-01x04.mkv.torrent">1</a> 2 3 4 5 <a href="magnet:?xt=urn:btih:8b2e7646481a28b87419894d04fe7b402c5576c0">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles-raw/YP-DT-1R-01x04.srt">RAW</a></td>
+            </tr>
         </tbody>
     </table>
 </center>
