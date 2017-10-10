@@ -48,6 +48,14 @@
                 <td>YP iTunes 1080P</td>
                 <td><a href="subtitles-raw/YP-DT-1R-01x04.srt">RAW</a></td>
             </tr>
+            <tr>
+                <td height="20"><a href="https://www.thetvdb.com/?tab=episode&seriesid=330134&seasonid=716277&id=6345315&lid=7">Episode 5</a> (<a href="https://www.thetvdb.com/?tab=episode&seriesid=330134&seasonid=716277&id=6345315&lid=7">The 	Terror of the Terra-Firmians</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-DT-1R-01x05.mkv.torrent">1</a> 2 3 4 5 <a href="magnet:?xt=urn:btih:bd600c8bc59e6e7e6b64b214c9dbc4e00896ada3">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles-raw/YP-DT-1R-01x05.srt">RAW</a></td>
+            </tr>
         </tbody>
     </table>
 </center>
