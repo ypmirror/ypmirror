@@ -7,7 +7,19 @@
     <atom:link href="http://yp1.yayponies.no/yayducks/rss/raw.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Oct 2017 18:51:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 16:05:43 +0000</lastBuildDate>
+    <item>
+      <title>DuckTales (2017) - 01x06 - The House of the Lucky Gander! | 1080P.WEB-DL | YP-DT-1R-01x06.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x06.mkv.torrent</link>
+      <description>Show Name: DuckTales (2017); Episode Title: The House of the Lucky Gander!; Season: 1; Episode: 06</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x06.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x06.mkv.torrent" length="70100" type="application/x-bittorrent"/>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-DT-1R-01x06.mkv.torrent</torrent:filename>
+      <torrent:contentlength>902661930</torrent:contentlength>
+      <torrent:infohash>07F0ED91F5732635C2EDC71C4AB23733F1456315</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:07F0ED91F5732635C2EDC71C4AB23733F1456315</torrent:magneturi>
+    </item>
     <item>
       <title>DuckTales (2017) - 01x05 - Terror of the Terra-Firmians | 1080P.WEB-DL | YP-DT-1R-01x05.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x05.mkv.torrent</link>

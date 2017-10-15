@@ -56,6 +56,14 @@
                 <td>YP iTunes 1080P</td>
                 <td><a href="subtitles-raw/YP-DT-1R-01x05.srt">RAW</a></td>
             </tr>
+            <tr>
+                <td height="20"><a href="https://www.thetvdb.com/?tab=episode&seriesid=330134&seasonid=716277&id=6345317&lid=7">Episode 6</a> (<a href="https://www.thetvdb.com/?tab=episode&seriesid=330134&seasonid=716277&id=6345317&lid=7">The House of the Lucky Gander!</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-DT-1R-01x06.mkv.torrent">1</a> 2 3 4 5 <a href="magnet:?xt=urn:btih:07f0ed91f5732635c2edc71c4ab23733f1456315">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles-raw/YP-DT-1R-01x06.srt">RAW</a></td>
+            </tr>
         </tbody>
     </table>
 </center>
