@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/7it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Oct 2017 07:39:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 07:43:29 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x23 - Secrets and Pies | 720p.WEB-DL | YP-7T-07x23.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-7T-07x23.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Secrets and Pies; Season: 7; Episode: 23</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-7T-07x23.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-7T-07x23.mkv.torrent" length="58657" type="application/x-bittorrent"/>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-7T-07x23.mkv.torrent</torrent:filename>
+      <torrent:contentlength>752139803</torrent:contentlength>
+      <torrent:infohash>9C94F9D59C7D931267A50AB3271A7DE587976BBF</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:9C94F9D59C7D931267A50AB3271A7DE587976BBF</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 07x22 - Once Upon a Zeppelin | 720p.WEB-DL | YP-7R-07x22.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-7R-07x22.mkv.torrent</link>
