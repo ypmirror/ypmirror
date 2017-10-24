@@ -68,10 +68,10 @@
 
     <body>
 	<!--#include file="/resources/topnews.php" -->
-        <div id="header"><img src="/resources/yay5yr.png" alt="YayPonies header" /></div>
+        <div id="header"><img src="/resources/ypoct.png" alt="YayPonies header" /></div>
         <div id="container">
             <p style="font-size: 80%; text-align: center">
-                <a href="http://yayponies.eu/">YayPonies 5th anniversary (Hopefully temporary) by YayMuffins (Plz, FloppyChiptunes, come back!)</a>
+                <a href="http://yayponies.eu/">Nightmare Night Special by Midnight Harmony.</a>
             </p>
             <br />
             <br />
