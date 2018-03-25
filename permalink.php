@@ -60,6 +60,7 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = videos/tables/1i5" -->iTunes US Season 5 (1080p)
 <!--#elif expr="$link = videos/tables/1i6" -->iTunes US Season 6 (1080p)
 <!--#elif expr="$link = videos/tables/1i7" -->iTunes US Season 7 (1080p)
+<!--#elif expr="$link = videos/tables/1i8" -->iTunes US Season 8 (1080p)
 <!--#elif expr="$link = videos/tables/7i1" -->iTunes US Season 1 (720p)
 <!--#elif expr="$link = videos/tables/7i2" -->iTunes US Season 2 (720p)
 <!--#elif expr="$link = videos/tables/7i3" -->iTunes US Season 3 (720p)
@@ -67,6 +68,7 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = videos/tables/7i5" -->iTunes US Season 5 (720p)
 <!--#elif expr="$link = videos/tables/7i6" -->iTunes US Season 6 (720p)
 <!--#elif expr="$link = videos/tables/7i7" -->iTunes US Season 7 (720p)
+<!--#elif expr="$link = videos/tables/7i8" -->iTunes US Season 8 (720p)
 
 
 <!--#elif expr="$link = videos/tables/1sc1" -->Scootaloo Definitive (x265/HEVC) Season 1 (1080p)
