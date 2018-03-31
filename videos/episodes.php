@@ -201,6 +201,10 @@
                         <td> <a href="/permalink.php?link=videos/tables/1z7">1z7</a> </td>
                         <td> Season 7 (1080p) </td>
                     </tr>
+					<tr>
+                        <td> <a href="/permalink.php?link=videos/tables/1z8">1z8</a> </td>
+                        <td> Season 8 (1080p) </td>
+                    </tr>
                     <tr>
                         <td> <a href="/permalink.php?link=videos/tables/7z1">7z1</a> </td>
                         <td> Season 1 (720p) </td>
@@ -228,6 +232,10 @@
                     <tr>
                         <td> <a href="/permalink.php?link=videos/tables/7z7">7z7</a> </td>
                         <td> Season 7 (720p) </td>
+                    </tr>
+					<tr>
+                        <td> <a href="/permalink.php?link=videos/tables/7z8">7z8</a> </td>
+                        <td> Season 8 (720p) </td>
                     </tr>
 
                     <tr> <th colspan="2"> iTunes US Raw </th> </tr>
@@ -411,6 +419,10 @@
                         <td> <a href="/permalink.php?link=videos/tables/7l7">7l7</a> </td>
                         <td> Season 7 (720p) </td>
                     </tr>
+					<tr>
+                        <td> <a href="/permalink.php?link=videos/tables/7l8">7l8</a> </td>
+                        <td> Season 8 (720p) </td>
+                    </tr>
 
                     <tr> <th colspan="2"> Low Quality Encode, Color Corrected </th> </tr>
                     <tr>
@@ -440,6 +452,10 @@
 					<tr>
                         <td> <a href="/permalink.php?link=videos/tables/7lz7">7lz7</a> </td>
                         <td> Season 7 (720p) </td>
+                    </tr>
+					<tr>
+                        <td> <a href="/permalink.php?link=videos/tables/7lz8">7lz8</a> </td>
+                        <td> Season 8 (720p) </td>
                     </tr>
 
                     <tr> <th colspan="2"> Scootaloo TVrip (Unsupported) </th> </tr>

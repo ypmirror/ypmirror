@@ -44,6 +44,7 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = videos/tables/1z5" -->Color Corrected by ZR Season 5 (1080p)
 <!--#elif expr="$link = videos/tables/1z6" -->Color Corrected by ZR Season 6 (1080p)
 <!--#elif expr="$link = videos/tables/1z7" -->Color Corrected by ZR Season 7 (1080p)
+<!--#elif expr="$link = videos/tables/1z8" -->Color Corrected by ZR Season 8 (1080p)
 <!--#elif expr="$link = videos/tables/7z1" -->Color Corrected by ZR Season 1 (720p)
 <!--#elif expr="$link = videos/tables/7z2" -->Color Corrected by ZR Season 2 (720p)
 <!--#elif expr="$link = videos/tables/7z3" -->Color Corrected by ZR Season 3 (720p)
@@ -51,6 +52,7 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = videos/tables/7z5" -->Color Corrected by ZR Season 5 (720p)
 <!--#elif expr="$link = videos/tables/7z6" -->Color Corrected by ZR Season 6 (720p)
 <!--#elif expr="$link = videos/tables/7z7" -->Color Corrected by ZR Season 7 (720p)
+<!--#elif expr="$link = videos/tables/7z8" -->Color Corrected by ZR Season 8 (720p)
 
 
 <!--#elif expr="$link = videos/tables/1i1" -->iTunes US Season 1 (1080p)
@@ -103,6 +105,8 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = videos/tables/7l5" -->Low quality encode, Season 5 (720p)
 <!--#elif expr="$link = videos/tables/7l6" -->Low quality encode, Season 6 (720p)
 <!--#elif expr="$link = videos/tables/7l7" -->Low quality encode, Season 7 (720p)
+<!--#elif expr="$link = videos/tables/7l8" -->Low quality encode, Season 8 (720p)
+
 
 <!--#elif expr="$link = videos/tables/7lz1" -->Low quality encode, color corrected, Season 1 (720p)
 <!--#elif expr="$link = videos/tables/7lz2" -->Low quality encode, color corrected, Season 2 (720p)
@@ -111,6 +115,8 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = videos/tables/7lz5" -->Low quality encode, color corrected, Season 5 (720p)
 <!--#elif expr="$link = videos/tables/7lz6" -->Low quality encode, color corrected, Season 6 (720p)
 <!--#elif expr="$link = videos/tables/7lz7" -->Low quality encode, color corrected, Season 7 (720p)
+<!--#elif expr="$link = videos/tables/7lz8" -->Low quality encode, color corrected, Season 8 (720p)
+
 
 
 <!--#elif expr="$link = videos/tables/1stv1" -->TVRip by Scootaloo Season 1 (1080p)
