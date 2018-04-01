@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/1it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Mar 2018 01:27:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Apr 2018 09:51:58 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 08x03 - The Maud Couple | 1080p.WEB-DL | YP-1R-08x03.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1R-08x03.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Maud Couple; Season: 8; Episode: 03</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-08x03.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-08x03.mkv.torrent" length="73078" type="application/x-bittorrent"/>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-08x03.mkv.torrent</torrent:filename>
+      <torrent:contentlength>941244852</torrent:contentlength>
+      <torrent:infohash>95A43267286D09653DCB2A002BECD05BD2685C74</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:95A43267286D09653DCB2A002BECD05BD2685C74</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 08x02 - School Daze (2) | 1080p.WEB-DL | YP-1R-08x02.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-1R-08x02.mkv.torrent</link>
