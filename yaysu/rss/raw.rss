@@ -7,7 +7,7 @@
     <atom:link href="/yaysu/rss/raw.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Apr 2018 20:14:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Apr 2018 12:10:40 +0000</lastBuildDate>
     <item>
       <title>Steven Universe - 05x15_16 - Pool Hopping - Letters to Lars | 1080p.WEB-DL | YP-SU-1R-05x15_16.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-05x15_16.mkv.torrent</link>
@@ -45,16 +45,16 @@
       <torrent:magneturi>magnet:?xt=urn:btih:07DB3022D8D35F88370512E562A61112C0C88C20</torrent:magneturi>
     </item>
     <item>
-      <title>Steven Universe - 05x05_06 - Dewey Wins - Gemcation | 1080p.WEB-DL | YP-SU-1R-05x05_06.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-05x05_06.mkv.torrent</link>
+      <title>Steven Universe - 05x05_06 - Dewey Wins - Gemcation | 1080p.WEB-DL | YP-SU-1R-05x05_06-v2.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-05x05_06-v2.mkv.torrent</link>
       <description>Show Name: Steven Universe; Episode Title: Dewey Wins - Gemcation; Season: 5; Episode: 05_06</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-05x05_06.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-05x05_06.mkv.torrent" length="71592" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-05x05_06-v2.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/yaysu/torrents/YP-SU-1R-05x05_06-v2.mkv.torrent" length="69595" type="application/x-bittorrent"/>
       <pubDate>Fri, 10 Nov 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-SU-1R-05x05_06.mkv.torrent</torrent:filename>
-      <torrent:contentlength>921485738</torrent:contentlength>
-      <torrent:infohash>4636055C2999B40771FD9FB060C3337C06E61C8C</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:4636055C2999B40771FD9FB060C3337C06E61C8C</torrent:magneturi>
+      <torrent:filename>YP-SU-1R-05x05_06-v2.mkv.torrent</torrent:filename>
+      <torrent:contentlength>895228848</torrent:contentlength>
+      <torrent:infohash>1ABED753FDCF10AD80E31C7CC262E729E574620C</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:1ABED753FDCF10AD80E31C7CC262E729E574620C</torrent:magneturi>
     </item>
     <item>
       <title>Steven Universe - 05x07_08 - Raising the Barn - Back to the Kindergarten | 1080p.WEB-DL | YP-SU-1R-05x07_08.mkv | YayPonies</title>
