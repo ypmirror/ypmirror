@@ -2,14 +2,26 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:torrent="http://xmlns.ezrss.it/0.1/dtd/" version="2.0">
   <channel>
     <title>YayDucks - DuckTales 1080P iTunes RAW</title>
-    <link>http://yp1.yayponies.no/yayducks/rss/raw.rss</link>
-    <description>1080P iTunes RAW files from DuckTales by YayDucks, from YayPonies</description>
-    <atom:link href="http://yp1.yayponies.no/yayducks/rss/raw.rss" rel="self"/>
+    <link>/yayducks/rss/raw.rss</link>
+    <description>1080P iTunes RAW files from Steven Universe by YaySteven, from YayPonies</description>
+    <atom:link href="/yayducks/rss/raw.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Oct 2017 22:28:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Apr 2018 12:04:56 +0000</lastBuildDate>
     <item>
-      <title>DuckTales (2017) - 01x08 - The Living Mummies of Toth-Ra! | 1080P.WEB-DL | YP-DT-1R-01x08.mkv | YayPonies</title>
+      <title>DuckTales (2017) - 01x09 - The Impossible Summit of Mt. Neverrest! | 1080p.WEB-DL | YP-DT-1R-01x09.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x09.mkv.torrent</link>
+      <description>Show Name: DuckTales (2017); Episode Title: The Impossible Summit of Mt. Neverrest!; Season: 1; Episode: 09</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x09.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x09.mkv.torrent" length="69670" type="application/x-bittorrent"/>
+      <pubDate>Sat, 02 Dec 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-DT-1R-01x09.mkv.torrent</torrent:filename>
+      <torrent:contentlength>896518460</torrent:contentlength>
+      <torrent:infohash>E1F66633C5AB76C622A2B27691A5654DE7607D1D</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:E1F66633C5AB76C622A2B27691A5654DE7607D1D</torrent:magneturi>
+    </item>
+    <item>
+      <title>DuckTales (2017) - 01x08 - The Living Mummies of Toth-Ra! | 1080p.WEB-DL | YP-DT-1R-01x08.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x08.mkv.torrent</link>
       <description>Show Name: DuckTales (2017); Episode Title: The Living Mummies of Toth-Ra!; Season: 1; Episode: 08</description>
       <guid isPermaLink="false">http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x08.mkv.torrent</guid>
@@ -21,7 +33,7 @@
       <torrent:magneturi>magnet:?xt=urn:btih:758EE66E1074B55770A9E0598052A69F61F7FB13</torrent:magneturi>
     </item>
     <item>
-      <title>DuckTales (2017) - 01x07 - The Infernal Internship of Mark Beaks! | 1080P.WEB-DL | YP-DT-1R-01x07.mkv | YayPonies</title>
+      <title>DuckTales (2017) - 01x07 - The Infernal Internship of Mark Beaks! | 1080p.WEB-DL | YP-DT-1R-01x07.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x07.mkv.torrent</link>
       <description>Show Name: DuckTales (2017); Episode Title: The Infernal Internship of Mark Beaks!; Season: 1; Episode: 07</description>
       <guid isPermaLink="false">http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x07.mkv.torrent</guid>
@@ -33,7 +45,7 @@
       <torrent:magneturi>magnet:?xt=urn:btih:8BC3054A2804BA29387B46E83474300D707BBD07</torrent:magneturi>
     </item>
     <item>
-      <title>DuckTales (2017) - 01x06 - The House of the Lucky Gander! | 1080P.WEB-DL | YP-DT-1R-01x06.mkv | YayPonies</title>
+      <title>DuckTales (2017) - 01x06 - The House of the Lucky Gander! | 1080p.WEB-DL | YP-DT-1R-01x06.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x06.mkv.torrent</link>
       <description>Show Name: DuckTales (2017); Episode Title: The House of the Lucky Gander!; Season: 1; Episode: 06</description>
       <guid isPermaLink="false">http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x06.mkv.torrent</guid>
@@ -45,7 +57,7 @@
       <torrent:magneturi>magnet:?xt=urn:btih:07F0ED91F5732635C2EDC71C4AB23733F1456315</torrent:magneturi>
     </item>
     <item>
-      <title>DuckTales (2017) - 01x05 - Terror of the Terra-Firmians! | 1080P.WEB-DL | YP-DT-1R-01x05.mkv | YayPonies</title>
+      <title>DuckTales (2017) - 01x05 - Terror of the Terra-Firmians! | 1080p.WEB-DL | YP-DT-1R-01x05.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x05.mkv.torrent</link>
       <description>Show Name: DuckTales (2017); Episode Title: Terror of the Terra-Firmians!; Season: 1; Episode: 05</description>
       <guid isPermaLink="false">http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x05.mkv.torrent</guid>
@@ -57,7 +69,7 @@
       <torrent:magneturi>magnet:?xt=urn:btih:BD600C8BC59E6E7E6B64B214C9DBC4E00896ADA3</torrent:magneturi>
     </item>
     <item>
-      <title>DuckTales (2017) - 01x04 - The Beagle Birthday Massacre! | 1080P.WEB-DL | YP-DT-1R-01x04.mkv | YayPonies</title>
+      <title>DuckTales (2017) - 01x04 - The Beagle Birthday Massacre! | 1080p.WEB-DL | YP-DT-1R-01x04.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x04.mkv.torrent</link>
       <description>Show Name: DuckTales (2017); Episode Title: The Beagle Birthday Massacre!; Season: 1; Episode: 04</description>
       <guid isPermaLink="false">http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x04.mkv.torrent</guid>
@@ -69,19 +81,7 @@
       <torrent:magneturi>magnet:?xt=urn:btih:8B2E7646481A28B87419894D04FE7B402C5576C0</torrent:magneturi>
     </item>
     <item>
-      <title>DuckTales (2017) - 01x03 - The Great Dime Chase! | 1080P.WEB-DL | YP-DT-1R-01x03.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x03.mkv.torrent</link>
-      <description>Show Name: DuckTales (2017); Episode Title: The Great Dime Chase!; Season: 1; Episode: 03</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x03.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x03.mkv.torrent" length="68740" type="application/x-bittorrent"/>
-      <pubDate>Sat, 23 Sep 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-DT-1R-01x03.mkv.torrent</torrent:filename>
-      <torrent:contentlength>884788329</torrent:contentlength>
-      <torrent:infohash>FF2732E83052B5E465A982878EBE7894E5F0EEBE</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:FF2732E83052B5E465A982878EBE7894E5F0EEBE</torrent:magneturi>
-    </item>
-    <item>
-      <title>DuckTales (2017) - 01x02 - Daytrip of Doom! | 1080P.WEB-DL | YP-DT-1R-01x02.mkv | YayPonies</title>
+      <title>DuckTales (2017) - 01x02 - Daytrip of Doom! | 1080p.WEB-DL | YP-DT-1R-01x02.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x02.mkv.torrent</link>
       <description>Show Name: DuckTales (2017); Episode Title: Daytrip of Doom!; Season: 1; Episode: 02</description>
       <guid isPermaLink="false">http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x02.mkv.torrent</guid>
@@ -93,7 +93,19 @@
       <torrent:magneturi>magnet:?xt=urn:btih:639394C0574D10A36829BCF2EA3A36E1DEB8113A</torrent:magneturi>
     </item>
     <item>
-      <title>DuckTales (2017) - 01x01 - Woo-oo! | 1080P.WEB-DL | YP-DT-1R-01x01.mkv | YayPonies</title>
+      <title>DuckTales (2017) - 01x03 - The Great Dime Chase! | 1080p.WEB-DL | YP-DT-1R-01x03.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x03.mkv.torrent</link>
+      <description>Show Name: DuckTales (2017); Episode Title: The Great Dime Chase!; Season: 1; Episode: 03</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x03.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x03.mkv.torrent" length="68740" type="application/x-bittorrent"/>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-DT-1R-01x03.mkv.torrent</torrent:filename>
+      <torrent:contentlength>884788329</torrent:contentlength>
+      <torrent:infohash>FF2732E83052B5E465A982878EBE7894E5F0EEBE</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:FF2732E83052B5E465A982878EBE7894E5F0EEBE</torrent:magneturi>
+    </item>
+    <item>
+      <title>DuckTales (2017) - 01x01 - Woo-oo! | 1080p.WEB-DL | YP-DT-1R-01x01.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x01.mkv.torrent</link>
       <description>Show Name: DuckTales (2017); Episode Title: Woo-oo!; Season: 1; Episode: 01</description>
       <guid isPermaLink="false">http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x01.mkv.torrent</guid>
