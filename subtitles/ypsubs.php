@@ -29,7 +29,7 @@
                         <tr>
                             <td> I want to download: </td>
                             <td>
-                                <select size="9" name="Download">
+                                <select size="10" name="Download">
 									<option value="ypsub1"> MLP FiM Season 1</option>
                                     <option value="ypsub2"> MLP FiM Season 2</option>
                                     <option value="ypsub3"> MLP FiM Season 3</option>
@@ -38,7 +38,9 @@
                                     <option value="ypsubeqg2"> Equestria Girls, Rainbow Rocks</option>
                                     <option value="ypsub5"> MLP FiM Season 5</option>
                                     <option value="ypsub6"> MLP FiM Season 6</option>
-                                    <option value="ypsub7" selected> MLP FiM Season 7</option>
+                                    <option value="ypsub7" > MLP FiM Season 7</option>
+									<option value="ypsub8" selected> MLP FiM Season 8</option>
+
 
                                 </select>
                             </td>
@@ -103,6 +105,14 @@
 										<tr>                        
 						<td><a href="/permalink.php?link=Subtitles/tables/ypsub6">ypsub6</a></td>
                         <td>YP Subtitles for MLP FiM Season 6</td>
+					</tr>
+					<tr>                        
+						<td><a href="/permalink.php?link=Subtitles/tables/ypsub7">ypsub7</a></td>
+                        <td>YP Subtitles for MLP FiM Season 7</td>
+					</tr>
+					<tr>                        
+						<td><a href="/permalink.php?link=Subtitles/tables/ypsub8">ypsub8</a></td>
+                        <td>YP Subtitles for MLP FiM Season 8</td>
 					</tr>
                 </table>
             </div>
