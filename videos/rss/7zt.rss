@@ -7,11 +7,23 @@
     <atom:link href="/videos/rss/7zt.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Apr 2018 02:55:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Apr 2018 07:22:08 +0000</lastBuildDate>
     <item>
-      <title>My Little Pony, Friendship is Magic - 08x04 - Fake It Til You Make It | 720p.WEB-DL CC | YP-7Z-08x04.mkv | YayPonies</title>
+      <title>My Little Pony, Friendship is Magic - 08x05 - Grannies Gone Wild | 720p.WEB-DL CC | YP-7Z-08x05.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-7Z-08x05.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Grannies Gone Wild; Season: 8; Episode: 05</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-7Z-08x05.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-7Z-08x05.mkv.torrent" length="41341" type="application/x-bittorrent"/>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-7Z-08x05.mkv.torrent</torrent:filename>
+      <torrent:contentlength>525258359</torrent:contentlength>
+      <torrent:infohash>515A5FCB14B077EE945AD863B02A04702925248C</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:515A5FCB14B077EE945AD863B02A04702925248C</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 08x04 - Fake It 'Til You Make It | 720p.WEB-DL CC | YP-7Z-08x04.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-7Z-08x04.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Fake It Til You Make It; Season: 8; Episode: 04</description>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Fake It 'Til You Make It; Season: 8; Episode: 04</description>
       <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-7Z-08x04.mkv.torrent</guid>
       <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-7Z-08x04.mkv.torrent" length="36141" type="application/x-bittorrent"/>
       <pubDate>Sat, 07 Apr 2018 00:00:00 -0600</pubDate>
