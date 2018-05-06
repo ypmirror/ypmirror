@@ -80,7 +80,7 @@
                 <td>YP iTunes 1080P</td>
                 <td><a href="subtitles/YP-DT-1R-01x08.srt">RAW</a></td>
             </tr>
-			            <tr>
+			<tr>
                 <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=330134&seasonid=716277&id=6387496&lid=7">Episodes 9</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=330134&seasonid=716277&id=6387496&lid=7">The Impossible Summit of Mt. Neverrest!</a>)</td>
                 <td>1 2 3</td>
                 <td>nope</td>
@@ -88,6 +88,15 @@
                 <td>YP iTunes 1080P</td>
                 <td></td>
                 <td><a href="subtitles/YP-DT-1R-01x09.srt">RAW</a></td>
+            </tr>
+			<tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=330134&seasonid=716277&id=6611796&lid=7">Episodes 10</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=330134&seasonid=716277&id=6611796&lid=7">The Spear of Selene!</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-DT-1R-01x10.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/06b42df909e9929bbf49c3752df30736d701963c.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:06b42df909e9929bbf49c3752df30736d701963c">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-DT-1R-01x10.srt">Get</a></td>
             </tr>
         </tbody>
     </table>
