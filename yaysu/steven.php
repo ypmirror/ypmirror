@@ -773,6 +773,15 @@
                 <td></td>
                 <td><a href="subtitles/YP-SU-1R-05x15_16.srt">Get</a></td>
             </tr>
+			<tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6613242&lid=7">Episodes 17</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6618591&lid=7">18</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6613242&lid=7">Can't Go Back</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6618591&lid=7">A Single Pale Rose</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-05x17_18.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/86f40c07da756f1c48b6236377a3428f84827878.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:86f40c07da756f1c48b6236377a3428f84827878">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-SU-1R-05x17_18.srt">Get</a></td>
+            </tr>
         </tbody>
     </table>
 </center>
