@@ -98,6 +98,15 @@
                 <td></td>
                 <td><a href="subtitles/YP-DT-1R-01x10.srt">Get</a></td>
             </tr>
+			<tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=330134&seasonid=716277&id=6623892&lid=7">Episodes 11</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=330134&seasonid=716277&id=6623892&lid=7">Beware the B.U.D.D.Y. System!</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-DT-1R-01x11.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/4712e7a08f240d83d0beca951d68dd4a94a8c137.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:4712e7a08f240d83d0beca951d68dd4a94a8c137">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-DT-1R-01x11.srt">Get</a></td>
+            </tr>
         </tbody>
     </table>
 </center>

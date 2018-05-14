@@ -7,7 +7,19 @@
     <atom:link href="/yayducks/rss/raw.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 May 2018 08:29:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 May 2018 17:15:30 +0000</lastBuildDate>
+    <item>
+      <title>DuckTales (2017) - 01x11 - Beware the B.U.D.D.Y. System! | 1080p.WEB-DL | YP-DT-1R-01x11.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x11.mkv.torrent</link>
+      <description>Show Name: DuckTales (2017); Episode Title: Beware the B.U.D.D.Y. System!; Season: 1; Episode: 11</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x11.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x11.mkv.torrent" length="69570" type="application/x-bittorrent"/>
+      <pubDate>Fri, 11 May 2018 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-DT-1R-01x11.mkv.torrent</torrent:filename>
+      <torrent:contentlength>895058230</torrent:contentlength>
+      <torrent:infohash>4712E7A08F240D83D0BECA951D68DD4A94A8C137</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:4712E7A08F240D83D0BECA951D68DD4A94A8C137</torrent:magneturi>
+    </item>
     <item>
       <title>DuckTales (2017) - 01x10 - The Spear of Selene! | 1080p.WEB-DL | YP-DT-1R-01x10.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/yayducks/torrents/YP-DT-1R-01x10.mkv.torrent</link>
