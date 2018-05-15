@@ -80,6 +80,7 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = videos/tables/1sc5" -->Scootaloo Definitive (x265/HEVC) Season 5 (1080p)
 <!--#elif expr="$link = videos/tables/1sc6" -->Scootaloo Definitive (x265/HEVC) Season 6 (1080p)
 <!--#elif expr="$link = videos/tables/1sc7" -->Scootaloo Definitive (x265/HEVC) Season 7 (1080p)
+<!--#elif expr="$link = videos/tables/1sc8" -->Scootaloo Definitive (x265/HEVC) Season 8 (1080p)
 
 
 <!--#elif expr="$link = videos/tables/1s1" -->Scootaloo Remastered (x264/H264) Season 1 (1080p)
@@ -89,6 +90,7 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = videos/tables/1s5" -->Scootaloo Remastered (x264/H264) Season 5 (1080p)
 <!--#elif expr="$link = videos/tables/1s6" -->Scootaloo Remastered (x264/H264) Season 6 (1080p)
 <!--#elif expr="$link = videos/tables/1s7" -->Scootaloo Remastered (x264/H264) Season 7 (1080p)
+<!--#elif expr="$link = videos/tables/1s8" -->Scootaloo Remastered (x264/H264) Season 8 (1080p)
 
 
 <!--#elif expr="$link = videos/tables/1t1" -->TVRip by MENTOS Season 1 (1080p)
