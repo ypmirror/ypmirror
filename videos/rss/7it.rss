@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/7it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 May 2018 08:25:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 May 2018 07:34:14 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 08x11 - Molt Down | 720p.WEB-DL | YP-7R-08x11.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-7R-08x11.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Molt Down; Season: 8; Episode: 11</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-7R-08x11.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-7R-08x11.mkv.torrent" length="58797" type="application/x-bittorrent"/>
+      <pubDate>Sat, 26 May 2018 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-7R-08x11.mkv.torrent</torrent:filename>
+      <torrent:contentlength>753989030</torrent:contentlength>
+      <torrent:infohash>6DBC62A11CE83DC3FFFF689CA5DC925424B9C55C</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:6DBC62A11CE83DC3FFFF689CA5DC925424B9C55C</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 08x10 - The Break Up Break Down | 720p.WEB-DL | YP-7R-08x10.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-7R-08x10.mkv.torrent</link>

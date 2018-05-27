@@ -86,7 +86,6 @@
                 <td>nope</td>
                 <td><a href="torrents/YP-DT-1R-01x09.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/e1f66633c5ab76c622a2b27691a5654de7607d1d.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:e1f66633c5ab76c622a2b27691a5654de7607d1d">6</a></td>
                 <td>YP iTunes 1080P</td>
-                <td></td>
                 <td><a href="subtitles/YP-DT-1R-01x09.srt">RAW</a></td>
             </tr>
 			<tr>
@@ -95,7 +94,6 @@
                 <td>nope</td>
                 <td><a href="torrents/YP-DT-1R-01x10.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/06b42df909e9929bbf49c3752df30736d701963c.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:06b42df909e9929bbf49c3752df30736d701963c">6</a></td>
                 <td>YP iTunes 1080P</td>
-                <td></td>
                 <td><a href="subtitles/YP-DT-1R-01x10.srt">Get</a></td>
             </tr>
 			<tr>
@@ -104,8 +102,15 @@
                 <td>nope</td>
                 <td><a href="torrents/YP-DT-1R-01x11.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/4712e7a08f240d83d0beca951d68dd4a94a8c137.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:4712e7a08f240d83d0beca951d68dd4a94a8c137">6</a></td>
                 <td>YP iTunes 1080P</td>
-                <td></td>
                 <td><a href="subtitles/YP-DT-1R-01x11.srt">Get</a></td>
+            </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=330134&seasonid=716277&id=6631518&lid=7">Episodes 12</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=330134&seasonid=716277&id=6631518&lid=7">The Missing Links of Moorshire!</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-DT-1R-01x12.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/414d59b941de6679412cdfd087635955ef0a3776.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:414d59b941de6679412cdfd087635955ef0a3776">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td><a href="subtitles/YP-DT-1R-01x12.srt">Get</a></td>
             </tr>
         </tbody>
     </table>
