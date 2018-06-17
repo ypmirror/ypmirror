@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/1zt.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Jun 2018 08:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jun 2018 21:15:23 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 08x13 - The Mean 6 | 1080p.WEB-DL CC | YP-1Z-08x13.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1Z-08x13.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Mean 6; Season: 8; Episode: 13</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1Z-08x13.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1Z-08x13.mkv.torrent" length="66122" type="application/x-bittorrent"/>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1Z-08x13.mkv.torrent</torrent:filename>
+      <torrent:contentlength>849888241</torrent:contentlength>
+      <torrent:infohash>80E51B184811C17DE1A0EEDF0A147B87EF4DB0E7</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:80E51B184811C17DE1A0EEDF0A147B87EF4DB0E7</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 08x12 - Marks for Effort | 1080p.WEB-DL CC | YP-1Z-08x12.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-1Z-08x12.mkv.torrent</link>
