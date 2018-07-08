@@ -782,6 +782,24 @@
                 <td></td>
                 <td><a href="subtitles/YP-SU-1R-05x17_18.srt">Get</a></td>
             </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6730507&lid=7">Episodes 19</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6730515&lid=7">20</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6730507&lid=7">Now We're Only Falling Apart</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6730515&lid=7">What's Your Problem?</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-05x19_20.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/055e04eb11575a7f4cbef0ce7b7014b828dd84bf.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:055e04eb11575a7f4cbef0ce7b7014b828dd84bf">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-SU-1R-05x19_20.srt">Get</a></td>
+            </tr>
+			<tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6730516&lid=7">Episodes 21</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6730517&lid=7">22</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6730516&lid=7">The Question</a> &amp; <a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6730517&lid=7">Made of Honor</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-05x21_22.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/e820d3fc7037b9b54a1e70b1bb708c037dbcef0c.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:e820d3fc7037b9b54a1e70b1bb708c037dbcef0c">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-SU-1R-05x21_22.srt">Get</a></td>
+            </tr>
         </tbody>
     </table>
 </center>
