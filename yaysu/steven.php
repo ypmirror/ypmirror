@@ -800,7 +800,16 @@
                 <td></td>
                 <td><a href="subtitles/YP-SU-1R-05x21_22.srt">Get</a></td>
             </tr>
-        </tbody>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6730518&lid=7">Episodes 23</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6730518&lid=7">Reunited</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-05x23.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/22d58e3e8eeccf73d6c3b7cb7cf94b860207d40f.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:22d58e3e8eeccf73d6c3b7cb7cf94b860207d40f">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-SU-1R-05x23.srt">Get</a></td>
+            </tr>
+			</tbody>
     </table>
 </center>
 
