@@ -809,6 +809,15 @@
                 <td></td>
                 <td><a href="subtitles/YP-SU-1R-05x23.srt">Get</a></td>
             </tr>
+            <tr>
+                <td height="20"><a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6769730&lid=7">Episodes 24</a> (<a href="http://thetvdb.com/?tab=episode&seriesid=270701&seasonid=711648&id=6769730&lid=7">Legs From Here to Homeworld</a>)</td>
+                <td>1 2 3</td>
+                <td>nope</td>
+                <td><a href="torrents/YP-SU-1R-05x24.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/7add19bae7e1b0edfbcb35816923e9df6d04af06.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:7add19bae7e1b0edfbcb35816923e9df6d04af06">6</a></td>
+                <td>YP iTunes 1080P</td>
+                <td></td>
+                <td><a href="subtitles/YP-SU-1R-05x24.srt">Get</a></td>
+            </tr>
 			</tbody>
     </table>
 </center>
