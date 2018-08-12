@@ -7,11 +7,23 @@
     <atom:link href="/videos/rss/7it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Aug 2018 16:09:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Aug 2018 08:36:54 +0000</lastBuildDate>
     <item>
-      <title>My Little Pony, Friendship is Magic - 08x15 - A Matter of Principals | 720p.WEB-DL | YP-7R-08x15.mkv | YayPonies</title>
+      <title>My Little Pony, Friendship is Magic - 08x16 - Friendship University | 720p.WEB-DL | YP-7R-08x16.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-7R-08x16.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Friendship University; Season: 8; Episode: 16</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-7R-08x16.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-7R-08x16.mkv.torrent" length="58557" type="application/x-bittorrent"/>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-7R-08x16.mkv.torrent</torrent:filename>
+      <torrent:contentlength>750860100</torrent:contentlength>
+      <torrent:infohash>154475527F0C75B7582A2C795D4D5580AB02D36A</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:154475527F0C75B7582A2C795D4D5580AB02D36A</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 08x15 - The Hearth's Warming Club | 720p.WEB-DL | YP-7R-08x15.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-7R-08x15.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: A Matter of Principals; Season: 8; Episode: 15</description>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Hearth's Warming Club; Season: 8; Episode: 15</description>
       <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-7R-08x15.mkv.torrent</guid>
       <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-7R-08x15.mkv.torrent" length="58677" type="application/x-bittorrent"/>
       <pubDate>Sat, 04 Aug 2018 00:00:00 -0600</pubDate>
@@ -21,12 +33,12 @@
       <torrent:magneturi>magnet:?xt=urn:btih:D35234B10F4711348060D28C78359D595782CC1C</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 08x14 - Yakity-Sax | 720p.WEB-DL | YP-7R-08x14.mkv | YayPonies</title>
+      <title>My Little Pony, Friendship is Magic - 08x14 - A Matter of Principals | 720p.WEB-DL | YP-7R-08x14.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-7R-08x14.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Yakity-Sax; Season: 8; Episode: 14</description>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: A Matter of Principals; Season: 8; Episode: 14</description>
       <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-7R-08x14.mkv.torrent</guid>
       <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-7R-08x14.mkv.torrent" length="58477" type="application/x-bittorrent"/>
-      <pubDate>Fri, 20 Jul 2018 00:00:00 -0600</pubDate>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 -0600</pubDate>
       <torrent:filename>YP-7R-08x14.mkv.torrent</torrent:filename>
       <torrent:contentlength>749744887</torrent:contentlength>
       <torrent:infohash>D4DB2F714E8A1F1BF6AAD730EA7FAF759A718D68</torrent:infohash>
