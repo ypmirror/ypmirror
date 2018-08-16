@@ -95,12 +95,12 @@
                 <a href="/fan/fan.php">Fan Works</a> |
                 <a href="/others/other.php">Others</a> 
                 <br />
-				<a href="/fan/broniesii.php">Bronies II</a>
+				<a href="/fan/broniesii.php">Bronies II</a> |
 				<a href="/misc/tutorial.php">Tutorials</a> |
                 <a href="/misc/rss.php">RSS</a> |
                 <a href="/misc/othersubs.php">Multilanguage Subtitles</a> |
                 <a href="/subtitles/ypsubs.php">YayPonies Subtitles</a> |
-                <a href="/videos/japan/1jt.php">Japanese-dubbed Episodes</a>
+                <a href="/videos/japan/1jt.php">Japanese Episodes</a>
             </p>
             <br />
             <br />

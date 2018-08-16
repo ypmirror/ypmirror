@@ -54,6 +54,8 @@ body * {
 
 #msg {
 	background: #F00;
+	a:link { color:#F00; }
+	a:visited { color:#F00; }
 	width: 750px;
 	color: #FFF;
 	margin: auto auto;
