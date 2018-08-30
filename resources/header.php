@@ -68,10 +68,10 @@
 
     <body>
 	<!--#include file="/resources/topnews.php" -->
-        <div id="header"><img src="/resources/ypoct.png" alt="YayPonies header" /></div>
+        <div id="header"><img src="/resources/yp6yr.png" alt="YayPonies header" /></div>
         <div id="container">
             <p style="font-size: 80%; text-align: center">
-                <a href="http://yayponies.eu/">Nightmare Night Special by Midnight Harmony.</a>
+                <a href="http://yayponies.eu/">6 years!.</a>
             </p>
             <br />
             <br />
@@ -95,6 +95,7 @@
                 <a href="/fan/fan.php">Fan Works</a> |
                 <a href="/others/other.php">Others</a> 
                 <br />
+				<a href="/misc/donate.php">Donate</a> |
 				<a href="/fan/broniesii.php">Bronies II</a> |
 				<a href="/misc/tutorial.php">Tutorials</a> |
                 <a href="/misc/rss.php">RSS</a> |
