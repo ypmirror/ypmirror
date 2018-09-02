@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/1it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Aug 2018 09:19:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Sep 2018 11:31:00 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 08x19 - On the Road to Friendship | 1080p.WEB-DL | YP-1R-08x19.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1R-08x19.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: On the Road to Friendship; Season: 8; Episode: 19</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-08x19.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-08x19.mkv.torrent" length="73118" type="application/x-bittorrent"/>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-08x19.mkv.torrent</torrent:filename>
+      <torrent:contentlength>941676194</torrent:contentlength>
+      <torrent:infohash>299D374552601D5249317C8F32C064F2F09CE245</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:299D374552601D5249317C8F32C064F2F09CE245</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 08x18 - Yakity-Sax | 1080p.WEB-DL | YP-1R-08x18.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-1R-08x18.mkv.torrent</link>
