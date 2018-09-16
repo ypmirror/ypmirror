@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/1it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Sep 2018 08:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Sep 2018 08:20:35 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 08x21 - A Rockhoof and a Hard Place | 1080p.WEB-DL | YP-1R-08x21.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1R-08x21.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: A Rockhoof and a Hard Place; Season: 8; Episode: 21</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-08x21.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-08x21.mkv.torrent" length="72958" type="application/x-bittorrent"/>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-08x21.mkv.torrent</torrent:filename>
+      <torrent:contentlength>939572409</torrent:contentlength>
+      <torrent:infohash>2661BAE71E39D71E479EA8D020D8568FB55AA90A</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:2661BAE71E39D71E479EA8D020D8568FB55AA90A</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 08x20 - The Washouts | 1080p.WEB-DL | YP-1R-08x20.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-1R-08x20.mkv.torrent</link>
