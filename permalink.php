@@ -133,7 +133,8 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 
 <!--#elif expr="$link = books/tables/comic" -->Comics (Main series)
 <!--#elif expr="$link = books/tables/mscomic" -->Comics (Micro series)
-<!--#elif expr="$link = books/tables/ffcomic" -->Comics (Friends Forever series)
+<!--#elif expr="$link = books/tables/ffcomic" -->Comics (Friends Forever)
+<!--#elif expr="$link = books/tables/lomcomic" -->Comics (Legend of Magic)
 <!--#elif expr="$link = books/tables/othercomic" -->Comics (Others)
 <!--#elif expr="$link = books/tables/books" -->Books (Everything that is NOT a comic !)
 

@@ -75,10 +75,11 @@
                         <tr>
                             <td> I want to download: </td>
                             <td>
-                                <select size="5" name="Download">
+                                <select size="6" name="Download">
                                     <option value="comic">Comics (Main series)</option>
                                     <option value="mscomic">Comics (Micro Series)</option>
 									<option value="ffcomic">Comics (Friends Forever)</option>
+									<option value="lomcomic">Comics (Legend Of Magic)</option>
                                     <option value="othercomic">Others (Comics)</option>
                                     <option value="books" selected>Books (Everything  that is NOT a comic !)</option>
                                 </select>
@@ -116,7 +117,11 @@
                     </tr>
                     <tr>
                         <td> <a href="/permalink.php?link=books/tables/ffcomic">ffcomic</a> </td>
-                        <td> Comics (Friends Forever Series) </td>
+                        <td> Comics (Friends Forever) </td>
+                    </tr>
+                    <tr>
+                        <td> <a href="/permalink.php?link=books/tables/lomcomic">lomcomic</a> </td>
+                        <td> Comics (Legend Of Magic) </td>
                     </tr>
                     <tr>
                         <td> <a href="/permalink.php?link=books/tables/othercomic">othercomic</a> </td>
