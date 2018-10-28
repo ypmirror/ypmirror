@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/1it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Oct 2018 11:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Oct 2018 11:41:25 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 00x66 - The Best Gift Ever | 1080p.WEB-DL | YP-1R-00x66.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1R-00x66.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Best Gift Ever; Season: 0; Episode: 66</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-00x66.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-00x66.mkv.torrent" length="143960" type="application/x-bittorrent"/>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-00x66.mkv.torrent</torrent:filename>
+      <torrent:contentlength>1870199622</torrent:contentlength>
+      <torrent:infohash>3CC7FF6AE7DBC0827A572F0DD6C5E79C408B0299</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:3CC7FF6AE7DBC0827A572F0DD6C5E79C408B0299</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 08x26 - School Raze (2) | 1080p.WEB-DL | YP-1R-08x26.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-1R-08x26.mkv.torrent</link>
