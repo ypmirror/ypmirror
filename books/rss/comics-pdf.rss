@@ -7,7 +7,19 @@
     <atom:link href="http://yp1.yayponies.no/books/rss/comics-pdf.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Oct 2018 15:20:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Nov 2018 10:07:28 +0000</lastBuildDate>
+    <item>
+      <title>Comics Main Series #72 | PDF | YP-PDF-COMIC72.pdf | YayPonies</title>
+      <link>http://yp1.yayponies.no/books/torrents/PDF/YP-PDF-COMIC72.pdf.torrent</link>
+      <description>Comic Name: Comics Main Series; #72</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/books/torrents/PDF/YP-PDF-COMIC72.pdf.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/books/torrents/PDF/YP-PDF-COMIC72.pdf.torrent" length="4464" type="application/x-bittorrent"/>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-PDF-COMIC72.pdf.torrent</torrent:filename>
+      <torrent:contentlength>41621241</torrent:contentlength>
+      <torrent:infohash>AE38CAA3CFBCB4C2DC556EAD27AF1923D1FC5501</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:AE38CAA3CFBCB4C2DC556EAD27AF1923D1FC5501</torrent:magneturi>
+    </item>
     <item>
       <title>Comics Main Series #71 | PDF | YP-PDF-COMIC71.pdf | YayPonies</title>
       <link>http://yp1.yayponies.no/books/torrents/PDF/YP-PDF-COMIC71.pdf.torrent</link>
