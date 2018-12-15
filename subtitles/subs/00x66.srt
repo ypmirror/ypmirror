@@ -1,0 +1,3665 @@
+﻿1
+00:00:06,440 --> 00:00:10,610
+ Alice: 'Twas a single day left
+  before Hearth's Warming Eve.
+
+2
+00:00:10,912 --> 00:00:14,580
+      Every pony was busy!
+      So much to achieve.
+
+3
+00:00:14,682 --> 00:00:17,817
+   They hustled and bustled,
+  their heads were a-spin
+
+4
+00:00:17,919 --> 00:00:22,154
+     And it's here that our
+     Holiday story begins.
+
+5
+00:00:28,796 --> 00:00:30,329
+        <i> ♪ Hearth's Warming Eve</i>
+        <i> Is almost here ♪</i>
+
+6
+00:00:30,431 --> 00:00:31,997
+<i> ♪ There's so much left to do ♪</i>
+
+7
+00:00:32,099 --> 00:00:33,699
+     <i> ♪ Still need to shop</i>
+     <i> for all my friends ♪</i>
+
+8
+00:00:33,801 --> 00:00:35,334
+ <i> ♪ But what to get, no clue! ♪</i>
+
+9
+00:00:35,436 --> 00:00:37,036
+    <i> ♪ This one is nice</i>
+     <i> and that's so cute ♪</i>
+
+10
+00:00:37,138 --> 00:00:38,504
+      <i> ♪ Although, that's</i>
+       <i> pretty too ♪</i>
+
+11
+00:00:38,806 --> 00:00:43,442
+   <i> ♪ Why do I make all these</i>
+    <i> gifts each year? ♪</i>
+
+12
+00:00:43,544 --> 00:00:46,145
+      <i> ♪ I doubt I'll make</i>
+       <i> it through ♪</i>
+
+13
+00:00:49,317 --> 00:00:52,317
+      <i> ♪ One more day ♪</i>
+     <i> ♪ Before the cheer ♪</i>
+
+14
+00:00:52,419 --> 00:00:54,887
+       <i> ♪ Shop Bake Box</i>
+       <i> Wrap Bow Repeat ♪</i>
+
+15
+00:00:55,489 --> 00:00:56,822
+      <i> ♪ One last chance ♪</i>
+
+16
+00:00:56,924 --> 00:00:59,425
+ <i> ♪ Before the Holiday's here ♪</i>
+
+17
+00:00:59,527 --> 00:01:00,926
+    <i> ♪ Box Wrap Bow Again! ♪</i>
+
+18
+00:01:01,028 --> 00:01:03,629
+    <i> ♪ One more day to make</i>
+     <i> the Holiday great ♪</i>
+
+19
+00:01:03,931 --> 00:01:06,832
+     <i> ♪ One more day before</i>
+      <i> we celebrate ♪</i>
+
+20
+00:01:07,034 --> 00:01:09,735
+        <i> ♪ One day and</i>
+       <i> then it's here ♪</i>
+
+21
+00:01:10,037 --> 00:01:13,939
+  <i> ♪ One more chance to bring</i>
+   <i> back Holiday Cheer ♪</i>
+
+22
+00:01:16,377 --> 00:01:17,910
+    <i> ♪ Hearth's Warming Eve</i>
+     <i> Is almost here ♪</i>
+
+23
+00:01:18,012 --> 00:01:19,478
+   <i> ♪ A day for us to share ♪</i>
+
+24
+00:01:19,680 --> 00:01:21,246
+     <i> ♪ Friends and Family</i>
+      <i> all together ♪</i>
+
+25
+00:01:21,348 --> 00:01:22,782
+  <i> ♪ Pies, Apples and a Pear ♪</i>
+
+26
+00:01:22,883 --> 00:01:25,917
+    <i> ♪ Together family plots</i>
+    <i> the work. There's so</i>
+    <i> much to prepare ♪</i>
+
+27
+00:01:26,120 --> 00:01:30,656
+    <i> ♪ With all the planning</i>
+    <i> we still have to do, ♪</i>
+
+28
+00:01:30,958 --> 00:01:33,458
+<i> ♪ We've got no time to spare ♪</i>
+
+29
+00:01:36,797 --> 00:01:38,163
+       <i> ♪ One more day ♪</i>
+
+30
+00:01:38,265 --> 00:01:39,898
+     <i> ♪ Before the cheer ♪</i>
+
+31
+00:01:40,000 --> 00:01:42,267
+       <i> ♪ Stuff Box Wrap</i>
+       <i> Card Bow Repeat ♪</i>
+
+32
+00:01:42,869 --> 00:01:44,303
+      <i> ♪ One last chance ♪</i>
+
+33
+00:01:44,405 --> 00:01:46,805
+ <i> ♪ Before the Holiday's here ♪</i>
+
+34
+00:01:46,907 --> 00:01:48,374
+   <i> ♪ Stir Pour Bake Again! ♪</i>
+
+35
+00:01:48,476 --> 00:01:51,110
+    <i> ♪ One more day to make</i>
+     <i> the Holiday bright ♪</i>
+
+36
+00:01:51,412 --> 00:01:54,279
+     <i> ♪ One more day and I</i>
+     <i> can sleep at night. ♪</i>
+
+37
+00:01:54,381 --> 00:01:57,316
+ <i> ♪ The family's almost here! ♪</i>
+
+38
+00:01:57,518 --> 00:02:01,119
+  <i> ♪ One more chance to bring</i>
+  <i> back Holiday cheer! ♪</i>
+
+39
+00:02:04,091 --> 00:02:07,593
+    <i> ♪ Before the fun</i>
+    <i> there's preparations ♪</i>
+
+40
+00:02:07,695 --> 00:02:12,030
+   <i> ♪ just around the corner</i>
+     <i> Shopping, cooking ♪</i>
+
+41
+00:02:12,132 --> 00:02:15,901
+       <i> ♪ decorations and</i>
+        <i> complications ♪</i>
+
+42
+00:02:16,003 --> 00:02:19,004
+      <i> ♪ It's all worth it</i>
+       <i> in the end ♪</i>
+
+43
+00:02:19,106 --> 00:02:22,107
+      <i> ♪ spreading joy to</i>
+      <i> all your friends! ♪</i>
+
+44
+00:02:22,209 --> 00:02:28,447
+   <i> ♪ Even when it never ever</i>
+   <i> ever seems to end. Aaah! ♪</i>
+
+45
+00:02:31,452 --> 00:02:33,052
+    <i> ♪ Hearth's Warming Eve</i>
+    <i> is getting close ♪</i>
+
+46
+00:02:33,154 --> 00:02:34,453
+<i> ♪ We're not prepared, I fear. ♪</i>
+
+47
+00:02:34,655 --> 00:02:36,088
+    <i> ♪ Twilight? You</i>
+    <i> should take a break. ♪</i>
+
+48
+00:02:36,190 --> 00:02:37,789
+      <i> ♪ No time for rest,</i>
+     <i> that much is clear! ♪</i>
+
+49
+00:02:37,891 --> 00:02:39,391
+      <i> ♪ I made a list and</i>
+      <i> checked it twice ♪</i>
+
+50
+00:02:39,493 --> 00:02:41,026
+<i> ♪ There's LOTS to do on here. ♪</i>
+
+51
+00:02:41,228 --> 00:02:45,731
+     <i> ♪ Oh, if I can't get</i>
+      <i> everything done, ♪</i>
+
+52
+00:02:45,933 --> 00:02:51,001
+    <i> ♪ I'll have to wait and</i>
+    <i> celebrate next year. ♪</i>
+
+53
+00:02:53,173 --> 00:02:54,339
+       <i> ♪ One more day ♪</i>
+
+54
+00:02:54,441 --> 00:02:56,108
+     <i> ♪ Before the cheer ♪</i>
+
+55
+00:02:56,210 --> 00:02:58,611
+        <i> ♪ Shop Cake Box</i>
+       <i> Wrap Bow Repeat ♪</i>
+
+56
+00:02:59,213 --> 00:03:00,546
+      <i> ♪ One last chance ♪</i>
+
+57
+00:03:00,648 --> 00:03:03,048
+<i> ♪ before the Holiday's here, ♪</i>
+
+58
+00:03:03,150 --> 00:03:04,650
+    <i> ♪ Box Wrap Bow Again! ♪</i>
+
+59
+00:03:04,752 --> 00:03:07,586
+    <i> ♪ One more day to make</i>
+    <i> the Holiday great ♪</i>
+
+60
+00:03:07,788 --> 00:03:10,656
+    <i> ♪ One more day until we</i>
+      <i> celebrate ♪</i>
+
+61
+00:03:10,758 --> 00:03:13,625
+   <i> ♪ Please oh please make</i>
+   <i> it really really great ♪</i>
+
+62
+00:03:13,827 --> 00:03:16,662
+    <i> ♪ One more gift try to</i>
+    <i> hurry don't be late ♪</i>
+
+63
+00:03:16,864 --> 00:03:19,731
+     <i> ♪ Box Wrap Bow Repeat</i>
+      <i> Gotta concentrate! ♪</i>
+
+64
+00:03:19,933 --> 00:03:23,735
+   <i> ♪ Just one more day</i>
+   <i> until we all celebrate! ♪</i>
+
+65
+00:03:25,006 --> 00:03:29,375
+ Gah. Do we want to know why you're
+ wrapping up everypony in town?
+
+66
+00:03:29,677 --> 00:03:32,077
+      Not wrapping paper.
+       A to-do list.
+
+67
+00:03:33,781 --> 00:03:35,547
+Two of these. Three of those...
+
+68
+00:03:35,849 --> 00:03:37,817
+      Maybe ten of those.
+       Just in case.
+
+69
+00:03:38,619 --> 00:03:41,286
+Twilight, darling,
+are you all right?
+
+70
+00:03:41,388 --> 00:03:42,688
+      Sure! Just grabbing
+        a few things.
+
+71
+00:03:42,790 --> 00:03:44,523
+   Do I need this? No. That's
+    silly. I need EIGHT!
+
+72
+00:03:44,925 --> 00:03:48,559
+               Hey y'all! What's
+               everypony...? Oh.
+
+73
+00:03:48,829 --> 00:03:50,295
+               Traditional
+               holiday meltdown?
+
+74
+00:03:50,497 --> 00:03:51,897
+   Uh huh.
+
+75
+00:03:54,401 --> 00:03:57,336
+                 Hey, Twilight.
+                 How's your day?
+
+76
+00:03:57,538 --> 00:03:58,971
+I got way behind
+grading midterms.
+
+77
+00:03:59,073 --> 00:04:00,572
+And Cadance and Shining
+Armor are coming here
+
+78
+00:04:00,674 --> 00:04:02,207
+with Flurry Heart for
+Hearth's Warming Eve.
+
+79
+00:04:02,309 --> 00:04:03,459
+And I haven't
+started decorating
+
+80
+00:04:03,560 --> 00:04:05,110
+and I don't know what
+to get any of you, and--
+
+81
+00:04:05,213 --> 00:04:07,413
+            Stop. Take a breath...
+
+82
+00:04:08,883 --> 00:04:11,716
+            Now let it out <i>slow.</i>
+
+83
+00:04:14,888 --> 00:04:17,256
+          Now, I think I have an
+          idea that might help.
+
+84
+00:04:17,358 --> 00:04:19,558
+    What if we change up how
+    we give gifts this year
+
+85
+00:04:19,760 --> 00:04:22,094
+       and do a Hearth's
+       Warmin' Helper?
+
+86
+00:04:22,496 --> 00:04:24,263
+       What's a Hearth's
+       Warming Helper?
+
+87
+00:04:24,465 --> 00:04:27,266
+    Whenever the whole Apple
+   Family got together,
+
+88
+00:04:27,368 --> 00:04:28,800
+ there were just so many of us,
+
+89
+00:04:28,902 --> 00:04:31,103
+    it didn't make sense
+    to buy everypony gifts.
+
+90
+00:04:31,205 --> 00:04:32,704
+       So we'd put our
+       names in a hat...
+
+91
+00:04:32,906 --> 00:04:35,641
+           Oooo! A game of
+           chance! Tell me more.
+
+92
+00:04:35,943 --> 00:04:38,477
+Then we'd pull a name,
+but keep it a secret!
+
+93
+00:04:38,579 --> 00:04:40,980
+A dash of mystery.
+Good. Good.
+
+94
+00:04:41,782 --> 00:04:43,849
+       Instead of buyin'
+      everypony a present,
+
+95
+00:04:43,951 --> 00:04:46,685
+ you just get one for the pony
+ you picked from the hat!
+
+96
+00:04:46,787 --> 00:04:49,588
+      Wait. So instead of
+       lots of presents,
+
+97
+00:04:49,690 --> 00:04:52,024
+       I only buy one of
+       you a present?
+
+98
+00:04:52,126 --> 00:04:53,826
+                   WHAT KIND OF GAME
+                    IS THIS?
+
+99
+00:04:54,528 --> 00:04:56,095
+         Well, it would
+         save time.
+
+100
+00:04:56,197 --> 00:05:00,265
+ And you could get the pony you
+  pick something really nice...
+
+101
+00:05:00,967 --> 00:05:02,001
+                           Ahem.
+
+102
+00:05:02,403 --> 00:05:04,737
+               The less shopping
+               the better! In!
+
+103
+00:05:04,939 --> 00:05:06,372
+   Will that help, Twilight?
+
+104
+00:05:06,774 --> 00:05:09,240
+I WAS stressed
+about shopping..
+
+105
+00:05:10,545 --> 00:05:16,081
+               [groan] Fine. I will only
+               buy one present
+
+106
+00:05:16,183 --> 00:05:19,151
+     for my secret Hearth's
+     Warming Helper buddy.
+
+107
+00:05:19,953 --> 00:05:21,453
+      We just need to put
+       everypony's name
+
+108
+00:05:21,555 --> 00:05:22,488
+       in this here hat.
+
+109
+00:05:29,797 --> 00:05:32,097
+          Y'all ready?
+          No peekin'!
+
+110
+00:05:38,739 --> 00:05:41,540
+                SO. Excited. Ah!
+                Too excited!
+
+111
+00:05:41,642 --> 00:05:42,975
+             I don't want to
+             give anything away!
+
+112
+00:05:44,111 --> 00:05:45,611
+                           Whee!
+
+113
+00:05:45,813 --> 00:05:47,813
+       When will the gift
+        exchange occur?
+
+114
+00:05:48,015 --> 00:05:50,949
+      How about.. Twilight's
+     castle tomorrow night?
+
+115
+00:05:51,051 --> 00:05:52,218
+     Hearth's Warming Eve!
+
+116
+00:05:52,319 --> 00:05:54,686
+   That's perfect! Pinkie and
+   I can spend the evening
+
+117
+00:05:54,788 --> 00:05:57,189
+    with y'all and the next
+   morning with our families!
+
+118
+00:05:57,691 --> 00:05:58,857
+And thanks to
+all of you,
+
+119
+00:05:58,959 --> 00:06:00,759
+I should be ready to
+celebrate by then!
+
+120
+00:06:00,961 --> 00:06:03,395
+    Oh, this is so exciting!
+
+121
+00:06:04,832 --> 00:06:09,935
+Uh... Um, Applejack? Is it against
+the rules to trade names?
+
+122
+00:06:10,137 --> 00:06:12,504
+Like if I had a better
+idea for somepony special?
+
+123
+00:06:12,606 --> 00:06:13,806
+I mean, specific?
+
+124
+00:06:14,108 --> 00:06:16,508
+   If you can figure out who
+    has the pony you want,
+
+125
+00:06:16,610 --> 00:06:19,811
+  and they're OK with tradin',
+    I guess it's fine.
+
+126
+00:06:20,213 --> 00:06:23,515
+        Great! So uh...
+        who do you-
+
+127
+00:06:23,617 --> 00:06:24,683
+            I don't have Rarity.
+
+128
+00:06:24,785 --> 00:06:25,984
+     What? That's
+     not who I--
+
+129
+00:06:26,086 --> 00:06:27,319
+                        Uh-huh.
+
+130
+00:06:39,266 --> 00:06:40,765
+         Hey, Twilight!
+
+131
+00:06:40,867 --> 00:06:43,034
+        Whatcha plannin' to
+        get your secret pony?
+
+132
+00:06:43,136 --> 00:06:44,869
+     Not sure. I'm getting
+      the castle ready
+
+133
+00:06:44,971 --> 00:06:47,306
+      for my family first.
+       Then I'll shop.
+
+134
+00:06:48,408 --> 00:06:50,909
+     Maybe something
+     sparkly? Fashionable?
+
+135
+00:06:51,111 --> 00:06:54,513
+  No. Those aren't really the
+ kind of things my pony likes.
+
+136
+00:06:54,815 --> 00:06:57,082
+        Oh. Well, gotta
+       go! Wish me luck!
+
+137
+00:06:57,384 --> 00:06:58,583
+         With shopping..?
+
+138
+00:06:58,785 --> 00:07:01,753
+  Well, yeah! If every pony's
+   only getting one gift,
+
+139
+00:07:01,855 --> 00:07:03,221
+we have a ton of responsibility
+
+140
+00:07:03,323 --> 00:07:05,423
+      to make sure it's
+      extra special good!
+
+141
+00:07:08,295 --> 00:07:10,630
+I.. didn't think
+of it that way.
+
+142
+00:07:11,832 --> 00:07:13,198
+       The present I get
+        for Pinkie Pie
+
+143
+00:07:13,300 --> 00:07:14,833
+       should make or
+       break her holiday!
+
+144
+00:07:14,935 --> 00:07:17,602
+  I can't just go shopping and
+  hope to find something nice.
+
+145
+00:07:17,704 --> 00:07:20,139
+    This needs forethought,
+    planning, research!
+
+146
+00:07:20,841 --> 00:07:21,724
+      I'll decorate later.
+
+147
+00:07:21,825 --> 00:07:24,108
+  Knowing Pinkie, she probably
+ already has a perfect idea
+
+148
+00:07:24,211 --> 00:07:25,644
+     what to get her pony!
+
+149
+00:07:26,346 --> 00:07:29,615
+      I have no idea what
+      to get my pony!
+
+150
+00:07:30,217 --> 00:07:32,250
+     There's a pile of
+     presents right there.
+
+151
+00:07:32,452 --> 00:07:33,652
+   Pick one and you're done.
+
+152
+00:07:34,054 --> 00:07:36,788
+   Those were for when I was
+   getting all of my friends
+
+153
+00:07:36,890 --> 00:07:39,091
+      matching harmony
+     Hearth's Warming hats!
+
+154
+00:07:40,293 --> 00:07:42,627
+    Now it's just Twilight!
+
+155
+00:07:44,197 --> 00:07:45,897
+     I can't give one pony
+      a matching present
+
+156
+00:07:45,999 --> 00:07:47,366
+   with nothing to match it!
+
+157
+00:07:47,468 --> 00:07:50,201
+     I need something
+     special for only her!
+
+158
+00:07:52,739 --> 00:07:53,905
+                  I've got it.
+
+159
+00:07:54,107 --> 00:07:56,808
+I don't think Twilight likes
+rocks as much as you do, Maud.
+
+160
+00:07:57,010 --> 00:07:58,877
+ Don't rock it till you try it.
+
+161
+00:08:01,548 --> 00:08:03,248
+      Thanks for the vote
+     of confidence, Gummy,
+
+162
+00:08:03,450 --> 00:08:05,250
+    but this is the biggest
+     holiday challenge
+
+163
+00:08:05,352 --> 00:08:06,851
+        I've ever faced!
+
+164
+00:08:07,153 --> 00:08:08,921
+    Uh, this one's for you.
+
+165
+00:08:09,623 --> 00:08:12,023
+    Hey! This is the biggest
+    holiday challenge
+
+166
+00:08:12,125 --> 00:08:14,626
+      I've ever faced! HOW
+      EXCITING IS THAT?
+
+167
+00:08:15,829 --> 00:08:18,663
+Am I up for the challenge? I
+know I'm good at gift-giving.
+
+168
+00:08:18,765 --> 00:08:20,965
+       But am I the best
+        at gift giving?
+
+169
+00:08:21,067 --> 00:08:23,268
+Who would say they're
+the best at gift giving?
+
+170
+00:08:23,370 --> 00:08:24,403
+That's ridiculous.
+
+171
+00:08:25,105 --> 00:08:27,639
+Uh-
+Marble, you're a genius!
+
+172
+00:08:27,741 --> 00:08:29,741
+Yaks would say they're
+the best at gift giving!
+
+173
+00:08:29,843 --> 00:08:32,444
+If anypony knows what
+to do, it's them.
+
+174
+00:08:33,246 --> 00:08:35,113
+   I gotta go to Yakyakistan!
+
+175
+00:08:35,215 --> 00:08:38,249
+    Thanks, these Pie sister
+    talks are the best!
+
+176
+00:08:44,391 --> 00:08:44,923
+                  Pinkie!
+
+177
+00:08:45,025 --> 00:08:45,957
+            I don't have Rarity!
+
+178
+00:08:46,081 --> 00:08:47,081
+                Woah!
+
+179
+00:08:49,229 --> 00:08:52,097
+Oh! Heh. How's your
+shopping going, Spike?
+
+180
+00:08:52,199 --> 00:08:53,431
+                 Uh. Fine.
+
+181
+00:08:54,735 --> 00:08:56,401
+Which pony did you get?
+
+182
+00:08:56,503 --> 00:08:58,537
+             I...can't remember?
+
+183
+00:08:58,939 --> 00:09:00,372
+I've got Applejack, darling.
+
+184
+00:09:00,574 --> 00:09:02,941
+She's going to
+adore her present.
+
+185
+00:09:03,043 --> 00:09:05,143
+    There's a brilliant
+    designer in Manehattan,
+
+186
+00:09:05,345 --> 00:09:08,947
+   Fedora Felt, who makes
+    the most marvelous hats!
+
+187
+00:09:09,149 --> 00:09:12,484
+   I asked for a new take on
+   western chic that would be
+
+188
+00:09:12,586 --> 00:09:15,487
+    the envy of every
+     farmpony in Equestria.
+
+189
+00:09:15,689 --> 00:09:17,456
+  That's a great gift, Rarity.
+
+190
+00:09:17,558 --> 00:09:22,161
+I hope I can find something for
+my pony as special as you are...
+
+191
+00:09:23,063 --> 00:09:25,463
+                She is. Uh, bye!
+
+192
+00:09:28,702 --> 00:09:31,803
+OK, what about
+your favorite food?
+
+193
+00:09:32,105 --> 00:09:34,539
+         Oh, I couldn't
+         pick just one.
+
+194
+00:09:34,641 --> 00:09:37,475
+      What if it hurt the
+     other foods' feelings?
+
+195
+00:09:37,677 --> 00:09:40,645
+Right.... But there's
+gotta be something
+
+196
+00:09:40,747 --> 00:09:42,414
+you really really like!
+
+197
+00:09:42,816 --> 00:09:48,119
+    I really really like...
+  everything! Why do you ask?
+
+198
+00:09:48,521 --> 00:09:52,424
+Just...getting gift ideas.
+For my pony. Who isn't you.
+
+199
+00:09:53,226 --> 00:09:57,062
+So... is there anything
+you don't like?
+
+200
+00:09:57,464 --> 00:10:00,231
+          Hm. Not liking things.
+
+201
+00:10:00,533 --> 00:10:02,634
+Grrr.
+
+202
+00:10:03,136 --> 00:10:05,069
+      I hope that helped!
+
+203
+00:10:07,207 --> 00:10:08,424
+        Hey, Fluttershy.
+
+204
+00:10:08,725 --> 00:10:10,942
+Thinking of getting that for
+your Hearth's Warming helper?
+
+205
+00:10:11,144 --> 00:10:13,913
+                Mm-hm. She loves
+                shiny things.
+
+206
+00:10:14,615 --> 00:10:17,716
+     I wish I knew what my
+      secret pony wanted.
+
+207
+00:10:17,818 --> 00:10:20,151
+   She's so hard to shop for...
+
+208
+00:10:20,453 --> 00:10:23,855
+  Oh, no. Maybe I could help.
+  Unless you don't want to-
+
+209
+00:10:23,957 --> 00:10:24,657
+Rainbow Dash.
+
+210
+00:10:24,858 --> 00:10:27,758
+ Oh! I was just talking to
+ Rainbow Dash about things we-
+
+211
+00:10:27,861 --> 00:10:30,762
+Great idea! We
+SHOULD trade ponies!
+
+212
+00:10:32,264 --> 00:10:33,898
+                  Wait. Trade?
+
+213
+00:10:34,200 --> 00:10:36,567
+Well, Applejack said it's
+not against the rules.
+
+214
+00:10:36,669 --> 00:10:39,171
+And you know what Rainbow
+Dash likes, so it's perfect!
+
+215
+00:10:40,073 --> 00:10:46,145
+       [gasp] Rarity? What. A.
+       Surprise! Thanks!
+
+216
+00:10:46,847 --> 00:10:48,947
+There you are. I
+need your help!
+
+217
+00:10:49,049 --> 00:10:51,049
+                Do you want to
+                trade names too?
+
+218
+00:10:51,151 --> 00:10:52,350
+        What? No.
+
+219
+00:10:52,452 --> 00:10:54,619
+   I just need help figurin'
+    out what to get Spike.
+
+220
+00:10:54,821 --> 00:10:55,787
+                     Phew!
+
+221
+00:10:57,891 --> 00:11:00,959
+   Candle. Great. Whatever.
+   Fluttershy shopping done.
+
+222
+00:11:01,061 --> 00:11:03,895
+ Oh! You can't honestly be serious?
+
+223
+00:11:04,197 --> 00:11:05,363
+         Ghost candle!
+
+224
+00:11:07,634 --> 00:11:09,267
+    A candle is what you buy
+
+225
+00:11:09,369 --> 00:11:12,471
+     when you have no idea
+     what to get somepony.
+
+226
+00:11:12,673 --> 00:11:15,273
+                  Ugh. What do you
+                  want, Discord?
+
+227
+00:11:15,809 --> 00:11:19,344
+ Fluttershy told me about this
+ hearth-whatever-it's-called.
+
+228
+00:11:19,546 --> 00:11:21,980
+     I may not be invited,
+   but I wanted to make sure
+
+229
+00:11:22,082 --> 00:11:24,415
+    she gets a <i>quality</i> gift.
+
+230
+00:11:25,686 --> 00:11:28,153
+I tried asking her
+what she likes,
+
+231
+00:11:28,355 --> 00:11:30,221
+but she likes everything!
+
+232
+00:11:30,323 --> 00:11:32,056
+            Well, she says that...
+
+233
+00:11:32,158 --> 00:11:36,261
+       But her REAL friends know
+       what she actually likes.
+
+234
+00:11:36,463 --> 00:11:38,830
+I've known her a lot
+longer than you have.
+
+235
+00:11:40,367 --> 00:11:42,600
+     Then you must surely
+     know that lit candles
+
+236
+00:11:42,702 --> 00:11:46,871
+   around adorably flammable
+   animals make her nervous.
+
+237
+00:11:46,973 --> 00:11:48,106
+                    Don't you?
+
+238
+00:11:51,111 --> 00:11:52,944
+       Fine. I'll get her
+        something else..
+
+239
+00:11:54,481 --> 00:11:55,780
+Perhaps I'll
+tag along.
+
+240
+00:11:55,882 --> 00:11:57,916
+To steer you in the
+right direction.
+
+241
+00:11:58,718 --> 00:11:59,484
+             Whoa!
+
+242
+00:12:04,157 --> 00:12:06,624
+      I can't wait to give
+      Rarity her gift.
+
+243
+00:12:06,726 --> 00:12:08,993
+      It'll be just as
+     special and beautiful
+
+244
+00:12:09,095 --> 00:12:10,662
+     and amazing as she is!
+
+245
+00:12:10,764 --> 00:12:13,832
+     Just imagine when she
+     opens it and sees...
+
+246
+00:12:14,034 --> 00:12:15,467
+         Uh... sees...
+
+247
+00:12:16,669 --> 00:12:19,470
+        I have no idea
+        what to get her!
+
+248
+00:12:24,878 --> 00:12:26,478
+  I come to the Rainbow Falls
+
+249
+00:12:26,580 --> 00:12:28,613
+Hearth's Warming craft
+fair every year.
+
+250
+00:12:28,715 --> 00:12:30,849
+They have perfect
+presents for anypony!
+
+251
+00:12:31,151 --> 00:12:33,051
+    Hopefully anydragon too.
+
+252
+00:12:33,153 --> 00:12:35,387
+           Wanna split up? Meet
+           back here in an hour?
+
+253
+00:12:35,589 --> 00:12:36,288
+       Sure.
+
+254
+00:12:39,459 --> 00:12:43,195
+        Oh, no! There's
+        only a few left!
+
+255
+00:12:46,166 --> 00:12:47,833
+    Fillies and gentlecolts!
+
+256
+00:12:47,935 --> 00:12:50,369
+    We want you all to
+     have the best holiday
+
+257
+00:12:50,471 --> 00:12:51,870
+       your bits can buy!
+
+258
+00:12:51,972 --> 00:12:54,840
+      But there are only a
+      limited number left!
+
+259
+00:12:55,342 --> 00:12:56,975
+Limited number of what?
+
+260
+00:12:57,277 --> 00:13:01,780
+    Why, you don't know about
+    Holly the Hearthwarmer?
+
+261
+00:13:03,417 --> 00:13:05,316
+          You seem like somepony
+          looking for a gift
+
+262
+00:13:05,418 --> 00:13:07,085
+                 for a very
+                 special friend!
+
+263
+00:13:07,187 --> 00:13:08,104
+     I am!
+
+264
+00:13:08,405 --> 00:13:11,322
+ A friend who wouldn't want to
+ miss out on the must-have gift
+
+265
+00:13:11,424 --> 00:13:13,525
+  everypony is talking about?
+
+266
+00:13:13,727 --> 00:13:16,361
+She certainly wouldn't
+want to miss out on that!
+
+267
+00:13:16,563 --> 00:13:20,165
+  A truly awesome friend who
+ deserves something 20% cooler
+
+268
+00:13:20,267 --> 00:13:22,033
+ than any other gift out there?
+
+269
+00:13:22,335 --> 00:13:24,570
+   That sounds just like her!
+
+270
+00:13:24,672 --> 00:13:28,273
+            Well, look no
+            further. This. Is. It!
+
+271
+00:13:28,875 --> 00:13:31,210
+ Oh, oh! How much does it cost?
+
+272
+00:13:31,612 --> 00:13:33,178
+     How much do you have?
+
+273
+00:13:36,950 --> 00:13:41,019
+Yojan! Is that good angle
+for optimal smashing?
+
+274
+00:13:45,092 --> 00:13:46,992
+          Guess who!
+
+275
+00:13:47,194 --> 00:13:48,059
+             Yojan!?
+
+276
+00:13:48,261 --> 00:13:49,394
+           No, silly!
+
+277
+00:13:49,496 --> 00:13:52,731
+  Yngvild!? Tormund!? Grunhorn!
+
+278
+00:13:52,933 --> 00:13:55,934
+      Nopety nope and nien
+       and nyet! It's me!
+
+279
+00:13:56,436 --> 00:13:59,938
+Aw, Prince Rutherford knew
+it pink pony all along.
+
+280
+00:14:00,040 --> 00:14:01,807
+Yaks best at guessing!
+
+281
+00:14:02,409 --> 00:14:05,243
+    Yaks best at everything!
+   That's why I'm here!
+
+282
+00:14:05,345 --> 00:14:08,146
+  Sorry to interrupt Snilldar
+  Fest, but I need help.
+
+283
+00:14:08,248 --> 00:14:12,083
+     Can you tell me where
+    to find... BEST GIFT EVER?
+
+284
+00:14:16,990 --> 00:14:18,757
+Not here. Follow this way.
+
+285
+00:14:21,061 --> 00:14:25,096
+   Prince Rutherford about to
+   tell honorary yak friend
+
+286
+00:14:25,298 --> 00:14:28,600
+   something very top secret.
+
+287
+00:14:30,503 --> 00:14:33,104
+ Honorary yak friend listening!
+
+288
+00:14:33,406 --> 00:14:37,409
+       Yaks best at all
+       things except one!
+
+289
+00:14:38,511 --> 00:14:40,412
+ Yaks not best at giving gifts.
+
+290
+00:14:40,914 --> 00:14:42,680
+            [gasp] What!?
+
+291
+00:14:44,451 --> 00:14:46,384
+                 I know! It hard
+                 to believe.
+
+292
+00:14:46,586 --> 00:14:48,386
+How am I gonna figure
+out how to get Twilight
+
+293
+00:14:48,488 --> 00:14:50,221
+the best Hearth's
+Warming gift ever!?
+
+294
+00:14:50,423 --> 00:14:52,524
+                   Oh, no worry,
+                   honorary yak.
+
+295
+00:14:52,626 --> 00:14:54,392
+               Prince Rutherford
+               keep secret map
+
+296
+00:14:54,494 --> 00:14:56,528
+                in perfectly
+                organized files.
+
+297
+00:14:59,933 --> 00:15:02,133
+              Best gift givers
+               up northern pass,
+
+298
+00:15:02,235 --> 00:15:04,269
+              where sky shimmers
+              and glows.
+
+299
+00:15:04,371 --> 00:15:06,771
+              There, secret gift
+              giver grove.
+
+300
+00:15:06,873 --> 00:15:10,241
+         Only yak princes and
+         pink honorary yak know.
+
+301
+00:15:11,845 --> 00:15:14,546
+My lips are sealed!
+
+302
+00:15:16,149 --> 00:15:20,118
+   TIME FOR MY TOP-SECRET
+   QUEST TO THE GIFT GIVERS!
+
+303
+00:15:29,997 --> 00:15:34,165
+       Oh, hi Rarity! How
+       can I help you?
+
+304
+00:15:34,567 --> 00:15:36,234
+     I expected a package today,
+
+305
+00:15:36,336 --> 00:15:38,770
+            and I was wondering
+            where that might be.
+
+306
+00:15:39,172 --> 00:15:45,577
+Oh, OK. Uh, let's
+check. Name?
+
+307
+00:15:45,979 --> 00:15:47,679
+         Uh, Rarity?
+
+308
+00:15:48,403 --> 00:15:49,103
+             Hm.
+
+309
+00:15:51,017 --> 00:15:53,151
+Oh! Here we go.
+
+310
+00:15:53,253 --> 00:15:56,354
+   Your package was delivered
+    to Sweet Apple Acres.
+
+311
+00:15:56,756 --> 00:15:58,523
+     What!? It was supposed
+      to be delivered
+
+312
+00:15:58,625 --> 00:16:00,325
+     to Rarity's Boutique!
+
+313
+00:16:00,427 --> 00:16:05,764
+    Um, OK but now the
+   package was for Applejack,
+
+314
+00:16:05,866 --> 00:16:09,568
+        and she is at
+       Sweet Apple Acres.
+
+315
+00:16:10,470 --> 00:16:15,274
+ Yes, it's FOR Applejack,
+  but I will be delivering it.
+
+316
+00:16:16,476 --> 00:16:17,910
+That's my job.
+
+317
+00:16:18,912 --> 00:16:22,882
+              It's a gift for
+              Applejack from.. me.
+
+318
+00:16:22,984 --> 00:16:25,350
+[gasp] What if she opens it!?
+
+319
+00:16:25,452 --> 00:16:27,753
+It shouldn't go to
+Sweet Apple Acres!
+
+320
+00:16:28,355 --> 00:16:33,592
+Oh! Wait. It went to Sweet
+Acorn Orchard instead.
+
+321
+00:16:33,694 --> 00:16:36,928
+[giggle] Oh! That's a relief!
+
+322
+00:16:37,330 --> 00:16:39,230
+           WHY is that a relief?
+
+323
+00:16:39,332 --> 00:16:43,969
+Because Applejack's not
+in Sweet Acorn Orchard.
+
+324
+00:16:44,271 --> 00:16:47,638
+Do you want me to get the
+package and deliver it to her?
+
+325
+00:16:47,740 --> 00:16:52,744
+        No! [ahem] May I
+        have the address
+
+326
+00:16:52,846 --> 00:16:54,579
+        for Sweet Acorn Orchard?
+
+327
+00:16:54,781 --> 00:16:57,015
+   I think I'll just collect
+    the package myself.
+
+328
+00:16:57,217 --> 00:16:59,584
+Are you sure? Cause
+I would be happy to--
+
+329
+00:16:59,686 --> 00:17:02,353
+                You have helped
+                so much already.
+
+330
+00:17:03,456 --> 00:17:04,622
+Break time!
+
+331
+00:17:05,859 --> 00:17:07,692
+      Shopping for Rarity.
+       No problem.
+
+332
+00:17:07,794 --> 00:17:10,796
+She likes lots of stuff. I just
+ need something extra special.
+
+333
+00:17:11,198 --> 00:17:13,098
+     Brand new top of the
+     line sewing equipment?
+
+334
+00:17:13,200 --> 00:17:15,133
+A priceless rhinestone necklace?
+
+335
+00:17:15,235 --> 00:17:16,101
+     A sculpture of Rarity
+
+336
+00:17:16,203 --> 00:17:18,136
+     made from smaller
+     sculptures of Rarity?
+
+337
+00:17:19,506 --> 00:17:23,875
+       [gasp] Oh! Wow! Awesome!
+
+338
+00:17:23,977 --> 00:17:26,211
+      Shopping for Rarity.
+       Slight problem.
+
+339
+00:17:26,313 --> 00:17:29,914
+  She likes lots of stuff. But
+   nothing is special enough!
+
+340
+00:17:35,589 --> 00:17:38,623
+       Oh, goodness, no.
+
+341
+00:17:40,360 --> 00:17:42,061
+Even worse.
+
+342
+00:17:43,163 --> 00:17:47,165
+    Oh, come on! Fluttershy
+    would love a spa day!
+
+343
+00:17:47,467 --> 00:17:48,499
+    Really?
+
+344
+00:17:48,701 --> 00:17:51,803
+Love the stress of deciding
+which treatment to get?
+
+345
+00:17:51,905 --> 00:17:54,472
+Love worrying that she's
+not relaxing enough?
+
+346
+00:17:54,574 --> 00:17:55,724
+Or relaxing too much?
+
+347
+00:17:55,825 --> 00:17:58,575
+And what about all those sweet
+animals she's left alone?
+
+348
+00:17:58,678 --> 00:18:02,281
+So much to worry about
+and all because of you!
+
+349
+00:18:02,783 --> 00:18:06,051
+     She's Fluttershy!
+  Everything makes her worry!
+
+350
+00:18:06,453 --> 00:18:09,154
+Now you sound like
+somepony who knows her!
+
+351
+00:18:09,356 --> 00:18:12,223
+         Well, if you're such an
+         expert on Fluttershy,
+
+352
+00:18:12,325 --> 00:18:14,125
+           what did YOU get her?
+
+353
+00:18:14,327 --> 00:18:16,594
+Oh, and you honestly
+expect me to tell you
+
+354
+00:18:16,696 --> 00:18:19,831
+what I got Fluttershy so
+that you can one up me?
+
+355
+00:18:19,933 --> 00:18:23,568
+Well, I have half a mind to
+stop helping you entirely!
+
+356
+00:18:23,670 --> 00:18:26,972
+   Good! Please stop helping
+   me! I'm begging you!
+
+357
+00:18:27,474 --> 00:18:30,041
+Well, I suppose I
+could tell you
+
+358
+00:18:30,143 --> 00:18:32,110
+what my back-up
+present was.
+
+359
+00:18:32,312 --> 00:18:34,179
+           Great. Still helping...
+
+360
+00:18:34,281 --> 00:18:36,681
+It would have made
+a lovely addition
+
+361
+00:18:36,783 --> 00:18:39,050
+to her animal sanctuary.
+
+362
+00:18:39,152 --> 00:18:42,020
+But you'd have to be the
+fastest pony in Equestria
+
+363
+00:18:42,122 --> 00:18:43,554
+to even have a chance of-
+
+364
+00:18:43,656 --> 00:18:44,689
+      Whoa whoa whoa whoa!
+
+365
+00:18:44,791 --> 00:18:48,059
+      You're talking to the
+      fastest pony in Equestria!
+
+366
+00:18:48,261 --> 00:18:50,261
+      If there's some fast
+      animal out there
+
+367
+00:18:50,363 --> 00:18:53,965
+   Fluttershy would love, I'm
+    the one who can get it.
+
+368
+00:18:54,267 --> 00:18:56,935
+Oh, I just don't know...
+
+369
+00:18:57,137 --> 00:18:58,536
+           I'm calling it! Dibs!
+
+370
+00:18:58,638 --> 00:18:59,938
+  If you insist.
+
+371
+00:19:03,476 --> 00:19:06,778
+   The ideal gift for Pinkie
+   Pie needs to be a) unique,
+
+372
+00:19:06,880 --> 00:19:11,016
+ b) specific to her personality
+   and c) food-based.
+
+373
+00:19:12,118 --> 00:19:16,554
+ What is a unique food?
+ Cupcakes? Nah. Cookies? Nope.
+
+374
+00:19:16,656 --> 00:19:21,759
+      Pies? Pastries?
+    Pudding? [gasp] Wait! PUDDING!
+
+375
+00:19:24,064 --> 00:19:25,263
+ After defeating the windigos,
+
+376
+00:19:25,365 --> 00:19:27,498
+     the Earth Pony, Pegasi
+    and Unicorn nations
+
+377
+00:19:27,600 --> 00:19:30,335
+  prepared the first Hearth's
+  Warming meal together.
+
+378
+00:19:30,437 --> 00:19:33,404
+  Chancellor Puddinghead made
+  a pudding so delicious,
+
+379
+00:19:33,506 --> 00:19:35,139
+ legends were written about it!
+
+380
+00:19:35,241 --> 00:19:38,609
+      This is it! Unique.
+      Totally Pinkie!
+
+381
+00:19:38,811 --> 00:19:41,145
+      The most incredible
+      dessert ever!
+
+382
+00:19:46,853 --> 00:19:47,986
+      Where's the recipe!?
+
+383
+00:19:51,291 --> 00:19:53,358
+     I've narrowed down my
+     choices for Spike to
+
+384
+00:19:53,660 --> 00:19:56,527
+     fire-dancin' sticks or
+     a Power Ponies comic.
+
+385
+00:19:56,729 --> 00:19:58,463
+          Un-enchanted. I think.
+
+386
+00:19:58,765 --> 00:20:00,999
+                   Aaah! What
+                    is that!?
+
+387
+00:20:02,735 --> 00:20:06,605
+   Holly the Hearth's Warmer
+  doll. Isn't she sweet?
+
+388
+00:20:07,207 --> 00:20:10,541
+ "I love being an expensive toy!"
+
+389
+00:20:11,312 --> 00:20:15,246
+     Ugh. Why'd you think THAT was a
+     good gift for Rainbow Dash?
+
+390
+00:20:15,348 --> 00:20:19,717
+ It's the must-have gift of the
+ season! And in short supply!
+
+391
+00:20:23,290 --> 00:20:26,825
+   Short supply, huh? How
+   much did that set ya back?
+
+392
+00:20:27,127 --> 00:20:28,126
+  All my bits.
+
+393
+00:20:28,928 --> 00:20:31,996
+All my bits! Can I borrow
+some for the train ride home?
+
+394
+00:20:33,233 --> 00:20:35,967
+          Something about this
+          here doll seems fishy,
+
+395
+00:20:36,069 --> 00:20:38,369
+ and I ain't just talking about
+ the smell of that plastic.
+
+396
+00:20:38,571 --> 00:20:39,971
+             Where'd you get it?
+
+397
+00:20:57,257 --> 00:20:58,723
+         Flim and Flam!
+
+398
+00:20:58,825 --> 00:21:01,926
+  What are those two Hearth's
+  Warmin' hooligans up to now?
+
+399
+00:21:19,479 --> 00:21:22,046
+Uh, is this Sweet
+Acorn Orchard?
+
+400
+00:21:22,248 --> 00:21:26,717
+ It is. But we've never had
+ nopony like you visit before.
+
+401
+00:21:26,919 --> 00:21:28,619
+Uh, Rarity. A pleasure.
+
+402
+00:21:28,721 --> 00:21:30,921
+I'm actually here
+about a package
+
+403
+00:21:31,023 --> 00:21:31,956
+that was recently
+deliv-
+
+404
+00:21:32,058 --> 00:21:34,225
+              Oh, that was
+              from you?
+
+405
+00:21:34,327 --> 00:21:37,661
+Oh! So it did arrive. Ha
+ha! If I could just-
+
+406
+00:21:37,763 --> 00:21:39,730
+       We don't know how
+       to thank you!
+
+407
+00:21:40,032 --> 00:21:41,098
+                  Thank me?
+
+408
+00:21:44,137 --> 00:21:46,804
+    I was just saying to
+   Butternut I wished we knew
+
+409
+00:21:46,906 --> 00:21:49,240
+      who our Hearth's
+      Warming miracle was.
+
+410
+00:21:49,442 --> 00:21:52,376
+ Oak Nut and I couldn't
+ believe it when we opened it!
+
+411
+00:21:52,478 --> 00:21:54,678
+            Pistachio said right
+            away whoever sent it
+
+412
+00:21:54,880 --> 00:21:56,414
+                 just "got him".
+
+413
+00:21:56,516 --> 00:21:59,650
+Says when he put it on,
+he could feel his destiny!
+
+414
+00:22:00,352 --> 00:22:02,853
+      As an.. acorn farmer?
+
+415
+00:22:02,955 --> 00:22:06,390
+            Uh! A farmer?
+            Filly, please.
+
+416
+00:22:06,492 --> 00:22:09,393
+        This is a Fedora
+         Felt original!
+
+417
+00:22:10,930 --> 00:22:12,396
+  Look at this bold stitching!
+
+418
+00:22:12,498 --> 00:22:13,931
+     These daring textures!
+
+419
+00:22:14,033 --> 00:22:16,167
+       It's a whole new
+     take on western chic!
+
+420
+00:22:16,369 --> 00:22:19,904
+    There is <i>no way</i> I would
+     wear it in the grove.
+
+421
+00:22:20,406 --> 00:22:23,007
+     We don't know where he
+     got his fashion sense.
+
+422
+00:22:23,109 --> 00:22:25,576
+Far as we know,
+a hat's a hat.
+
+423
+00:22:25,678 --> 00:22:27,278
+                     Except when
+                     it's art.
+
+424
+00:22:27,380 --> 00:22:28,779
+       Thank you, Rarity.
+
+425
+00:22:29,081 --> 00:22:31,649
+                     Rarity? THE
+                     Rarity!?
+
+426
+00:22:31,851 --> 00:22:32,601
+     Mm hm.
+
+427
+00:22:32,702 --> 00:22:35,652
+ You have to stay for lunch. I
+ won't take no for an answer!
+
+428
+00:22:37,823 --> 00:22:40,591
+    Uh.. I... would be delighted!
+
+429
+00:22:41,761 --> 00:22:44,061
+ The recipe for Chancellor
+ Puddinghead's magical pudding
+
+430
+00:22:44,163 --> 00:22:46,897
+    was filed under magical
+     spells, not recipes.
+
+431
+00:22:46,999 --> 00:22:49,099
+      Only took four hours
+      to figure that out.
+
+432
+00:22:49,301 --> 00:22:52,102
+   Let's see. Nutmeg,
+    sugarplums, gingerbread, candy canes...
+
+433
+00:22:52,405 --> 00:22:54,839
+    Warning: to avoid untold
+     culinary devastation,
+
+434
+00:22:54,941 --> 00:22:56,974
+   each ingredient must be
+   measured with exact care.
+
+435
+00:22:57,076 --> 00:22:59,543
+  Ha ha! Book! Have ya met me!?
+
+436
+00:23:01,547 --> 00:23:03,447
+         Happy Hearth's
+          Warming!
+
+437
+00:23:05,418 --> 00:23:06,484
+      But... you're early!
+
+438
+00:23:06,586 --> 00:23:08,486
+     Your scroll said you
+     were coming tomorrow!
+
+439
+00:23:08,988 --> 00:23:11,322
+                The scroll we
+                 sent yesterday..?
+
+440
+00:23:11,424 --> 00:23:13,824
+Yesterday! Right.
+ Welcome!
+
+441
+00:23:15,061 --> 00:23:16,561
+Eh, what are you doing?
+
+442
+00:23:16,763 --> 00:23:20,131
+  Decorations not up, frazzled
+  mane, determined look.
+
+443
+00:23:20,233 --> 00:23:22,233
+     I've seen this before...
+
+444
+00:23:22,435 --> 00:23:25,069
+    What are you obsessing
+    about this time, Twily?
+
+445
+00:23:25,171 --> 00:23:25,904
+ Nothing!
+
+446
+00:23:26,506 --> 00:23:29,674
+       So decorations
+       aren't up because..?
+
+447
+00:23:29,876 --> 00:23:32,009
+       Er. I thought it would
+        be more fun
+
+448
+00:23:32,111 --> 00:23:33,744
+      if we all decorated
+      it together!
+
+449
+00:23:33,846 --> 00:23:37,247
+   Oh! That sounds wonderful. We
+  can start decorating right--
+
+450
+00:23:37,349 --> 00:23:39,049
+       After I finish one
+         quick errand.
+
+451
+00:23:39,151 --> 00:23:41,652
+  Just a few ingredients.
+ Nothing to obsess about here!
+
+452
+00:23:42,054 --> 00:23:44,288
+    Make yourselves at home.
+    Be right back! Promise!
+
+453
+00:23:45,625 --> 00:23:47,691
+       She's definitely freaking
+      out about something.
+
+454
+00:23:47,893 --> 00:23:48,626
+Oh yeah.
+
+455
+00:24:11,517 --> 00:24:14,518
+          By Blitzen's beard! It
+          took ya long enough!
+
+456
+00:24:14,620 --> 00:24:15,420
+            Woah! [slam]
+
+457
+00:24:16,222 --> 00:24:20,991
+   Are you sure you were
+   expecting me? My name is--
+
+458
+00:24:21,093 --> 00:24:24,695
+        Pinkie Pie, I know.
+        Cause I know everything.
+
+459
+00:24:24,797 --> 00:24:26,430
+      Alice: Oh, don't be silly!
+
+460
+00:24:26,532 --> 00:24:28,566
+      You only know what's
+       already happened.
+
+461
+00:24:28,668 --> 00:24:31,035
+     But you don't know
+    what she's about to ask!
+
+462
+00:24:31,237 --> 00:24:32,937
+    Both: What am I about to ask?
+
+463
+00:24:33,539 --> 00:24:35,740
+      How did you know I
+      was gonna say that?
+
+464
+00:24:35,942 --> 00:24:37,908
+       Will you two stop
+        showing off?
+
+465
+00:24:38,010 --> 00:24:40,111
+      She doesn't have all
+      Hearth's Warming!
+
+466
+00:24:40,213 --> 00:24:42,480
+     Who are you reindeer?
+
+467
+00:24:42,782 --> 00:24:43,514
+ Aurora.
+
+468
+00:24:43,616 --> 00:24:44,182
+             Bori!
+
+469
+00:24:44,284 --> 00:24:45,116
+                        Alice!
+
+470
+00:24:45,218 --> 00:24:47,985
+ The gift givers of the grove!
+
+471
+00:24:48,287 --> 00:24:51,755
+ Oooo! And you can help me get
+ Twilight the best gift ever?
+
+472
+00:24:51,957 --> 00:24:52,923
+                  Mmhmm!
+
+473
+00:24:53,025 --> 00:24:57,227
+   What about those matching
+   hats? They were so cute!
+
+474
+00:24:57,330 --> 00:25:00,664
+-Well, that was--
+--Before she had to get just
+  one gift for Twilight.
+
+475
+00:25:00,766 --> 00:25:02,266
+         Try to keep up, Aurora.
+
+476
+00:25:02,468 --> 00:25:05,135
+ I'm gonna get that box Pinkie
+  is gonna say she likes.
+
+477
+00:25:06,806 --> 00:25:09,406
+  Aurora remembers gifts
+  that have already happened.
+
+478
+00:25:09,508 --> 00:25:11,842
+   Alice knows the gifts
+   that are going to happen.
+
+479
+00:25:11,944 --> 00:25:13,878
+  I... just stay in the moment
+
+480
+00:25:13,980 --> 00:25:15,613
+                and keep the two
+                of them in line.
+
+481
+00:25:15,815 --> 00:25:19,917
+      Speaking of. I believe we
+      have a request for a gift?
+
+482
+00:25:21,287 --> 00:25:24,455
+     The best gift is more
+      precious than gold,
+
+483
+00:25:24,557 --> 00:25:26,857
+     but it cannot be sold.
+
+484
+00:25:27,059 --> 00:25:31,429
+When it breaks, it's not ended,
+ for quickly it's mended.
+
+485
+00:25:31,531 --> 00:25:34,632
+    It can never be bought,
+     yet is easily sought.
+
+486
+00:25:35,534 --> 00:25:36,934
+        Ah! Here we go.
+
+487
+00:25:40,539 --> 00:25:43,540
+Oooo. I like that box!
+
+488
+00:25:43,642 --> 00:25:44,475
+                       Told ya!
+
+489
+00:25:47,780 --> 00:25:49,914
+The perfect gift. WOW!
+
+490
+00:25:50,716 --> 00:25:51,649
+I don't get it.
+
+491
+00:25:52,451 --> 00:25:53,651
+                       You will...
+
+492
+00:25:57,356 --> 00:25:59,790
+             We said.. no refunds!
+
+493
+00:26:00,292 --> 00:26:01,292
+   Ahem!
+
+494
+00:26:01,694 --> 00:26:03,360
+                    Oh. <i>You</i>.
+
+495
+00:26:03,462 --> 00:26:05,296
+      What are y'all doin'
+      with these dolls
+
+496
+00:26:05,398 --> 00:26:06,931
+       and that
+       ridiculous getup?
+
+497
+00:26:07,033 --> 00:26:08,666
+        Don't you have a
+        resort to run?
+
+498
+00:26:08,868 --> 00:26:12,803
+  It's off-season. Besides,
+  we're planning an expansion.
+
+499
+00:26:12,905 --> 00:26:15,573
+       And expansions cost bits.
+
+500
+00:26:17,510 --> 00:26:20,978
+       Flim and Flam's
+       Fro Yo Flume ride!
+
+501
+00:26:21,080 --> 00:26:21,964
+        That sounds fu-
+
+502
+00:26:22,065 --> 00:26:25,449
+It ain't no excuse for sellin'
+cheap dolls to ponies.
+
+503
+00:26:25,551 --> 00:26:27,918
+          We're just giving
+          ponies what they want!
+
+504
+00:26:28,120 --> 00:26:31,288
+Shopping for the perfect
+gift is stressful.
+
+505
+00:26:31,390 --> 00:26:32,523
+        Oh, that's true.
+
+506
+00:26:32,925 --> 00:26:35,826
+   You want to get something
+    that really stands out.
+
+507
+00:26:36,127 --> 00:26:36,803
+                 I do!
+
+508
+00:26:37,964 --> 00:26:40,430
+ And when you tell your friend
+ you got them the hottest gift
+
+509
+00:26:40,532 --> 00:26:43,601
+               in Rainbow Falls,
+               what'll they say?
+
+510
+00:26:43,803 --> 00:26:44,969
+            Woo hoo?
+
+511
+00:26:45,671 --> 00:26:50,340
+ "The more you spend,
+  the more your friend knows you love them!"
+
+512
+00:26:52,378 --> 00:26:56,680
+   Oh. Right. They really are
+   good at selling things.
+
+513
+00:26:56,782 --> 00:26:58,282
+      You may not like it.
+
+514
+00:26:58,384 --> 00:27:02,352
+But technically, we're
+not doing anything wrong.
+
+515
+00:27:02,454 --> 00:27:05,055
+            Ponies are desperate
+            for the right gift.
+
+516
+00:27:05,157 --> 00:27:08,392
+         And who are you to tell
+         them this isn't it?
+
+517
+00:27:08,894 --> 00:27:11,962
+       If ponies get tired of
+       Holly after a few days...
+
+518
+00:27:12,564 --> 00:27:15,899
+...or she falls apart,
+who really got hurt?
+
+519
+00:27:16,001 --> 00:27:17,868
+            Nopony!
+
+520
+00:27:18,070 --> 00:27:20,438
+          Don't let the curtain
+          hit ya on the way out.
+
+521
+00:27:20,740 --> 00:27:23,507
+Of course Rainbow Dash
+wouldn't want this.
+
+522
+00:27:23,609 --> 00:27:26,376
+I'm so mad I
+could just kick...
+
+523
+00:27:28,214 --> 00:27:30,147
+               Convincin' ponies
+               to buy that doll
+
+524
+00:27:30,249 --> 00:27:32,082
+                 ain't in the
+                 holiday spirit.
+
+525
+00:27:32,184 --> 00:27:33,951
+But Flim and Flam
+have a point.
+
+526
+00:27:34,053 --> 00:27:36,353
+We can't tell
+ponies what to buy.
+
+527
+00:27:40,960 --> 00:27:43,493
+                But maybe we
+                can show 'em!
+
+528
+00:27:50,302 --> 00:27:52,803
+                Could you TRY to
+                make less noise?
+
+529
+00:27:54,874 --> 00:27:55,806
+           Of course!
+
+530
+00:27:57,777 --> 00:28:01,645
+     Move silently;
+    blend into the shadows.
+
+531
+00:28:01,747 --> 00:28:04,215
+    The winterchilla will
+     never hear us coming.
+
+532
+00:28:04,417 --> 00:28:06,584
+        Winter...chilla?
+
+533
+00:28:06,686 --> 00:28:09,153
+                Small, adorable,
+               fuzzy and fast.
+
+534
+00:28:09,255 --> 00:28:11,955
+  But they're so rare, there's
+  no telling where they...
+
+535
+00:28:12,057 --> 00:28:13,623
+        Oh, there's one
+        right there!
+
+536
+00:28:15,461 --> 00:28:17,227
+                Now, if you're
+                going to get it,
+
+537
+00:28:17,429 --> 00:28:19,363
+               I think the first
+               move is to be--
+
+538
+00:28:20,299 --> 00:28:21,465
+    Be super-fast?
+
+539
+00:28:24,536 --> 00:28:27,939
+   Making a gift is way more
+   personal than buying it.
+
+540
+00:28:29,141 --> 00:28:31,641
+    Rarity loves things that
+     take time and effort.
+
+541
+00:28:33,445 --> 00:28:35,646
+    I'm sure this one will
+     be the one that works.
+
+542
+00:28:36,983 --> 00:28:40,518
+       [yawn] I just... need to
+      stay focused and...
+
+543
+00:28:45,591 --> 00:28:50,529
+  Have a wonderful holiday and
+  remember, no refunds! Next?
+
+544
+00:28:51,631 --> 00:28:53,897
+  And what are YOU doing here?
+
+545
+00:28:53,999 --> 00:28:55,933
+Same as everypony else!
+
+546
+00:28:56,835 --> 00:29:01,105
+I want a hearthwarmer!
+In fact, I want three!
+
+547
+00:29:01,507 --> 00:29:02,292
+                    Seriously?
+
+548
+00:29:02,593 --> 00:29:07,478
+After I saw my friend here with
+hers, I knew I had to buy some!
+
+549
+00:29:07,580 --> 00:29:11,915
+   For my granny, my brother
+  AND my little sister!
+
+550
+00:29:12,017 --> 00:29:13,551
+ Yeah yeah, great story. Next!
+
+551
+00:29:13,753 --> 00:29:18,822
+ But Applejack! Your granny,
+ your brother and your sister.
+
+552
+00:29:18,924 --> 00:29:21,325
+   They are all so different!
+
+553
+00:29:21,727 --> 00:29:27,030
+  How can the same doll be the
+  right gift for all of them?
+
+554
+00:29:27,132 --> 00:29:29,467
+ Oh. Well, that might be true.
+
+555
+00:29:29,769 --> 00:29:35,105
+But Fluttershy, this is THE
+ must-have gift of the season.
+
+556
+00:29:35,207 --> 00:29:37,941
+      Just because it's
+     must-have for one pony
+
+557
+00:29:38,143 --> 00:29:42,613
+  doesn't mean it's must-have
+   for <i>everypony</i>. Does it?
+
+558
+00:29:42,815 --> 00:29:44,848
+   That's true!
+
+559
+00:29:44,950 --> 00:29:47,117
+I guess I need to
+put more thought
+
+560
+00:29:47,219 --> 00:29:50,354
+into gettin' the right
+gift for each pony.
+
+561
+00:29:50,456 --> 00:29:51,922
+Can I return these?
+
+562
+00:29:52,024 --> 00:29:53,390
+                  No refunds!
+
+563
+00:29:57,162 --> 00:29:59,229
+          Oh. Uh...you want 'em?
+
+564
+00:29:59,331 --> 00:30:02,132
+  I'm gonna go pick out gifts
+  that are just as special
+
+565
+00:30:02,234 --> 00:30:04,334
+   as the ponies they're for.
+
+566
+00:30:04,636 --> 00:30:07,705
+I... think I'm going to go
+do some more shopping too.
+
+567
+00:30:09,007 --> 00:30:10,440
+     Now hang on a moment!
+
+568
+00:30:10,542 --> 00:30:12,342
+        Wait! Come back!
+
+569
+00:30:12,444 --> 00:30:14,311
+                  We'll give you
+                  a great deal!
+
+570
+00:30:14,413 --> 00:30:16,680
+     Buy one get one free!?
+
+571
+00:30:18,650 --> 00:30:22,319
+      Ah. The sweet sounds
+      of the season.
+
+572
+00:30:27,693 --> 00:30:29,760
+ It's a shame you gotta leave.
+
+573
+00:30:29,862 --> 00:30:32,529
+    Oh, you've been so generous,
+    but I must get home
+
+574
+00:30:32,631 --> 00:30:34,531
+   for a previous engagement.
+
+575
+00:30:34,633 --> 00:30:37,968
+    I'll be keeping an
+     eye on you, Pistachio.
+
+576
+00:30:38,070 --> 00:30:41,438
+   I've a feeling you've got
+  quite the future in fashion!
+
+577
+00:30:45,277 --> 00:30:49,312
+       Rarity! Rarity! I
+       love my parents,
+
+578
+00:30:49,414 --> 00:30:52,115
+   but.. they don't understand
+   that we just had lunch
+
+579
+00:30:52,217 --> 00:30:55,285
+  with one of the most famous
+    ponies in Equestria.
+
+580
+00:30:55,387 --> 00:30:58,355
+Oh.. I don't know about
+"most famous".
+
+581
+00:30:58,457 --> 00:30:59,456
+Ha ha!
+
+582
+00:30:59,758 --> 00:31:02,426
+          I know you didn't send
+          a Fedora Felt original
+
+583
+00:31:02,528 --> 00:31:06,564
+  to some nopony you've never
+  met from nowhere, Equestria.
+
+584
+00:31:07,766 --> 00:31:10,567
+       I'm sure this is actually
+       for somepony special
+
+585
+00:31:10,669 --> 00:31:13,803
+               so.. if you want it
+               back, I get it.
+
+586
+00:31:15,808 --> 00:31:18,575
+The hat is indeed for
+somepony very special.
+
+587
+00:31:20,345 --> 00:31:23,580
+And I couldn't bear to
+see <i>him</i> part with it.
+
+588
+00:31:23,682 --> 00:31:29,019
+ [gasp] Oh, thank Celestia, because I
+ did not want to give this up! Heh.
+
+589
+00:31:29,221 --> 00:31:32,355
+But if I hear you call
+yourself a nopony again,
+
+590
+00:31:32,457 --> 00:31:36,060
+you shan't be my guest for
+fashion week in Manehattan.
+
+591
+00:31:41,867 --> 00:31:43,333
+       Sorry, Applejack...
+
+592
+00:31:49,208 --> 00:31:50,707
+       Puttin' those two
+        in their places
+
+593
+00:31:50,809 --> 00:31:53,343
+       makes me all warm
+       and fuzzy inside.
+
+594
+00:31:53,645 --> 00:31:57,080
+  Ooh. But we never got gifts
+  for Spike or Rainbow Dash.
+
+595
+00:31:57,182 --> 00:31:59,150
+           And it's already
+           Hearth's Warming Eve.
+
+596
+00:31:59,852 --> 00:32:01,718
+It probably ain't what
+they're expectin',
+
+597
+00:32:01,820 --> 00:32:03,920
+but.. we still got these.
+
+598
+00:32:04,222 --> 00:32:05,022
+       Yay?
+
+599
+00:32:05,324 --> 00:32:06,390
+                  Don't do that.
+
+600
+00:32:08,928 --> 00:32:10,961
+Flurry loved sledding!
+
+601
+00:32:11,263 --> 00:32:13,530
+Too bad her <i>aunt</i>
+wasn't there.
+
+602
+00:32:17,236 --> 00:32:18,569
+             Oooh!
+
+603
+00:32:18,871 --> 00:32:22,105
+       There! Ingredients
+       measured exactly!
+
+604
+00:32:22,207 --> 00:32:23,307
+   Now, what were you saying?
+
+605
+00:32:24,009 --> 00:32:26,109
+       Hi! Remember us?
+      We came all the way
+
+606
+00:32:26,211 --> 00:32:30,614
+  from the Crystal Empire for
+  some quality family time?
+
+607
+00:32:31,016 --> 00:32:32,983
+        OK. I did get a
+        little stressed
+
+608
+00:32:33,085 --> 00:32:34,584
+      about Hearth's
+       Warming this year.
+
+609
+00:32:36,922 --> 00:32:38,956
+       What? You? Never!
+
+610
+00:32:39,158 --> 00:32:40,323
+     So my friends decided
+
+611
+00:32:40,425 --> 00:32:42,092
+     we should do a
+    Hearth's Warming helper
+
+612
+00:32:42,194 --> 00:32:44,695
+     and give one pony a
+     present to save time!
+
+613
+00:32:47,899 --> 00:32:48,666
+             What?
+
+614
+00:32:49,568 --> 00:32:52,736
+Let me guess. You got super
+worried about making sure
+
+615
+00:32:52,838 --> 00:32:56,139
+the present was perfect
+and went all Twily-nanas,
+
+616
+00:32:56,241 --> 00:32:57,040
+didn't you?
+
+617
+00:32:57,142 --> 00:32:59,176
+           I wasn't Twily-nanas!
+
+618
+00:32:59,578 --> 00:33:01,812
+               OK fine. A little
+               Twily-nanas.
+
+619
+00:33:02,214 --> 00:33:04,581
+Twilight, we know
+you get overwhelmed.
+
+620
+00:33:04,683 --> 00:33:07,717
+You should have just told
+us! We could've helped!
+
+621
+00:33:07,919 --> 00:33:11,021
+      The good news is, Pinkie's
+      present is almost done!
+
+622
+00:33:11,323 --> 00:33:13,156
+       Then it's just
+       friends and family
+
+623
+00:33:13,258 --> 00:33:15,859
+     and a calm quiet
+     Hearth's Warming Eve!
+
+624
+00:33:23,635 --> 00:33:29,506
+ Good-bye. Enjoy your exclusive
+ pony-only holiday gathering!
+
+625
+00:33:29,608 --> 00:33:36,079
+   I'll just be home spending
+   quality time with.. myself.
+
+626
+00:33:39,995 --> 00:33:40,895
+          Ugh..
+
+627
+00:33:41,520 --> 00:33:44,688
+  I wouldn't have this little
+   fella without you so...
+
+628
+00:33:44,990 --> 00:33:49,726
+ If you wanna join, Fluttershy
+ would love having you.
+
+629
+00:33:49,828 --> 00:33:52,729
+And.. I wouldn't totally hate it...
+
+630
+00:33:53,031 --> 00:33:56,165
+     Great! Awesome! In
+     that case... Oh, look!
+
+631
+00:33:56,267 --> 00:34:00,036
+    Sunset! It's officially
+     Hearth's Warming Eve!
+
+632
+00:34:03,442 --> 00:34:04,674
+               What is it doing!?
+
+633
+00:34:10,148 --> 00:34:13,350
+   Oh uh, did I forget to
+ mention that the winterchilla
+
+634
+00:34:13,452 --> 00:34:16,954
+ transforms into a winterzilla
+  when the sun sets?
+
+635
+00:34:20,959 --> 00:34:22,892
+             How did everypony's
+             shopping go?
+
+636
+00:34:22,994 --> 00:34:26,128
+-Well..
+   -Um..
+            -Yeah....
+
+637
+00:34:28,133 --> 00:34:29,132
+         Spike: Coming!
+
+638
+00:34:30,234 --> 00:34:31,001
+             Ha ha...
+
+639
+00:34:31,503 --> 00:34:33,704
+Did you get attacked
+by a party?
+
+640
+00:34:34,806 --> 00:34:38,174
+     I fell asleep. On
+      somepony's present.
+
+641
+00:34:39,611 --> 00:34:44,814
+  RUN! The pudding is coming!
+
+642
+00:34:46,752 --> 00:34:50,453
+Run! The winterzilla
+is coming!
+
+643
+00:35:04,203 --> 00:35:05,936
+       What IS that!?
+
+644
+00:35:06,138 --> 00:35:08,306
+  Magic pudding! What is THAT!?
+
+645
+00:35:09,308 --> 00:35:10,841
+        A winterchilla!
+
+646
+00:35:11,043 --> 00:35:13,910
+     They turn into
+    winterZILLAS after dark!
+
+647
+00:35:14,012 --> 00:35:16,746
+Does everypony know
+this except me!?
+
+648
+00:35:19,795 --> 00:35:20,495
+            Ah!
+
+649
+00:35:21,820 --> 00:35:23,453
+     You like the sparkly?
+
+650
+00:35:25,457 --> 00:35:27,624
+    Just follow it this way!
+
+651
+00:35:30,796 --> 00:35:33,663
+   Is this HONESTLY the best
+   plan we can come up with!?
+
+652
+00:35:35,367 --> 00:35:36,900
+Can't you do something!?
+
+653
+00:35:37,002 --> 00:35:40,370
+              I did! This is
+              Fluttershy's gift!
+
+654
+00:35:40,472 --> 00:35:41,238
+             What!?
+
+655
+00:35:43,342 --> 00:35:45,609
+     A LITTLE HELP, PLEASE!
+
+656
+00:35:45,911 --> 00:35:47,277
+         I've got this!
+
+657
+00:35:47,479 --> 00:35:49,646
+Which one of us
+can fly, darling?
+
+658
+00:35:51,761 --> 00:35:52,561
+             Wah!
+
+659
+00:35:54,086 --> 00:35:55,985
+Your mom sure
+is something...
+
+660
+00:36:00,158 --> 00:36:02,091
+                   You're not so
+                   bad yourself...
+
+661
+00:36:11,670 --> 00:36:14,003
+No, no, no! Not that
+sparkly. This one!
+
+662
+00:36:15,741 --> 00:36:19,109
+Uh, I'm OK if he doesn't
+want to chase me anymore.
+
+663
+00:36:19,211 --> 00:36:21,145
+        How we gonna get
+       rid of this thing?
+
+664
+00:36:21,747 --> 00:36:24,247
+    Oh, for Scorpan's sake.
+
+665
+00:36:24,449 --> 00:36:29,819
+   Hello! If only one of you
+    had a way with animals?
+
+666
+00:36:30,121 --> 00:36:30,921
+            Oh, my.
+
+667
+00:36:31,923 --> 00:36:34,123
+Uh. Ahem. Excuse me.
+
+668
+00:36:37,596 --> 00:36:40,096
+   This is supposed to be the
+   happiest time of year!
+
+669
+00:36:40,198 --> 00:36:41,998
+     So if this is how
+     you plan on behaving,
+
+670
+00:36:42,100 --> 00:36:45,569
+  you can march yourself right
+  back to where you came from!
+
+671
+00:36:50,776 --> 00:36:55,345
+Oh. Your family is gone for the
+holidays and you're all alone?
+
+672
+00:36:55,847 --> 00:37:00,717
+I'm so sorry. If you calm down,
+I'm sure you could join us.
+
+673
+00:37:02,988 --> 00:37:03,853
+                    Ah!
+
+674
+00:37:08,827 --> 00:37:12,061
+   Uh, maybe leave the baking
+   to me next time? Heh heh.
+
+675
+00:37:13,632 --> 00:37:15,699
+  Actually, it's pretty good!
+
+676
+00:37:16,601 --> 00:37:19,002
+Chancellor
+Puddinghead's recipe.
+
+677
+00:37:19,104 --> 00:37:21,604
+       Now that's an
+      impressive dessert!
+
+678
+00:37:21,706 --> 00:37:23,873
+It's your Hearth's
+Warming present!
+
+679
+00:37:24,075 --> 00:37:26,710
+                Really? That's
+                so thoughtful!
+
+680
+00:37:26,812 --> 00:37:29,245
+      It took a lot of
+       research, but I--
+
+681
+00:37:30,682 --> 00:37:33,683
+Maybe focus on the
+task at hoof, Twily?
+
+682
+00:37:35,720 --> 00:37:38,355
+     Right! The recipe
+      needed to be exact.
+
+683
+00:37:38,457 --> 00:37:39,856
+      I think Flurry Heart
+      added something
+
+684
+00:37:39,958 --> 00:37:41,491
+    while I wasn't looking,
+   but I have no idea
+
+685
+00:37:41,593 --> 00:37:43,893
+what to add to adjust it.
+A teaspoon of nutmeg?
+
+686
+00:37:43,995 --> 00:37:45,128
+Three sugarplums? Extra-
+
+687
+00:37:45,230 --> 00:37:47,364
+       gingerbread? Four
+       more candy canes?
+
+688
+00:37:47,466 --> 00:37:49,098
+How do YOU know
+the recipe?
+
+689
+00:37:50,569 --> 00:37:51,568
+I don't get it.
+
+690
+00:37:51,770 --> 00:37:52,969
+                       You will.
+
+691
+00:37:55,306 --> 00:37:57,274
+    Happy Hearth's Warming,
+     Twilight!
+
+692
+00:37:57,376 --> 00:38:00,042
+   I'm your Hearth's-Warming
+    helper!
+
+693
+00:38:16,428 --> 00:38:18,995
+      A bit reindeer-
+       ex-machina, but...
+
+694
+00:38:19,297 --> 00:38:22,532
+   Two thumbs way up. Whoooo!
+
+695
+00:38:27,706 --> 00:38:30,774
+Sorry for failing as a
+Hearth's Warming helper, Pinkie.
+
+696
+00:38:31,076 --> 00:38:33,109
+              What!? With no
+               pudding disaster,
+
+697
+00:38:33,211 --> 00:38:35,178
+               my gift with the
+               exact ingredients
+
+698
+00:38:35,280 --> 00:38:38,381
+ wouldn't have made any sense!
+  This way it was perfect!
+
+699
+00:38:40,652 --> 00:38:42,519
+    At least Twilight
+     has something to show
+
+700
+00:38:42,621 --> 00:38:43,753
+        for her effort.
+
+701
+00:38:43,855 --> 00:38:46,789
+    I ordered you a fabulous
+    farm hat, Applejack.
+
+702
+00:38:46,891 --> 00:38:51,061
+  Alas, <i>it</i> decided it
+   belonged to somepony else.
+
+703
+00:38:51,963 --> 00:38:54,831
+     Pop said sometimes the
+     hat chooses the pony
+
+704
+00:38:54,933 --> 00:38:56,032
+     when he gave me this.
+
+705
+00:38:56,234 --> 00:38:58,535
+   Hopefully my gift inspired
+   whoever's wearin' it
+
+706
+00:38:58,637 --> 00:39:00,537
+  to be the best farmer ever.
+
+707
+00:39:00,639 --> 00:39:03,539
+    Ah. Ooo. Something like that.
+
+708
+00:39:04,809 --> 00:39:07,477
+       We're really sorry
+       about your gifts.
+
+709
+00:39:08,179 --> 00:39:11,981
+We got a bit distracted with
+Flim and Flam's shenanigans.
+
+710
+00:39:13,318 --> 00:39:16,953
+    "Commercialism is the
+     greatest gift of all."
+
+711
+00:39:18,923 --> 00:39:22,825
+  They're better than my gift.
+  [groan] Sorry about the winterzilla.
+
+712
+00:39:22,927 --> 00:39:25,962
+Oh, he's a big
+sweetheart.
+
+713
+00:39:26,064 --> 00:39:28,565
+And he ended up
+being really helpful!
+
+714
+00:39:33,104 --> 00:39:35,238
+      It was actually kind
+     of nice to be the pony
+
+715
+00:39:35,340 --> 00:39:37,006
+  who saved the day for once.
+
+716
+00:39:37,108 --> 00:39:39,909
+        Oh really? You
+       mean a giant beast
+
+717
+00:39:40,011 --> 00:39:41,644
+      that only Fluttershy
+       could tame,
+
+718
+00:39:41,746 --> 00:39:44,481
+     making her the hero of
+      Hearth's Warming Eve
+
+719
+00:39:44,683 --> 00:39:46,082
+       was a great gift?
+
+720
+00:39:49,955 --> 00:39:51,854
+                   Imagine that...
+
+721
+00:39:54,593 --> 00:39:57,494
+  You mean you tricked me into
+  putting my friend in danger
+
+722
+00:39:57,596 --> 00:39:58,695
+      on purpose so you...
+
+723
+00:40:01,800 --> 00:40:04,767
+           Let's just say it
+            was from.. both of us.
+
+724
+00:40:05,904 --> 00:40:09,338
+I guess Hearth's Warmin' helper
+ was kind of a disaster.
+
+725
+00:40:09,440 --> 00:40:13,176
+I don't know. Ponyville
+always seems to have way more
+
+726
+00:40:13,278 --> 00:40:15,745
+exciting holidays than
+the Crystal Empire.
+
+727
+00:40:16,347 --> 00:40:20,083
+     There's one gift left.
+      But.. I messed up too.
+
+728
+00:40:21,653 --> 00:40:24,354
+    Your present's only
+    kinda finished, Rarity.
+
+729
+00:40:24,556 --> 00:40:26,690
+       But I guess it's
+      better than nothing.
+
+730
+00:40:27,892 --> 00:40:33,830
+     <i> ♪ I wanted to get you</i>
+    <i> something oh so rare. ♪</i>
+
+731
+00:40:34,932 --> 00:40:37,634
+   <i> ♪ A gift to show I care ♪</i>
+
+732
+00:40:37,736 --> 00:40:40,637
+  <i> ♪ but nothing can compare ♪</i>
+
+733
+00:40:40,939 --> 00:40:43,873
+<i> ♪ to you that's easy to see. ♪</i>
+
+734
+00:40:43,975 --> 00:40:44,874
+    <i> ♪ But I got stressed ♪</i>
+
+735
+00:40:44,976 --> 00:40:45,842
+      <i> ♪ and overthought ♪</i>
+
+736
+00:40:46,044 --> 00:40:47,777
+  <i> ♪ until the day was shot ♪</i>
+
+737
+00:40:47,879 --> 00:40:49,779
+<i> ♪ and it was all for naught. ♪</i>
+
+738
+00:40:49,981 --> 00:40:53,948
+ <i> ♪ But now it's clear to me ♪</i>
+
+739
+00:40:54,052 --> 00:40:56,085
+ <i> ♪ I'm not gifted at gifting ♪</i>
+
+740
+00:40:56,187 --> 00:40:57,887
+  <i> ♪ It's really pretty sad ♪</i>
+
+741
+00:40:57,989 --> 00:40:59,355
+  <i> ♪ I tried to show I care ♪</i>
+
+742
+00:40:59,457 --> 00:41:01,124
+   <i> ♪ But it turned out bad ♪</i>
+
+743
+00:41:01,226 --> 00:41:03,126
+ <i> ♪ I'm not gifted at gifting ♪</i>
+
+744
+00:41:03,228 --> 00:41:04,927
+ <i> ♪ So all that's left to say ♪</i>
+
+745
+00:41:05,529 --> 00:41:09,931
+      <i> ♪ Is that I really</i>
+      <i> hope my gifting ♪</i>
+
+746
+00:41:10,869 --> 00:41:14,270
+ <i> ♪ Didn't ruin your holiday. ♪</i>
+
+747
+00:41:14,372 --> 00:41:18,274
+Oh, Spike. A song
+is a lovely present!
+
+748
+00:41:18,376 --> 00:41:20,810
+I wanted to get you
+the best gift ever.
+
+749
+00:41:21,112 --> 00:41:23,579
+     I just couldn't figure
+     out what it was..
+
+750
+00:41:24,049 --> 00:41:29,218
+ Ooo! Ooo! The gift givers told
+ me that! Um. What was it..
+
+751
+00:41:29,420 --> 00:41:31,488
+     The best gift is more
+      precious than gold
+
+752
+00:41:31,590 --> 00:41:32,673
+     but it cannot be sold.
+
+753
+00:41:32,774 --> 00:41:35,257
+ When it breaks, it's not ended
+  for quickly it's mended
+
+754
+00:41:35,360 --> 00:41:38,094
+     it can never be bought
+     yet is easily sought.
+
+755
+00:41:39,130 --> 00:41:40,063
+                What's so funny?
+
+756
+00:41:40,365 --> 00:41:44,100
+It's a riddle. And the
+answer is, friendship!
+
+757
+00:41:45,103 --> 00:41:50,874
+    <i> ♪ The most magical gift</i>
+    <i> That I can recall ♪</i>
+
+758
+00:41:52,610 --> 00:41:58,247
+ <i> ♪ It could have been big or</i>
+<i> small. Or even nothing at all ♪</i>
+
+759
+00:41:58,449 --> 00:42:03,252
+  <i> ♪ It doesn't matter you see</i>
+   <i> If it's from my friends ♪</i>
+
+760
+00:42:03,354 --> 00:42:07,624
+ <i> ♪ On whom I depend</i>
+  <i> no matter what you spend ♪</i>
+
+761
+00:42:07,826 --> 00:42:11,461
+ <i> ♪ it will be perfect to me. ♪</i>
+
+762
+00:42:12,063 --> 00:42:15,498
+  <i>♪ The true gift of gifting </i>
+  <i>  is what it means inside ♪</i>
+
+763
+00:42:15,800 --> 00:42:19,102
+<i> ♪ we can show we care</i>
+ <i> spreading love far and wide ♪</i>
+
+764
+00:42:19,304 --> 00:42:22,805
+  <i> ♪ the true gift of gifting</i>
+  <i> is totally free ♪</i>
+
+765
+00:42:23,207 --> 00:42:28,076
+     <i> ♪ and you're the best</i>
+    <i> there is at giving it ♪</i>
+
+766
+00:42:28,513 --> 00:42:32,147
+    <i> ♪ with the friendship</i>
+    <i> that you give to me. ♪</i>
+
+767
+00:42:34,786 --> 00:42:37,387
+       <i> ♪ We've all been</i>
+       <i> friends forever ♪</i>
+
+768
+00:42:37,489 --> 00:42:39,924
+      <i> ♪ And look how far</i>
+        <i> we've come, ♪</i>
+
+769
+00:42:40,048 --> 00:42:41,725
+     <i> ♪ how far</i>
+        <i> we've come, ♪</i>
+
+770
+00:42:41,826 --> 00:42:47,163
+<i> ♪ the holiday brings us</i>
+<i> closer now its time for fun. ♪</i>
+
+771
+00:42:47,265 --> 00:42:48,701
+      <i> ♪ It's now begun. ♪</i>
+
+772
+00:42:48,802 --> 00:42:54,138
+ <i> ♪ The greatest gift you</i>
+ <i> give to me is more</i>
+ <i> precious than gold. ♪</i>
+
+773
+00:42:54,262 --> 00:42:55,739
+      <i> ♪ Ahh-ahh-ahh! ♪ </i>
+
+774
+00:42:55,840 --> 00:42:58,541
+      <i> ♪ Never-ending and</i>
+       <i> always mended ♪</i>
+
+775
+00:42:58,643 --> 00:43:01,444
+       <i> ♪ and it can't be</i>
+       <i> bought or sold! ♪</i>
+
+776
+00:43:01,546 --> 00:43:05,114
+  <i> ♪ The true gift of gifting</i>
+  <i> is what it means inside, ♪</i>
+
+777
+00:43:05,216 --> 00:43:08,584
+<i> ♪ We can show we care</i>
+<i> spreading love far and wide. ♪</i>
+
+778
+00:43:08,686 --> 00:43:12,321
+  <i> ♪ The true gift of</i>
+  <i> gifting is totally free! ♪</i>
+
+779
+00:43:12,523 --> 00:43:17,758
+     <i> ♪ And you're the best</i>
+    <i> there is at giving it ♪</i>
+
+780
+00:43:17,996 --> 00:43:22,797
+    <i> ♪ with the friendship</i>
+    <i> that you gift to me! ♪</i>
+
+781
+00:43:22,901 --> 00:43:24,601
+     And so it worked out!
+
+782
+00:43:24,703 --> 00:43:25,968
+    And a lesson was learned
+
+783
+00:43:26,170 --> 00:43:27,770
+   there's no need to obsess.
+
+784
+00:43:27,872 --> 00:43:29,238
+     Gift giving is simple
+
+785
+00:43:29,340 --> 00:43:31,274
+     as long as you recall....
+
+786
+00:43:31,776 --> 00:43:35,378
+       Friendship is the
+       best gift of all!
+
