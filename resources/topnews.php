@@ -1,1 +1,0 @@
-<div id="msg"><strong>NEW TEMPORARY CAPTURES (In French) OF S8E17/E18/E19/E20/E21 / Nouvelles Capture temporaire (en Francais) des episodes S8E 17/18/19/20/21 >> <a href="/temp.html">HERE/ICI</a> << </strong></div>

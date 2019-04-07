@@ -89,7 +89,7 @@
                         <tr>
                             <td> I want to download: </td>
                             <td>
-                                <select size="9" name="DownloadSeason" onchange="javascript:dynamicList();">
+                                <select size="10" name="DownloadSeason" onchange="javascript:dynamicList();">
                                     <option value="1">Season 1</option>
                                     <option value="2">Season 2</option>
                                     <option value="3">Season 3</option>
@@ -97,7 +97,8 @@
                                     <option value="5">Season 5</option>
                                     <option value="6">Season 6</option>
 									<option value="7">Season 7</option>
-									<option value="8" selected>Season 8</option>
+									<option value="8">Season 8</option>
+									<option value="9" selected>Season 9</option>
 
                                 </select>
                             </td>
@@ -205,6 +206,10 @@
                         <td> <a href="/permalink.php?link=videos/tables/1z8">1z8</a> </td>
                         <td> Season 8 (1080p) </td>
                     </tr>
+						<tr>
+                        <td> <a href="/permalink.php?link=videos/tables/1z9">1z9</a> </td>
+                        <td> Season 9 (1080p) </td>
+                    </tr>
                     <tr>
                         <td> <a href="/permalink.php?link=videos/tables/7z1">7z1</a> </td>
                         <td> Season 1 (720p) </td>
@@ -237,7 +242,12 @@
                         <td> <a href="/permalink.php?link=videos/tables/7z8">7z8</a> </td>
                         <td> Season 8 (720p) </td>
                     </tr>
-
+					<tr>
+                        <td> <a href="/permalink.php?link=videos/tables/7z9">7z9</a> </td>
+                        <td> Season 9 (720p) </td>
+                    </tr>
+					
+					
                     <tr> <th colspan="2"> iTunes US Raw </th> </tr>
                     <tr>
                         <td> <a href="/permalink.php?link=videos/tables/1i1">1i1</a> </td>
@@ -272,6 +282,10 @@
                         <td> Season 8 (1080p) </td>
                     </tr>
 					<tr>
+                        <td> <a href="/permalink.php?link=videos/tables/1i9">1i9</a> </td>
+                        <td> Season 9 (1080p) </td>
+                    </tr>
+					<tr>
                         <td> <a href="/permalink.php?link=videos/tables/7i1">7i1</a> </td>
                         <td> Season 1 (720p) </td>
                     </tr>
@@ -303,6 +317,10 @@
                         <td> <a href="/permalink.php?link=videos/tables/7i8">7i8</a> </td>
                         <td> Season 8 (720p) </td>
                     </tr>
+					<tr>
+                        <td> <a href="/permalink.php?link=videos/tables/7i9">7i9</a> </td>
+                        <td> Season 9 (720p) </td>
+                    </tr>
 
                     <tr> <th colspan="2"> Scootaloo Remastered x264 </th> </tr>
                     <tr>
@@ -333,6 +351,14 @@
                         <td> <a href="/permalink.php?link=videos/tables/1s7">1s7</a> </td>
                         <td> Season 7 (1080p) </td>
                     </tr>
+					<tr>
+                        <td> <a href="/permalink.php?link=videos/tables/1s8">1s8</a> </td>
+                        <td> Season 8 (1080p) </td>
+                    </tr>
+					<tr>
+                        <td> <a href="/permalink.php?link=videos/tables/1s9">1s9</a> </td>
+                        <td> Season 9 (1080p) </td>
+                    </tr>
 
                     <tr> <th colspan="2"> Scootaloo Definitive HEVC </th> </tr>
                     <tr>
@@ -362,6 +388,14 @@
                     <tr>
                         <td> <a href="/permalink.php?link=videos/tables/1sc7">1sc7</a> </td>
                         <td> Season 7 (1080p) </td>
+                    </tr>
+					<tr>
+                        <td> <a href="/permalink.php?link=videos/tables/1sc8">1sc8</a> </td>
+                        <td> Season 8 (1080p) </td>
+                    </tr>
+					<tr>
+                        <td> <a href="/permalink.php?link=videos/tables/1sc9">1sc9</a> </td>
+                        <td> Season 9 (1080p) </td>
                     </tr>
 
                     <tr> <th colspan="2"> TVRips by MENTOS/Spazz </th> </tr>
