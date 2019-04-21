@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/7it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Apr 2019 08:09:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2019 08:35:01 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 09x04 - Twilight's Seven | 720p.WEB-DL | YP-7R-09x04.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-7R-09x04.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Twilight's Seven; Season: 9; Episode: 04</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-7R-09x04.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-7R-09x04.mkv.torrent" length="58737" type="application/x-bittorrent"/>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-7R-09x04.mkv.torrent</torrent:filename>
+      <torrent:contentlength>753271643</torrent:contentlength>
+      <torrent:infohash>BF57DBE30BFB8F447EB45F272D0E5FBEB8270A9C</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:BF57DBE30BFB8F447EB45F272D0E5FBEB8270A9C</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 09x03 - Uprooted | 720p.WEB-DL | YP-7R-09x03.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-7R-09x03.mkv.torrent</link>
