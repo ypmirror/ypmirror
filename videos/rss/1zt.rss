@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/1zt.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 May 2019 22:58:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2019 11:22:34 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 09x07 - She's All Yak | 1080p.WEB-DL CC | YP-1Z-09x07.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1Z-09x07.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: She's All Yak; Season: 9; Episode: 07</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1Z-09x07.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1Z-09x07.mkv.torrent" length="68042" type="application/x-bittorrent"/>
+      <pubDate>Sat, 11 May 2019 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1Z-09x07.mkv.torrent</torrent:filename>
+      <torrent:contentlength>875050780</torrent:contentlength>
+      <torrent:infohash>E2173C5C896F65851E71B946B2F35AB566F67A0A</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:E2173C5C896F65851E71B946B2F35AB566F67A0A</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 09x06 - Common Ground | 1080p.WEB-DL CC | YP-1Z-09x06.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-1Z-09x06.mkv.torrent</link>
