@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/7it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 May 2019 11:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2019 09:09:19 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 09x09 - Sweet and Smoky | 720p.WEB-DL | YP-7R-09x09.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-7R-09x09.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Sweet and Smoky; Season: 9; Episode: 09</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-7R-09x09.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-7R-09x09.mkv.torrent" length="58757" type="application/x-bittorrent"/>
+      <pubDate>Sat, 25 May 2019 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-7R-09x09.mkv.torrent</torrent:filename>
+      <torrent:contentlength>753577261</torrent:contentlength>
+      <torrent:infohash>D6DED53038C5970A33D610AACD1F63856E215B7B</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:D6DED53038C5970A33D610AACD1F63856E215B7B</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 09x08 - Frenemies | 720p.WEB-DL | YP-7R-09x08.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-7R-09x08.mkv.torrent</link>
