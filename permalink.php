@@ -78,15 +78,15 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = videos/tables/7i9" -->iTunes US Season 9 (720p)
 
 
-<!--#elif expr="$link = videos/tables/1sc1" -->Scootaloo Definitive (x265/HEVC) Season 1 (1080p)
-<!--#elif expr="$link = videos/tables/1sc2" -->Scootaloo Definitive (x265/HEVC) Season 1 (1080p)
-<!--#elif expr="$link = videos/tables/1sc3" -->Scootaloo Definitive (x265/HEVC) Season 3 (1080p)
-<!--#elif expr="$link = videos/tables/1sc4" -->Scootaloo Definitive (x265/HEVC) Season 4 (1080p)
-<!--#elif expr="$link = videos/tables/1sc5" -->Scootaloo Definitive (x265/HEVC) Season 5 (1080p)
-<!--#elif expr="$link = videos/tables/1sc6" -->Scootaloo Definitive (x265/HEVC) Season 6 (1080p)
-<!--#elif expr="$link = videos/tables/1sc7" -->Scootaloo Definitive (x265/HEVC) Season 7 (1080p)
-<!--#elif expr="$link = videos/tables/1sc8" -->Scootaloo Definitive (x265/HEVC) Season 8 (1080p)
-<!--#elif expr="$link = videos/tables/1sc9" -->Scootaloo Definitive (x265/HEVC) Season 9 (1080p)
+<!--#elif expr="$link = videos/tables/1sc1" -->Scootaloo NEW 2019 10bit HEVC Season 1 (1080p)
+<!--#elif expr="$link = videos/tables/1sc2" -->Scootaloo NEW 2019 10bit HEVC Season 1 (1080p)
+<!--#elif expr="$link = videos/tables/1sc3" -->Scootaloo NEW 2019 10bit HEVC Season 3 (1080p)
+<!--#elif expr="$link = videos/tables/1sc4" -->Scootaloo NEW 2019 10bit HEVC Season 4 (1080p)
+<!--#elif expr="$link = videos/tables/1sc5" -->Scootaloo NEW 2019 10bit HEVC Season 5 (1080p)
+<!--#elif expr="$link = videos/tables/1sc6" -->Scootaloo NEW 2019 10bit HEVC Season 6 (1080p)
+<!--#elif expr="$link = videos/tables/1sc7" -->Scootaloo NEW 2019 10bit HEVC Season 7 (1080p)
+<!--#elif expr="$link = videos/tables/1sc8" -->Scootaloo NEW 2019 10bit HEVC Season 8 (1080p)
+<!--#elif expr="$link = videos/tables/1sc9" -->Scootaloo NEW 2019 10bit HEVC Season 9 (1080p)
 
 
 

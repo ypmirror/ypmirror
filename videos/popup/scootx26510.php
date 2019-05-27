@@ -1,5 +1,5 @@
 <!--#include file="/resources/popup/header.php" -->
-<p>Scootaloo Definitive Edition HEVC are x265 main10p encodes of the best available version by Scootaloo.    </p>
+<p>Scootaloo NEW 2019 10Bit HEVC are x265 main10p encodes of the best available version by Scootaloo.    </p>
 <p>Quality is better than other scootaloo group release due the format capacity! </p>
 <p> Audio tracks (Both AC3 5.1 and AAC) has been remastered, please use the AAC track on a stereo/laptop setup.</p>
 <p> If you encounter frame drop, slow video playing, or simply can't play the file, please make sure your device is compatible with HEVC/x265 videos.    </p>

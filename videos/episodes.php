@@ -55,7 +55,7 @@
                     var archiveNames = {
                         'i' : 'iTunes Raw',
                         's' : 'Scootaloo Remastered H264',
-                        'sc' : 'Scootaloo Definitive HEVC',
+                        'sc' : 'Scootaloo NEW 2019 10bit HEVC',
                         'a' : 'AUSTRALIAN iTunes Raw',
                         'z' : 'Color Corrected',
                         'tt' : 'MENTOS TVRip',
@@ -360,7 +360,7 @@
                         <td> Season 9 (1080p) </td>
                     </tr>
 
-                    <tr> <th colspan="2"> Scootaloo Definitive HEVC </th> </tr>
+                    <tr> <th colspan="2"> Scootaloo NEW 2019 10bit HEVC </th> </tr>
                     <tr>
                         <td> <a href="/permalink.php?link=videos/tables/1sc1">1sc1</a> </td>
                         <td> Season 1 (1080p) </td>

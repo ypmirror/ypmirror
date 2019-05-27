@@ -1,1740 +1,732 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:torrent="http://xmlns.ezrss.it/0.1/dtd/" version="2.0">
   <channel>
-    <title>YayPonies - MLP:FIM 1080P Scootaloo Definitive x265</title>
+    <title>YayPonies - MLP:FIM 1080P Scootaloo NEW 2019 10bit HEVC</title>
     <link>/videos/rss/1sct.rss</link>
-    <description>iTunes Ponies in 1080P Definitive Edition in x265 10bit by Scootaloo.</description>
+    <description>iTunes Ponies in 1080P NEW 2019 10bit HEVC Remaster by Scootaloo.</description>
     <atom:link href="/videos/rss/1sct.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 May 2019 22:57:57 +0000</lastBuildDate>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 00x66 - The Best Gift Ever | 1080p.WEB-DL SCOOT | YP-1STB-00x66.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-00x66.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Best Gift Ever; Season: 0; Episode: 66</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-00x66.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-00x66.mkv.torrent" length="77470" type="application/x-bittorrent"/>
-      <pubDate>Sat, 27 Oct 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-00x66.mkv.torrent</torrent:filename>
-      <torrent:contentlength>997983089</torrent:contentlength>
-      <torrent:infohash>2B2556E29BBD52628F4AC789D9AC2141078BCC7C</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:2B2556E29BBD52628F4AC789D9AC2141078BCC7C</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x26 - School Raze (2) | 1080p.WEB-DL SCOOT | YP-1STB-08x26.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x26.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: School Raze (2); Season: 8; Episode: 26</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x26.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x26.mkv.torrent" length="42690" type="application/x-bittorrent"/>
-      <pubDate>Sat, 13 Oct 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x26.mkv.torrent</torrent:filename>
-      <torrent:contentlength>542275331</torrent:contentlength>
-      <torrent:infohash>506B92BC0AF2AB2D5869D0EEFED2791F6B15D98E</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:506B92BC0AF2AB2D5869D0EEFED2791F6B15D98E</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x25 - School Raze (1) | 1080p.WEB-DL SCOOT | YP-1STB-08x25.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x25.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: School Raze (1); Season: 8; Episode: 25</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x25.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x25.mkv.torrent" length="35830" type="application/x-bittorrent"/>
-      <pubDate>Sat, 13 Oct 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x25.mkv.torrent</torrent:filename>
-      <torrent:contentlength>452427343</torrent:contentlength>
-      <torrent:infohash>1CD939066E99BCB77288165E01B69199E986E31A</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:1CD939066E99BCB77288165E01B69199E986E31A</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x24 - Father Knows Beast | 1080p.WEB-DL SCOOT | YP-1STB-08x24.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x24.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Father Knows Beast; Season: 8; Episode: 24</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x24.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x24.mkv.torrent" length="32690" type="application/x-bittorrent"/>
-      <pubDate>Sat, 06 Oct 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x24.mkv.torrent</torrent:filename>
-      <torrent:contentlength>411118448</torrent:contentlength>
-      <torrent:infohash>C08C0E2475113D2D8750D0417795129C0D2A8CF3</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:C08C0E2475113D2D8750D0417795129C0D2A8CF3</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x23 - Sounds of Silence | 1080p.WEB-DL SCOOT | YP-1STB-08x23.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x23.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Sounds of Silence; Season: 8; Episode: 23</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x23.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x23.mkv.torrent" length="40190" type="application/x-bittorrent"/>
-      <pubDate>Sat, 29 Sep 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x23.mkv.torrent</torrent:filename>
-      <torrent:contentlength>509388352</torrent:contentlength>
-      <torrent:infohash>62CB2650C22130B7C58A3C95524EE0F811C14B53</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:62CB2650C22130B7C58A3C95524EE0F811C14B53</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x22 - What Lies Beneath | 1080p.WEB-DL SCOOT | YP-1STB-08x22.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x22.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: What Lies Beneath; Season: 8; Episode: 22</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x22.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x22.mkv.torrent" length="36930" type="application/x-bittorrent"/>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x22.mkv.torrent</torrent:filename>
-      <torrent:contentlength>466810038</torrent:contentlength>
-      <torrent:infohash>227C252CD7D34CA57558A136ADE7ACAD838F05FC</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:227C252CD7D34CA57558A136ADE7ACAD838F05FC</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x21 - A Rockhoof and a Hard Place | 1080p.WEB-DL SCOOT | YP-1STB-08x21.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x21.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: A Rockhoof and a Hard Place; Season: 8; Episode: 21</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x21.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x21.mkv.torrent" length="35330" type="application/x-bittorrent"/>
-      <pubDate>Sat, 15 Sep 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x21.mkv.torrent</torrent:filename>
-      <torrent:contentlength>445866088</torrent:contentlength>
-      <torrent:infohash>6C2D7B82911B61F8BFB5924F6951EB2D25317E4C</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:6C2D7B82911B61F8BFB5924F6951EB2D25317E4C</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x20 - The Washouts | 1080p.WEB-DL SCOOT | YP-1STB-08x20.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x20.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Washouts; Season: 8; Episode: 20</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x20.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x20.mkv.torrent" length="42890" type="application/x-bittorrent"/>
-      <pubDate>Sat, 08 Sep 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x20.mkv.torrent</torrent:filename>
-      <torrent:contentlength>544891079</torrent:contentlength>
-      <torrent:infohash>5DBF4B92A75AE2B7FC7358587386A8F56CA7280A</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:5DBF4B92A75AE2B7FC7358587386A8F56CA7280A</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x19 - Road to Friendship | 1080p.WEB-DL SCOOT | YP-1STB-08x19.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x19.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Road to Friendship; Season: 8; Episode: 19</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x19.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x19.mkv.torrent" length="32550" type="application/x-bittorrent"/>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x19.mkv.torrent</torrent:filename>
-      <torrent:contentlength>409433050</torrent:contentlength>
-      <torrent:infohash>68EDB50BDA83C7E9CDC9CB26847C0D373620120F</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:68EDB50BDA83C7E9CDC9CB26847C0D373620120F</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x18 - Yakity-Sax | 1080p.WEB-DL SCOOT | YP-1STB-08x18.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x18.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Yakity-Sax; Season: 8; Episode: 18</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x18.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x18.mkv.torrent" length="38790" type="application/x-bittorrent"/>
-      <pubDate>Sat, 25 Aug 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x18.mkv.torrent</torrent:filename>
-      <torrent:contentlength>491042216</torrent:contentlength>
-      <torrent:infohash>2B624DD08929BDD030449443BD79D6FB1F835DD2</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:2B624DD08929BDD030449443BD79D6FB1F835DD2</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x17 - The End in Friend | 1080p.WEB-DL SCOOT | YP-1STB-08x17.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x17.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The End in Friend; Season: 8; Episode: 17</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x17.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x17.mkv.torrent" length="39630" type="application/x-bittorrent"/>
-      <pubDate>Sat, 18 Aug 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x17.mkv.torrent</torrent:filename>
-      <torrent:contentlength>502038810</torrent:contentlength>
-      <torrent:infohash>C537E9AB109426D2B38AB7DB6699838675DBE968</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:C537E9AB109426D2B38AB7DB6699838675DBE968</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x16 - Friendship University | 1080p.WEB-DL SCOOT | YP-1STB-08x16.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x16.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Friendship University; Season: 8; Episode: 16</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x16.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x16.mkv.torrent" length="34990" type="application/x-bittorrent"/>
-      <pubDate>Sat, 11 Aug 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x16.mkv.torrent</torrent:filename>
-      <torrent:contentlength>441287262</torrent:contentlength>
-      <torrent:infohash>431166BC4668DC752189508C57A3D812507C1681</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:431166BC4668DC752189508C57A3D812507C1681</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x15 - The Hearth's Warming Club | 1080p.WEB-DL SCOOT | YP-1STB-08x15.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x15.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Hearth's Warming Club; Season: 8; Episode: 15</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x15.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x15.mkv.torrent" length="37790" type="application/x-bittorrent"/>
-      <pubDate>Sat, 04 Aug 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x15.mkv.torrent</torrent:filename>
-      <torrent:contentlength>478061676</torrent:contentlength>
-      <torrent:infohash>29529523E8A03AAA1CC310CB80C92771FFD726E5</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:29529523E8A03AAA1CC310CB80C92771FFD726E5</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x14 - A Matter of Principals | 1080p.WEB-DL SCOOT | YP-1STB-08x14.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x14.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: A Matter of Principals; Season: 8; Episode: 14</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x14.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x14.mkv.torrent" length="40730" type="application/x-bittorrent"/>
-      <pubDate>Sat, 04 Aug 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x14.mkv.torrent</torrent:filename>
-      <torrent:contentlength>516456143</torrent:contentlength>
-      <torrent:infohash>DBC7BA0351A4B8B01E3D13B07C011ACC9FC753CF</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:DBC7BA0351A4B8B01E3D13B07C011ACC9FC753CF</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x13 - The Mean 6 | 1080p.WEB-DL SCOOT | YP-1STB-08x13.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x13.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Mean 6; Season: 8; Episode: 13</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x13.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x13.mkv.torrent" length="38770" type="application/x-bittorrent"/>
-      <pubDate>Sat, 09 Jun 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x13.mkv.torrent</torrent:filename>
-      <torrent:contentlength>490785937</torrent:contentlength>
-      <torrent:infohash>6FA55F59307ADCA291565DF0AC99DC5C85481A55</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:6FA55F59307ADCA291565DF0AC99DC5C85481A55</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x12 - Marks for Effort | 1080p.WEB-DL SCOOT | YP-1STB-08x12.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x12.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Marks for Effort; Season: 8; Episode: 12</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x12.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x12.mkv.torrent" length="34150" type="application/x-bittorrent"/>
-      <pubDate>Sat, 02 Jun 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x12.mkv.torrent</torrent:filename>
-      <torrent:contentlength>430270132</torrent:contentlength>
-      <torrent:infohash>5846AB0A8654B8E2B9B3202E3220B6903191F275</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:5846AB0A8654B8E2B9B3202E3220B6903191F275</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x11 - Molt Down | 1080p.WEB-DL SCOOT | YP-1STB-08x11.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x11.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Molt Down; Season: 8; Episode: 11</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x11.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x11.mkv.torrent" length="32670" type="application/x-bittorrent"/>
-      <pubDate>Sat, 26 May 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x11.mkv.torrent</torrent:filename>
-      <torrent:contentlength>410879015</torrent:contentlength>
-      <torrent:infohash>FB1077CFE5CAB9505C2C6A0E6E7E222AD006A816</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:FB1077CFE5CAB9505C2C6A0E6E7E222AD006A816</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x10 - The Break Up Break Down | 1080p.WEB-DL SCOOT | YP-1STB-08x10.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x10.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Break Up Break Down; Season: 8; Episode: 10</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x10.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x10.mkv.torrent" length="31550" type="application/x-bittorrent"/>
-      <pubDate>Sat, 19 May 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x10.mkv.torrent</torrent:filename>
-      <torrent:contentlength>396237272</torrent:contentlength>
-      <torrent:infohash>CA0FB9F706E23A9120E63FB2226103F197882662</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:CA0FB9F706E23A9120E63FB2226103F197882662</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x09 - Non-Compete Clause | 1080p.WEB-DL SCOOT | YP-1STB-08x09.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x09.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Non-Compete Clause; Season: 8; Episode: 09</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x09.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x09.mkv.torrent" length="39950" type="application/x-bittorrent"/>
-      <pubDate>Sat, 12 May 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x09.mkv.torrent</torrent:filename>
-      <torrent:contentlength>506442260</torrent:contentlength>
-      <torrent:infohash>E243DDBE37AE291F4A36D8D5B34A16074713281B</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:E243DDBE37AE291F4A36D8D5B34A16074713281B</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x08 - The Parent Map | 1080p.WEB-DL SCOOT | YP-1STB-08x08.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x08.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Parent Map; Season: 8; Episode: 08</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x08.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x08.mkv.torrent" length="35150" type="application/x-bittorrent"/>
-      <pubDate>Sat, 05 May 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x08.mkv.torrent</torrent:filename>
-      <torrent:contentlength>443395717</torrent:contentlength>
-      <torrent:infohash>9D0FAC4994B671C08C07145118C1E223561240D0</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:9D0FAC4994B671C08C07145118C1E223561240D0</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x07 - Horse Play | 1080p.WEB-DL SCOOT | YP-1STB-08x07.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x07.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Horse Play; Season: 8; Episode: 07</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x07.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x07.mkv.torrent" length="35550" type="application/x-bittorrent"/>
-      <pubDate>Sat, 28 Apr 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x07.mkv.torrent</torrent:filename>
-      <torrent:contentlength>448701557</torrent:contentlength>
-      <torrent:infohash>CFD56FD2406AB9EFAE824B89E7B131CC631A29AC</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:CFD56FD2406AB9EFAE824B89E7B131CC631A29AC</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x06 - Surf and/or Turf | 1080p.WEB-DL SCOOT | YP-1STB-08x06.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x06.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Surf and/or Turf; Season: 8; Episode: 06</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x06.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x06.mkv.torrent" length="39050" type="application/x-bittorrent"/>
-      <pubDate>Sat, 21 Apr 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x06.mkv.torrent</torrent:filename>
-      <torrent:contentlength>494444555</torrent:contentlength>
-      <torrent:infohash>AE8ECF4434BF2C97737FEBCC9D4FAB128A85AA64</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:AE8ECF4434BF2C97737FEBCC9D4FAB128A85AA64</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x05 - Grannies Gone Wild | 1080p.WEB-DL SCOOT | YP-1STB-08x05.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x05.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Grannies Gone Wild; Season: 8; Episode: 05</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x05.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x05.mkv.torrent" length="38630" type="application/x-bittorrent"/>
-      <pubDate>Sat, 14 Apr 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x05.mkv.torrent</torrent:filename>
-      <torrent:contentlength>489153774</torrent:contentlength>
-      <torrent:infohash>A35AC198624CA136E148DDCCEFE65B8BD18DE853</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:A35AC198624CA136E148DDCCEFE65B8BD18DE853</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x04 - Fake It 'Til You Make It | 1080p.WEB-DL SCOOT | YP-1STB-08x04.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x04.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Fake It 'Til You Make It; Season: 8; Episode: 04</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x04.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x04.mkv.torrent" length="32870" type="application/x-bittorrent"/>
-      <pubDate>Sat, 07 Apr 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x04.mkv.torrent</torrent:filename>
-      <torrent:contentlength>413537020</torrent:contentlength>
-      <torrent:infohash>688D75795895E15BD43FA6081B2077C356EDC988</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:688D75795895E15BD43FA6081B2077C356EDC988</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x03 - The Maud Couple | 1080p.WEB-DL SCOOT | YP-1STB-08x03.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x03.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Maud Couple; Season: 8; Episode: 03</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x03.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x03.mkv.torrent" length="28710" type="application/x-bittorrent"/>
-      <pubDate>Sat, 31 Mar 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x03.mkv.torrent</torrent:filename>
-      <torrent:contentlength>358947832</torrent:contentlength>
-      <torrent:infohash>303921B4F4C8D49813FCDA580FD9EC263FB8B073</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:303921B4F4C8D49813FCDA580FD9EC263FB8B073</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x02 - School Daze (2) | 1080p.WEB-DL SCOOT | YP-1STB-08x02.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x02.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: School Daze (2); Season: 8; Episode: 02</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x02.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x02.mkv.torrent" length="43510" type="application/x-bittorrent"/>
-      <pubDate>Sat, 24 Mar 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x02.mkv.torrent</torrent:filename>
-      <torrent:contentlength>552915363</torrent:contentlength>
-      <torrent:infohash>2A58A3482C3D75D79722D42208A5D7ACD27C9F61</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:2A58A3482C3D75D79722D42208A5D7ACD27C9F61</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 08x01 - School Daze (1) | 1080p.WEB-DL SCOOT | YP-1STB-08x01.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-08x01.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: School Daze (1); Season: 8; Episode: 01</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-08x01.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-08x01.mkv.torrent" length="41350" type="application/x-bittorrent"/>
-      <pubDate>Sat, 24 Mar 2018 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-08x01.mkv.torrent</torrent:filename>
-      <torrent:contentlength>524731240</torrent:contentlength>
-      <torrent:infohash>109E9F110C4E8F5D6ACD3E77260A31C6E3AAADD3</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:109E9F110C4E8F5D6ACD3E77260A31C6E3AAADD3</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x26 - Shadow Play (2) | 1080p.WEB-DL SCOOT | YP-1STB-07x26.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x26.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Shadow Play (2); Season: 7; Episode: 26</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x26.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x26.mkv.torrent" length="40750" type="application/x-bittorrent"/>
-      <pubDate>Sat, 28 Oct 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x26.mkv.torrent</torrent:filename>
-      <torrent:contentlength>516710676</torrent:contentlength>
-      <torrent:infohash>8F25C371DA450358F4630F0EF623972F6EAE7134</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:8F25C371DA450358F4630F0EF623972F6EAE7134</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x25 - Shadow Play (1) | 1080p.WEB-DL SCOOT | YP-1STB-07x25.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x25.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Shadow Play (1); Season: 7; Episode: 25</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x25.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x25.mkv.torrent" length="37090" type="application/x-bittorrent"/>
-      <pubDate>Sat, 28 Oct 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x25.mkv.torrent</torrent:filename>
-      <torrent:contentlength>468789097</torrent:contentlength>
-      <torrent:infohash>DE2128068BC469F701AA1239868423DA6BACDAA6</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:DE2128068BC469F701AA1239868423DA6BACDAA6</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x24 - Uncommon Bond | 1080p.WEB-DL SCOOT | YP-1STB-07x24.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x24.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Uncommon Bond; Season: 7; Episode: 24</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x24.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x24.mkv.torrent" length="33450" type="application/x-bittorrent"/>
-      <pubDate>Sat, 21 Oct 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x24.mkv.torrent</torrent:filename>
-      <torrent:contentlength>421220501</torrent:contentlength>
-      <torrent:infohash>B8799CD2F09E61BF03CC50A36BDD06EF2DEB61B6</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:B8799CD2F09E61BF03CC50A36BDD06EF2DEB61B6</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x23 - Secrets and Pies | 1080p.WEB-DL SCOOT | YP-1STB-07x23.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x23.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Secrets and Pies; Season: 7; Episode: 23</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x23.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x23.mkv.torrent" length="34750" type="application/x-bittorrent"/>
-      <pubDate>Sat, 14 Oct 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x23.mkv.torrent</torrent:filename>
-      <torrent:contentlength>438193159</torrent:contentlength>
-      <torrent:infohash>BC28AA4E0F5FD04640D16E72E2405008F29D082B</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:BC28AA4E0F5FD04640D16E72E2405008F29D082B</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x22 - Once Upon a Zeppelin | 1080p.WEB-DL SCOOT | YP-1STB-07x22.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x22.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Once Upon a Zeppelin; Season: 7; Episode: 22</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x22.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x22.mkv.torrent" length="36710" type="application/x-bittorrent"/>
-      <pubDate>Sat, 07 Oct 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x22.mkv.torrent</torrent:filename>
-      <torrent:contentlength>463843964</torrent:contentlength>
-      <torrent:infohash>26D222C9DBCF09A7F3CFBE9223293625ABC4B95B</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:26D222C9DBCF09A7F3CFBE9223293625ABC4B95B</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x21 - Marks and Recreation | 1080p.WEB-DL SCOOT | YP-1STB-07x21.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x21.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Marks and Recreation; Season: 7; Episode: 21</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x21.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x21.mkv.torrent" length="33990" type="application/x-bittorrent"/>
-      <pubDate>Sat, 30 Sep 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x21.mkv.torrent</torrent:filename>
-      <torrent:contentlength>428259108</torrent:contentlength>
-      <torrent:infohash>EE60D933A4E0C8A5A8436C2BFE40296557DA0681</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:EE60D933A4E0C8A5A8436C2BFE40296557DA0681</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x20 - A Health of Information | 1080p.WEB-DL SCOOT | YP-1STB-07x20.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x20.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: A Health of Information; Season: 7; Episode: 20</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x20.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x20.mkv.torrent" length="33330" type="application/x-bittorrent"/>
-      <pubDate>Sat, 23 Sep 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x20.mkv.torrent</torrent:filename>
-      <torrent:contentlength>419632337</torrent:contentlength>
-      <torrent:infohash>98F2045F0BDA205F62F13C4595050C216F71C8E4</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:98F2045F0BDA205F62F13C4595050C216F71C8E4</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x19 - It Isn't the Mane Thing About You | 1080p.WEB-DL SCOOT | YP-1STB-07x19-V2.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x19-V2.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: It Isn't the Mane Thing About You; Season: 7; Episode: 19</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x19-V2.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x19-V2.mkv.torrent" length="38593" type="application/x-bittorrent"/>
-      <pubDate>Sat, 16 Sep 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x19-V2.mkv.torrent</torrent:filename>
-      <torrent:contentlength>488439248</torrent:contentlength>
-      <torrent:infohash>ED64823D01E3D336C5FD715B12B005C54BBA2929</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:ED64823D01E3D336C5FD715B12B005C54BBA2929</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x18 - Daring Done? | 1080p.WEB-DL SCOOT | YP-1STB-07x18.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x18.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Daring Done?; Season: 7; Episode: 18</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x18.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x18.mkv.torrent" length="33570" type="application/x-bittorrent"/>
-      <pubDate>Sat, 09 Sep 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x18.mkv.torrent</torrent:filename>
-      <torrent:contentlength>422592297</torrent:contentlength>
-      <torrent:infohash>92E7E0BAB5C2943E6B35B9B6B19BEC9C7ECCCB53</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:92E7E0BAB5C2943E6B35B9B6B19BEC9C7ECCCB53</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x17 - To Change a Changeling | 1080p.WEB-DL SCOOT | YP-1STB-07x17.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x17.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: To Change a Changeling; Season: 7; Episode: 17</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x17.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x17.mkv.torrent" length="35090" type="application/x-bittorrent"/>
-      <pubDate>Sat, 02 Sep 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x17.mkv.torrent</torrent:filename>
-      <torrent:contentlength>442543513</torrent:contentlength>
-      <torrent:infohash>099F78977032397E1C5CB83CB92F5BEF8841473A</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:099F78977032397E1C5CB83CB92F5BEF8841473A</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x16 - Campfire Tales | 1080p.WEB-DL SCOOT | YP-1STB-07x16.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x16.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Campfire Tales; Season: 7; Episode: 16</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x16.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x16.mkv.torrent" length="38130" type="application/x-bittorrent"/>
-      <pubDate>Sat, 26 Aug 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x16.mkv.torrent</torrent:filename>
-      <torrent:contentlength>482424059</torrent:contentlength>
-      <torrent:infohash>4758B39CC1C58BF756E272DDE978EB2CA169E1A1</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:4758B39CC1C58BF756E272DDE978EB2CA169E1A1</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x15 - Triple Threat | 1080p.WEB-DL SCOOT | YP-1STB-07x15.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x15.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Triple Threat; Season: 7; Episode: 15</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x15.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x15.mkv.torrent" length="34530" type="application/x-bittorrent"/>
-      <pubDate>Sat, 19 Aug 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x15.mkv.torrent</torrent:filename>
-      <torrent:contentlength>435224298</torrent:contentlength>
-      <torrent:infohash>0C482A95A548676CEAEC34C600335F946EA2563B</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:0C482A95A548676CEAEC34C600335F946EA2563B</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x14 - Fame and Misfortune | 1080p.WEB-DL SCOOT | YP-1STB-07x14.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x14.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Fame and Misfortune; Season: 7; Episode: 14</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x14.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x14.mkv.torrent" length="36770" type="application/x-bittorrent"/>
-      <pubDate>Sat, 12 Aug 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x14.mkv.torrent</torrent:filename>
-      <torrent:contentlength>464679252</torrent:contentlength>
-      <torrent:infohash>A9AB264A84DB05F8E780B0D81E5FA3C5B3322F31</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:A9AB264A84DB05F8E780B0D81E5FA3C5B3322F31</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x13 - The Perfect Pear | 1080p.WEB-DL SCOOT | YP-1STB-07x13.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x13.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Perfect Pear; Season: 7; Episode: 13</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x13.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x13.mkv.torrent" length="33810" type="application/x-bittorrent"/>
-      <pubDate>Sat, 05 Aug 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x13.mkv.torrent</torrent:filename>
-      <torrent:contentlength>425830465</torrent:contentlength>
-      <torrent:infohash>50F574E1974FBA2DE4C782A04E009D4D2028CBB0</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:50F574E1974FBA2DE4C782A04E009D4D2028CBB0</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x12 - Discordant Harmony | 1080p.WEB-DL SCOOT | YP-1STB-07x12.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x12.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Discordant Harmony; Season: 7; Episode: 12</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x12.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x12.mkv.torrent" length="35070" type="application/x-bittorrent"/>
-      <pubDate>Sat, 05 Aug 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x12.mkv.torrent</torrent:filename>
-      <torrent:contentlength>442379363</torrent:contentlength>
-      <torrent:infohash>8D877107176B384B495BCC4DB0F7A8015FC7E38F</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:8D877107176B384B495BCC4DB0F7A8015FC7E38F</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x11 - Not Asking for Trouble | 1080p.WEB-DL SCOOT | YP-1STB-07x11.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x11.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Not Asking for Trouble; Season: 7; Episode: 11</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x11.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x11.mkv.torrent" length="33690" type="application/x-bittorrent"/>
-      <pubDate>Sat, 17 Jun 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x11.mkv.torrent</torrent:filename>
-      <torrent:contentlength>424371735</torrent:contentlength>
-      <torrent:infohash>61CEEA52FD0FB567AE91727D3A0F809A9B64F216</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:61CEEA52FD0FB567AE91727D3A0F809A9B64F216</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x10 - A Royal Problem | 1080p.WEB-DL SCOOT | YP-1STB-07x10.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x10.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: A Royal Problem; Season: 7; Episode: 10</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x10.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x10.mkv.torrent" length="39448" type="application/x-bittorrent"/>
-      <pubDate>Sat, 10 Jun 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x10.mkv.torrent</torrent:filename>
-      <torrent:contentlength>499694466</torrent:contentlength>
-      <torrent:infohash>6667D040893056DC255DE1F9D125A96F154DFFC2</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:6667D040893056DC255DE1F9D125A96F154DFFC2</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x09 - Honest Apple | 1080p.WEB-DL SCOOT | YP-1STB-07x09.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x09.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Honest Apple; Season: 7; Episode: 09</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x09.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x09.mkv.torrent" length="33068" type="application/x-bittorrent"/>
-      <pubDate>Sat, 03 Jun 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x09.mkv.torrent</torrent:filename>
-      <torrent:contentlength>416196468</torrent:contentlength>
-      <torrent:infohash>EFC8B40C21FA26B172465ADDD4D05D3071A5DB68</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:EFC8B40C21FA26B172465ADDD4D05D3071A5DB68</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x08 - Hard to Say Anything | 1080p.WEB-DL SCOOT | YP-1STB-07x08.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x08.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Hard to Say Anything; Season: 7; Episode: 08</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x08.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x08.mkv.torrent" length="32010" type="application/x-bittorrent"/>
-      <pubDate>Sat, 27 May 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x08.mkv.torrent</torrent:filename>
-      <torrent:contentlength>402386144</torrent:contentlength>
-      <torrent:infohash>0E263ECD92DFDAA01B2B0B478571FD1658987066</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:0E263ECD92DFDAA01B2B0B478571FD1658987066</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x07 - Parental Glideance | 1080p.WEB-DL SCOOT | YP-1STB-07x07.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x07.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Parental Glideance; Season: 7; Episode: 07</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x07.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x07.mkv.torrent" length="37900" type="application/x-bittorrent"/>
-      <pubDate>Sat, 20 May 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x07.mkv.torrent</torrent:filename>
-      <torrent:contentlength>479488343</torrent:contentlength>
-      <torrent:infohash>18ADEC76B2533164C03FFDC9C58E13592052300D</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:18ADEC76B2533164C03FFDC9C58E13592052300D</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x06 - Forever Filly | 1080p.WEB-DL SCOOT | YP-1STB-07x06.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x06.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Forever Filly; Season: 7; Episode: 06</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x06.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x06.mkv.torrent" length="30982" type="application/x-bittorrent"/>
-      <pubDate>Sat, 13 May 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x06.mkv.torrent</torrent:filename>
-      <torrent:contentlength>388961708</torrent:contentlength>
-      <torrent:infohash>BDF11A02C551F009CDDF2BF6DE2ABED6E39E2979</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:BDF11A02C551F009CDDF2BF6DE2ABED6E39E2979</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x05 - Fluttershy Leans In | 1080p.WEB-DL SCOOT | YP-1STB-07x05.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x05.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Fluttershy Leans In; Season: 7; Episode: 05</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x05.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x05.mkv.torrent" length="31290" type="application/x-bittorrent"/>
-      <pubDate>Sat, 06 May 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x05.mkv.torrent</torrent:filename>
-      <torrent:contentlength>392692995</torrent:contentlength>
-      <torrent:infohash>CB7D5C255876054E9923B27DE5DC328DD456107A</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:CB7D5C255876054E9923B27DE5DC328DD456107A</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x04 - Rock Solid Friendship | 1080p.WEB-DL SCOOT | YP-1STB-07x04.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-07x04.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Rock Solid Friendship; Season: 7; Episode: 04</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-07x04.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-07x04.mkv.torrent" length="29930" type="application/x-bittorrent"/>
-      <pubDate>Sat, 29 Apr 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-07x04.mkv.torrent</torrent:filename>
-      <torrent:contentlength>374875345</torrent:contentlength>
-      <torrent:infohash>A66C6F9F2121741B975B9560AE437E435B7B2B66</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:A66C6F9F2121741B975B9560AE437E435B7B2B66</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x03 - A Flurry of Emotions | 1080p.WEB-DL SCOOT | YP-1SHT-07x03.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1SHT-07x03.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: A Flurry of Emotions; Season: 7; Episode: 03</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1SHT-07x03.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1SHT-07x03.mkv.torrent" length="38810" type="application/x-bittorrent"/>
-      <pubDate>Sat, 22 Apr 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1SHT-07x03.mkv.torrent</torrent:filename>
-      <torrent:contentlength>491442378</torrent:contentlength>
-      <torrent:infohash>7906001A6A8A8C965410908BC496CFFC1C0E52B9</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:7906001A6A8A8C965410908BC496CFFC1C0E52B9</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x02 - All Bottled Up | 1080p.WEB-DL SCOOT | YP-1SHT-07x02.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1SHT-07x02.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: All Bottled Up; Season: 7; Episode: 02</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1SHT-07x02.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1SHT-07x02.mkv.torrent" length="32350" type="application/x-bittorrent"/>
-      <pubDate>Sat, 15 Apr 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1SHT-07x02.mkv.torrent</torrent:filename>
-      <torrent:contentlength>406671664</torrent:contentlength>
-      <torrent:infohash>2F4F5E01790715B4E8EFB36255A8E1E983D300CA</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:2F4F5E01790715B4E8EFB36255A8E1E983D300CA</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 07x01 - Celestial Advice | 1080p.WEB-DL SCOOT | YP-1SHT-07x01.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1SHT-07x01.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Celestial Advice; Season: 7; Episode: 01</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1SHT-07x01.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1SHT-07x01.mkv.torrent" length="36410" type="application/x-bittorrent"/>
-      <pubDate>Sat, 15 Apr 2017 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1SHT-07x01.mkv.torrent</torrent:filename>
-      <torrent:contentlength>460030936</torrent:contentlength>
-      <torrent:infohash>1CBEC4472BA53F9B589EA83309AD87605D12CD4F</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:1CBEC4472BA53F9B589EA83309AD87605D12CD4F</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x26 - Twilight's Kingdom (2) | 1080p.WEB-DL SCOOT | YP-1STB-04x26.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x26.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Twilight's Kingdom (2); Season: 4; Episode: 26</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x26.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x26.mkv.torrent" length="42510" type="application/x-bittorrent"/>
-      <pubDate>Sat, 10 May 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x26.mkv.torrent</torrent:filename>
-      <torrent:contentlength>539835788</torrent:contentlength>
-      <torrent:infohash>F627A7F3E538C32671E624C81A78A6BA3411A1D6</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:F627A7F3E538C32671E624C81A78A6BA3411A1D6</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x25 - Twilight's Kingdom (1) | 1080p.WEB-DL SCOOT | YP-1STB-04x25.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x25.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Twilight's Kingdom (1); Season: 4; Episode: 25</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x25.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x25.mkv.torrent" length="35610" type="application/x-bittorrent"/>
-      <pubDate>Sat, 10 May 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x25.mkv.torrent</torrent:filename>
-      <torrent:contentlength>449488150</torrent:contentlength>
-      <torrent:infohash>43245EF1C2B90229B0BC867F38F46C5EAB021DF2</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:43245EF1C2B90229B0BC867F38F46C5EAB021DF2</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x24 - Equestria Games | 1080p.WEB-DL SCOOT | YP-1STB-04x24.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x24.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Equestria Games; Season: 4; Episode: 24</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x24.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x24.mkv.torrent" length="37170" type="application/x-bittorrent"/>
-      <pubDate>Sat, 03 May 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x24.mkv.torrent</torrent:filename>
-      <torrent:contentlength>469892304</torrent:contentlength>
-      <torrent:infohash>6C41D425D4BAAFDD665A24F80F35CA0B3A08BBC2</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:6C41D425D4BAAFDD665A24F80F35CA0B3A08BBC2</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x23 - Inspiration Manifestation | 1080p.WEB-DL SCOOT | YP-1STB-04x23.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x23.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Inspiration Manifestation; Season: 4; Episode: 23</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x23.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x23.mkv.torrent" length="32790" type="application/x-bittorrent"/>
-      <pubDate>Sat, 26 Apr 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x23.mkv.torrent</torrent:filename>
-      <torrent:contentlength>412455553</torrent:contentlength>
-      <torrent:infohash>0C80C1741450DC5949F7850B8A2F92C673704260</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:0C80C1741450DC5949F7850B8A2F92C673704260</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x22 - Trade Ya! | 1080p.WEB-DL SCOOT | YP-1STB-04x22.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x22.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Trade Ya!; Season: 4; Episode: 22</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x22.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x22.mkv.torrent" length="37870" type="application/x-bittorrent"/>
-      <pubDate>Sat, 19 Apr 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x22.mkv.torrent</torrent:filename>
-      <torrent:contentlength>479068548</torrent:contentlength>
-      <torrent:infohash>85D49380257E4555947B8E4B1AFE64EF2D399A01</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:85D49380257E4555947B8E4B1AFE64EF2D399A01</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x21 - Testing, Testing, 1, 2, 3 | 1080p.WEB-DL SCOOT | YP-1STB-04x21.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x21.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Testing, Testing, 1, 2, 3; Season: 4; Episode: 21</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x21.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x21.mkv.torrent" length="41130" type="application/x-bittorrent"/>
-      <pubDate>Sat, 05 Apr 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x21.mkv.torrent</torrent:filename>
-      <torrent:contentlength>521924640</torrent:contentlength>
-      <torrent:infohash>FA8A5E6270A552A36726935216C4B2560448B46A</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:FA8A5E6270A552A36726935216C4B2560448B46A</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x20 - Leap of Faith | 1080p.WEB-DL SCOOT | YP-1STB-04x20.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x20.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Leap of Faith; Season: 4; Episode: 20</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x20.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x20.mkv.torrent" length="36330" type="application/x-bittorrent"/>
-      <pubDate>Sat, 29 Mar 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x20.mkv.torrent</torrent:filename>
-      <torrent:contentlength>458940741</torrent:contentlength>
-      <torrent:infohash>269E8EB229FEF596136836B93192AF50946FF65F</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:269E8EB229FEF596136836B93192AF50946FF65F</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x19 - For Whom the Sweetie Belle Toils | 1080p.WEB-DL SCOOT | YP-1STB-04x19.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x19.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: For Whom the Sweetie Belle Toils; Season: 4; Episode: 19</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x19.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x19.mkv.torrent" length="32710" type="application/x-bittorrent"/>
-      <pubDate>Sat, 22 Mar 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x19.mkv.torrent</torrent:filename>
-      <torrent:contentlength>411471451</torrent:contentlength>
-      <torrent:infohash>478AA3951BEED414D71B434173521FF0A1322FCE</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:478AA3951BEED414D71B434173521FF0A1322FCE</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x18 - Maud Pie | 1080p.WEB-DL SCOOT | YP-1STB-04x18.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x18.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Maud Pie; Season: 4; Episode: 18</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x18.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x18.mkv.torrent" length="33070" type="application/x-bittorrent"/>
-      <pubDate>Sat, 15 Mar 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x18.mkv.torrent</torrent:filename>
-      <torrent:contentlength>416275375</torrent:contentlength>
-      <torrent:infohash>B00FA27DBB7E9C023226BFF6ED68D20652B81E81</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:B00FA27DBB7E9C023226BFF6ED68D20652B81E81</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x17 - Somepony to Watch Over Me | 1080p.WEB-DL SCOOT | YP-1STB-04x17.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x17.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Somepony to Watch Over Me; Season: 4; Episode: 17</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x17.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x17.mkv.torrent" length="32450" type="application/x-bittorrent"/>
-      <pubDate>Sat, 08 Mar 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x17.mkv.torrent</torrent:filename>
-      <torrent:contentlength>408070136</torrent:contentlength>
-      <torrent:infohash>A948537A3082E44B2CB2877E04D5802516AD173C</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:A948537A3082E44B2CB2877E04D5802516AD173C</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x16 - It Ain't Easy Being Breezies | 1080p.WEB-DL SCOOT | YP-1STB-04x16.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x16.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: It Ain't Easy Being Breezies; Season: 4; Episode: 16</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x16.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x16.mkv.torrent" length="47250" type="application/x-bittorrent"/>
-      <pubDate>Sat, 01 Mar 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x16.mkv.torrent</torrent:filename>
-      <torrent:contentlength>602048814</torrent:contentlength>
-      <torrent:infohash>9AD0B9B37144F11410C01E96A589F72C8718ABD9</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:9AD0B9B37144F11410C01E96A589F72C8718ABD9</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x15 - Twilight Time | 1080p.WEB-DL SCOOT | YP-1STB-04x15.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x15.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Twilight Time; Season: 4; Episode: 15</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x15.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x15.mkv.torrent" length="34110" type="application/x-bittorrent"/>
-      <pubDate>Sat, 22 Feb 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x15.mkv.torrent</torrent:filename>
-      <torrent:contentlength>429805038</torrent:contentlength>
-      <torrent:infohash>02AEB796298DCDD98919E8BAAB35C2FCAD50AFAC</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:02AEB796298DCDD98919E8BAAB35C2FCAD50AFAC</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x14 - Filli Vanilli | 1080p.WEB-DL SCOOT | YP-1STB-04x14.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x14.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Filli Vanilli; Season: 4; Episode: 14</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x14.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x14.mkv.torrent" length="39050" type="application/x-bittorrent"/>
-      <pubDate>Sat, 15 Feb 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x14.mkv.torrent</torrent:filename>
-      <torrent:contentlength>494638222</torrent:contentlength>
-      <torrent:infohash>09597160EF4B13EA9800920D98D076B7E5C3E21F</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:09597160EF4B13EA9800920D98D076B7E5C3E21F</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x13 - Simple Ways | 1080p.WEB-DL SCOOT | YP-1STB-04x13.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x13.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Simple Ways; Season: 4; Episode: 13</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x13.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x13.mkv.torrent" length="37370" type="application/x-bittorrent"/>
-      <pubDate>Sat, 08 Feb 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x13.mkv.torrent</torrent:filename>
-      <torrent:contentlength>472520816</torrent:contentlength>
-      <torrent:infohash>2DAC83833A192993605029882F653BD15230752D</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:2DAC83833A192993605029882F653BD15230752D</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x12 - Pinkie Pride | 1080p.WEB-DL SCOOT | YP-1STB-04x12.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x12.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Pinkie Pride; Season: 4; Episode: 12</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x12.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x12.mkv.torrent" length="46730" type="application/x-bittorrent"/>
-      <pubDate>Sat, 01 Feb 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x12.mkv.torrent</torrent:filename>
-      <torrent:contentlength>595249595</torrent:contentlength>
-      <torrent:infohash>DFFEC0FBB0F10124790FB484E6BDB43BEF469046</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:DFFEC0FBB0F10124790FB484E6BDB43BEF469046</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x11 - Three's a Crowd | 1080p.WEB-DL SCOOT | YP-1STB-04x11.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x11.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Three's a Crowd; Season: 4; Episode: 11</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x11.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x11.mkv.torrent" length="35150" type="application/x-bittorrent"/>
-      <pubDate>Sat, 25 Jan 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x11.mkv.torrent</torrent:filename>
-      <torrent:contentlength>443517497</torrent:contentlength>
-      <torrent:infohash>5E53ADE8A043E98F5EC11C174F038C2163E6CE0F</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:5E53ADE8A043E98F5EC11C174F038C2163E6CE0F</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x10 - Rainbow Falls | 1080p.WEB-DL SCOOT | YP-1STB-04x10.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x10.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Rainbow Falls; Season: 4; Episode: 10</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x10.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x10.mkv.torrent" length="37930" type="application/x-bittorrent"/>
-      <pubDate>Sat, 18 Jan 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x10.mkv.torrent</torrent:filename>
-      <torrent:contentlength>479890237</torrent:contentlength>
-      <torrent:infohash>A74E5C84CE24ACE23D09479F090915024FA7379C</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:A74E5C84CE24ACE23D09479F090915024FA7379C</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x09 - Pinkie Apple Pie | 1080p.WEB-DL SCOOT | YP-1STB-04x09.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x09.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Pinkie Apple Pie; Season: 4; Episode: 09</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x09.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x09.mkv.torrent" length="37670" type="application/x-bittorrent"/>
-      <pubDate>Sat, 11 Jan 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x09.mkv.torrent</torrent:filename>
-      <torrent:contentlength>476567149</torrent:contentlength>
-      <torrent:infohash>EB7494C7BDB39D6E9BA760BA989A9C092049651B</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:EB7494C7BDB39D6E9BA760BA989A9C092049651B</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x08 - Rarity Takes Manehattan | 1080p.WEB-DL SCOOT | YP-1STB-04x08.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x08.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Rarity Takes Manehattan; Season: 4; Episode: 08</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x08.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x08.mkv.torrent" length="36590" type="application/x-bittorrent"/>
-      <pubDate>Sat, 04 Jan 2014 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x08.mkv.torrent</torrent:filename>
-      <torrent:contentlength>462189396</torrent:contentlength>
-      <torrent:infohash>EED5F500E0CF4CC595349BC303D40D7652E663D1</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:EED5F500E0CF4CC595349BC303D40D7652E663D1</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x07 - Bats! | 1080p.WEB-DL SCOOT | YP-1STB-04x07.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x07.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Bats!; Season: 4; Episode: 07</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x07.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x07.mkv.torrent" length="36890" type="application/x-bittorrent"/>
-      <pubDate>Sat, 28 Dec 2013 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x07.mkv.torrent</torrent:filename>
-      <torrent:contentlength>466167622</torrent:contentlength>
-      <torrent:infohash>921B06EF2ECA7697C94B6B7C8A196F1A786E122D</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:921B06EF2ECA7697C94B6B7C8A196F1A786E122D</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x06 - Power Ponies | 1080p.WEB-DL SCOOT | YP-1STB-04x06.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x06.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Power Ponies; Season: 4; Episode: 06</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x06.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x06.mkv.torrent" length="37910" type="application/x-bittorrent"/>
-      <pubDate>Sat, 21 Dec 2013 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x06.mkv.torrent</torrent:filename>
-      <torrent:contentlength>479628458</torrent:contentlength>
-      <torrent:infohash>96B7DBBB25E2D97BD98F55B56AAF0D9C9B090A5C</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:96B7DBBB25E2D97BD98F55B56AAF0D9C9B090A5C</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x05 - Flight to the Finish | 1080p.WEB-DL SCOOT | YP-1STB-04x05.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x05.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Flight to the Finish; Season: 4; Episode: 05</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x05.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x05.mkv.torrent" length="34270" type="application/x-bittorrent"/>
-      <pubDate>Sat, 14 Dec 2013 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x05.mkv.torrent</torrent:filename>
-      <torrent:contentlength>431945410</torrent:contentlength>
-      <torrent:infohash>F368D8800498A22C1273CC679051CF2219DDB6E9</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:F368D8800498A22C1273CC679051CF2219DDB6E9</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x04 - Daring Don't | 1080p.WEB-DL SCOOT | YP-1STB-04x04.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x04.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Daring Don't; Season: 4; Episode: 04</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x04.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x04.mkv.torrent" length="36710" type="application/x-bittorrent"/>
-      <pubDate>Sat, 07 Dec 2013 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x04.mkv.torrent</torrent:filename>
-      <torrent:contentlength>463905682</torrent:contentlength>
-      <torrent:infohash>996DAD0CA11C424CF4F6C524E2CE3E7489907349</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:996DAD0CA11C424CF4F6C524E2CE3E7489907349</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x03 - Castle Mane-ia | 1080p.WEB-DL SCOOT | YP-1STB-04x03.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x03.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Castle Mane-ia; Season: 4; Episode: 03</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x03.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x03.mkv.torrent" length="33430" type="application/x-bittorrent"/>
-      <pubDate>Sat, 30 Nov 2013 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x03.mkv.torrent</torrent:filename>
-      <torrent:contentlength>420881965</torrent:contentlength>
-      <torrent:infohash>4CA3F3BEFBD785019A5DAABCA1149AE1A2C4EAE4</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:4CA3F3BEFBD785019A5DAABCA1149AE1A2C4EAE4</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x02 - Princess Twilight Sparkle (2) | 1080p.WEB-DL SCOOT | YP-1STB-04x02.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x02.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Princess Twilight Sparkle (2); Season: 4; Episode: 02</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x02.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x02.mkv.torrent" length="40910" type="application/x-bittorrent"/>
-      <pubDate>Sat, 23 Nov 2013 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x02.mkv.torrent</torrent:filename>
-      <torrent:contentlength>519031521</torrent:contentlength>
-      <torrent:infohash>742FA82D4D3FD51A78EFCC80C30CE247F0C5F885</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:742FA82D4D3FD51A78EFCC80C30CE247F0C5F885</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 04x01 - Princess Twilight Sparkle (1) | 1080p.WEB-DL SCOOT | YP-1STB-04x01.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-04x01.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Princess Twilight Sparkle (1); Season: 4; Episode: 01</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-04x01.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-04x01.mkv.torrent" length="39050" type="application/x-bittorrent"/>
-      <pubDate>Sat, 23 Nov 2013 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-04x01.mkv.torrent</torrent:filename>
-      <torrent:contentlength>494410527</torrent:contentlength>
-      <torrent:infohash>4AB47701A01A94D3086D6493030A5720EEE24742</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:4AB47701A01A94D3086D6493030A5720EEE24742</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 03x13 - Magical Mystery Cure | 1080p.WEB-DL SCOOT | YP-1STB-03x13.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-03x13.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Magical Mystery Cure; Season: 3; Episode: 13</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-03x13.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-03x13.mkv.torrent" length="47810" type="application/x-bittorrent"/>
-      <pubDate>Sat, 16 Feb 2013 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-03x13.mkv.torrent</torrent:filename>
-      <torrent:contentlength>609341031</torrent:contentlength>
-      <torrent:infohash>1E0D2F41F21AF46423A0F7AE5DD37B8DA5625AF6</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:1E0D2F41F21AF46423A0F7AE5DD37B8DA5625AF6</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 03x12 - Games Ponies Play | 1080p.WEB-DL SCOOT | YP-1STB-03x12.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-03x12.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Games Ponies Play; Season: 3; Episode: 12</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-03x12.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-03x12.mkv.torrent" length="40370" type="application/x-bittorrent"/>
-      <pubDate>Sat, 09 Feb 2013 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-03x12.mkv.torrent</torrent:filename>
-      <torrent:contentlength>511954387</torrent:contentlength>
-      <torrent:infohash>CC2E5E424214440EAE835C01ECECE912910DF20F</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:CC2E5E424214440EAE835C01ECECE912910DF20F</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 03x11 - Just for Sidekicks | 1080p.WEB-DL SCOOT | YP-1STB-03x11.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-03x11.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Just for Sidekicks; Season: 3; Episode: 11</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-03x11.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-03x11.mkv.torrent" length="37730" type="application/x-bittorrent"/>
-      <pubDate>Sat, 26 Jan 2013 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-03x11.mkv.torrent</torrent:filename>
-      <torrent:contentlength>477199923</torrent:contentlength>
-      <torrent:infohash>23760CE485528F149E63CA838BFF6622F55619BF</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:23760CE485528F149E63CA838BFF6622F55619BF</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 03x10 - Keep Calm and Flutter On | 1080p.WEB-DL SCOOT | YP-1STB-03x10.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-03x10.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Keep Calm and Flutter On; Season: 3; Episode: 10</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-03x10.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-03x10.mkv.torrent" length="42030" type="application/x-bittorrent"/>
-      <pubDate>Sat, 19 Jan 2013 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-03x10.mkv.torrent</torrent:filename>
-      <torrent:contentlength>533721625</torrent:contentlength>
-      <torrent:infohash>C69F72200BAD87F47D48CDBEAAADCAF1260E0BBB</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:C69F72200BAD87F47D48CDBEAAADCAF1260E0BBB</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 03x09 - Spike at Your Service | 1080p.WEB-DL SCOOT | YP-1STB-03x09.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-03x09.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Spike at Your Service; Season: 3; Episode: 09</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-03x09.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-03x09.mkv.torrent" length="33770" type="application/x-bittorrent"/>
-      <pubDate>Sat, 29 Dec 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-03x09.mkv.torrent</torrent:filename>
-      <torrent:contentlength>425246851</torrent:contentlength>
-      <torrent:infohash>64443FC17C825CAD679E99F56C3925203D9EA383</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:64443FC17C825CAD679E99F56C3925203D9EA383</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 03x08 - Apple Family Reunion | 1080p.WEB-DL SCOOT | YP-1STB-03x08.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-03x08.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Apple Family Reunion; Season: 3; Episode: 08</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-03x08.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-03x08.mkv.torrent" length="41830" type="application/x-bittorrent"/>
-      <pubDate>Sat, 22 Dec 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-03x08.mkv.torrent</torrent:filename>
-      <torrent:contentlength>531000900</torrent:contentlength>
-      <torrent:infohash>B32E37788A91EF6317C74991C4D767FFF2B465B8</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:B32E37788A91EF6317C74991C4D767FFF2B465B8</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 03x07 - Wonderbolts Academy | 1080p.WEB-DL SCOOT | YP-1STB-03x07.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-03x07.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Wonderbolts Academy; Season: 3; Episode: 07</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-03x07.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-03x07.mkv.torrent" length="46830" type="application/x-bittorrent"/>
-      <pubDate>Sat, 15 Dec 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-03x07.mkv.torrent</torrent:filename>
-      <torrent:contentlength>596440565</torrent:contentlength>
-      <torrent:infohash>8B806B513B50E108540B8FE9356BC0F995463D72</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:8B806B513B50E108540B8FE9356BC0F995463D72</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 03x06 - Sleepless in Ponyville | 1080p.WEB-DL SCOOT | YP-1STB-03x06.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-03x06.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Sleepless in Ponyville; Season: 3; Episode: 06</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-03x06.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-03x06.mkv.torrent" length="37210" type="application/x-bittorrent"/>
-      <pubDate>Sat, 08 Dec 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-03x06.mkv.torrent</torrent:filename>
-      <torrent:contentlength>470511175</torrent:contentlength>
-      <torrent:infohash>3880E8C099D825DF4C0F513AA1E59A7C4AB20F9A</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:3880E8C099D825DF4C0F513AA1E59A7C4AB20F9A</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 03x05 - Magic Duel | 1080p.WEB-DL SCOOT | YP-1STB-03x05.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-03x05.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Magic Duel; Season: 3; Episode: 05</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-03x05.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-03x05.mkv.torrent" length="39150" type="application/x-bittorrent"/>
-      <pubDate>Sat, 01 Dec 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-03x05.mkv.torrent</torrent:filename>
-      <torrent:contentlength>495911243</torrent:contentlength>
-      <torrent:infohash>87B4434CBD5DFCFE87A44698C007E92F3B7B9F1E</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:87B4434CBD5DFCFE87A44698C007E92F3B7B9F1E</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 03x04 - One Bad Apple | 1080p.WEB-DL SCOOT | YP-1STB-03x04.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-03x04.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: One Bad Apple; Season: 3; Episode: 04</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-03x04.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-03x04.mkv.torrent" length="38830" type="application/x-bittorrent"/>
-      <pubDate>Sat, 24 Nov 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-03x04.mkv.torrent</torrent:filename>
-      <torrent:contentlength>491689600</torrent:contentlength>
-      <torrent:infohash>3ECF2CE329353E975620E340A54D04E8F50DBC96</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:3ECF2CE329353E975620E340A54D04E8F50DBC96</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 03x03 - Too Many Pinkie Pies | 1080p.WEB-DL SCOOT | YP-1STB-03x03.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-03x03.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Too Many Pinkie Pies; Season: 3; Episode: 03</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-03x03.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-03x03.mkv.torrent" length="40190" type="application/x-bittorrent"/>
-      <pubDate>Sat, 17 Nov 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-03x03.mkv.torrent</torrent:filename>
-      <torrent:contentlength>509539847</torrent:contentlength>
-      <torrent:infohash>4F8984827F6D20E4838D5BC540E6AC6EA2420BCF</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:4F8984827F6D20E4838D5BC540E6AC6EA2420BCF</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 03x02 - The Crystal Empire (2) | 1080p.WEB-DL SCOOT | YP-1STB-03x02.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-03x02.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Crystal Empire (2); Season: 3; Episode: 02</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-03x02.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-03x02.mkv.torrent" length="42690" type="application/x-bittorrent"/>
-      <pubDate>Sat, 10 Nov 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-03x02.mkv.torrent</torrent:filename>
-      <torrent:contentlength>542353087</torrent:contentlength>
-      <torrent:infohash>B444A4C44467AF97191E49E5311B2204058F69A8</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:B444A4C44467AF97191E49E5311B2204058F69A8</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 03x01 - The Crystal Empire (1) | 1080p.WEB-DL SCOOT | YP-1STB-03x01.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-03x01.mkv.torrent</link>
-      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Crystal Empire (1); Season: 3; Episode: 01</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-03x01.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-03x01.mkv.torrent" length="47070" type="application/x-bittorrent"/>
-      <pubDate>Sat, 10 Nov 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-03x01.mkv.torrent</torrent:filename>
-      <torrent:contentlength>599525582</torrent:contentlength>
-      <torrent:infohash>0495B32165776A3AA3FE2FF50B269898EEF18DBA</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:0495B32165776A3AA3FE2FF50B269898EEF18DBA</torrent:magneturi>
-    </item>
-    <item>
-      <title>My Little Pony, Friendship is Magic - 02x26 - A Canterlot Wedding (2) | 1080p.WEB-DL SCOOT | YP-1STB-02x26.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x26.mkv.torrent</link>
+    <lastBuildDate>Mon, 27 May 2019 01:00:54 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 09x08 - Frenemies | 1080p.WEB-DL SCOOT | YP-1S10-09x08.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-09x08.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Frenemies; Season: 9; Episode: 08</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-09x08.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-09x08.mkv.torrent" length="29890" type="application/x-bittorrent"/>
+      <pubDate>Sat, 18 May 2019 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1S10-09x08.mkv.torrent</torrent:filename>
+      <torrent:contentlength>374353841</torrent:contentlength>
+      <torrent:infohash>F2E312235F38517CE152EEAE4B2417599E1BEEB3</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:F2E312235F38517CE152EEAE4B2417599E1BEEB3</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 09x07 - She's All Yak | 1080p.WEB-DL SCOOT | YP-1S10-09x07.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-09x07.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: She's All Yak; Season: 9; Episode: 07</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-09x07.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-09x07.mkv.torrent" length="33650" type="application/x-bittorrent"/>
+      <pubDate>Sat, 11 May 2019 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1S10-09x07.mkv.torrent</torrent:filename>
+      <torrent:contentlength>423834657</torrent:contentlength>
+      <torrent:infohash>BB6B7549133A634A823972CD8A5162DB5AE9FA78</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:BB6B7549133A634A823972CD8A5162DB5AE9FA78</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 09x06 - Common Ground | 1080p.WEB-DL SCOOT | YP-1S10-09x06.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-09x06.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Common Ground; Season: 9; Episode: 06</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-09x06.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-09x06.mkv.torrent" length="31310" type="application/x-bittorrent"/>
+      <pubDate>Sat, 04 May 2019 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1S10-09x06.mkv.torrent</torrent:filename>
+      <torrent:contentlength>393026766</torrent:contentlength>
+      <torrent:infohash>1342C039C1087D8701106A1BE50D02DE7B94E1BF</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:1342C039C1087D8701106A1BE50D02DE7B94E1BF</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 09x05 - The Point of No Return | 1080p.WEB-DL SCOOT | YP-1S10-09x05.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-09x05.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Point of No Return; Season: 9; Episode: 05</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-09x05.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-09x05.mkv.torrent" length="29130" type="application/x-bittorrent"/>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1S10-09x05.mkv.torrent</torrent:filename>
+      <torrent:contentlength>364596144</torrent:contentlength>
+      <torrent:infohash>0D35C89DACC65CFAE5F7963EC56B53AEDD87DBE9</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:0D35C89DACC65CFAE5F7963EC56B53AEDD87DBE9</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 09x04 - Sparkle's Seven | 1080p.WEB-DL SCOOT | YP-1S10-09x04.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-09x04.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Sparkle's Seven; Season: 9; Episode: 04</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-09x04.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-09x04.mkv.torrent" length="30610" type="application/x-bittorrent"/>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1S10-09x04.mkv.torrent</torrent:filename>
+      <torrent:contentlength>383883311</torrent:contentlength>
+      <torrent:infohash>68581E7626342A5BC3A286AA26C7525D2DDC80EF</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:68581E7626342A5BC3A286AA26C7525D2DDC80EF</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 09x03 - Uprooted | 1080p.WEB-DL SCOOT | YP-1S10-09x03.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-09x03.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Uprooted; Season: 9; Episode: 03</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-09x03.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-09x03.mkv.torrent" length="33270" type="application/x-bittorrent"/>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1S10-09x03.mkv.torrent</torrent:filename>
+      <torrent:contentlength>418797015</torrent:contentlength>
+      <torrent:infohash>21ACE1A5D3FAAFFD69E3E0E8EC8045AE4D1FC43E</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:21ACE1A5D3FAAFFD69E3E0E8EC8045AE4D1FC43E</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 09x02 - The Beginning of the End (Part 2) | 1080p.WEB-DL SCOOT | YP-1S10-09x02.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-09x02.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Beginning of the End (Part 2); Season: 9; Episode: 02</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-09x02.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-09x02.mkv.torrent" length="35610" type="application/x-bittorrent"/>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1S10-09x02.mkv.torrent</torrent:filename>
+      <torrent:contentlength>449368145</torrent:contentlength>
+      <torrent:infohash>89720AD7EB6B188DA86A1B447BA015847E422877</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:89720AD7EB6B188DA86A1B447BA015847E422877</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 09x01 - The Beginning of the End (Part 1) | 1080p.WEB-DL SCOOT | YP-1S10-09x01.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-09x01.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Beginning of the End (Part 1); Season: 9; Episode: 01</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-09x01.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-09x01.mkv.torrent" length="32810" type="application/x-bittorrent"/>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1S10-09x01.mkv.torrent</torrent:filename>
+      <torrent:contentlength>412776705</torrent:contentlength>
+      <torrent:infohash>1B8B7F2C7C1B48FCCA54BE0156C8D784EC012223</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:1B8B7F2C7C1B48FCCA54BE0156C8D784EC012223</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 02x26 - A Canterlot Wedding (2) | 1080p.WEB-DL SCOOT | YP-1S10-02x26.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x26.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: A Canterlot Wedding (2); Season: 2; Episode: 26</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x26.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x26.mkv.torrent" length="50990" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x26.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x26.mkv.torrent" length="41490" type="application/x-bittorrent"/>
       <pubDate>Sat, 21 Apr 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x26.mkv.torrent</torrent:filename>
-      <torrent:contentlength>650983136</torrent:contentlength>
-      <torrent:infohash>5E721D271CCD3F5B1A75CE45C0FC42891A6BF686</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:5E721D271CCD3F5B1A75CE45C0FC42891A6BF686</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x26.mkv.torrent</torrent:filename>
+      <torrent:contentlength>526593529</torrent:contentlength>
+      <torrent:infohash>B1AAB4551A30693E8B0DA4753C62B6AFC86722B5</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:B1AAB4551A30693E8B0DA4753C62B6AFC86722B5</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x25 - A Canterlot Wedding (1) | 1080p.WEB-DL SCOOT | YP-1STB-02x25.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x25.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x25 - A Canterlot Wedding (1) | 1080p.WEB-DL SCOOT | YP-1S10-02x25.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x25.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: A Canterlot Wedding (1); Season: 2; Episode: 25</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x25.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x25.mkv.torrent" length="39170" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x25.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x25.mkv.torrent" length="32190" type="application/x-bittorrent"/>
       <pubDate>Sat, 21 Apr 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x25.mkv.torrent</torrent:filename>
-      <torrent:contentlength>496184434</torrent:contentlength>
-      <torrent:infohash>A5653ABE5FF85CB3749C21EDC28B5B2CF0E8F1DD</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:A5653ABE5FF85CB3749C21EDC28B5B2CF0E8F1DD</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x25.mkv.torrent</torrent:filename>
+      <torrent:contentlength>404748517</torrent:contentlength>
+      <torrent:infohash>825F55029C6293D8E7AF0E344A8FD0D5E541020F</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:825F55029C6293D8E7AF0E344A8FD0D5E541020F</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x24 - MMMystery on the Friendship Express | 1080p.WEB-DL SCOOT | YP-1STB-02x24.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x24.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x24 - MMMystery on the Friendship Express | 1080p.WEB-DL SCOOT | YP-1S10-02x24.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x24.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: MMMystery on the Friendship Express; Season: 2; Episode: 24</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x24.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x24.mkv.torrent" length="37950" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x24.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x24.mkv.torrent" length="31350" type="application/x-bittorrent"/>
       <pubDate>Sat, 07 Apr 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x24.mkv.torrent</torrent:filename>
-      <torrent:contentlength>479985834</torrent:contentlength>
-      <torrent:infohash>0DE6A214D2CF8B59EFF5B6BAC04D2205FBF8875A</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:0DE6A214D2CF8B59EFF5B6BAC04D2205FBF8875A</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x24.mkv.torrent</torrent:filename>
+      <torrent:contentlength>393576740</torrent:contentlength>
+      <torrent:infohash>B48CD90E4D9F16DD908EE7164429511F5A6E4397</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:B48CD90E4D9F16DD908EE7164429511F5A6E4397</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x23 - Ponyville Confidential | 1080p.WEB-DL SCOOT | YP-1STB-02x23.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x23.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x23 - Ponyville Confidential | 1080p.WEB-DL SCOOT | YP-1S10-02x23.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x23.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Ponyville Confidential; Season: 2; Episode: 23</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x23.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x23.mkv.torrent" length="33550" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x23.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x23.mkv.torrent" length="28470" type="application/x-bittorrent"/>
       <pubDate>Sat, 31 Mar 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x23.mkv.torrent</torrent:filename>
-      <torrent:contentlength>422571871</torrent:contentlength>
-      <torrent:infohash>D1C0C505F5CB88A6B39E630ADE0117797755E432</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:D1C0C505F5CB88A6B39E630ADE0117797755E432</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x23.mkv.torrent</torrent:filename>
+      <torrent:contentlength>355801916</torrent:contentlength>
+      <torrent:infohash>5037A0E368DF4D619D6797DE61166BE27620D025</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:5037A0E368DF4D619D6797DE61166BE27620D025</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x22 - Hurricane Fluttershy | 1080p.WEB-DL SCOOT | YP-1STB-02x22.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x22.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x22 - Hurricane Fluttershy | 1080p.WEB-DL SCOOT | YP-1S10-02x22.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x22.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Hurricane Fluttershy; Season: 2; Episode: 22</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x22.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x22.mkv.torrent" length="41690" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x22.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x22.mkv.torrent" length="35170" type="application/x-bittorrent"/>
       <pubDate>Sat, 24 Mar 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x22.mkv.torrent</torrent:filename>
-      <torrent:contentlength>529172525</torrent:contentlength>
-      <torrent:infohash>C66921AB4FCB30121026703CFF5F8A5187A4B9B6</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:C66921AB4FCB30121026703CFF5F8A5187A4B9B6</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x22.mkv.torrent</torrent:filename>
+      <torrent:contentlength>443734198</torrent:contentlength>
+      <torrent:infohash>6393971796F42B3890209C093EFBB872C4FD5F8A</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:6393971796F42B3890209C093EFBB872C4FD5F8A</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x21 - Dragon Quest | 1080p.WEB-DL SCOOT | YP-1STB-02x21.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x21.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x21 - Dragon Quest | 1080p.WEB-DL SCOOT | YP-1S10-02x21.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x21.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Dragon Quest; Season: 2; Episode: 21</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x21.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x21.mkv.torrent" length="41590" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x21.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x21.mkv.torrent" length="33810" type="application/x-bittorrent"/>
       <pubDate>Sat, 17 Mar 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x21.mkv.torrent</torrent:filename>
-      <torrent:contentlength>527898348</torrent:contentlength>
-      <torrent:infohash>4B15D34A16B0D512290FFBA170A0E3FD2F74E017</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:4B15D34A16B0D512290FFBA170A0E3FD2F74E017</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x21.mkv.torrent</torrent:filename>
+      <torrent:contentlength>425876092</torrent:contentlength>
+      <torrent:infohash>C4C22AAE0E4041C1617F8C8995632E6070C22D4D</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:C4C22AAE0E4041C1617F8C8995632E6070C22D4D</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x20 - It's About Time | 1080p.WEB-DL SCOOT | YP-1STB-02x20.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x20.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x20 - It's About Time | 1080p.WEB-DL SCOOT | YP-1S10-02x20.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x20.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: It's About Time; Season: 2; Episode: 20</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x20.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x20.mkv.torrent" length="33310" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x20.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x20.mkv.torrent" length="27470" type="application/x-bittorrent"/>
       <pubDate>Sat, 10 Mar 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x20.mkv.torrent</torrent:filename>
-      <torrent:contentlength>419339296</torrent:contentlength>
-      <torrent:infohash>9D9A7132731746FE9AC52F832B5DFF3D0921A26B</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:9D9A7132731746FE9AC52F832B5DFF3D0921A26B</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x20.mkv.torrent</torrent:filename>
+      <torrent:contentlength>342716179</torrent:contentlength>
+      <torrent:infohash>1F3162EABEA8AA811469163AF27E98AACAEF9293</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:1F3162EABEA8AA811469163AF27E98AACAEF9293</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x19 - Putting Your Hoof Down | 1080p.WEB-DL SCOOT | YP-1STB-02x19.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x19.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x19 - Putting Your Hoof Down | 1080p.WEB-DL SCOOT | YP-1S10-02x19.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x19.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Putting Your Hoof Down; Season: 2; Episode: 19</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x19.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x19.mkv.torrent" length="35570" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x19.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x19.mkv.torrent" length="29730" type="application/x-bittorrent"/>
       <pubDate>Sat, 03 Mar 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x19.mkv.torrent</torrent:filename>
-      <torrent:contentlength>448828530</torrent:contentlength>
-      <torrent:infohash>56DC1E8E40AE689489715E82BFA2A7DBF3928E59</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:56DC1E8E40AE689489715E82BFA2A7DBF3928E59</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x19.mkv.torrent</torrent:filename>
+      <torrent:contentlength>372423197</torrent:contentlength>
+      <torrent:infohash>E02A0F6BCEB78689CE694E2C5A7DED93E81BBB35</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:E02A0F6BCEB78689CE694E2C5A7DED93E81BBB35</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x18 - A Friend in Deed | 1080p.WEB-DL SCOOT | YP-1STB-02x18.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x18.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x18 - A Friend in Deed | 1080p.WEB-DL SCOOT | YP-1S10-02x18.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x18.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: A Friend in Deed; Season: 2; Episode: 18</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x18.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x18.mkv.torrent" length="42050" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x18.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x18.mkv.torrent" length="34930" type="application/x-bittorrent"/>
       <pubDate>Sat, 18 Feb 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x18.mkv.torrent</torrent:filename>
-      <torrent:contentlength>533794289</torrent:contentlength>
-      <torrent:infohash>7B1444C8F798AD6CFBB717F21CBD27F5BE478C29</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:7B1444C8F798AD6CFBB717F21CBD27F5BE478C29</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x18.mkv.torrent</torrent:filename>
+      <torrent:contentlength>440617371</torrent:contentlength>
+      <torrent:infohash>4DC784AB2EA7B93DC57EB2F14D9CB2CDEB7A7492</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:4DC784AB2EA7B93DC57EB2F14D9CB2CDEB7A7492</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x17 - Hearts and Hooves Day | 1080p.WEB-DL SCOOT | YP-1STB-02x17.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x17.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x17 - Hearts and Hooves Day | 1080p.WEB-DL SCOOT | YP-1S10-02x17.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x17.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Hearts and Hooves Day; Season: 2; Episode: 17</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x17.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x17.mkv.torrent" length="36910" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x17.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x17.mkv.torrent" length="31090" type="application/x-bittorrent"/>
       <pubDate>Sat, 11 Feb 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x17.mkv.torrent</torrent:filename>
-      <torrent:contentlength>466387543</torrent:contentlength>
-      <torrent:infohash>F0D411A02CBEB6E13CB5D8A4C2A6D7E826DEA718</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:F0D411A02CBEB6E13CB5D8A4C2A6D7E826DEA718</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x17.mkv.torrent</torrent:filename>
+      <torrent:contentlength>390299099</torrent:contentlength>
+      <torrent:infohash>759183A0DB57B05407B589EBF792EC91643E7F26</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:759183A0DB57B05407B589EBF792EC91643E7F26</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x16 - Read It and Weep | 1080p.WEB-DL SCOOT | YP-1STB-02x16.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x16.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x16 - Read It and Weep | 1080p.WEB-DL SCOOT | YP-1S10-02x16.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x16.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Read It and Weep; Season: 2; Episode: 16</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x16.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x16.mkv.torrent" length="32210" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x16.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x16.mkv.torrent" length="26330" type="application/x-bittorrent"/>
       <pubDate>Sat, 04 Feb 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x16.mkv.torrent</torrent:filename>
-      <torrent:contentlength>404956995</torrent:contentlength>
-      <torrent:infohash>13E0327560811CE3EACCF0C4D1151166B7FB3983</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:13E0327560811CE3EACCF0C4D1151166B7FB3983</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x16.mkv.torrent</torrent:filename>
+      <torrent:contentlength>327869744</torrent:contentlength>
+      <torrent:infohash>33C870BACA15349BEACADBBA9E8823E5B68AB508</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:33C870BACA15349BEACADBBA9E8823E5B68AB508</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x15 - The Super Speedy Cider Squeezy 6000 | 1080p.WEB-DL SCOOT | YP-1STB-02x15.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x15.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x15 - The Super Speedy Cider Squeezy 6000 | 1080p.WEB-DL SCOOT | YP-1S10-02x15.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x15.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Super Speedy Cider Squeezy 6000; Season: 2; Episode: 15</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x15.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x15.mkv.torrent" length="44630" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x15.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x15.mkv.torrent" length="37570" type="application/x-bittorrent"/>
       <pubDate>Sat, 28 Jan 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x15.mkv.torrent</torrent:filename>
-      <torrent:contentlength>567691469</torrent:contentlength>
-      <torrent:infohash>68A9A0CDD4939E4B4CFFD0EBA72DC8697FAED435</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:68A9A0CDD4939E4B4CFFD0EBA72DC8697FAED435</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x15.mkv.torrent</torrent:filename>
+      <torrent:contentlength>475021328</torrent:contentlength>
+      <torrent:infohash>94A9C2FD15A2D38C356C42E63D9234DFE0C0EDFA</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:94A9C2FD15A2D38C356C42E63D9234DFE0C0EDFA</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x14 - The Last Roundup | 1080p.WEB-DL SCOOT | YP-1STB-02x14.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x14.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x14 - The Last Roundup | 1080p.WEB-DL SCOOT | YP-1S10-02x14.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x14.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Last Roundup; Season: 2; Episode: 14</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x14.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x14.mkv.torrent" length="42090" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x14.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x14.mkv.torrent" length="35790" type="application/x-bittorrent"/>
       <pubDate>Sat, 21 Jan 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x14.mkv.torrent</torrent:filename>
-      <torrent:contentlength>534406923</torrent:contentlength>
-      <torrent:infohash>6BD544BFAE92E03F620639B5F1EB1C60670657E1</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:6BD544BFAE92E03F620639B5F1EB1C60670657E1</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x14.mkv.torrent</torrent:filename>
+      <torrent:contentlength>451829046</torrent:contentlength>
+      <torrent:infohash>429AAF6DE42B495C144A6227994967A0B8C62629</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:429AAF6DE42B495C144A6227994967A0B8C62629</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x13 - Baby Cakes | 1080p.WEB-DL SCOOT | YP-1STB-02x13.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x13.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x13 - Baby Cakes | 1080p.WEB-DL SCOOT | YP-1S10-02x13.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x13.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Baby Cakes; Season: 2; Episode: 13</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x13.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x13.mkv.torrent" length="33870" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x13.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x13.mkv.torrent" length="29070" type="application/x-bittorrent"/>
       <pubDate>Sat, 14 Jan 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x13.mkv.torrent</torrent:filename>
-      <torrent:contentlength>426757455</torrent:contentlength>
-      <torrent:infohash>86CBC68B79D6FB5C38244192E12C248FB695AD1E</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:86CBC68B79D6FB5C38244192E12C248FB695AD1E</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x13.mkv.torrent</torrent:filename>
+      <torrent:contentlength>363798971</torrent:contentlength>
+      <torrent:infohash>3700A9CE3E59EB0B8A1ADCD4CE5C3BFA9D0B56BF</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:3700A9CE3E59EB0B8A1ADCD4CE5C3BFA9D0B56BF</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x12 - Family Appreciation Day | 1080p.WEB-DL SCOOT | YP-1STB-02x12.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x12.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x12 - Family Appreciation Day | 1080p.WEB-DL SCOOT | YP-1S10-02x12.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x12.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Family Appreciation Day; Season: 2; Episode: 12</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x12.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x12.mkv.torrent" length="37250" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x12.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x12.mkv.torrent" length="31070" type="application/x-bittorrent"/>
       <pubDate>Sat, 07 Jan 2012 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x12.mkv.torrent</torrent:filename>
-      <torrent:contentlength>470859792</torrent:contentlength>
-      <torrent:infohash>6CE1B9FAEF3ECC8AC1956D46A357A3AB5777F1E8</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:6CE1B9FAEF3ECC8AC1956D46A357A3AB5777F1E8</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x12.mkv.torrent</torrent:filename>
+      <torrent:contentlength>389926044</torrent:contentlength>
+      <torrent:infohash>3BD7FAA5DDFD9801792A7673D450BE2CF4C82039</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:3BD7FAA5DDFD9801792A7673D450BE2CF4C82039</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x11 - Hearth's Warming Eve | 1080p.WEB-DL SCOOT | YP-1STB-02x11.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x11.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x11 - Hearth's Warming Eve | 1080p.WEB-DL SCOOT | YP-1S10-02x11.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x11.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Hearth's Warming Eve; Season: 2; Episode: 11</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x11.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x11.mkv.torrent" length="44850" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x11.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x11.mkv.torrent" length="37370" type="application/x-bittorrent"/>
       <pubDate>Sat, 17 Dec 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x11.mkv.torrent</torrent:filename>
-      <torrent:contentlength>570489293</torrent:contentlength>
-      <torrent:infohash>69FDF358A8A4A69ADA26C14975CD38BD940AAA40</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:69FDF358A8A4A69ADA26C14975CD38BD940AAA40</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x11.mkv.torrent</torrent:filename>
+      <torrent:contentlength>472437829</torrent:contentlength>
+      <torrent:infohash>46A3E0D5851497A8A16ED0FB775AC7D98026A279</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:46A3E0D5851497A8A16ED0FB775AC7D98026A279</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x10 - Secret of My Excess | 1080p.WEB-DL SCOOT | YP-1STB-02x10.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x10.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x10 - Secret of My Excess | 1080p.WEB-DL SCOOT | YP-1S10-02x10.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x10.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Secret of My Excess; Season: 2; Episode: 10</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x10.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x10.mkv.torrent" length="37410" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x10.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x10.mkv.torrent" length="31670" type="application/x-bittorrent"/>
       <pubDate>Sat, 10 Dec 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x10.mkv.torrent</torrent:filename>
-      <torrent:contentlength>472969619</torrent:contentlength>
-      <torrent:infohash>FA05787B90E3077F3185215EFF0636119CDD6FAA</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:FA05787B90E3077F3185215EFF0636119CDD6FAA</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x10.mkv.torrent</torrent:filename>
+      <torrent:contentlength>397739901</torrent:contentlength>
+      <torrent:infohash>0D7DFBE3F514E9941DEE86A50F2C063026AEF8AC</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:0D7DFBE3F514E9941DEE86A50F2C063026AEF8AC</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x09 - Sweet and Elite | 1080p.WEB-DL SCOOT | YP-1STB-02x09.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x09.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x09 - Sweet and Elite | 1080p.WEB-DL SCOOT | YP-1S10-02x09.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x09.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Sweet and Elite; Season: 2; Episode: 09</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x09.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x09.mkv.torrent" length="42690" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x09.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x09.mkv.torrent" length="35690" type="application/x-bittorrent"/>
       <pubDate>Sat, 03 Dec 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x09.mkv.torrent</torrent:filename>
-      <torrent:contentlength>542189886</torrent:contentlength>
-      <torrent:infohash>19CC3DA256CD134E0D349B1BDCA38837CF4ED7FE</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:19CC3DA256CD134E0D349B1BDCA38837CF4ED7FE</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x09.mkv.torrent</torrent:filename>
+      <torrent:contentlength>450533773</torrent:contentlength>
+      <torrent:infohash>1ACCD20B31AB6A11A13C0DDBFAF2F707D5A7FF16</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:1ACCD20B31AB6A11A13C0DDBFAF2F707D5A7FF16</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x08 - The Mysterious Mare Do Well | 1080p.WEB-DL SCOOT | YP-1STB-02x08.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x08.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x08 - The Mysterious Mare Do Well | 1080p.WEB-DL SCOOT | YP-1S10-02x08.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x08.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Mysterious Mare Do Well; Season: 2; Episode: 08</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x08.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x08.mkv.torrent" length="39470" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x08.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x08.mkv.torrent" length="33590" type="application/x-bittorrent"/>
       <pubDate>Sat, 26 Nov 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x08.mkv.torrent</torrent:filename>
-      <torrent:contentlength>500021485</torrent:contentlength>
-      <torrent:infohash>5F20A511B232C7CBCBDC7CC3A347A1AD7EB483C8</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:5F20A511B232C7CBCBDC7CC3A347A1AD7EB483C8</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x08.mkv.torrent</torrent:filename>
+      <torrent:contentlength>422905463</torrent:contentlength>
+      <torrent:infohash>6625295006894A2708D46D18C424DDF04E8C991D</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:6625295006894A2708D46D18C424DDF04E8C991D</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x07 - May the Best Pet Win! | 1080p.WEB-DL SCOOT | YP-1STB-02x07.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x07.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x07 - May the Best Pet Win! | 1080p.WEB-DL SCOOT | YP-1S10-02x07.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x07.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: May the Best Pet Win!; Season: 2; Episode: 07</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x07.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x07.mkv.torrent" length="38590" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x07.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x07.mkv.torrent" length="32690" type="application/x-bittorrent"/>
       <pubDate>Sat, 19 Nov 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x07.mkv.torrent</torrent:filename>
-      <torrent:contentlength>488634922</torrent:contentlength>
-      <torrent:infohash>56E890A6796B6AFA363F2F9207A5633C5122FB77</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:56E890A6796B6AFA363F2F9207A5633C5122FB77</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x07.mkv.torrent</torrent:filename>
+      <torrent:contentlength>411208269</torrent:contentlength>
+      <torrent:infohash>552728E58011E2B3505877472E6E2482B927BEEC</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:552728E58011E2B3505877472E6E2482B927BEEC</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x06 - The Cutie Pox | 1080p.WEB-DL SCOOT | YP-1STB-02x06.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x06.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x06 - The Cutie Pox | 1080p.WEB-DL SCOOT | YP-1S10-02x06.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x06.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Cutie Pox; Season: 2; Episode: 06</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x06.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x06.mkv.torrent" length="37230" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x06.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x06.mkv.torrent" length="31570" type="application/x-bittorrent"/>
       <pubDate>Sat, 12 Nov 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x06.mkv.torrent</torrent:filename>
-      <torrent:contentlength>470724906</torrent:contentlength>
-      <torrent:infohash>9297A1BA4C1372245D076F0AA4E48CB11EF8FEA5</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:9297A1BA4C1372245D076F0AA4E48CB11EF8FEA5</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x06.mkv.torrent</torrent:filename>
+      <torrent:contentlength>396410085</torrent:contentlength>
+      <torrent:infohash>24D039DB45732374743BC6FCA9EECE325C69C682</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:24D039DB45732374743BC6FCA9EECE325C69C682</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x05 - Sisterhooves Social | 1080p.WEB-DL SCOOT | YP-1STB-02x05.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x05.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x05 - Sisterhooves Social | 1080p.WEB-DL SCOOT | YP-1S10-02x05.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x05.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Sisterhooves Social; Season: 2; Episode: 05</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x05.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x05.mkv.torrent" length="33890" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x05.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x05.mkv.torrent" length="28890" type="application/x-bittorrent"/>
       <pubDate>Sat, 05 Nov 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x05.mkv.torrent</torrent:filename>
-      <torrent:contentlength>426962374</torrent:contentlength>
-      <torrent:infohash>3ADF4B804F23BD385F6ACD48A41963A7C3CF6984</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:3ADF4B804F23BD385F6ACD48A41963A7C3CF6984</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x05.mkv.torrent</torrent:filename>
+      <torrent:contentlength>361471216</torrent:contentlength>
+      <torrent:infohash>3610262227E93A81E882F7B8D36B971635DCA7E7</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:3610262227E93A81E882F7B8D36B971635DCA7E7</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x04 - Luna Eclipsed | 1080p.WEB-DL SCOOT | YP-1STB-02x04.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x04.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x04 - Luna Eclipsed | 1080p.WEB-DL SCOOT | YP-1S10-02x04.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x04.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Luna Eclipsed; Season: 2; Episode: 04</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x04.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x04.mkv.torrent" length="39430" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x04.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x04.mkv.torrent" length="31470" type="application/x-bittorrent"/>
       <pubDate>Sat, 22 Oct 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x04.mkv.torrent</torrent:filename>
-      <torrent:contentlength>499600865</torrent:contentlength>
-      <torrent:infohash>D6327D07C5D0FB7887CE87B86F953461BAABE867</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:D6327D07C5D0FB7887CE87B86F953461BAABE867</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x04.mkv.torrent</torrent:filename>
+      <torrent:contentlength>395300566</torrent:contentlength>
+      <torrent:infohash>509F3F1EE44B1D057E0BBB5A3805EEFA66C0299E</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:509F3F1EE44B1D057E0BBB5A3805EEFA66C0299E</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x03 - Lesson Zero | 1080p.WEB-DL SCOOT | YP-1STB-02x03.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x03.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x03 - Lesson Zero | 1080p.WEB-DL SCOOT | YP-1S10-02x03.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x03.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Lesson Zero; Season: 2; Episode: 03</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x03.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x03.mkv.torrent" length="37970" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x03.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x03.mkv.torrent" length="32130" type="application/x-bittorrent"/>
       <pubDate>Sat, 15 Oct 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x03.mkv.torrent</torrent:filename>
-      <torrent:contentlength>480372478</torrent:contentlength>
-      <torrent:infohash>40C87CC20315B86AC48895FD898DACBF175208FF</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:40C87CC20315B86AC48895FD898DACBF175208FF</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x03.mkv.torrent</torrent:filename>
+      <torrent:contentlength>403868236</torrent:contentlength>
+      <torrent:infohash>CC97EEEEAFF411624048CF1D5DC992FC16A49E82</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:CC97EEEEAFF411624048CF1D5DC992FC16A49E82</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x02 - The Return of Harmony (2) | 1080p.WEB-DL SCOOT | YP-1STB-02x02.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x02.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x02 - The Return of Harmony (2) | 1080p.WEB-DL SCOOT | YP-1S10-02x02.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x02.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Return of Harmony (2); Season: 2; Episode: 02</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x02.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x02.mkv.torrent" length="40230" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x02.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x02.mkv.torrent" length="34030" type="application/x-bittorrent"/>
       <pubDate>Sat, 24 Sep 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x02.mkv.torrent</torrent:filename>
-      <torrent:contentlength>509882391</torrent:contentlength>
-      <torrent:infohash>3C023D6F52813DAD1EEFA25AC7542C596BEB5F3A</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:3C023D6F52813DAD1EEFA25AC7542C596BEB5F3A</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x02.mkv.torrent</torrent:filename>
+      <torrent:contentlength>428832747</torrent:contentlength>
+      <torrent:infohash>E0B373343F7FA6ABADC1F557DFE8CECCE19CB67D</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:E0B373343F7FA6ABADC1F557DFE8CECCE19CB67D</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 02x01 - The Return of Harmony (1) | 1080p.WEB-DL SCOOT | YP-1STB-02x01.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-02x01.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 02x01 - The Return of Harmony (1) | 1080p.WEB-DL SCOOT | YP-1S10-02x01.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-02x01.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Return of Harmony (1); Season: 2; Episode: 01</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-02x01.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-02x01.mkv.torrent" length="40310" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-02x01.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-02x01.mkv.torrent" length="34150" type="application/x-bittorrent"/>
       <pubDate>Sat, 17 Sep 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-02x01.mkv.torrent</torrent:filename>
-      <torrent:contentlength>511073771</torrent:contentlength>
-      <torrent:infohash>768A7090A9FCF5656D1CA6836205442619286728</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:768A7090A9FCF5656D1CA6836205442619286728</torrent:magneturi>
+      <torrent:filename>YP-1S10-02x01.mkv.torrent</torrent:filename>
+      <torrent:contentlength>430261960</torrent:contentlength>
+      <torrent:infohash>1A2707268E98A4F3CC52BDA688BB95924ACFFF61</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:1A2707268E98A4F3CC52BDA688BB95924ACFFF61</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x26 - The Best Night Ever | 1080p.WEB-DL SCOOT | YP-1STB-01x26.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x26.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x26 - The Best Night Ever | 1080p.WEB-DL SCOOT | YP-1S10-01x26.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x26.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Best Night Ever; Season: 1; Episode: 26</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x26.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x26.mkv.torrent" length="42728" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x26.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x26.mkv.torrent" length="35330" type="application/x-bittorrent"/>
       <pubDate>Fri, 06 May 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x26.mkv.torrent</torrent:filename>
-      <torrent:contentlength>542816226</torrent:contentlength>
-      <torrent:infohash>980B4686AF632507F70C3061BEB84512857CE9B9</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:980B4686AF632507F70C3061BEB84512857CE9B9</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x26.mkv.torrent</torrent:filename>
+      <torrent:contentlength>445742880</torrent:contentlength>
+      <torrent:infohash>B3451026285C7D50C90EDE28C7EDCC0807B59ECA</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:B3451026285C7D50C90EDE28C7EDCC0807B59ECA</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x25 - Party of One | 1080p.WEB-DL SCOOT | YP-1STB-01x25.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x25.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x25 - Party of One | 1080p.WEB-DL SCOOT | YP-1S10-01x25.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x25.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Party of One; Season: 1; Episode: 25</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x25.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x25.mkv.torrent" length="33528" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x25.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x25.mkv.torrent" length="28150" type="application/x-bittorrent"/>
       <pubDate>Fri, 29 Apr 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x25.mkv.torrent</torrent:filename>
-      <torrent:contentlength>422177349</torrent:contentlength>
-      <torrent:infohash>7E63F4DCE980F91040EE080EFEC02D2B575730D2</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:7E63F4DCE980F91040EE080EFEC02D2B575730D2</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x25.mkv.torrent</torrent:filename>
+      <torrent:contentlength>351718218</torrent:contentlength>
+      <torrent:infohash>6794B051D48B5B5DCC662DB0D5290EDE44716146</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:6794B051D48B5B5DCC662DB0D5290EDE44716146</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x24 - Owl's Well That Ends Well | 1080p.WEB-DL SCOOT | YP-1STB-01x24.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x24.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x24 - Owl's Well That Ends Well | 1080p.WEB-DL SCOOT | YP-1S10-01x24.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x24.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Owl's Well That Ends Well; Season: 1; Episode: 24</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x24.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x24.mkv.torrent" length="32688" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x24.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x24.mkv.torrent" length="27050" type="application/x-bittorrent"/>
       <pubDate>Fri, 22 Apr 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x24.mkv.torrent</torrent:filename>
-      <torrent:contentlength>411082448</torrent:contentlength>
-      <torrent:infohash>A6E4BCAA375857075B09DF518744E499DDC54349</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:A6E4BCAA375857075B09DF518744E499DDC54349</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x24.mkv.torrent</torrent:filename>
+      <torrent:contentlength>337199178</torrent:contentlength>
+      <torrent:infohash>83CC6B5A566139720C1DD86789259959A05E0A43</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:83CC6B5A566139720C1DD86789259959A05E0A43</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x23 - The Cutie Mark Chronicles | 1080p.WEB-DL SCOOT | YP-1STB-01x23.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x23.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x23 - The Cutie Mark Chronicles | 1080p.WEB-DL SCOOT | YP-1S10-01x23.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x23.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Cutie Mark Chronicles; Season: 1; Episode: 23</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x23.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x23.mkv.torrent" length="43188" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x23.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x23.mkv.torrent" length="36770" type="application/x-bittorrent"/>
       <pubDate>Fri, 15 Apr 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x23.mkv.torrent</torrent:filename>
-      <torrent:contentlength>548740574</torrent:contentlength>
-      <torrent:infohash>38DDFE46DDBF2062273D9C4A6E6D7262CDBD5D41</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:38DDFE46DDBF2062273D9C4A6E6D7262CDBD5D41</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x23.mkv.torrent</torrent:filename>
+      <torrent:contentlength>464636582</torrent:contentlength>
+      <torrent:infohash>D082C8FA78170AC73B305444801FDB40F936C44C</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:D082C8FA78170AC73B305444801FDB40F936C44C</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x22 - A Bird in the Hoof | 1080p.WEB-DL SCOOT | YP-1STB-01x22.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x22.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x22 - A Bird in the Hoof | 1080p.WEB-DL SCOOT | YP-1S10-01x22.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x22.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: A Bird in the Hoof; Season: 1; Episode: 22</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x22.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x22.mkv.torrent" length="30708" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x22.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x22.mkv.torrent" length="26310" type="application/x-bittorrent"/>
       <pubDate>Fri, 08 Apr 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x22.mkv.torrent</torrent:filename>
-      <torrent:contentlength>385187290</torrent:contentlength>
-      <torrent:infohash>EE27262F1304D1B1A51084D9A81AE33B8F2B6919</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:EE27262F1304D1B1A51084D9A81AE33B8F2B6919</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x22.mkv.torrent</torrent:filename>
+      <torrent:contentlength>327505259</torrent:contentlength>
+      <torrent:infohash>49A9E2ADD2A0F62836D1F508F283415DF48F8966</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:49A9E2ADD2A0F62836D1F508F283415DF48F8966</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x21 - Over a Barrel | 1080p.WEB-DL SCOOT | YP-1STB-01x21.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x21.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x21 - Over a Barrel | 1080p.WEB-DL SCOOT | YP-1S10-01x21.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x21.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Over a Barrel; Season: 1; Episode: 21</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x21.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x21.mkv.torrent" length="41728" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x21.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x21.mkv.torrent" length="34810" type="application/x-bittorrent"/>
       <pubDate>Fri, 25 Mar 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x21.mkv.torrent</torrent:filename>
-      <torrent:contentlength>529760637</torrent:contentlength>
-      <torrent:infohash>4EBE4EBF3877452EECE1E97C844F76BC557E39DB</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:4EBE4EBF3877452EECE1E97C844F76BC557E39DB</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x21.mkv.torrent</torrent:filename>
+      <torrent:contentlength>438908299</torrent:contentlength>
+      <torrent:infohash>13C07A55DDF65B2600411D8BAF3C6EF0B1B17851</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:13C07A55DDF65B2600411D8BAF3C6EF0B1B17851</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x20 - Green Isn't Your Color | 1080p.WEB-DL SCOOT | YP-1STB-01x20.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x20.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x20 - Green Isn't Your Color | 1080p.WEB-DL SCOOT | YP-1S10-01x20.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x20.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Green Isn't Your Color; Season: 1; Episode: 20</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x20.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x20.mkv.torrent" length="34208" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x20.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x20.mkv.torrent" length="28970" type="application/x-bittorrent"/>
       <pubDate>Fri, 18 Mar 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x20.mkv.torrent</torrent:filename>
-      <torrent:contentlength>431056469</torrent:contentlength>
-      <torrent:infohash>98EEF2687AABE4EE3A039B570ABF286C67BE36F6</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:98EEF2687AABE4EE3A039B570ABF286C67BE36F6</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x20.mkv.torrent</torrent:filename>
+      <torrent:contentlength>362398272</torrent:contentlength>
+      <torrent:infohash>1EE5CF4570CC89B18A01F70495D68493F33FF3A4</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:1EE5CF4570CC89B18A01F70495D68493F33FF3A4</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x19 - A Dog and Pony Show | 1080p.WEB-DL SCOOT | YP-1STB-01x19.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x19.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x19 - A Dog and Pony Show | 1080p.WEB-DL SCOOT | YP-1S10-01x19.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x19.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: A Dog and Pony Show; Season: 1; Episode: 19</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x19.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x19.mkv.torrent" length="35268" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x19.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x19.mkv.torrent" length="29390" type="application/x-bittorrent"/>
       <pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x19.mkv.torrent</torrent:filename>
-      <torrent:contentlength>444955061</torrent:contentlength>
-      <torrent:infohash>56DCA4EA54BF16E930F2F0D0AF1262F0BF8A23C6</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:56DCA4EA54BF16E930F2F0D0AF1262F0BF8A23C6</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x19.mkv.torrent</torrent:filename>
+      <torrent:contentlength>367898449</torrent:contentlength>
+      <torrent:infohash>1D4F407F72EA0E10F6708D7C2643D070B1C9B128</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:1D4F407F72EA0E10F6708D7C2643D070B1C9B128</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x18 - The Show Stoppers | 1080p.WEB-DL SCOOT | YP-1STB-01x18.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x18.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x18 - The Show Stoppers | 1080p.WEB-DL SCOOT | YP-1S10-01x18.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x18.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Show Stoppers; Season: 1; Episode: 18</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x18.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x18.mkv.torrent" length="36288" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x18.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x18.mkv.torrent" length="30450" type="application/x-bittorrent"/>
       <pubDate>Fri, 04 Mar 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x18.mkv.torrent</torrent:filename>
-      <torrent:contentlength>458232272</torrent:contentlength>
-      <torrent:infohash>196892C52F878533E76B793913396CB6E7925051</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:196892C52F878533E76B793913396CB6E7925051</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x18.mkv.torrent</torrent:filename>
+      <torrent:contentlength>381695652</torrent:contentlength>
+      <torrent:infohash>C9541F9C8C4FAC4304C01FE3EA56A750F7424C40</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:C9541F9C8C4FAC4304C01FE3EA56A750F7424C40</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x17 - Stare Master | 1080p.WEB-DL SCOOT | YP-1STB-01x17.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x17.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x17 - Stare Master | 1080p.WEB-DL SCOOT | YP-1S10-01x17.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x17.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Stare Master; Season: 1; Episode: 17</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x17.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x17.mkv.torrent" length="33748" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x17.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x17.mkv.torrent" length="27990" type="application/x-bittorrent"/>
       <pubDate>Fri, 25 Feb 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x17.mkv.torrent</torrent:filename>
-      <torrent:contentlength>425082948</torrent:contentlength>
-      <torrent:infohash>7096C3C3D5EDAD755C6F34FCB47590131656E915</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:7096C3C3D5EDAD755C6F34FCB47590131656E915</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x17.mkv.torrent</torrent:filename>
+      <torrent:contentlength>349619979</torrent:contentlength>
+      <torrent:infohash>56FA2699B1CCDE2B55F9D867FA75F94D3BE80439</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:56FA2699B1CCDE2B55F9D867FA75F94D3BE80439</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x16 - Sonic Rainboom | 1080p.WEB-DL SCOOT | YP-1STB-01x16.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x16.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x16 - Sonic Rainboom | 1080p.WEB-DL SCOOT | YP-1S10-01x16.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x16.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Sonic Rainboom; Season: 1; Episode: 16</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x16.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x16.mkv.torrent" length="38048" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x16.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x16.mkv.torrent" length="32610" type="application/x-bittorrent"/>
       <pubDate>Fri, 18 Feb 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x16.mkv.torrent</torrent:filename>
-      <torrent:contentlength>481549340</torrent:contentlength>
-      <torrent:infohash>967292318F0864B9AC1FC1936DDDD3B91C7D7E70</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:967292318F0864B9AC1FC1936DDDD3B91C7D7E70</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x16.mkv.torrent</torrent:filename>
+      <torrent:contentlength>410000739</torrent:contentlength>
+      <torrent:infohash>7B391576FCE0292B92B49CB1CC08DFD278E170AD</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:7B391576FCE0292B92B49CB1CC08DFD278E170AD</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x15 - Feeling Pinkie Keen | 1080p.WEB-DL SCOOT | YP-1STB-01x15.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x15.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x15 - Feeling Pinkie Keen | 1080p.WEB-DL SCOOT | YP-1S10-01x15.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x15.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Feeling Pinkie Keen; Season: 1; Episode: 15</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x15.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x15.mkv.torrent" length="33388" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x15.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x15.mkv.torrent" length="27810" type="application/x-bittorrent"/>
       <pubDate>Fri, 11 Feb 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x15.mkv.torrent</torrent:filename>
-      <torrent:contentlength>420254935</torrent:contentlength>
-      <torrent:infohash>F9DE8284346781AA283E0B984588C7E3FE167481</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:F9DE8284346781AA283E0B984588C7E3FE167481</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x15.mkv.torrent</torrent:filename>
+      <torrent:contentlength>347079820</torrent:contentlength>
+      <torrent:infohash>A76BDE33BD28ABE189D65EA04F92417254502103</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:A76BDE33BD28ABE189D65EA04F92417254502103</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x14 - Suited For Success | 1080p.WEB-DL SCOOT | YP-1STB-01x14.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x14.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x14 - Suited For Success | 1080p.WEB-DL SCOOT | YP-1S10-01x14.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x14.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Suited For Success; Season: 1; Episode: 14</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x14.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x14.mkv.torrent" length="35248" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x14.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x14.mkv.torrent" length="29710" type="application/x-bittorrent"/>
       <pubDate>Fri, 04 Feb 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x14.mkv.torrent</torrent:filename>
-      <torrent:contentlength>444834268</torrent:contentlength>
-      <torrent:infohash>C9D2B56F199E7EE5D1CF26CB8AA0DCD8A7EFD197</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:C9D2B56F199E7EE5D1CF26CB8AA0DCD8A7EFD197</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x14.mkv.torrent</torrent:filename>
+      <torrent:contentlength>372038171</torrent:contentlength>
+      <torrent:infohash>508840148DACEBBD837FF12E7E1981B012DC13D2</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:508840148DACEBBD837FF12E7E1981B012DC13D2</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x13 - Fall Weather Friends | 1080p.WEB-DL SCOOT | YP-1STB-01x13.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x13.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x13 - Fall Weather Friends | 1080p.WEB-DL SCOOT | YP-1S10-01x13.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x13.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Fall Weather Friends; Season: 1; Episode: 13</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x13.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x13.mkv.torrent" length="46342" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x13.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x13.mkv.torrent" length="39350" type="application/x-bittorrent"/>
       <pubDate>Fri, 28 Jan 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x13.mkv.torrent</torrent:filename>
-      <torrent:contentlength>590170993</torrent:contentlength>
-      <torrent:infohash>3B723BFDA001ED18895A98A34F7D6C8A2340E7DE</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:3B723BFDA001ED18895A98A34F7D6C8A2340E7DE</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x13.mkv.torrent</torrent:filename>
+      <torrent:contentlength>498464150</torrent:contentlength>
+      <torrent:infohash>C1BA8865E6B17461FE376EEEB247BBB4F0EC0C48</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:C1BA8865E6B17461FE376EEEB247BBB4F0EC0C48</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x12 - Call of the Cutie | 1080p.WEB-DL SCOOT | YP-1STB-01x12.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x12.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x12 - Call of the Cutie | 1080p.WEB-DL SCOOT | YP-1S10-01x12.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x12.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Call of the Cutie; Season: 1; Episode: 12</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x12.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x12.mkv.torrent" length="34062" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x12.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x12.mkv.torrent" length="28830" type="application/x-bittorrent"/>
       <pubDate>Fri, 14 Jan 2011 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x12.mkv.torrent</torrent:filename>
-      <torrent:contentlength>429245839</torrent:contentlength>
-      <torrent:infohash>E1D21A88A289B683C038B2A045FEDBC07D31C7D3</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:E1D21A88A289B683C038B2A045FEDBC07D31C7D3</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x12.mkv.torrent</torrent:filename>
+      <torrent:contentlength>360498804</torrent:contentlength>
+      <torrent:infohash>597FF7D765C5A2169AE6AAE63B3AE2992C2F92DE</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:597FF7D765C5A2169AE6AAE63B3AE2992C2F92DE</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x11 - Winter Wrap Up | 1080p.WEB-DL SCOOT | YP-1STB-01x11.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x11.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x11 - Winter Wrap Up | 1080p.WEB-DL SCOOT | YP-1S10-01x11.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x11.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Winter Wrap Up; Season: 1; Episode: 11</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x11.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x11.mkv.torrent" length="39762" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x11.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x11.mkv.torrent" length="33810" type="application/x-bittorrent"/>
       <pubDate>Fri, 24 Dec 2010 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x11.mkv.torrent</torrent:filename>
-      <torrent:contentlength>503955915</torrent:contentlength>
-      <torrent:infohash>F29CA6041D056B71FB1E9DD78A94C3F1416E610C</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:F29CA6041D056B71FB1E9DD78A94C3F1416E610C</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x11.mkv.torrent</torrent:filename>
+      <torrent:contentlength>425749734</torrent:contentlength>
+      <torrent:infohash>FD3D06BFFCB1D366C7E5BF1E2E7C83C873F6D470</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:FD3D06BFFCB1D366C7E5BF1E2E7C83C873F6D470</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x10 - Swarm of the Century | 1080p.WEB-DL SCOOT | YP-1STB-01x10.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x10.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x10 - Swarm of the Century | 1080p.WEB-DL SCOOT | YP-1S10-01x10.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x10.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Swarm of the Century; Season: 1; Episode: 10</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x10.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x10.mkv.torrent" length="42222" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x10.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x10.mkv.torrent" length="36310" type="application/x-bittorrent"/>
       <pubDate>Fri, 17 Dec 2010 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x10.mkv.torrent</torrent:filename>
-      <torrent:contentlength>536215703</torrent:contentlength>
-      <torrent:infohash>687BEAD6DD3D105EDC13646A73F2FB05C98D08E5</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:687BEAD6DD3D105EDC13646A73F2FB05C98D08E5</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x10.mkv.torrent</torrent:filename>
+      <torrent:contentlength>458512779</torrent:contentlength>
+      <torrent:infohash>870DF5D919926CF1935D6468CFC08892583DA233</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:870DF5D919926CF1935D6468CFC08892583DA233</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x09 - Bridle Gossip | 1080p.WEB-DL SCOOT | YP-1STB-01x09.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x09.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x09 - Bridle Gossip | 1080p.WEB-DL SCOOT | YP-1S10-01x09.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x09.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Bridle Gossip; Season: 1; Episode: 09</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x09.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x09.mkv.torrent" length="31422" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x09.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x09.mkv.torrent" length="26550" type="application/x-bittorrent"/>
       <pubDate>Fri, 10 Dec 2010 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x09.mkv.torrent</torrent:filename>
-      <torrent:contentlength>394766161</torrent:contentlength>
-      <torrent:infohash>E12CD37619F64A26DEE661DD8EC317AFB73B65E5</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:E12CD37619F64A26DEE661DD8EC317AFB73B65E5</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x09.mkv.torrent</torrent:filename>
+      <torrent:contentlength>330660931</torrent:contentlength>
+      <torrent:infohash>D3CE1B12AB5E56780BAC70C16AD1C1A364242726</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:D3CE1B12AB5E56780BAC70C16AD1C1A364242726</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x08 - Look Before You Sleep | 1080p.WEB-DL SCOOT | YP-1STB-01x08.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x08.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x08 - Look Before You Sleep | 1080p.WEB-DL SCOOT | YP-1S10-01x08.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x08.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Look Before You Sleep; Season: 1; Episode: 08</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x08.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x08.mkv.torrent" length="36922" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x08.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x08.mkv.torrent" length="32210" type="application/x-bittorrent"/>
       <pubDate>Fri, 03 Dec 2010 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x08.mkv.torrent</torrent:filename>
-      <torrent:contentlength>466845955</torrent:contentlength>
-      <torrent:infohash>F82836CACFC0216B60ED1915F3E22B233F4AA972</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:F82836CACFC0216B60ED1915F3E22B233F4AA972</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x08.mkv.torrent</torrent:filename>
+      <torrent:contentlength>404973981</torrent:contentlength>
+      <torrent:infohash>79B19F5E4F89C7697A261745BFFF7A3D6A6CFE01</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:79B19F5E4F89C7697A261745BFFF7A3D6A6CFE01</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x07 - Dragonshy | 1080p.WEB-DL SCOOT | YP-1STB-01x07.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x07.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x07 - Dragonshy | 1080p.WEB-DL SCOOT | YP-1S10-01x07.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x07.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Dragonshy; Season: 1; Episode: 07</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x07.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x07.mkv.torrent" length="31962" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x07.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x07.mkv.torrent" length="26970" type="application/x-bittorrent"/>
       <pubDate>Fri, 26 Nov 2010 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x07.mkv.torrent</torrent:filename>
-      <torrent:contentlength>401776566</torrent:contentlength>
-      <torrent:infohash>16C147E9ACA2225FF948976B379AE9078BD8AD0D</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:16C147E9ACA2225FF948976B379AE9078BD8AD0D</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x07.mkv.torrent</torrent:filename>
+      <torrent:contentlength>336090047</torrent:contentlength>
+      <torrent:infohash>C3E9669C6BB009B2AC184DFAFA5EEABD81BD98F6</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:C3E9669C6BB009B2AC184DFAFA5EEABD81BD98F6</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x06 - Boast Busters | 1080p.WEB-DL SCOOT | YP-1STB-01x06.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x06.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x06 - Boast Busters | 1080p.WEB-DL SCOOT | YP-1S10-01x06.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x06.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Boast Busters; Season: 1; Episode: 06</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x06.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x06.mkv.torrent" length="31002" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x06.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x06.mkv.torrent" length="26170" type="application/x-bittorrent"/>
       <pubDate>Fri, 19 Nov 2010 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x06.mkv.torrent</torrent:filename>
-      <torrent:contentlength>389233028</torrent:contentlength>
-      <torrent:infohash>F06E90961CC77F356176E10830254354D6857565</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:F06E90961CC77F356176E10830254354D6857565</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x06.mkv.torrent</torrent:filename>
+      <torrent:contentlength>325833401</torrent:contentlength>
+      <torrent:infohash>324C4B9D9CF07F29DEDDCC2C2A3D840A8A1D97F6</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:324C4B9D9CF07F29DEDDCC2C2A3D840A8A1D97F6</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x05 - Griffon the Brush Off | 1080p.WEB-DL SCOOT | YP-1STB-01x05.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x05.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x05 - Griffon the Brush Off | 1080p.WEB-DL SCOOT | YP-1S10-01x05.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x05.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Griffon the Brush Off; Season: 1; Episode: 05</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x05.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x05.mkv.torrent" length="29402" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x05.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x05.mkv.torrent" length="25410" type="application/x-bittorrent"/>
       <pubDate>Fri, 12 Nov 2010 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x05.mkv.torrent</torrent:filename>
-      <torrent:contentlength>368256857</torrent:contentlength>
-      <torrent:infohash>27C98D2CE1A6069E7779B5E3690AF256F3DB8C41</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:27C98D2CE1A6069E7779B5E3690AF256F3DB8C41</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x05.mkv.torrent</torrent:filename>
+      <torrent:contentlength>315839151</torrent:contentlength>
+      <torrent:infohash>9E89A48BAA49615286DF742F88EAB92929BA0E86</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:9E89A48BAA49615286DF742F88EAB92929BA0E86</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x04 - Applebuck Season | 1080p.WEB-DL SCOOT | YP-1STB-01x04.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x04.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x04 - Applebuck Season | 1080p.WEB-DL SCOOT | YP-1S10-01x04.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x04.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Applebuck Season; Season: 1; Episode: 04</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x04.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x04.mkv.torrent" length="29802" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x04.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x04.mkv.torrent" length="25710" type="application/x-bittorrent"/>
       <pubDate>Fri, 05 Nov 2010 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x04.mkv.torrent</torrent:filename>
-      <torrent:contentlength>373340168</torrent:contentlength>
-      <torrent:infohash>053A881E418C9042D526898FF603ACFD7E9E5570</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:053A881E418C9042D526898FF603ACFD7E9E5570</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x04.mkv.torrent</torrent:filename>
+      <torrent:contentlength>319787794</torrent:contentlength>
+      <torrent:infohash>24F9C7961108B5B57517A9288466942B5EF93C95</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:24F9C7961108B5B57517A9288466942B5EF93C95</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x03 - The Ticket Master | 1080p.WEB-DL SCOOT | YP-1STB-01x03.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x03.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x03 - The Ticket Master | 1080p.WEB-DL SCOOT | YP-1S10-01x03.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x03.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Ticket Master; Season: 1; Episode: 03</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x03.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x03.mkv.torrent" length="34582" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x03.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x03.mkv.torrent" length="29830" type="application/x-bittorrent"/>
       <pubDate>Fri, 29 Oct 2010 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x03.mkv.torrent</torrent:filename>
-      <torrent:contentlength>436183868</torrent:contentlength>
-      <torrent:infohash>0F99A14936B0A92C4E718EE5FDE2B7EF1DC51F37</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:0F99A14936B0A92C4E718EE5FDE2B7EF1DC51F37</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x03.mkv.torrent</torrent:filename>
+      <torrent:contentlength>373680773</torrent:contentlength>
+      <torrent:infohash>BBA588D12C852C0983FC01EFC4C9C99CD92684B4</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:BBA588D12C852C0983FC01EFC4C9C99CD92684B4</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x02 - Friendship is Magic (2) | 1080p.WEB-DL SCOOT | YP-1STB-01x02.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x02.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x02 - Friendship is Magic (2) | 1080p.WEB-DL SCOOT | YP-1S10-01x02.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x02.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Friendship is Magic (2); Season: 1; Episode: 02</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x02.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x02.mkv.torrent" length="33682" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x02.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x02.mkv.torrent" length="27510" type="application/x-bittorrent"/>
       <pubDate>Fri, 22 Oct 2010 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x02.mkv.torrent</torrent:filename>
-      <torrent:contentlength>424308397</torrent:contentlength>
-      <torrent:infohash>C03DE323562FC3815E81B1C48405725AC63ED3C0</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:C03DE323562FC3815E81B1C48405725AC63ED3C0</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x02.mkv.torrent</torrent:filename>
+      <torrent:contentlength>343157968</torrent:contentlength>
+      <torrent:infohash>B906DABDCA82AC4937F8E0A6F0DA2591C7731B96</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:B906DABDCA82AC4937F8E0A6F0DA2591C7731B96</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 01x01 - Friendship is Magic (1) | 1080p.WEB-DL SCOOT | YP-1STB-01x01.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1STB-01x01.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 01x01 - Friendship is Magic (1) | 1080p.WEB-DL SCOOT | YP-1S10-01x01.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1S10-01x01.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Friendship is Magic (1); Season: 1; Episode: 01</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1STB-01x01.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1STB-01x01.mkv.torrent" length="32962" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1S10-01x01.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1S10-01x01.mkv.torrent" length="27670" type="application/x-bittorrent"/>
       <pubDate>Sun, 10 Oct 2010 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1STB-01x01.mkv.torrent</torrent:filename>
-      <torrent:contentlength>414796299</torrent:contentlength>
-      <torrent:infohash>0C7DC1B42C051AC7579B35346C2D8E07E65A8190</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:0C7DC1B42C051AC7579B35346C2D8E07E65A8190</torrent:magneturi>
+      <torrent:filename>YP-1S10-01x01.mkv.torrent</torrent:filename>
+      <torrent:contentlength>345427358</torrent:contentlength>
+      <torrent:infohash>48B46FB3AF1BFA7BF0CFA60C4EF18DC42BE2BD88</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:48B46FB3AF1BFA7BF0CFA60C4EF18DC42BE2BD88</torrent:magneturi>
     </item>
   </channel>
 </rss>
