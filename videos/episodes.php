@@ -107,7 +107,7 @@
                                 <select size="8" name="DownloadSource" onchange="javascript:dynamicList();">
                                     <option value="i" selected>iTunes Raw US</option>
                                     <option value="s">Scootaloo Remastered x264</option>
-                                    <option value="sc">Scootaloo Definitive HEVC</option>
+                                    <option value="sc">Scootaloo NEW 2019 10bit HEVC</option>
                                     <option value="a">iTunes Raw AU</option>
                                     <option value="z">Color Corrected by ZR</option>
                                     <option value="t">TVRips (Spazz or Mentos)</option>
