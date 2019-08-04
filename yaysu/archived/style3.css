@@ -1,5 +1,7 @@
+
+
 #container {
-	background: #efa9a9;
+	background: #CBBFD1;
 	border: 1px solid #2a2a2a;
 	width: 750px;
 	color: #000000;
@@ -9,8 +11,8 @@
 	border-radius: 15px;
 }
 body {
-	background: #6b1414 repeat-x;
-	background-attachment: fixed;
+	background: #522966 repeat-x;
+background-attachment: fixed;
 	repeat-x: ;
 	line-height: 1.4;
 	margin: auto auto;
@@ -21,6 +23,13 @@ body {
 	font-size: 11px;
 }
 
+#msg {
+	background: #F00;
+	width: 750px;
+	color: #FFF;
+	margin: auto auto;
+	padding: 3px;
+	text-align: center;}
 
 a{ color: #0000CC; font-weight: bold; }
 a:hover{ color: #0066FF; text-decoration: underline; }

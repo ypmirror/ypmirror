@@ -10,13 +10,13 @@
                         </tr>
                         <tr>
                             <td height="20"><a href="http://www.youtube.com/watch?v=b9DK_LGGto4">Offline copy of Adventure Pony flash game.</a></td>
-                            <td><a href="/mlp8bit.zip">Local</a></td>
+                            <td><a href="/others/blob/mlp8bit.zip">Local</a></td>
                             <td>No</td>
                             <td>Flash game</td>
                         </tr>
                         <tr>
                             <td height="20">Offline copy of Adventure Pony 2 flash game.</td>
-                            <td><a href="/mlp8bit2.zip">Local</a></td>
+                            <td><a href="/others/blob/mlp8bit2.zip">Local</a></td>
                             <td>No</td>
                             <td>Flash game</td>
                         </tr>
@@ -117,7 +117,7 @@
                             <td>By YayPonies</td>
                         <tr>
                             <td height="20">Subtitles for Australian pony (UNTESTED)</td>
-                            <td valign="top"><a href="/others/blob/subtitlesAU.zip">Local</a></td>
+                            <td valign="top"><a href="/others/blob/SubtitlesAU.zip">Local</a></td>
                             <td>No</td>
                             <td>By Andy</td>
                         </tr>
@@ -153,7 +153,7 @@
                         </tr>
                         <tr>
                             <td height="20">Subtitles for Australian pony SEASON 2 (UNTESTED)</td>
-                            <td valign="top"><a href="/others/blob/subtitlesAU2.zip">Local</a></td>
+                            <td valign="top"><a href="/others/blob/SubtitlesAU2.zip">Local</a></td>
                             <td>No</td>
                             <td>By ZR</td>
                         </tr>

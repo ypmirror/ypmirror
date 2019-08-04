@@ -100,7 +100,7 @@
         <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5390924&amp;lid=7">Episode 17</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5390925&amp;lid=7">18</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5390924&amp;lid=7">The Black Cube</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5390925&amp;lid=7">The Eye on the Skullship</a>)</td>
         <td><a href="https://mega.nz/#!NkxzFCwK!swkMUbOCV93e9qYllILkjnt8ar_G-BJCpmMztu5vLJ8">1</a> 2 3</td>
         <td><a href="http://yp.coco-pommel.org/ypwoy/YP-WOY-02x17_18-1R-The_Black_Cube-The_Eye_on_the_Skullship.mkv">1</a></td>
-        <td><a href="/torrents/YP-WOY-02x17_18-1R-The_Black_Cube-The_Eye_on_the_Skullship.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/79CC18B8DFE7A888E06B584165A64B67A9B5EE73.torrent">4</a> <a href="http://torcache.net/torrent/79CC18B8DFE7A888E06B584165A64B67A9B5EE73.torrent">5</a> <a href="magnet:?xt=urn:btih:79CC18B8DFE7A888E06B584165A64B67A9B5EE73">6</a></td>
+        <td><a href="torrents/YP-WOY-02x17_18-1R-The_Black_Cube-The_Eye_on_the_Skullship.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/79CC18B8DFE7A888E06B584165A64B67A9B5EE73.torrent">4</a> <a href="http://torcache.net/torrent/79CC18B8DFE7A888E06B584165A64B67A9B5EE73.torrent">5</a> <a href="magnet:?xt=urn:btih:79CC18B8DFE7A888E06B584165A64B67A9B5EE73">6</a></td>
         <td>YP iTunes 1080P</td>
         <td>&nbsp;</td>
         <td><a href="subtitles/YP-WOY-02x17_18-1R-The_Black_Cube-The_Eye_on_the_Skullship.srt">Get</a></td>
@@ -109,7 +109,7 @@
         <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5453828&amp;lid=7">Episode 19</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5453829&amp;lid=7">20</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5453828&amp;lid=7">The Secret Planet</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5453829&amp;lid=7">The Bad Hatter</a>) </td>
         <td><a href="https://mega.nz/#!AQxwBZ6L!Y8PoQfv05Ncsaqdw8qRlp4-5TbBLKgskr1y_WRStpxo">1</a> 2 3</td>
         <td><a href="http://yp.coco-pommel.org/ypwoy/YP-WOY-02x19_20-1R-The_Secret_Planet-The_Bad_Hatter.mkv">1</a></td>
-        <td><a href="/torrents/YP-WOY-02x19_20-1R-The_Secret_Planet-The_Bad_Hatter.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/654B33D9E3E4DF93095BA8AC030AAA06A55C370E.torrent">4</a> <a href="http://torcache.net/torrent/654B33D9E3E4DF93095BA8AC030AAA06A55C370E.torrent">5</a> <a href="magnet:?xt=urn:btih:654B33D9E3E4DF93095BA8AC030AAA06A55C370E">6</a> </td>
+        <td><a href="torrents/YP-WOY-02x19_20-1R-The_Secret_Planet-The_Bad_Hatter.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/654B33D9E3E4DF93095BA8AC030AAA06A55C370E.torrent">4</a> <a href="http://torcache.net/torrent/654B33D9E3E4DF93095BA8AC030AAA06A55C370E.torrent">5</a> <a href="magnet:?xt=urn:btih:654B33D9E3E4DF93095BA8AC030AAA06A55C370E">6</a> </td>
         <td>YP iTunes 1080P</td>
         <td>&nbsp;</td>
         <td><a href="subtitles/YP-WOY-02x19_20-1R-The_Secret_Planet-The_Bad_Hatter.srt">Get</a></td>
@@ -118,7 +118,7 @@
         <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5501141&amp;lid=7">Episode 21</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5501142&amp;lid=7">22</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5501141&amp;lid=7">The Hole...Lotta Nuthin'</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5501142&amp;lid=7">The Show Stopper</a>)</td>
         <td><a href="https://mega.nz/#!ocAgCB6S!z82mO6-MC_7pNP2QdU0ipBl8J1JY_WzjDr4vmfQaKC4">1</a> 2 3</td>
         <td><a href="http://yp.coco-pommel.org/ypwoy/YP-WOY-02x21_22-1R-The_Hole__Lotta_Nuthin-The_Show_Stopper.mkv">1</a></td>
-        <td><a href="/torrents/YP-WOY-02x21_22-1R-The_Hole__Lotta_Nuthin-The_Show_Stopper.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/047EED378ACF4FEB826E9593D898C6F9737855D3.torrent">4</a> <a href="http://torcache.net/torrent/047EED378ACF4FEB826E9593D898C6F9737855D3.torrent">5</a> <a href="magnet:?xt=urn:btih:047EED378ACF4FEB826E9593D898C6F9737855D3">6</a></td>
+        <td><a href="torrents/YP-WOY-02x21_22-1R-The_Hole__Lotta_Nuthin-The_Show_Stopper.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/047EED378ACF4FEB826E9593D898C6F9737855D3.torrent">4</a> <a href="http://torcache.net/torrent/047EED378ACF4FEB826E9593D898C6F9737855D3.torrent">5</a> <a href="magnet:?xt=urn:btih:047EED378ACF4FEB826E9593D898C6F9737855D3">6</a></td>
         <td>YP iTunes 1080P</td>
         <td>&nbsp;</td>
         <td><a href="subtitles/YP-WOY-02x21_22-1R-The_Hole__Lotta_Nuthin-The_Show_Stopper.srt">Get</a></td>
@@ -127,7 +127,7 @@
         <td height="20"><a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5501143&amp;lid=7">Episode 23</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5501144&amp;lid=7">24</a> (<a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5501143&amp;lid=7">The Cartoon</a> &amp; <a href="http://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5501144&amp;lid=7">The Bot</a>)</td>
         <td><a href="https://mega.nz/#!FVIDQTwB!7CCa3LiYEhvAvHHXSKNN-b8D7Y1CBIHDC1o1kvrA14k">1</a> 2 3</td>
         <td><a href="http://yp.coco-pommel.org/ypwoy/YP-WOY-02x23_24-1R-The_Cartoon-The_Bot.mkv">1</a></td>
-        <td><a href="/torrents/YP-WOY-02x23_24-1R-The_Cartoon-The_Bot.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/1F31FEEE44925ABFDD66C99BD3DC3631BE954C7E.torrent">4</a> <a href="http://torcache.net/torrent/1F31FEEE44925ABFDD66C99BD3DC3631BE954C7E.torrent">5</a> <a href="magnet:?xt=urn:btih:1F31FEEE44925ABFDD66C99BD3DC3631BE954C7E">6</a> </td>
+        <td><a href="torrents/YP-WOY-02x23_24-1R-The_Cartoon-The_Bot.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/1F31FEEE44925ABFDD66C99BD3DC3631BE954C7E.torrent">4</a> <a href="http://torcache.net/torrent/1F31FEEE44925ABFDD66C99BD3DC3631BE954C7E.torrent">5</a> <a href="magnet:?xt=urn:btih:1F31FEEE44925ABFDD66C99BD3DC3631BE954C7E">6</a> </td>
         <td>YP iTunes 1080P</td>
         <td>&nbsp;</td>
         <td><a href="subtitles/YP-WOY-02x23_24-1R-The_Cartoon-The_Bot.srt">Get</a></td>
@@ -182,7 +182,7 @@
         <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512110&amp;lid=7">Episode 34</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512111&amp;lid=7">35</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512110&amp;lid=7">The Search for Captain Tim</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512111&amp;lid=7">The Heebie Jeebies</a>)</td>
         <td><a href="https://mega.nz/#!HQY1Tb7R!jMaogoaPoOdcBJVeKf3bpeuJZsyiVwiiFShg07XTamU">1</a> 2 3</td>
         <td><a href="http://yp.coco-pommel.org/ypwoy/YP-WOY-02x34_02x35-1R-The_Search_For_Captain_Tim-The_Heebie_Jeebies.mkv">1</a></td>
-        <td><a href="/torrents/YP-WOY-02x34_02x35-1R-The_Search_For_Captain_Tim-The_Heebie_Jeebies.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/481b6064ab90f808cf9e1cd88640b1de95bf371c.torrent">4</a> <a href="http://torcache.net/torrent/481b6064ab90f808cf9e1cd88640b1de95bf371c.torrent">5</a> <a href="magnet:?xt=urn:btih:481b6064ab90f808cf9e1cd88640b1de95bf371c">6</a></td>
+        <td><a href="torrents/YP-WOY-02x34_02x35-1R-The_Search_For_Captain_Tim-The_Heebie_Jeebies.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/481b6064ab90f808cf9e1cd88640b1de95bf371c.torrent">4</a> <a href="http://torcache.net/torrent/481b6064ab90f808cf9e1cd88640b1de95bf371c.torrent">5</a> <a href="magnet:?xt=urn:btih:481b6064ab90f808cf9e1cd88640b1de95bf371c">6</a></td>
         <td>YP iTunes 1080P</td>
         <td>&nbsp;</td>
         <td><a href="subtitles/YP-WOY-02x34_02x35-1R-The_Search_For_Captain_Tim-The_Heebie_Jeebies.srt">Get</a></td>
@@ -191,7 +191,7 @@
         <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512112&amp;lid=7">Episode 36</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512113&amp;lid=7">37</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512112&amp;lid=7">The Sick Day</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512113&amp;lid=7">The Sky Guy</a>)</td>
         <td><a href="https://mega.nz/#!jAo2GCrZ!gztRBiuj-ecAWjkEISzLHz5cZq1WM3hs4PHgFax-Kks">1</a> 2 3</td>
         <td><a href="http://yp.coco-pommel.org/ypwoy/YP-WOY-02x36_02x37-1R-The_Sick_Day-The_Sky_Guy.mkv">1</a></td>
-        <td><a href="/torrents/YP-WOY-02x36_02x37-1R-The_Sick_Day-The_Sky_Guy.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/907e8abe7447ea0e5eda3a176eeb33afd5ecd85d.torrent">4</a> <a href="http://torcache.net/torrent/907e8abe7447ea0e5eda3a176eeb33afd5ecd85d.torrent">5</a> <a href="magnet:?xt=urn:btih:907e8abe7447ea0e5eda3a176eeb33afd5ecd85d">6</a> </td>
+        <td><a href="torrents/YP-WOY-02x36_02x37-1R-The_Sick_Day-The_Sky_Guy.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/907e8abe7447ea0e5eda3a176eeb33afd5ecd85d.torrent">4</a> <a href="http://torcache.net/torrent/907e8abe7447ea0e5eda3a176eeb33afd5ecd85d.torrent">5</a> <a href="magnet:?xt=urn:btih:907e8abe7447ea0e5eda3a176eeb33afd5ecd85d">6</a> </td>
         <td>YP iTunes 1080P</td>
         <td>&nbsp;</td>
         <td><a href="subtitles/YP-WOY-02x36_02x37-1R-The_Sick_Day-The_Sky_Guy.srt">Get</a></td>
@@ -200,7 +200,7 @@
         <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512114&amp;lid=7">Episode 38</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512115&amp;lid=7">39</a> (<a href="https://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512114&amp;lid=7">The Robomechabotatron</a> &amp; <a href="https://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512115&amp;lid=7">The Flower</a>)</td>
         <td><a href="https://mega.nz/#!eIIFjDbB!v8VYN1JYsdmOV4By7l88Rck8pTO6Rnq5TE45xtc85W8">1</a> 2 3</td>
         <td><a href="http://yp.coco-pommel.org/ypwoy/YP-WOY-02x38_02x39-1R-The_Robomechabotatron-The_Flower.mkv">1</a></td>
-        <td><a href="/torrents/YP-WOY-02x38_02x39-1R-The_Robomechabotatron-The_Flower.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/8b34373931b230f933689cfc3b3ce19ecd54f5b8.torrent">4</a> <a href="http://torcache.net/torrent/8b34373931b230f933689cfc3b3ce19ecd54f5b8.torrent">5</a> <a href="magnet:?xt=urn:btih:8b34373931b230f933689cfc3b3ce19ecd54f5b8">6</a> </td>
+        <td><a href="torrents/YP-WOY-02x38_02x39-1R-The_Robomechabotatron-The_Flower.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/8b34373931b230f933689cfc3b3ce19ecd54f5b8.torrent">4</a> <a href="http://torcache.net/torrent/8b34373931b230f933689cfc3b3ce19ecd54f5b8.torrent">5</a> <a href="magnet:?xt=urn:btih:8b34373931b230f933689cfc3b3ce19ecd54f5b8">6</a> </td>
         <td>YP iTunes 1080P</td>
         <td>&nbsp;</td>
         <td><a href="subtitles/YP-WOY-02x38_02x39-1R-The_Robomechabotatron-The_Flower.srt">Get</a></td>
@@ -209,7 +209,7 @@
         <td height="20"><a href="https://thetvdb.com/?tab=episode&amp;seriesid=272417&amp;seasonid=632462&amp;id=5512116&amp;lid=7">Episode 40 (The End of the Galaxy)</a></td>
         <td><a href="https://mega.nz/#!2M5nBCYA!gEzLELVMkel5GWz8zIDbvHXzk-A38n9RWYMzfggT7rA">1</a> 2 3</td>
         <td><a href="http://yp.coco-pommel.org/ypwoy/YP-WOY-02x40-1R-The_End_Of_The_Galaxy.mkv">1</a></td>
-        <td><a href="/torrents/YP-WOY-02x40-1R-The_End_Of_The_Galaxy.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/3234d608fc0257f012442d24e5e5d68e3ab2e6b2.torrent">4</a> <a href="http://torcache.net/torrent/3234d608fc0257f012442d24e5e5d68e3ab2e6b2.torrent">5</a> <a href="magnet:?xt=urn:btih:3234d608fc0257f012442d24e5e5d68e3ab2e6b2">6</a> </td>
+        <td><a href="torrents/YP-WOY-02x40-1R-The_End_Of_The_Galaxy.mkv.torrent">1</a> 2 3 <a href="http://thetorrent.org/torrent/3234d608fc0257f012442d24e5e5d68e3ab2e6b2.torrent">4</a> <a href="http://torcache.net/torrent/3234d608fc0257f012442d24e5e5d68e3ab2e6b2.torrent">5</a> <a href="magnet:?xt=urn:btih:3234d608fc0257f012442d24e5e5d68e3ab2e6b2">6</a> </td>
         <td>YP iTunes 1080P</td>
         <td>&nbsp;</td>
         <td><a href="subtitles/YP-WOY-02x40-1R-The_End_Of_The_Galaxy.srt">Get</a></td>

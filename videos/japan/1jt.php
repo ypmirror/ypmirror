@@ -59,7 +59,7 @@
                             <td height="20"><a href="http://www.tv-tokyo.co.jp/program/detail/22599_201304300730.html">第5話『いたずらパーティ』 (01x05)</a></td>
                             <td><a href="https://mega.co.nz/#!DowF3J4L!RK1UO0D2mXPIQMzsU5LPBHIYGd8m-6RYod0DWX_eGVg">1</a> <a href="http://filecloud.io/6jynoqer">2</a> <a href="http://uploadhero.co/dl/07LQKZin">3</a></td>
                             <td><a href="https://yp.coco-pommel.org/ypvideo/YP-1JP-01x05.mkv">1 </a></td>
-                            <td><a href="/videos/japan/torrents/YP-1JP-01x05.mkv.torrent">1</a> 2 <a href="http://zoink.it/torrent/5BCE9585CCB97134EB271082EB1D6DAFEF9F497E.torrent">3</a> <a href="http://torrage.com/torrent/5BCE9585CCB97134EB271082EB1D6DAFEF9F497E.torrent">4</a> <a href="http://torcache.net/torrent/5BCE9585CCB97134EB271082EB1D6DAFEF9F497E.torrent">5</a> <a href="magnet:?xt=urn:btih:5BCE9585CCB97134EB271082EB1D6DAFEF9F497E">6</a></td>
+                            <td><a href="/videos/japan/torrents/YP-1JP-01x05.mkv.torrent">1</a> 2 <a href="http://zoink.it/torrent/5BCE9585CCB97134EB271082EB1D6DAFEF9F497E.torrent">3</a> <a href="http://torrage.com/torrent/5BCE9585CCB97134EB271082EB1D6DAFEF9F497E.torrent">4</a> <a href="http://torcache.net/torrent/5BCE9585CCB97134EB271082EB1D6DAFEF9F497E.torrent">5</a> <a href="magnet:?xt=urn:btih:5BCE9585CCB97134EB271082EB1D6DAFEF9F497E">6</a></td>
                             <td>GOOD</td>
                         </tr>
                         <tr>
