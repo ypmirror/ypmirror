@@ -42,11 +42,32 @@
                             <td>HD 720P</td>
                         </tr>
                         <tr>
+                          <td height="20">Ponies, The Anthology IV</td>
+			  <td><a href="https://mega.nz/#!zwNwUYba!Xc3CZc0Ew81x80fOalxuTEiH11PkUnJFNkw1EUnsj-M">1</a> 2 3</td>
+			  <td><a href="https://yp.coco-pommel.org/ypfan/anthology//YP-7R-PoniesTheAnthology-04.mp4">1</a> <a href="https://dl.yayponies.no/YP-7R-PoniesTheAnthology-04.mp4">2</a></td>
+			  <td><a href="/fan/torrents/anth//YP-7R-PoniesTheAnthology-04.mp4.torrent">1</a> 2 3 <a href="http://thetorrent.org/3a84a4bc881bd417dab654867afb86c230d48f6f.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:3a84a4bc881bd417dab654867afb86c230d48f6f">6</a></td>
+                          <td>HD 720P</td>
+                        </tr>
+                        <tr>
                           <td height="20">Ponies, The Anthology V</td>
                           <td><a href="https://mega.nz/#!DwADhSBY!PF0v5NAGB9WfPSYf-TNEClRAKExbm0qg2W-podGgsl8">1</a> 2 3</td>
                           <td><a href="https://yp.coco-pommel.org/ypfan/anthology/YP-7R-PoniesTheAnthology-05.mp4">1</a></td>
                           <td><a href="/fan/torrents/anth/YP-7R-PoniesTheAnthology-05.mp4.torrent">1</a> 2 <a href="http://torrage.info/torrent.php?h=177B01EB7EDAF11467DC0187E874C6CE557606F8">3</a> 4 <a href="http://torcache.net/torrent/177B01EB7EDAF11467DC0187E874C6CE557606F8.torrent">5</a> <a href="magnet:?xt=urn:btih:177B01EB7EDAF11467DC0187E874C6CE557606F8">6</a></td>
                           <td>HD 720P</td>
+                        </tr>
+                        <tr>
+                          <td height="20">Ponies, The Anthology VI</td>
+			  <td><a href="https://mega.nz/#!2kUyHAab!wkAO1Q1ktIVlBnkJOrkFQ4BfhRNvpzXWCWZIv0Zmsfc">1</a> 2 3</td>
+			  <td><a href="https://yp.coco-pommel.org/ypfan/anthology//YP-7R-PoniesTheAnthology-06.mp4">1</a> <a href="https://dl.yayponies.no/YP-7R-PoniesTheAnthology-06.mp4">2</a></td>
+			  <td><a href="/fan/torrents/anth//YP-7R-PoniesTheAnthology-06.mp4.torrent">1</a> 2 3 <a href="http://thetorrent.org/768e62cd58b630b800347087440c70befcf4709a.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:768e62cd58b630b800347087440c70befcf4709a">6</a></td>
+                          <td>HD 720P</td>
+                        </tr>
+                        <tr>
+                          <td height="20">Ponies, The Anthology VII</td>
+			  <td><a href="https://mega.nz/#!PhMCFYzA!Dbs0xk2otgvYc3SSn8OMDs38tbqGibFdwAxARR2p-3M">1</a> 2 3</td>
+			  <td><a href="https://yp.coco-pommel.org/ypfan/anthology//YP-1R-PoniesTheAnthology-07.mp4">1</a> <a href="https://dl.yayponies.no/YP-1R-PoniesTheAnthology-07.mp4">2</a></td>
+			  <td><a href="/fan/torrents/anth//YP-1R-PoniesTheAnthology-07.mp4.torrent">1</a> 2 3 <a href="http://thetorrent.org/a78ad6cecf53db4afba2243ea95f3c2d36d6da8c.torrent">4</a> 5 <a href="magnet:?xt=urn:btih:a78ad6cecf53db4afba2243ea95f3c2d36d6da8c">6</a></td>
+                          <td>HD 1080P</td>
                         </tr>
                     </tbody>
                 </table>
