@@ -7,7 +7,7 @@
     <atom:link href="/videos/rss/1it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Aug 2019 07:44:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 05:11:08 +0000</lastBuildDate>
     <item>
       <title>My Little Pony, Friendship is Magic - 09x17 - The Summer Sun Setback | 1080p.WEB-DL | YP-1R-09x17.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-1R-09x17.mkv.torrent</link>
@@ -57,16 +57,16 @@
       <torrent:magneturi>magnet:?xt=urn:btih:5E7CB5022564CFDAED90F1E454A6B2E8A811028A</torrent:magneturi>
     </item>
     <item>
-      <title>My Little Pony, Friendship is Magic - 09x13 - Between Dark and Dawn | 1080p.WEB-DL | YP-1R-09x13.mkv | YayPonies</title>
-      <link>http://yp1.yayponies.no/videos/torrents/YP-1R-09x13.mkv.torrent</link>
+      <title>My Little Pony, Friendship is Magic - 09x13 - Between Dark and Dawn | 1080p.WEB-DL | YP-1R-09x13-V2.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1R-09x13-V2.mkv.torrent</link>
       <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Between Dark and Dawn; Season: 9; Episode: 13</description>
-      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-09x13.mkv.torrent</guid>
-      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-09x13.mkv.torrent" length="73158" type="application/x-bittorrent"/>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-09x13-V2.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-09x13-V2.mkv.torrent" length="72461" type="application/x-bittorrent"/>
       <pubDate>Sat, 22 Jun 2019 00:00:00 -0600</pubDate>
-      <torrent:filename>YP-1R-09x13.mkv.torrent</torrent:filename>
-      <torrent:contentlength>942196466</torrent:contentlength>
-      <torrent:infohash>FCCF648F8D98C60DA87FE88F4DACDF262467D9C1</torrent:infohash>
-      <torrent:magneturi>magnet:?xt=urn:btih:FCCF648F8D98C60DA87FE88F4DACDF262467D9C1</torrent:magneturi>
+      <torrent:filename>YP-1R-09x13-V2.mkv.torrent</torrent:filename>
+      <torrent:contentlength>933098426</torrent:contentlength>
+      <torrent:infohash>0618FEE79A89D0105BA7C58B9FFD0E1903E09E66</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:0618FEE79A89D0105BA7C58B9FFD0E1903E09E66</torrent:magneturi>
     </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 09x12 - The Last Crusade | 1080p.WEB-DL | YP-1R-09x12.mkv | YayPonies</title>
