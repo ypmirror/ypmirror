@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/1it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Sep 2019 10:28:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2019 11:44:50 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 09x21 - Daring Doubt | 1080p.WEB-DL | YP-1R-09x21.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1R-09x21.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Daring Doubt; Season: 9; Episode: 21</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-09x21.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-09x21.mkv.torrent" length="72758" type="application/x-bittorrent"/>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-09x21.mkv.torrent</torrent:filename>
+      <torrent:contentlength>936938217</torrent:contentlength>
+      <torrent:infohash>869C3DA6EBBBC28188E8BE6863101CBFA65922A5</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:869C3DA6EBBBC28188E8BE6863101CBFA65922A5</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 09x20 - A Horse Shoe In | 1080p.WEB-DL | YP-1R-09x20.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-1R-09x20.mkv.torrent</link>
