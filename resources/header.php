@@ -78,21 +78,19 @@
             <p style="font-size: 130%; text-align: center">
                 <a href="/index.php">Index</a> |
                 <a href="/misc/FAQ.php">FAQ</a> |
-				<a href="https://discord.gg/UVwPwpB">Discord</a> |
+				<a href="https://discord.gg/7U2HEqf">Discord</a> |
                 <a href="https://twitter.com/#!/YayPonies_eu">Twitter</a> |
                 <a href="/videos/episodes.php">MLP G4 Episodes</a> |
                 <a href="/oldergen/prevgen.php">G1/G2/G3 Episodes</a> |
                 <a href="/videos/dvd/DVD.php">DVDs/Blurays</a> |
                 <a href="/books/book.php">Books/Comics</a>
                 <br />
-                <a href="/videos/eqg-shorts/eqg-shorts.php">Equestria Girls shorts</a> |
-                <a href="/videos/movies/movies.php">My Little Pony Movies</a> |
                 <a href="/music/music.php">Pony Music</a> |
                 <a href="/videos/eqg/eqg.php">Equestria Girls</a> |
                 <a href="/othersshow/index.php"> Other shows</a> |
-                <a href="/fan/fan.php">Fan Works</a> 
+                <a href="/fan/fan.php">Fan Works</a> |
+                <a href="/others/other.php">Others</a> 
                 <br />
-                <a href="/others/other.php">Others</a> |
 				<a href="/fan/broniesii.php">Bronies II</a> |
                 <a href="/misc/rss.php">RSS</a> |
                 <a href="/subtitles/ypsubs.php">YayPonies Subtitles</a> |
