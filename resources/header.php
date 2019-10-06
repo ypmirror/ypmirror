@@ -68,10 +68,10 @@
 
     <body>
 	<!--#include file="/resources/topnews.php" -->
-        <div id="header"><img src="/resources/yp6yr.png" alt="YayPonies header" /></div>
+        <div id="header"><a href="https://derpy.tv"><img src="/resources/ypendstr.png" alt="YayPonies header"/></a></div>
         <div id="container">
             <p style="font-size: 80%; text-align: center">
-                <a href="http://yayponies.eu/">6 years!.</a>
+                <a href="https://derpy.tv/">End Of Pone Livestream!.</a>
             </p>
             <br />
             <br />
