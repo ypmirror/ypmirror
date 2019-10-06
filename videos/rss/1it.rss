@@ -7,7 +7,19 @@
     <atom:link href="/videos/rss/1it.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Sep 2019 15:52:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2019 07:54:49 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 09x23 - The Big Mac Question | 1080p.WEB-DL | YP-1R-09x23.mkv | YayPonies</title>
+      <link>http://yp1.yayponies.no/videos/torrents/YP-1R-09x23.mkv.torrent</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Big Mac Question; Season: 9; Episode: 23</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-09x23.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-09x23.mkv.torrent" length="73058" type="application/x-bittorrent"/>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-09x23.mkv.torrent</torrent:filename>
+      <torrent:contentlength>940918308</torrent:contentlength>
+      <torrent:infohash>01A2190FF3BB546C04394F1257E1340ACCA98E79</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:01A2190FF3BB546C04394F1257E1340ACCA98E79</torrent:magneturi>
+    </item>
     <item>
       <title>My Little Pony, Friendship is Magic - 09x22 - Growing Up Is Hard to Do | 1080p.WEB-DL | YP-1R-09x22.mkv | YayPonies</title>
       <link>http://yp1.yayponies.no/videos/torrents/YP-1R-09x22.mkv.torrent</link>
