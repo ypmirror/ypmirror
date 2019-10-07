@@ -73,13 +73,11 @@
                 <form name="ponygetter" action="" method="GET">
                     <table>
                         <tr>
-                            <td> PLACEHOLDER DOWNLOAD NOT AVAILABLE YET I want to download: </td>
+                            <td> I want to download: </td>
                             <td>
                                 <select size="6" name="Download">
-                                <option value="moviesv1">Pone Movies (Version 1)</option>
-                                <option value="moviesv2">Pone Movies (Version 2)</option>
-                                <option value="moviesv3">Pone Movies (Version 3)</option>
-                                <option value="moviesv4" selected>Pone Movies (Version 4)</option>
+                                <option value="moviesit">My Little Pony, The Movie (iTunes versions)</option>
+                                <option value="movieszr">My Little Pony, The Movie (CC By ZR)</option>
                                 </select>
                             </td>
                             <td>
@@ -106,21 +104,12 @@
                 </p>
                 <table border="1"  style="border-collapse: collapse;" cellpadding="5">
                     <tr>
-                        <td> <a href="/permalink.php?link=videos/movies/tables/moviesv1">moviesv1</a> </td>
-                        <td> Pone Movies shorts (Version 1) </td>
+                        <td> <a href="/permalink.php?link=videos/movies/tables/moviesit">moviesit</a> </td>
+                        <td> My Little Pony, The Movie (iTunes versions) </td>
                     </tr>
                     <tr>
-                        <td> <a href="/permalink.php?link=videos/movies/tables/moviesv2">moviesv2</a> </td>
-                        <td> Pone Movies shorts (Version 2) </td>
-                    </tr>
-                    <tr>
-                        <td> <a href="/permalink.php?link=videos/movies/tables/moviesv3">moviesv3</a> </td>
-                        <td> Pone Movies shorts (Version 3) </td>
-                    </tr>
-                    <tr>
-                        <td> <a href="/permalink.php?link=videos/movies/tables/moviesv4">moviesv4</a> </td>
-                        <td> Pone Movies shorts (Version 4) </td>
-                    </tr>
+                        <td> <a href="/permalink.php?link=videos/movies/tables/movieszr">movieszr</a> </td>
+                        <td> My Little Pony, The Movie (CC By ZR) </td>
                     </tr>
                 </table>
             </div>

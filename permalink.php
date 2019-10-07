@@ -77,6 +77,8 @@ if (isset($_GET['link']) && preg_match("#^[a-z]+/[0-9a-z]+$#", $_GET['link'])) {
 <!--#elif expr="$link = videos/tables/7i7" -->iTunes US Season 7 (720p)
 <!--#elif expr="$link = videos/tables/7i9" -->iTunes US Season 9 (720p)
 
+<!--#elif expr="$link = videos/movies/tables/moviesit" -->My Little Pony, The Movie (iTunes versions)
+<!--#elif expr="$link = videos/movies/tables/movieszr" -->My Little Pony, The Movie (CC By ZR)
 
 <!--#elif expr="$link = videos/tables/1sc1" -->Scootaloo NEW 2019 10bit HEVC Season 1 (1080p)
 <!--#elif expr="$link = videos/tables/1sc2" -->Scootaloo NEW 2019 10bit HEVC Season 1 (1080p)
