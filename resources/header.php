@@ -68,10 +68,10 @@
 
     <body>
 	<!--#include file="/resources/topnews.php" -->
-        <div id="header"><a href="https://derpy.tv"><img src="/resources/ypendstr2.png" alt="YayPonies header"/></a></div>
+        <div id="header"><a href="https://derpy.tv"><img src="/resources/ypendstr3.png" alt="YayPonies header"/></a></div>
         <div id="container">
             <p style="font-size: 80%; text-align: center">
-                <a href="https://derpy.tv/">End Of Pone Livestream!.</a>
+                <a href="https://derpy.tv/">End Of Pone Livestream!. - Funfact: We updated this header more in the last 3 days than we did in 3 years!</a>
             </p>
             <br />
             <br />
