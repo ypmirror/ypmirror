@@ -96,7 +96,7 @@
                 <a href="/misc/rss.php">RSS</a> |
                 <a href="/subtitles/ypsubs.php">YayPonies Subtitles</a> |
                 <a href="/videos/japan/1jt.php">Japanese Episodes</a> |
-				<a href="https://derpy.tv"> Derpy TV - 24/7 Pony stream
+				<a href="https://derpy.tv"> Derpy TV - 24/7 Pony stream</a>
             </p>
             <br />
             <br />
