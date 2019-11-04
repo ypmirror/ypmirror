@@ -1,5 +1,0 @@
-enp6s0f1		enp6s0f0		enp5s0f1		enp5s0f0
-enp10s0f1		enp10s0f0		enp9s0f1		enp9s0f0
-enp11s0f1		enp11s0f0
-
-(Right to left!)
